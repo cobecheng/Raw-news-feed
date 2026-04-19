@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T17:46:59.175590+00:00",
+  "generated_at": "2026-04-19T17:49:57.655216+00:00",
   "window_hours": 72,
-  "count": 373,
+  "count": 375,
   "news": [
+    {
+      "id": 738,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939473,
+      "message_text": "*AXIOS' RAVID: IRANIAN OFFICIALS SUSPECT US COULD ATTACK BEFORE CEASEFIRE ENDS ON TUESDAY NIGHT ...",
+      "posted_at": "2026-04-19T17:49:57+00:00",
+      "captured_at": "2026-04-19T17:49:57.340378+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 734,
       "source_chat_id": -1001263412188,
@@ -11,6 +24,19 @@
       "message_text": "ADNOC CEO AL JABER SAYS ON X: HORMUZ BELONGS TO THE WORLD. IT MUST BE RETURNED TO THE WORLD. EXACTLY AS IT WAS ...",
       "posted_at": "2026-04-19T17:46:58+00:00",
       "captured_at": "2026-04-19T17:46:58.932690+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 736,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939472,
+      "message_text": "ADNOC CEO AL JABER SAYS ON X: LET'S CALL PAYMENT FOR SAFE PASSAGE WHAT IT IS: A PROTECTION RACKET ...",
+      "posted_at": "2026-04-19T17:46:58+00:00",
+      "captured_at": "2026-04-19T17:47:02.515969+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
