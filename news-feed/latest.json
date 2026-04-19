@@ -1,8 +1,60 @@
 {
-  "generated_at": "2026-04-19T19:30:17.558492+00:00",
+  "generated_at": "2026-04-19T19:31:46.275943+00:00",
   "window_hours": 72,
-  "count": 401,
+  "count": 405,
   "news": [
+    {
+      "id": 798,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939503,
+      "message_text": "\u26a0 BREAKING: TRUMP: US NAVY INTERCEPTED IRAN-FLAGGED CARGO SHIP TOUSKA IN THE GULF OF OMAN. MARINES NOW HAVE CUSTODY OF IT - TRUTH SOCIAL ...",
+      "posted_at": "2026-04-19T19:31:45+00:00",
+      "captured_at": "2026-04-19T19:31:46.037591+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 796,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939502,
+      "message_text": "TRUMP ON SOCIAL MEDIA: THE U.S. NAVY GUIDED MISSILE DESTROYER USS SPRUANCE INTERCEPTED THE TOUSKA IN THE GULF OF OMAN, AND GAVE THEM FAIR WARNING TO STOP. THE IRANIAN CREW REFUSED TO LISTEN, SO OUR NAVY SHIP STOPPED THEM RIGHT IN THEIR TRACKS BY BLOWING A HOLE IN THE ENGINEROOM. RIGHT NOW, U.S. MARINES HAVE CUSTODY OF THE VESSEL. ...",
+      "posted_at": "2026-04-19T19:31:01+00:00",
+      "captured_at": "2026-04-19T19:31:03.636599+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 794,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939501,
+      "message_text": "*TRUMP SAYS US MILITARY SEIZED AN IRANIAN VESSEL IN GULF OF OMAN ...",
+      "posted_at": "2026-04-19T19:30:45+00:00",
+      "captured_at": "2026-04-19T19:30:45.946641+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 792,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939500,
+      "message_text": "BREAKING: TRUMP HAS SAID:\n\nTODAY, AN IRANIAN-FLAGGED CARGO SHIP NAMED TOUSKA, NEARLY 900 FEET LONG AND WEIGHING ALMOST AS MUCH AS AN AIRCRAFT CARRIER, TRIED TO GET PAST OUR NAVAL BLOCKADE, AND IT DID NOT GO WELL FOR THEM. THE U.S. NAVY GUIDED MISSILE DESTROYER USS SPRUANCE INTERCEPTED THE TOUSKA IN THE GULF OF OMAN, AND GAVE THEM FAIR WARNING TO STOP. THE IRANIAN CREW REFUSED TO LISTEN, SO OUR NAVY SHIP STOPPED THEM RIGHT IN THEIR TRACKS BY BLOWING A HOLE IN THE ENGINEROOM. RIGHT NOW, U.S. MARINES HAVE CUSTODY OF THE VESSEL. THE TOUSKA IS UNDER U.S. TREASURY SANCTIONS BECAUSE OF THEIR PRIOR HISTORY OF ILLEGAL ACTIVITY. WE HAVE FULL CUSTODY OF THE SHIP, AND ARE SEEING WHAT\u2019S ON BOARD! ...",
+      "posted_at": "2026-04-19T19:30:31+00:00",
+      "captured_at": "2026-04-19T19:30:33.379281+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 790,
       "source_chat_id": -1001263412188,
