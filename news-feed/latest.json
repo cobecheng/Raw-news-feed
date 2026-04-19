@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T10:19:45.157762+00:00",
+  "generated_at": "2026-04-19T10:22:45.393038+00:00",
   "window_hours": 72,
-  "count": 223,
+  "count": 224,
   "news": [
+    {
+      "id": 436,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939321,
+      "message_text": "IRAN'S REVOLUTIONARY GUARDS AEROSPACE FORCE COMMANDER MOUSAVI:  SPEED OF REPLENISHING LAUNCHERS DURING CEASEFIRE IS GREATER THAN PRIOR TO WAR - NOORNEWS ...",
+      "posted_at": "2026-04-19T10:22:42+00:00",
+      "captured_at": "2026-04-19T10:22:45.150861+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 434,
       "source_chat_id": -1001263412188,
