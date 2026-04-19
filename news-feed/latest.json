@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T17:44:14.824634+00:00",
+  "generated_at": "2026-04-19T17:45:45.434192+00:00",
   "window_hours": 72,
-  "count": 370,
+  "count": 371,
   "news": [
+    {
+      "id": 730,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939469,
+      "message_text": "MAGNITUDE 6.1 EARTHQUAKE STRIKES HIHIFO, TONGA REGION - USGS ...",
+      "posted_at": "2026-04-19T17:45:42+00:00",
+      "captured_at": "2026-04-19T17:45:45.106820+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 728,
       "source_chat_id": -1001263412188,
