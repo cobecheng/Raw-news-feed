@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T20:30:14.519624+00:00",
+  "generated_at": "2026-04-19T20:44:36.841248+00:00",
   "window_hours": 72,
-  "count": 414,
+  "count": 416,
   "news": [
+    {
+      "id": 820,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939515,
+      "message_text": "UAE CENTRAL BANK CHIEF BALAMA PROPOSED A CURRENCY SWAP ARRANGEMENT WITH BESSENT AND TREASURY, ALONGSIDE FEDERAL OFFICIALS DURING TALKS IN WASHINGTON LAST WEEK. - WSJ ...",
+      "posted_at": "2026-04-19T20:44:34+00:00",
+      "captured_at": "2026-04-19T20:44:36.616875+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 818,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939514,
+      "message_text": "THE UNITED ARAB EMIRATES HAS INITIATED DISCUSSIONS WITH THE U.S. ABOUT SECURING A FINANCIAL SAFETY NET. SOURCE: WSJ ...",
+      "posted_at": "2026-04-19T20:44:33+00:00",
+      "captured_at": "2026-04-19T20:44:36.399170+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 816,
       "source_chat_id": -1001263412188,
