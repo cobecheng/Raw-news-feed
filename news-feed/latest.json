@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T16:11:41.172588+00:00",
+  "generated_at": "2026-04-19T16:20:11.091674+00:00",
   "window_hours": 72,
-  "count": 340,
+  "count": 341,
   "news": [
+    {
+      "id": 670,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939439,
+      "message_text": "ISRAELI ARMY: COMBAT TEAMS CONTINUE THEIR OPERATIONS SOUTH OF LEBANON SOUTH OF THE FORWARD DEFENSE LINE TO REMOVE THE THREAT FROM THE NORTHERN TOWNS ...",
+      "posted_at": "2026-04-19T16:20:10+00:00",
+      "captured_at": "2026-04-19T16:20:10.847481+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 668,
       "source_chat_id": -1001263412188,
