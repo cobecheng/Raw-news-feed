@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-19T07:50:07.827684+00:00",
+  "generated_at": "2026-04-19T07:51:08.914727+00:00",
   "window_hours": 72,
-  "count": 198,
+  "count": 201,
   "news": [
+    {
+      "id": 390,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939298,
+      "message_text": "IRANIAN PRESIDENT MASOUD PEZESHKIAN SAID US PRESIDENT DONALD TRUMP HAD NO RIGHT TO DENY IRAN WHAT HE DESCRIBED AS ITS LAWFUL NUCLEAR RIGHTS, WHILE INSISTING THAT TEHRAN WAS NOT SEEKING TO WIDEN THE WAR AND WAS ACTING ONLY IN SELF-DEFENSE. ...",
+      "posted_at": "2026-04-19T07:51:06+00:00",
+      "captured_at": "2026-04-19T07:51:08.620708+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 386,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939296,
+      "message_text": "PRESIDENTIAL ADVISER TELLS TUCKER NO US COLLEGE WILL TAKE HIS KIDS IF QUESTIONS ISRAEL ...",
+      "posted_at": "2026-04-19T07:50:36+00:00",
+      "captured_at": "2026-04-19T07:50:38.725341+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 388,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939297,
+      "message_text": "IRANIAN PRESIDENT INSISTS ON COUNTRY'S NUCLEAR RIGHTS, ISNA REPORTS ...",
+      "posted_at": "2026-04-19T07:50:36+00:00",
+      "captured_at": "2026-04-19T07:50:39.025245+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 384,
       "source_chat_id": -1001263412188,
