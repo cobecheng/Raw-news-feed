@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-19T05:16:31.642285+00:00",
+  "generated_at": "2026-04-19T05:18:00.253940+00:00",
   "window_hours": 72,
-  "count": 171,
+  "count": 174,
   "news": [
+    {
+      "id": 336,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939271,
+      "message_text": "AFTER A BRIEF HOPE THAT ONE OF THE WORLD\u2019S BUSIEST WATERWAYS MIGHT REOPEN, UNITED STATES AND IRAN APPEAR TO AGREE ON VERY LITTLE BEYOND \u2013 MAYBE - BEING PREPARED TO MEET AGAIN-CNN ...",
+      "posted_at": "2026-04-19T05:17:59+00:00",
+      "captured_at": "2026-04-19T05:17:59.953736+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 332,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939269,
+      "message_text": "NEW ZEALAND'S CAPITAL WELLINGTON BEGINS CLEAN-UP AFTER FLASH FLOODS ...",
+      "posted_at": "2026-04-19T05:16:59+00:00",
+      "captured_at": "2026-04-19T05:16:59.842959+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 334,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939270,
+      "message_text": "TACTICAL NUCLEAR WEAPON IS 'A FACTOR OF OUR DEFENSE, OUR SECURITY' \u2014 PRESIDENT LUKASHENKO TO RT\u2019S RICK SANCHEZ\n  \n'ADD TO THAT EVERYTHING THAT THE RUSSIAN FEDERATION HAS' ...",
+      "posted_at": "2026-04-19T05:16:59+00:00",
+      "captured_at": "2026-04-19T05:17:02.570956+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 330,
       "source_chat_id": -1001263412188,
