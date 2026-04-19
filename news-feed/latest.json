@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-19T09:48:29.523427+00:00",
+  "generated_at": "2026-04-19T10:06:28.409806+00:00",
   "window_hours": 72,
-  "count": 218,
+  "count": 221,
   "news": [
+    {
+      "id": 430,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939318,
+      "message_text": "IRANIAN ARMY CHIEF: OUR FORCES WILL CONFRONT THE ENEMY UNTIL THE LAST BREATH, WITH THEIR FINGER ON THE TRIGGER, READY FOR CONFRONTATION AND TO MAKE SACRIFICES ...",
+      "posted_at": "2026-04-19T10:06:26+00:00",
+      "captured_at": "2026-04-19T10:06:28.177426+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 428,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939317,
+      "message_text": "IRAQI POLITICAL SOURCE: QUDS FORCE COMMANDER ISMAIL QAANI LEFT IRAQ TODAY AFTER A VISIT IN WHICH HE MET IRAQI POLITICIANS ...",
+      "posted_at": "2026-04-19T09:49:26+00:00",
+      "captured_at": "2026-04-19T09:49:28.657627+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 426,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939316,
+      "message_text": "WSJ ON US OFFICIALS: IRAN PLANTED MINES IN THE STRAIT OF HORMUZ BUT THE SCALE OF THE THREAT IS UNCLEAR ...",
+      "posted_at": "2026-04-19T09:48:56+00:00",
+      "captured_at": "2026-04-19T09:48:58.757237+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 422,
       "source_chat_id": -1001263412188,
