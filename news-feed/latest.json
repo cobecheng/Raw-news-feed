@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T13:04:05.213810+00:00",
+  "generated_at": "2026-04-19T13:16:20.077330+00:00",
   "window_hours": 72,
-  "count": 302,
+  "count": 303,
   "news": [
+    {
+      "id": 594,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939401,
+      "message_text": "PRES. TRUMP: IRAN DECIDED TO FIRE BULLETS YESTERDAY IN THE STRAIT OF HORMUZ \u2014 A TOTAL VIOLATION OF OUR CEASEFIRE  ...",
+      "posted_at": "2026-04-19T13:16:18+00:00",
+      "captured_at": "2026-04-19T13:16:19.792676+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 592,
       "source_chat_id": -1001263412188,
