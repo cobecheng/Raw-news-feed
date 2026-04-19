@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T11:29:31.315019+00:00",
+  "generated_at": "2026-04-19T11:33:03.024561+00:00",
   "window_hours": 72,
-  "count": 253,
+  "count": 254,
   "news": [
+    {
+      "id": 496,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939352,
+      "message_text": "IRANIAN PRESIDENT: THE CONTINUATION OF THE CONFLICT WILL NOT BE IN THE INTEREST OF ANY PARTY, AND WE ARE NOT SEEKING TO EXPAND THE SCOPE OF THE WAR. ...",
+      "posted_at": "2026-04-19T11:33:00+00:00",
+      "captured_at": "2026-04-19T11:33:02.785694+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 494,
       "source_chat_id": -1001263412188,
