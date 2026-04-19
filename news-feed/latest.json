@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T13:35:07.050346+00:00",
+  "generated_at": "2026-04-19T13:56:51.804749+00:00",
   "window_hours": 72,
-  "count": 311,
+  "count": 312,
   "news": [
+    {
+      "id": 612,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939410,
+      "message_text": "TRUMP TO SEND US OFFICIALS TO PAKISTAN FOR FRESH PEACE TALKS WITH IRAN - FT ...",
+      "posted_at": "2026-04-19T13:56:50+00:00",
+      "captured_at": "2026-04-19T13:56:51.567403+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 610,
       "source_chat_id": -1001263412188,
