@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T14:21:24.254630+00:00",
+  "generated_at": "2026-04-19T14:33:08.727146+00:00",
   "window_hours": 72,
-  "count": 321,
+  "count": 323,
   "news": [
+    {
+      "id": 634,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939421,
+      "message_text": "WEEKEND  MARKETS UPDATE:   \n\nMARKETS INITIALLY PANICKED OVER THE STRAIT CLOSURE, BUT TRUMP'S SURPRISINGLY OPTIMISTIC RHETORIC (\"GOING ALONG VERY WELL,\" POSSIBILITY OF MORE TALKS) SHIFTED SENTIMENT. \nTHE PATTERN SHOWS: INITIAL FEAR \u2192 REASSESSMENT \u2192 RISK-ON RECOVERY, BUT WITH ENOUGH UNCERTAINTY REMAINING TO KEEP GOLD SUPPORTED AND OIL ELEVATED.\n\n#DAX 24554 -0.40% \n#DOW 49265 -0.38%   \n#NASDAQ 26568 -0.43%   \n#FTSE 10659 -0.36%   \n#HANGSENG 26284 -0.83%   \n#EURUSD 11742 -0.18%   \n#GOLD 4821 -0.18%   \n#SILVER 8037 -0.60%   \n#USOIL 8610 +2.27%   \n\nON THE FLOW SIDE OF THINGS , AGAIN WE ARE SEEING TWO WAY. MARKET CROSSED BETWEEN TWO MINDS!\n\n#IGWEEKENDMARKETS ...",
+      "posted_at": "2026-04-19T14:33:06+00:00",
+      "captured_at": "2026-04-19T14:33:08.477597+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 632,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939420,
+      "message_text": "U.S. ENERGY SECRETARY: GASOLINE PRICES MAY NOT DROP BELOW $3 PER GALLON BEFORE 2027 ...",
+      "posted_at": "2026-04-19T14:21:50+00:00",
+      "captured_at": "2026-04-19T14:21:53.301152+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 628,
       "source_chat_id": -1001263412188,
