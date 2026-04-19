@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-19T14:33:08.727146+00:00",
+  "generated_at": "2026-04-19T14:41:09.926269+00:00",
   "window_hours": 72,
-  "count": 323,
+  "count": 326,
   "news": [
+    {
+      "id": 640,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939424,
+      "message_text": "IRAN'S FIRST VICE PRESIDENT: OUR NEGOTIATING TEAM IS BRAVELY DEFENDING THE NATIONAL INTERESTS, AND IT IS ESSENTIAL THAT ALL PARTIES SUPPORT IT. ...",
+      "posted_at": "2026-04-19T14:41:08+00:00",
+      "captured_at": "2026-04-19T14:41:09.387222+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 636,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939422,
+      "message_text": "TRUMP TO MSNBC: OUR DELEGATION IN THE TALKS WITH IRAN WILL INCLUDE WITTKOFF AND KUSHNER, BUT VANCE WILL NOT PARTICIPATE FOR SECURITY REASONS ...",
+      "posted_at": "2026-04-19T14:41:07+00:00",
+      "captured_at": "2026-04-19T14:41:08.667396+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 638,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939423,
+      "message_text": "TRUMP TO MSNBC: IRAN CANNOT POSSESS A NUCLEAR WEAPON AND HAS AGREED TO THAT ...",
+      "posted_at": "2026-04-19T14:41:07+00:00",
+      "captured_at": "2026-04-19T14:41:08.892741+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 634,
       "source_chat_id": -1001263412188,
