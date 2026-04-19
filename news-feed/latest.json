@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-19T22:00:04.579832+00:00",
+  "generated_at": "2026-04-19T22:01:24.938433+00:00",
   "window_hours": 72,
-  "count": 430,
+  "count": 433,
   "news": [
+    {
+      "id": 854,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939532,
+      "message_text": "BESSENT: I WANT TO ENCOURAGE EVERYONE OUT THERE WATCHING TODAY TO CHANGE THEIR WITHHOLDING ... YOU WILL GET AN AUTOMATIC REAL WAGE INCREASE ON A WEEKLY OR A MONTHLY BASIS.  ...",
+      "posted_at": "2026-04-19T22:01:23+00:00",
+      "captured_at": "2026-04-19T22:01:24.716930+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 852,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939531,
+      "message_text": "*BRENT OIL JUMPS 7.3% TO $96.94/B AFTER IRAN AGAIN CLOSES HORMU ...",
+      "posted_at": "2026-04-19T22:00:53+00:00",
+      "captured_at": "2026-04-19T22:00:55.223007+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 850,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939530,
+      "message_text": "*EUROPEAN GAS RISES AS MUCH AS 9.8% AS IRAN CLOSES HORMUZ AGAIN ...",
+      "posted_at": "2026-04-19T22:00:08+00:00",
+      "captured_at": "2026-04-19T22:00:10.680399+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 848,
       "source_chat_id": -1001263412188,
