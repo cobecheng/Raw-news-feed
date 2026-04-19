@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T17:18:59.294134+00:00",
+  "generated_at": "2026-04-19T17:34:58.426660+00:00",
   "window_hours": 72,
-  "count": 367,
+  "count": 368,
   "news": [
+    {
+      "id": 724,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939466,
+      "message_text": "THE ISRAELI ARMY CONTINUES DEMOLISHING LEBANESE HOMES IN VILLAGES IN SOUTHERN LEBANON DURING THE CEASEFIRE - HAARETZ NEWSPAPER ...",
+      "posted_at": "2026-04-19T17:34:57+00:00",
+      "captured_at": "2026-04-19T17:34:58.144488+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 722,
       "source_chat_id": -1001263412188,
