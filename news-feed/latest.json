@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T21:39:39.014480+00:00",
+  "generated_at": "2026-04-19T21:48:40.084578+00:00",
   "window_hours": 72,
-  "count": 425,
+  "count": 426,
   "news": [
+    {
+      "id": 840,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939525,
+      "message_text": "IRAN'S MILITARY: US VIOLATED CEASEFIRE BY FIRING AT ONE OF IRAN'S COMMERCIAL SHIPS. ...",
+      "posted_at": "2026-04-19T21:48:38+00:00",
+      "captured_at": "2026-04-19T21:48:39.840768+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 838,
       "source_chat_id": -1001263412188,
