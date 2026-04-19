@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T14:01:06.674284+00:00",
+  "generated_at": "2026-04-19T14:02:51.512711+00:00",
   "window_hours": 72,
-  "count": 313,
+  "count": 314,
   "news": [
+    {
+      "id": 616,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939412,
+      "message_text": "IRAN CURRENTLY HAS NO DECISION TO SEND A NEGOTIATING DELEGATION AS LONG AS THERE IS A NAVAL BLOCKADE - TASNIM ...",
+      "posted_at": "2026-04-19T14:02:50+00:00",
+      "captured_at": "2026-04-19T14:02:51.213362+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 614,
       "source_chat_id": -1001263412188,
