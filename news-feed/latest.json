@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T11:47:02.645695+00:00",
+  "generated_at": "2026-04-19T11:49:02.735124+00:00",
   "window_hours": 72,
-  "count": 259,
+  "count": 260,
   "news": [
+    {
+      "id": 508,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939358,
+      "message_text": "TRUMP SAYS IRAN COMMITTED 'SERIOUS VIOLATION\u2019 OF CEASEFIRE: ABC ...",
+      "posted_at": "2026-04-19T11:49:00+00:00",
+      "captured_at": "2026-04-19T11:49:02.505894+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 506,
       "source_chat_id": -1001263412188,
