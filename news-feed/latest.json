@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-19T14:20:22.137218+00:00",
+  "generated_at": "2026-04-19T14:21:24.254630+00:00",
   "window_hours": 72,
-  "count": 318,
+  "count": 321,
   "news": [
+    {
+      "id": 628,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939418,
+      "message_text": "IRANIAN SOURCES: EXPECTATIONS THAT THE IRANIAN NEGOTIATING DELEGATION WILL INCLUDE, AS IN THE PREVIOUS ROUND, BOTH QALIBAF AND ARAGHCHI ...",
+      "posted_at": "2026-04-19T14:21:21+00:00",
+      "captured_at": "2026-04-19T14:21:23.779578+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 630,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939419,
+      "message_text": "IRANIANS EXPECT THE ISSUANCE OF A JOINT SYMBOLIC ANNOUNCEMENT ON WEDNESDAY EXTENDING THE CEASEFIRE ...",
+      "posted_at": "2026-04-19T14:21:21+00:00",
+      "captured_at": "2026-04-19T14:21:24.006939+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 626,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939417,
+      "message_text": "IRANIAN INFORMED SOURCES: AN IRANIAN DELEGATION WILL ARRIVE IN PAKISTAN ON TUESDAY TO HOLD TALKS WITH THE UNITED STATES - CNN ...",
+      "posted_at": "2026-04-19T14:21:20+00:00",
+      "captured_at": "2026-04-19T14:21:21.109145+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 624,
       "source_chat_id": -1001263412188,
