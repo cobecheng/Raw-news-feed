@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T06:18:20.869670+00:00",
+  "generated_at": "2026-04-19T06:44:22.494340+00:00",
   "window_hours": 72,
-  "count": 195,
+  "count": 196,
   "news": [
+    {
+      "id": 380,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939293,
+      "message_text": "UKRAINE'S MILITARY : IT HIT A DRONE MANUFACTURING PLANT IN RUSSIA'S TAGANROG ...",
+      "posted_at": "2026-04-19T06:44:20+00:00",
+      "captured_at": "2026-04-19T06:44:22.267175+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 378,
       "source_chat_id": -1001263412188,
