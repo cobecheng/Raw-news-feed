@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T18:05:14.514859+00:00",
+  "generated_at": "2026-04-19T18:25:59.822516+00:00",
   "window_hours": 72,
-  "count": 378,
+  "count": 379,
   "news": [
+    {
+      "id": 746,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939477,
+      "message_text": "PAKISTAN PM SHARIF: HAD CONSTRUCTIVE CONVERSATION WITH IRAN PRESIDENT PEZESHKIAN THIS EVENING ON EVOLVING REGIONAL SITUATION ...",
+      "posted_at": "2026-04-19T18:25:58+00:00",
+      "captured_at": "2026-04-19T18:25:59.486822+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 744,
       "source_chat_id": -1001263412188,
