@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T06:44:22.494340+00:00",
+  "generated_at": "2026-04-19T07:36:21.669407+00:00",
   "window_hours": 72,
-  "count": 196,
+  "count": 197,
   "news": [
+    {
+      "id": 382,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939294,
+      "message_text": "WEEKEND MARKETS UPDATE:   \n#DAX 24490 -0.66%   \n#DOW 49249 -0.41%   \n#NASDAQ 26464 -0.82%   \n#FTSE 10646 -0.49%   \n#HANGSENG 26273 -0.87%   \n#EURUSD 11750 -0.12%   \n#GOLD 4807 -0.48%   \n#SILVER 8039 -0.58%   \n#USOIL 8675 +3.04%   \n#IGWEEKENDMARKETS ...",
+      "posted_at": "2026-04-19T07:36:20+00:00",
+      "captured_at": "2026-04-19T07:36:21.359049+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 380,
       "source_chat_id": -1001263412188,
