@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T12:15:04.340503+00:00",
+  "generated_at": "2026-04-19T12:16:33.161480+00:00",
   "window_hours": 72,
-  "count": 280,
+  "count": 281,
   "news": [
+    {
+      "id": 550,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939379,
+      "message_text": "\ud83d\udd34 IRAN'S ARMED FORCES PREVENTED TWO TANKERS FROM TRANSITING STRAIT OF HORMUZ ON SUNDAY - TASNIM ...",
+      "posted_at": "2026-04-19T12:16:31+00:00",
+      "captured_at": "2026-04-19T12:16:32.837856+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 548,
       "source_chat_id": -1001263412188,
