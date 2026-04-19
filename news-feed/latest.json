@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T19:00:04.220061+00:00",
+  "generated_at": "2026-04-19T19:01:17.073255+00:00",
   "window_hours": 72,
-  "count": 386,
+  "count": 387,
   "news": [
+    {
+      "id": 762,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939485,
+      "message_text": "SENATOR DURBIN: THE MESS WE FIND OURSELVES IN TODAY IS ONE THE PRESIDENT HAS HELPED TO CREATE THROUGH HIS NARCISSISM, IMPULSIVENESS, CRUDE THREATS AND LACK OF PLANNING.  ...",
+      "posted_at": "2026-04-19T19:01:14+00:00",
+      "captured_at": "2026-04-19T19:01:16.827143+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 760,
       "source_chat_id": -1001263412188,
