@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T22:06:11.309736+00:00",
+  "generated_at": "2026-04-19T22:11:10.416412+00:00",
   "window_hours": 72,
-  "count": 439,
+  "count": 440,
   "news": [
+    {
+      "id": 868,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939539,
+      "message_text": "GAS PRICES MAY HAVE PEAKED\u2014RELIEF NOT BEFORE 2027\n\nU.S. GAS PRICES HAVE LIKELY HIT THEIR HIGH POINT AND SHOULD START FALLING, ACCORDING TO ENERGY SECRETARY CHRIS WRIGHT. BUT HE WARNED THEY MAY NOT DROP BELOW $3 PER GALLON UNTIL NEXT YEAR. ...",
+      "posted_at": "2026-04-19T22:11:08+00:00",
+      "captured_at": "2026-04-19T22:11:10.096824+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 864,
       "source_chat_id": -1001263412188,
