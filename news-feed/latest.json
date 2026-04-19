@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T03:26:26.148088+00:00",
+  "generated_at": "2026-04-19T03:28:57.939662+00:00",
   "window_hours": 72,
-  "count": 164,
+  "count": 165,
   "news": [
+    {
+      "id": 318,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939262,
+      "message_text": "YEDIOTH AHRONOTH: ISRAEL PREPARES FOR THE POSSIBILITY OF RESUMING FIGHTING AGAINST IRAN ...",
+      "posted_at": "2026-04-19T03:28:55+00:00",
+      "captured_at": "2026-04-19T03:28:57.710225+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 316,
       "source_chat_id": -1001263412188,
