@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T17:34:58.426660+00:00",
+  "generated_at": "2026-04-19T17:44:14.824634+00:00",
   "window_hours": 72,
-  "count": 368,
+  "count": 370,
   "news": [
+    {
+      "id": 728,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939468,
+      "message_text": "BRITISH MARITIME OPERATIONS AUTHORITY: THE GENERAL MARITIME THREAT LEVEL IN THE GULF, STRAIT OF HORMUZ, AND ARABIAN SEA IS CRITICAL ...",
+      "posted_at": "2026-04-19T17:44:12+00:00",
+      "captured_at": "2026-04-19T17:44:14.563748+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 724,
       "source_chat_id": -1001263412188,
@@ -11,6 +24,19 @@
       "message_text": "THE ISRAELI ARMY CONTINUES DEMOLISHING LEBANESE HOMES IN VILLAGES IN SOUTHERN LEBANON DURING THE CEASEFIRE - HAARETZ NEWSPAPER ...",
       "posted_at": "2026-04-19T17:34:57+00:00",
       "captured_at": "2026-04-19T17:34:58.144488+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 726,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939467,
+      "message_text": "US AUTHORITIES: DETENTION OF AN IRANIAN WOMAN AT LOS ANGELES AIRPORT ON CHARGES OF ARMS TRAFFICKING ON BEHALF OF IRAN FOR THE BENEFIT OF THE SUDANESE ARMY ...",
+      "posted_at": "2026-04-19T17:34:57+00:00",
+      "captured_at": "2026-04-19T17:35:01.808136+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
