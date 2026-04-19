@@ -1,8 +1,60 @@
 {
-  "generated_at": "2026-04-19T19:12:34.984743+00:00",
+  "generated_at": "2026-04-19T19:13:46.259054+00:00",
   "window_hours": 72,
-  "count": 388,
+  "count": 392,
   "news": [
+    {
+      "id": 772,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939490,
+      "message_text": "PAKISTAN'S PM SHARIF: CONVEYED PERSPECTIVES TO IRAN'S PEZESHKIAN FROM LATEST DISCUSSIONS WITH LEADERS OF SAUDI ARABIA, QATAR AND T\u00dcRKIYE. ...",
+      "posted_at": "2026-04-19T19:13:44+00:00",
+      "captured_at": "2026-04-19T19:13:46.021280+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 768,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939488,
+      "message_text": "UKRAINE'S PM: ADMINISTRATION WILL EXPLORE OTHER OPTIONS. ...",
+      "posted_at": "2026-04-19T19:13:15+00:00",
+      "captured_at": "2026-04-19T19:13:15.618586+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 770,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939489,
+      "message_text": "UKRAINE'S PM: IMF CONCURRED THAT HIKING TAXES ON SMALL ENTERPRISES IS NOT PRODUCTIVE. ...",
+      "posted_at": "2026-04-19T19:13:15+00:00",
+      "captured_at": "2026-04-19T19:13:18.421871+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 766,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939487,
+      "message_text": "PAKISTAN PRIME MINISTER SHARIF: ASSURED IRAN'S PEZESHKIAN THAT PAKISTAN REMAINS FULLY COMMITTED AS FACILITATOR OF LASTING PEACE AND REGIONAL STABILITY ...",
+      "posted_at": "2026-04-19T19:12:59+00:00",
+      "captured_at": "2026-04-19T19:13:00.416600+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 764,
       "source_chat_id": -1001263412188,
