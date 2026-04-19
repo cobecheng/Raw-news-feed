@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T19:37:48.116209+00:00",
+  "generated_at": "2026-04-19T19:40:03.474418+00:00",
   "window_hours": 72,
-  "count": 410,
+  "count": 411,
   "news": [
+    {
+      "id": 810,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939509,
+      "message_text": "TRUMP: TOUSKA IS UNDER US TREASURY SANCTIONS BECAUSE OF THEIR PRIOR HISTORY OF ILLEGAL ACTIVITY.\n\nTRUMP: US FORCES BLEW HOLE IN TOUSKA ENGINEROOM AFTER IRANIAN CREW IGNORED WARNING. - FINANCIALJUICE ...",
+      "posted_at": "2026-04-19T19:40:01+00:00",
+      "captured_at": "2026-04-19T19:40:03.173905+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 808,
       "source_chat_id": -1001263412188,
