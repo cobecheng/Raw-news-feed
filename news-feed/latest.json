@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T23:21:45.028302+00:00",
+  "generated_at": "2026-04-19T23:26:02.237833+00:00",
   "window_hours": 72,
-  "count": 446,
+  "count": 447,
   "news": [
+    {
+      "id": 882,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939546,
+      "message_text": "DOLLAR/YEN RISES 0.22% TO 159. STERLING FALLS 0.24% TO $1.3486. EURO DROPS 0.2% TO $1.174. ...",
+      "posted_at": "2026-04-19T23:25:59+00:00",
+      "captured_at": "2026-04-19T23:26:01.914851+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 880,
       "source_chat_id": -1001263412188,
