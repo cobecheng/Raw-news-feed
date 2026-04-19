@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T08:53:25.860895+00:00",
+  "generated_at": "2026-04-19T09:29:26.231896+00:00",
   "window_hours": 72,
-  "count": 210,
+  "count": 211,
   "news": [
+    {
+      "id": 410,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939308,
+      "message_text": "UK FINANCE MINISTER REEVES CALLS IN BANK CHIEFS FOR TALKS AMID DEEPENING IRAN WAR FALLOUT - SKY NEWS ...",
+      "posted_at": "2026-04-19T09:29:25+00:00",
+      "captured_at": "2026-04-19T09:29:25.973886+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 408,
       "source_chat_id": -1001263412188,
