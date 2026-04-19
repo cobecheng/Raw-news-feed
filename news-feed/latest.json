@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-19T11:07:15.993048+00:00",
+  "generated_at": "2026-04-19T11:08:17.780727+00:00",
   "window_hours": 72,
-  "count": 241,
+  "count": 244,
   "news": [
+    {
+      "id": 474,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939341,
+      "message_text": "FIRST U.S. POPE PRAISES TRUCE ANNOUNCED FOR LEBANON AS 'REASON FOR HOPE' ...",
+      "posted_at": "2026-04-19T11:08:14+00:00",
+      "captured_at": "2026-04-19T11:08:17.278524+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 476,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939342,
+      "message_text": "IRAN'S ARMED FORCES PREVENTED TWO TANKERS FROM TRANSITING STRAIT OF HORMUZ ON SUNDAY - TASNIM ...",
+      "posted_at": "2026-04-19T11:08:14+00:00",
+      "captured_at": "2026-04-19T11:08:17.555311+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 472,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939340,
+      "message_text": "POPE LEO:  HE LAMENTS RECENT ATTACKS IN UKRAINE DURING PEACE APPEAL IN ANGOLA ...",
+      "posted_at": "2026-04-19T11:08:13+00:00",
+      "captured_at": "2026-04-19T11:08:14.505756+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 470,
       "source_chat_id": -1001263412188,
