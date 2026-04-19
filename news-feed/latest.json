@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T11:39:48.159789+00:00",
+  "generated_at": "2026-04-19T11:47:02.645695+00:00",
   "window_hours": 72,
-  "count": 257,
+  "count": 259,
   "news": [
+    {
+      "id": 506,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939357,
+      "message_text": "WHITE HOUSE SOURCE SAYS TRUMP WANTS TO PUSH HARD FOR AN IRAN DEAL, BUT IS FRUSTRATED WITH IRANIAN ACTIONS ...",
+      "posted_at": "2026-04-19T11:47:00+00:00",
+      "captured_at": "2026-04-19T11:47:02.385980+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 504,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939356,
+      "message_text": "TRUMP ON PEACE DEAL SAYS 'IT WILL HAPPEN': ABC REPORTER ...",
+      "posted_at": "2026-04-19T11:40:15+00:00",
+      "captured_at": "2026-04-19T11:40:16.459815+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 502,
       "source_chat_id": -1001263412188,
