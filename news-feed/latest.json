@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T12:48:06.032862+00:00",
+  "generated_at": "2026-04-19T12:52:05.644101+00:00",
   "window_hours": 72,
-  "count": 293,
+  "count": 294,
   "news": [
+    {
+      "id": 576,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939392,
+      "message_text": "U.S. VICE PRESIDENT VANCE TO LEAD AMERICAN DELEGATION FOR TALKS WITH IRAN IN PAKISTAN - ABC NEWS, CITING U.S. AMBASSADOR TO U.N. ...",
+      "posted_at": "2026-04-19T12:52:02+00:00",
+      "captured_at": "2026-04-19T12:52:05.345320+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 572,
       "source_chat_id": -1001263412188,
