@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-19T12:13:32.836314+00:00",
+  "generated_at": "2026-04-19T12:15:04.340503+00:00",
   "window_hours": 72,
-  "count": 277,
+  "count": 280,
   "news": [
+    {
+      "id": 548,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939378,
+      "message_text": "TRUMP: REPRESENTATIVES ARE GOING TO ISLAMABAD, PAKISTAN - THEY WILL BE THERE TOMORROW EVENING, FOR NEGOTIATIONS. ...",
+      "posted_at": "2026-04-19T12:15:01+00:00",
+      "captured_at": "2026-04-19T12:15:04.064489+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 546,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939377,
+      "message_text": "IRAN'S PRESIDENT PEZESHKIAN: TRUMP HAS NO JUSTIFICATION TO DEPRIVE IRAN OF ITS NUCLEAR RIGHTS - ISNA ...",
+      "posted_at": "2026-04-19T12:14:02+00:00",
+      "captured_at": "2026-04-19T12:14:03.511086+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 544,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939376,
+      "message_text": "TRUMP ON TRUTH SOCIAL:\n\nWE\u2019RE OFFERING A VERY FAIR AND REASONABLE DEAL, AND I HOPE THEY TAKE IT BECAUSE, IF THEY DON\u2019T, THE UNITED STATES IS GOING TO KNOCK OUT EVERY SINGLE POWER PLANT, AND EVERY SINGLE BRIDGE, IN IRAN. NO MORE MR. NICE GUY! THEY\u2019LL COME DOWN FAST, THEY\u2019LL COME DOWN EASY AND, IF THEY DON\u2019T TAKE THE DEAL, IT WILL BE MY HONOR TO DO WHAT HAS TO BE DONE, WHICH SHOULD HAVE BEEN DONE TO IRAN, BY OTHER PRESIDENTS, FOR THE LAST 47 YEARS. IT\u2019S TIME FOR THE IRAN KILLING MACHINE TO END! PRESIDENT DONALD J. TRUMP ...",
+      "posted_at": "2026-04-19T12:14:01+00:00",
+      "captured_at": "2026-04-19T12:14:03.248433+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 542,
       "source_chat_id": -1001263412188,
