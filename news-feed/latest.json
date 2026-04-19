@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T11:52:18.483596+00:00",
+  "generated_at": "2026-04-19T12:00:05.089300+00:00",
   "window_hours": 72,
-  "count": 267,
+  "count": 268,
   "news": [
+    {
+      "id": 524,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939366,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-04-19T12:00:02+00:00",
+      "captured_at": "2026-04-19T12:00:04.844369+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 522,
       "source_chat_id": -1001263412188,
