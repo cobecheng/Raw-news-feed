@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-19T02:37:15.911027+00:00",
+  "generated_at": "2026-04-19T02:52:39.688580+00:00",
   "window_hours": 72,
-  "count": 160,
+  "count": 163,
   "news": [
+    {
+      "id": 314,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939260,
+      "message_text": "WALL STREET JOURNAL FROM SOURCES: TRUMP REFUSED TO TAKE CONTROL OF KHARG ISLAND, SAYING THAT AMERICAN SOLDIERS WOULD BE EASY TARGETS ...",
+      "posted_at": "2026-04-19T02:52:39+00:00",
+      "captured_at": "2026-04-19T02:52:39.426542+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 310,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939258,
+      "message_text": "ISRAELI BROADCASTING AUTHORITY, CITING AN INFORMED SOURCE: ISRAEL BELIEVES THAT THE RE-CLOSURE OF THE STRAIT OF HORMUZ IS AN IRANIAN NEGOTIATING TACTIC ...",
+      "posted_at": "2026-04-19T02:37:55+00:00",
+      "captured_at": "2026-04-19T02:37:57.552279+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 312,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939259,
+      "message_text": "ISRAELI BROADCASTING AUTHORITY CITING AN INFORMED SOURCE: ISRAEL IS PREPARING FOR THE POSSIBILITY OF RENEWED ESCALATION IN THE IRAN WAR ...",
+      "posted_at": "2026-04-19T02:37:55+00:00",
+      "captured_at": "2026-04-19T02:37:57.763474+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 308,
       "source_chat_id": -1001263412188,
