@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T19:19:31.279562+00:00",
+  "generated_at": "2026-04-19T19:21:47.074892+00:00",
   "window_hours": 72,
-  "count": 393,
+  "count": 395,
   "news": [
+    {
+      "id": 778,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939493,
+      "message_text": "IRANIAN SOURCE TO AL JAZEERA: GIVEN TRUMP'S REMARKS ABOUT CONDUCTING TALKS AND THE CONTRADICTION WITH WHAT IS ACTUALLY UNFOLDING BETWEEN IRAN AND THE U.S., WE BELIEVE WE ARE FACING TRICKERY BY THE ADVERSARY AND ARE ON THE BRINK OF A FRESH WAVE OF ESCALATION. ...",
+      "posted_at": "2026-04-19T19:21:44+00:00",
+      "captured_at": "2026-04-19T19:21:46.803909+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 776,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939492,
+      "message_text": "A LATEST NBC SURVEY REVEALS DONALD TRUMP'S APPROVAL RATING AT A SECOND-TERM LOW, WITH 37% IN FAVOUR AND 63% DISAPPROVING. - SOURCES ...",
+      "posted_at": "2026-04-19T19:20:29+00:00",
+      "captured_at": "2026-04-19T19:20:29.987210+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 774,
       "source_chat_id": -1001263412188,
