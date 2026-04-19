@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T18:48:29.865983+00:00",
+  "generated_at": "2026-04-19T19:00:04.220061+00:00",
   "window_hours": 72,
-  "count": 384,
+  "count": 386,
   "news": [
+    {
+      "id": 760,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939484,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-04-19T19:00:02+00:00",
+      "captured_at": "2026-04-19T19:00:03.939546+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 758,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939483,
+      "message_text": "TALKS IN LIMBO\n\nSIX HOURS AFTER DONALD TRUMP SAID NEGOTIATORS WOULD HEAD TO PAKISTAN FOR TALKS WITH IRAN, NEITHER TEHRAN NOR ISLAMABAD HAS CONFIRMED THE PLAN.\n\nPAKISTAN CONTINUES DIPLOMATIC OUTREACH, WITH ITS PRIME MINISTER SPEAKING TO IRAN\u2019S PRESIDENT AND ITS FOREIGN MINISTER IN CONTACT WITH HIS COUNTERPART. SECURITY IS TIGHTENING IN ISLAMABAD, BUT SO FAR, ONLY WASHINGTON HAS PUBLICLY COMMITTED TO NEW TALKS. ...",
+      "posted_at": "2026-04-19T18:48:59+00:00",
+      "captured_at": "2026-04-19T18:49:00.409975+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 756,
       "source_chat_id": -1001263412188,
