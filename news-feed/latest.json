@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T21:12:23.814796+00:00",
+  "generated_at": "2026-04-19T21:25:54.456194+00:00",
   "window_hours": 72,
-  "count": 423,
+  "count": 424,
   "news": [
+    {
+      "id": 836,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939523,
+      "message_text": "ELI LILLY IS IN ADVANCED NEGOTIATIONS TO ACQUIRE CANCER BIOTECH FIRM KELONIA THERAPEUTICS FOR OVER $2 BILLION. - WSJ ...",
+      "posted_at": "2026-04-19T21:25:51+00:00",
+      "captured_at": "2026-04-19T21:25:54.142901+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 834,
       "source_chat_id": -1001263412188,
