@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T11:08:17.780727+00:00",
+  "generated_at": "2026-04-19T11:10:46.473568+00:00",
   "window_hours": 72,
-  "count": 244,
+  "count": 246,
   "news": [
+    {
+      "id": 480,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939344,
+      "message_text": "YNET REPORT ON ISRAELI OFFICIALS: IT SEEMS WE WON'T GET WHAT WE WANT REGARDING IRAN'S MISSILES AND SUPPORT FOR PROXY FORCES ...",
+      "posted_at": "2026-04-19T11:10:45+00:00",
+      "captured_at": "2026-04-19T11:10:46.194465+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 478,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939343,
+      "message_text": "DUTCH PRIME MINISTER: WE AGREED DURING THE PARIS MEETING ON FRIDAY TO LEVERAGE OUR SHARED CAPABILITIES TO SUPPORT FREEDOM OF NAVIGATION IN THE STRAIT OF HORMUZ ...",
+      "posted_at": "2026-04-19T11:10:44+00:00",
+      "captured_at": "2026-04-19T11:10:45.938778+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 474,
       "source_chat_id": -1001263412188,
