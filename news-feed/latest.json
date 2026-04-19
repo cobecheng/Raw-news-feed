@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-19T10:22:45.393038+00:00",
+  "generated_at": "2026-04-19T10:33:30.163445+00:00",
   "window_hours": 72,
-  "count": 224,
+  "count": 227,
   "news": [
+    {
+      "id": 440,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939323,
+      "message_text": "TASNIM CITING AN IRANIAN JUDICIAL SOURCE: ARREST OF 4 INDIVIDUALS ON CHARGES OF SPYING FOR NETWORKS LINKED TO THE UNITED STATES AND THE ZIONIST ENTITY ...",
+      "posted_at": "2026-04-19T10:33:28+00:00",
+      "captured_at": "2026-04-19T10:33:29.710709+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 442,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939324,
+      "message_text": "IRANIAN SUPREME LEADER'S ADVISOR ALI AKBAR VELAYATI: THE ERA OF IMPOSING SECURITY FROM BEHIND THE OCEANS IS OVER ...",
+      "posted_at": "2026-04-19T10:33:28+00:00",
+      "captured_at": "2026-04-19T10:33:29.923844+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 438,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939322,
+      "message_text": "IRNA QUOTING AN OFFICIAL FROM THE IRANIAN PRESIDENT'S OFFICE: A NEW SYSTEM HAS BEGUN TO GOVERN THE STRAIT OF HORMUZ, AND THE CONCERNED COUNTRIES SHOULD REALIZE THAT. ...",
+      "posted_at": "2026-04-19T10:33:27+00:00",
+      "captured_at": "2026-04-19T10:33:29.488822+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 436,
       "source_chat_id": -1001263412188,
