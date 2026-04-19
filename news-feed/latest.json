@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T05:19:46.962048+00:00",
+  "generated_at": "2026-04-19T05:20:47.983018+00:00",
   "window_hours": 72,
-  "count": 180,
+  "count": 182,
   "news": [
+    {
+      "id": 350,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939278,
+      "message_text": "UKRAINIAN MISSILES REPORTEDLY STRIKE RUSSIAN DRONE PLANT. ...",
+      "posted_at": "2026-04-19T05:20:44+00:00",
+      "captured_at": "2026-04-19T05:20:45.101225+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 352,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939279,
+      "message_text": "A DRONE PLANT IN THE SOUTHERN RUSSIAN CITY OF TAGANROG WAS STRUCK BY UKRAINIAN MISSILES OVERNIGHT ON APRIL 19, INDEPENDENT TELEGRAM CHANNEL EXILENOVA PLUS REPORTED ...",
+      "posted_at": "2026-04-19T05:20:44+00:00",
+      "captured_at": "2026-04-19T05:20:47.749897+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 348,
       "source_chat_id": -1001263412188,
