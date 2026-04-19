@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T17:05:12.760112+00:00",
+  "generated_at": "2026-04-19T17:06:29.578472+00:00",
   "window_hours": 72,
-  "count": 359,
+  "count": 360,
   "news": [
+    {
+      "id": 708,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939458,
+      "message_text": "BULGARIAN RUSSIA-SYMPATHIZER RADEV IS HEADING FOR ELECTION WIN ...",
+      "posted_at": "2026-04-19T17:06:28+00:00",
+      "captured_at": "2026-04-19T17:06:29.290822+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 706,
       "source_chat_id": -1001263412188,
