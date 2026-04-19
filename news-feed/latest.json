@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T19:26:31.601243+00:00",
+  "generated_at": "2026-04-19T19:29:01.950549+00:00",
   "window_hours": 72,
-  "count": 398,
+  "count": 399,
   "news": [
+    {
+      "id": 786,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939497,
+      "message_text": "FRENCH SHIPPING FIRM CMA CGM: CONFIRMS ONE OF ITS SHIPS CAME UNDER FIRE IN THE STRAIT OF HORMUZ ON SATURDAY. ...",
+      "posted_at": "2026-04-19T19:29:00+00:00",
+      "captured_at": "2026-04-19T19:29:01.636947+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 784,
       "source_chat_id": -1001263412188,
