@@ -1,8 +1,60 @@
 {
-  "generated_at": "2026-04-19T12:03:33.524096+00:00",
+  "generated_at": "2026-04-19T12:08:17.496406+00:00",
   "window_hours": 72,
-  "count": 272,
+  "count": 276,
   "news": [
+    {
+      "id": 538,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939373,
+      "message_text": "*TRUMP SAYS WITKOFF HEADED TO PAKISTAN FOR TALKS TUESDAY: FOX ...",
+      "posted_at": "2026-04-19T12:08:16+00:00",
+      "captured_at": "2026-04-19T12:08:17.038313+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 540,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939374,
+      "message_text": "NOTIFICATIONS FROM ALERTS ...",
+      "posted_at": "2026-04-19T12:08:16+00:00",
+      "captured_at": "2026-04-19T12:08:17.268327+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 534,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939371,
+      "message_text": "TRUMP ON IRAN PEACE DEAL SAYS \"IT WILL HAPPEN\" - ABC NEWS REPORTER JONATHAN KARL  POST ON X ...",
+      "posted_at": "2026-04-19T12:04:01+00:00",
+      "captured_at": "2026-04-19T12:04:01.543320+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 536,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939372,
+      "message_text": "IRAN VIOLATES CEASEFIRE, TRUMP WARNS\n\nU.S. PRESIDENT DONALD TRUMP SAID IRAN COMMITTED A \u201cSERIOUS VIOLATION\u201d OF THE CEASEFIRE BUT INSISTED A PEACE DEAL IS STILL POSSIBLE, ACCORDING TO ABC NEWS.\n\nQUOTED BY REPORTER JONATHAN KARL, TRUMP SAID: \u201cIT WILL HAPPEN\u2014THE NICE WAY OR THE HARD WAY.\u201d\n\nHIS COMMENTS FOLLOW TEHRAN\u2019S RENEWED CLOSURE OF THE STRAIT OF HORMUZ, CITING THE ONGOING U.S. BLOCKADE, AFTER PREVIOUSLY DECLARING IT OPEN. ...",
+      "posted_at": "2026-04-19T12:04:01+00:00",
+      "captured_at": "2026-04-19T12:04:04.444346+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 532,
       "source_chat_id": -1001263412188,
