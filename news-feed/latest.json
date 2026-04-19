@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T18:41:45.337258+00:00",
+  "generated_at": "2026-04-19T18:48:29.865983+00:00",
   "window_hours": 72,
-  "count": 383,
+  "count": 384,
   "news": [
+    {
+      "id": 756,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939482,
+      "message_text": "HORMUZ ON EDGE\n\nTHE BRITISH MILITARY HAS RAISED ITS HIGHEST ALERT FOR THE STRAIT OF HORMUZ AND THE PERSIAN GULF, CALLING THE SITUATION \u201cCRITICAL.\u201d\n\nUKMTO REPORTS INTENSE NAVAL ACTIVITY AND WARNS OF A SERIOUS RISK OF ATTACK OR MISCALCULATION. IRAN HAS TIGHTENED TRANSIT RESTRICTIONS AS U.S. FORCES ENFORCE A BLOCKADE, WITH MULTIPLE VESSEL ATTACKS REPORTED ON SATURDAY. ...",
+      "posted_at": "2026-04-19T18:48:29+00:00",
+      "captured_at": "2026-04-19T18:48:29.635047+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 754,
       "source_chat_id": -1001263412188,
