@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-19T17:17:58.695334+00:00",
+  "generated_at": "2026-04-19T17:18:59.294134+00:00",
   "window_hours": 72,
-  "count": 364,
+  "count": 367,
   "news": [
+    {
+      "id": 722,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939465,
+      "message_text": "ISRAELI CHANNEL 12 ON TRUMP: THE FRAMEWORK OF THE AGREEMENT WITH IRAN HAS BECOME READY ...",
+      "posted_at": "2026-04-19T17:18:56+00:00",
+      "captured_at": "2026-04-19T17:18:58.966508+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 720,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939464,
+      "message_text": "US OFFICIAL: THE US AIRCRAFT CARRIER GERALD FORD HAS RETURNED TO THE MIDDLE EAST - CBS ...",
+      "posted_at": "2026-04-19T17:18:27+00:00",
+      "captured_at": "2026-04-19T17:18:29.759238+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 718,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939463,
+      "message_text": "ISRAELI CHANNEL 12 ON TRUMP: VERY OPTIMISTIC REGARDING THE NEGOTIATIONS WITH IRAN ...",
+      "posted_at": "2026-04-19T17:18:11+00:00",
+      "captured_at": "2026-04-19T17:18:11.805227+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 716,
       "source_chat_id": -1001263412188,
