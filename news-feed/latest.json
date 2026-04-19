@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T09:35:14.088470+00:00",
+  "generated_at": "2026-04-19T09:47:27.186894+00:00",
   "window_hours": 72,
-  "count": 213,
+  "count": 214,
   "news": [
+    {
+      "id": 416,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939311,
+      "message_text": "UK FOREIGN SECRETARY: I DISCUSSED WITH MY PAKISTANI COUNTERPART THE IMPORTANCE OF EXTENDING THE CEASEFIRE AND FREEDOM OF NAVIGATION IN THE STRAIT OF HORMUZ ...",
+      "posted_at": "2026-04-19T09:47:26+00:00",
+      "captured_at": "2026-04-19T09:47:26.939552+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 412,
       "source_chat_id": -1001263412188,
