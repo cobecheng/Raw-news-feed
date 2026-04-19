@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T03:28:57.939662+00:00",
+  "generated_at": "2026-04-19T04:04:44.352597+00:00",
   "window_hours": 72,
-  "count": 165,
+  "count": 166,
   "news": [
+    {
+      "id": 320,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939263,
+      "message_text": "WHILST GOING THROUGH ROUTINE CHECKS AND SAW THIS. A QUICK SEARCH WOULD NOT HAVE HURT \ud83d\ude02  ...",
+      "posted_at": "2026-04-19T04:04:41+00:00",
+      "captured_at": "2026-04-19T04:04:44.017923+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 318,
       "source_chat_id": -1001263412188,
