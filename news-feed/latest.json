@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T21:53:55.401916+00:00",
+  "generated_at": "2026-04-19T21:58:09.583025+00:00",
   "window_hours": 72,
-  "count": 428,
+  "count": 429,
   "news": [
+    {
+      "id": 846,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939528,
+      "message_text": "IRAN'S TOP JOINT MILITARY COMMAND: IRAN WILL SOON RESPOND AND RETALIATE AGAINST THIS 'MARITIME AND ARMED ROBBERY' BY U.S. MILITARY ...",
+      "posted_at": "2026-04-19T21:58:07+00:00",
+      "captured_at": "2026-04-19T21:58:09.197791+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 844,
       "source_chat_id": -1001263412188,
