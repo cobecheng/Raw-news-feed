@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T06:15:49.371497+00:00",
+  "generated_at": "2026-04-19T06:17:19.875816+00:00",
   "window_hours": 72,
-  "count": 191,
+  "count": 193,
   "news": [
+    {
+      "id": 374,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939290,
+      "message_text": "BULGARIANS HEAD TO THE POLLS TO ELECT A PARLIAMENT FOR THE EIGHTH TIME IN 5 YEARS ...",
+      "posted_at": "2026-04-19T06:17:17+00:00",
+      "captured_at": "2026-04-19T06:17:19.568114+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 372,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939289,
+      "message_text": "STRAIT TRAFFIC SUDDEN STOP SHOWS SATELLITE \n\nIRAN JUST ANNOUNCED HORMUZ SHUTDOWN OVER TRUMP'S BLOCKADE ...",
+      "posted_at": "2026-04-19T06:16:17+00:00",
+      "captured_at": "2026-04-19T06:16:20.033027+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 370,
       "source_chat_id": -1001263412188,
