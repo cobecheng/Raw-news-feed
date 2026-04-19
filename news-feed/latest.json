@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-19T16:20:11.091674+00:00",
+  "generated_at": "2026-04-19T16:25:27.108257+00:00",
   "window_hours": 72,
-  "count": 341,
+  "count": 344,
   "news": [
+    {
+      "id": 676,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939442,
+      "message_text": "ANWAR GARGASH: IT IS NOT POSSIBLE TO RETURN TO THE PREVIOUS PACE IN RELATIONS WITH IRAN WITHOUT A REVIEW, CANDOR, AND GUARANTEES. ...",
+      "posted_at": "2026-04-19T16:25:25+00:00",
+      "captured_at": "2026-04-19T16:25:26.799075+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 674,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939441,
+      "message_text": "ANWAR GARGASH: FOR US IN THE UAE, THE IRANIAN AGGRESSION AGAINST THE STATES AND PEOPLES OF THE ARABIAN GULF AND ITS REPERCUSSIONS REMAIN AT THE CENTER OF OUR ATTENTION. ...",
+      "posted_at": "2026-04-19T16:25:24+00:00",
+      "captured_at": "2026-04-19T16:25:26.571557+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 672,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939440,
+      "message_text": "LEBANESE ARMY: WE REMOVED AN EARTHEN BARRIER PLACED BY THE ISRAELI OCCUPATION YESTERDAY ON THE MARIE AIN ARAB ROAD ...",
+      "posted_at": "2026-04-19T16:20:11+00:00",
+      "captured_at": "2026-04-19T16:20:14.681630+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 670,
       "source_chat_id": -1001263412188,
