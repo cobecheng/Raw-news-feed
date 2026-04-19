@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T15:30:39.322325+00:00",
+  "generated_at": "2026-04-19T15:57:50.326068+00:00",
   "window_hours": 72,
-  "count": 334,
+  "count": 336,
   "news": [
+    {
+      "id": 660,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939434,
+      "message_text": "*VITOL MADE ABOUT $2 BILLION IN FIRST QUARTER DESPITE WAR LOSSES ...",
+      "posted_at": "2026-04-19T15:57:47+00:00",
+      "captured_at": "2026-04-19T15:57:50.095780+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 658,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939433,
+      "message_text": "NETANYAHU: WE ARE IN A WAR AGAINST IRAN, WHICH SPREADS INSTABILITY IN THE WORLD, AND WE HAVE NO BETTER FRIEND THAN THE UNITED STATES ...",
+      "posted_at": "2026-04-19T15:31:08+00:00",
+      "captured_at": "2026-04-19T15:31:11.254461+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 656,
       "source_chat_id": -1001263412188,
