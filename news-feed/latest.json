@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T07:53:39.105972+00:00",
+  "generated_at": "2026-04-19T08:53:25.860895+00:00",
   "window_hours": 72,
-  "count": 208,
+  "count": 210,
   "news": [
+    {
+      "id": 408,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939307,
+      "message_text": "IRAN'S PRESIDENT PEZESHKIAN SAYS U.S. PRESIDENT TRUMP HAS NO JUSTIFICATION TO DEPRIVE IRAN OF ITS NUCLEAR RIGHTS - ISNA ...",
+      "posted_at": "2026-04-19T08:53:24+00:00",
+      "captured_at": "2026-04-19T08:53:25.626795+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 406,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939306,
+      "message_text": "HSBC AND STANDARD CHARTERED HAVE BECOME EMBROILED IN ALLEGATIONS OF A MULTIMILLION-POUND SCHEME TO LAUNDER MONEY FOR IRAN- THE TELEGRAPH ...",
+      "posted_at": "2026-04-19T07:54:06+00:00",
+      "captured_at": "2026-04-19T07:54:08.030405+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 404,
       "source_chat_id": -1001263412188,
