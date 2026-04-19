@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T20:01:16.922335+00:00",
+  "generated_at": "2026-04-19T20:06:18.500421+00:00",
   "window_hours": 72,
-  "count": 412,
+  "count": 413,
   "news": [
+    {
+      "id": 814,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939511,
+      "message_text": "*UAE ASKS US FOR A WARTIME FINANCIAL LIFELINE: WSJ ...",
+      "posted_at": "2026-04-19T20:06:16+00:00",
+      "captured_at": "2026-04-19T20:06:18.248057+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 812,
       "source_chat_id": -1001263412188,
