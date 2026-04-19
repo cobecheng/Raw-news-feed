@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T20:44:36.841248+00:00",
+  "generated_at": "2026-04-19T20:46:40.552181+00:00",
   "window_hours": 72,
-  "count": 416,
+  "count": 417,
   "news": [
+    {
+      "id": 822,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939516,
+      "message_text": "CHANNEL INFRASTRUCTURE NZ CONFIRMED CONTRACTUAL TERMS WITH THE NZ GOVERNMENT FOR SUBSTANTIAL ADDITIONAL DIESEL STORAGE AT ITS MARSDEN POINT ENERGY FACILITY.\n\nTHE NZ GOVERNMENT HAS SECURED 93 MILLION LITRES OF DIESEL STORAGE CAPACITY AT MARSDEN POINT THROUGH 31 DECEMBER 2027.\n\nUNDER THE AGREEMENT, THE COMPANY ANTICIPATES GENERATING ADDITIONAL REVENUE OF NZ$1.2 MILLION PER MONTH FROM THE CAPACITY AVAILABILITY DATE OVER THE CONTRACT PERIOD. ...",
+      "posted_at": "2026-04-19T20:46:37+00:00",
+      "captured_at": "2026-04-19T20:46:40.224708+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 820,
       "source_chat_id": -1001263412188,
