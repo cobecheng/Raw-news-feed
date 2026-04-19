@@ -1,8 +1,60 @@
 {
-  "generated_at": "2026-04-19T19:31:46.275943+00:00",
+  "generated_at": "2026-04-19T19:36:02.426949+00:00",
   "window_hours": 72,
-  "count": 405,
+  "count": 409,
   "news": [
+    {
+      "id": 806,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939507,
+      "message_text": "TRUMP: IRANIAN-FLAGGED CARGO SHIP NAMED TOUSKA TRIED TO GET PAST OUR NAVAL BLOCKADE.\n\n\u26a0 BREAKING: TRUMP: US NAVY INTERCEPTED IRAN-FLAGGED CARGO SHIP TOUSKA IN THE GULF OF OMAN. MARINES NOW HAVE CUSTODY OF IT - TRUTH SOCIAL - FINANCIALJUICE ...",
+      "posted_at": "2026-04-19T19:36:00+00:00",
+      "captured_at": "2026-04-19T19:36:02.115771+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 802,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939505,
+      "message_text": "DONALD TRUMP CLAIMED A U.S. NAVY DESTROYER INTERCEPTED AN IRANIAN-FLAGGED CARGO SHIP \u201cTOUSKA\u201d IN THE GULF OF OMAN AFTER IT ATTEMPTED TO BREACH A NAVAL BLOCKADE, FORCING IT TO STOP BY STRIKING ITS ENGINE ROOM. - TRUTH SOCIAL ...",
+      "posted_at": "2026-04-19T19:32:16+00:00",
+      "captured_at": "2026-04-19T19:32:16.738674+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 804,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939506,
+      "message_text": "TRUMP SAID U.S. FORCES NOW HAVE FULL CUSTODY OF THE SANCTIONED VESSEL AND ITS CREW, WITH INSPECTIONS UNDERWAY DUE TO ITS ALLEGED HISTORY OF ILLEGAL ACTIVITY. - TRUTH SOCIAL ...",
+      "posted_at": "2026-04-19T19:32:16+00:00",
+      "captured_at": "2026-04-19T19:32:19.588055+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 800,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939504,
+      "message_text": "TRUMP: US NAVY INTERCEPTED IRAN-FLAGGED CARGO SHIP TOUSKA IN THE GULF OF OMAN. MARINES NOW HAVE CUSTODY OF IT - TRUTH SOCIAL  ...",
+      "posted_at": "2026-04-19T19:32:15+00:00",
+      "captured_at": "2026-04-19T19:32:16.512688+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 798,
       "source_chat_id": -1001263412188,
