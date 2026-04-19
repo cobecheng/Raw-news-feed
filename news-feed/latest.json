@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T16:26:42.310892+00:00",
+  "generated_at": "2026-04-19T16:45:12.545794+00:00",
   "window_hours": 72,
-  "count": 346,
+  "count": 348,
   "news": [
+    {
+      "id": 684,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939446,
+      "message_text": "8 CHILDREN KILLED IN A MASS SHOOTING IN SHREVEPORT, LOUISIANA, SAY POLICE - NBC ...",
+      "posted_at": "2026-04-19T16:45:10+00:00",
+      "captured_at": "2026-04-19T16:45:12.243314+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 682,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939445,
+      "message_text": "ANWAR GARGASH: IT IS NOT POSSIBLE TO RETURN TO THE PREVIOUS PACE IN RELATIONS WITH IRAN WITHOUT REVIEW, CANDOR, AND GUARANTEES. ...",
+      "posted_at": "2026-04-19T16:27:10+00:00",
+      "captured_at": "2026-04-19T16:27:11.953097+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 680,
       "source_chat_id": -1001263412188,
