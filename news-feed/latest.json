@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T21:25:54.456194+00:00",
+  "generated_at": "2026-04-19T21:39:39.014480+00:00",
   "window_hours": 72,
-  "count": 424,
+  "count": 425,
   "news": [
+    {
+      "id": 838,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939524,
+      "message_text": "NO TANKERS HAVE MANAGED TO PASS THROUGH THE STRAIT OF HORMUZ TODAY. - CNN ...",
+      "posted_at": "2026-04-19T21:39:37+00:00",
+      "captured_at": "2026-04-19T21:39:38.768275+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 836,
       "source_chat_id": -1001263412188,
