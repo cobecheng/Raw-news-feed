@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T02:52:39.688580+00:00",
+  "generated_at": "2026-04-19T03:26:26.148088+00:00",
   "window_hours": 72,
-  "count": 163,
+  "count": 164,
   "news": [
+    {
+      "id": 316,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939261,
+      "message_text": "IRAN HAS CONTROL OVER ALL HORMUZ TRAFFIC, OFFICIAL SAYS \n\nIRAN\u2019S TOP NEGOTIATOR SAYS SIGNIFICANT GAPS REMAIN WITH U.S. \n\nIRAN SAYS WAR MAY RESUME AT ANY TIME: WSJ ...",
+      "posted_at": "2026-04-19T03:26:25+00:00",
+      "captured_at": "2026-04-19T03:26:25.902089+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 314,
       "source_chat_id": -1001263412188,
