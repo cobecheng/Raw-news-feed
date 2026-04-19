@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-19T10:48:45.437462+00:00",
+  "generated_at": "2026-04-19T11:00:12.681775+00:00",
   "window_hours": 72,
-  "count": 232,
+  "count": 235,
   "news": [
+    {
+      "id": 458,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939332,
+      "message_text": "\ud83c\udf05 Market News Digest  \nApril 18-19, 2026 (EST)\n\n\ud83d\udd25 Top Stories  \n\u2022 Market V-shape recovery: S&P 500 hits new high in 54 days \u2014 fastest rebound in recent history driven by AI.  \n\u2022 Tesla launches robotaxi in Dallas and Houston \u2014 expanding autonomous ride-hailing services.  \n\u2022 US stock market overvaluation hits record: Buffett indicator at 232.6% \u2014 signals potential bubble risk.  \n\u2022 Crypto crash: Rave token plummets 95%, wiping out $6.3B \u2014 alleged insider manipulation.  \n\u2022 Iran-US negotiations: progress but significant gaps remain \u2014 Strait of Hormuz tensions escalate amid military buildup.\n\n\u26fd Oil & Energy  \n\u2022 US and Iran clash over Strait of Hormuz: ships turned back, blockade in effect \u2014 Iran claims control over traffic.  \n\u2022 US plans to seize Iranian ships; naval operations intensify \u2014 escalating tensions in Gulf.  \n\u2022 Oil prices surge 3% amid Middle East conflict \u2014 US oil at $86.72.  \n\u2022 Turkey seeks to extend gas contract with Iran \u2014 no talks yet.  \n\u2022 Fuel prices in Bangladesh rise due to Iran war costs.\n\n\ud83d\udcca Markets & Macro  \n\u2022 Global markets decline slightly: DAX -0.61%, Dow -0.47%, NASDAQ -0.78%  \n\u2022 US overvaluation: Buffett indicator at record high \u2014 warning signals.  \n\u2022 US and European stocks face energy crisis risks; BlackRock warns  \n\u2022 US Treasury Secretary signals near resolution of Iran conflict  \n\u2022 US and Pakistan discuss Strait of Hormuz, ceasefire extension needed\n\n\ud83c\udf0d Geopolitical  \n\u2022 Iran\u2019s parliament: progress in US talks but still a wide gap  \n\u2022 Iran\u2019s military: readiness for confrontation, control over Hormuz traffic  \n\u2022 Hezbollah rejects ceasefire; Iran announces Hormuz shutdown over US blockade  \n\u2022 North Korea tests short-range missiles; Ukraine strikes Russian drone plant  \n\u2022 Bulgaria prepares for eighth election amid political gridlock  \n\n\ud83e\ude99 Crypto & DeFi  \n\u2022 Bitcoin at $75,560; slight dip of -0.22%  \n\u2022 Major altcoins decline: Ether -0.86%, Uniswap -2.06%, Chainlink -1.02%  \n\u2022 Crypto market cap drops sharply after Rave token crash  \n\u2022 Crypto volatility persists amid geopolitical tensions  \n\n\ud83c\udfdb\ufe0f Regulatory & Policy  \n\u2022 UK finance ministers hold talks with banks over Iran war fallout  \n\u2022 US considers expanding naval blockade; seizes Iranian ships  \n\u2022 Iranian authorities arrest spies linked to US and Israel  \n\u2022 Iranian officials push for nuclear rights; reject US restrictions  \n\u2022 Turkey and Iran continue diplomatic talks on ceasefire and energy deals  \n\n\ud83c\udfe2 Corporate  \n\u2022 HSBC and Standard Chartered linked to alleged Iran money laundering scheme  \n\u2022 U.S. companies face disruptions: USOIL, hotels, and restaurants affected by geopolitical risks  \n\u2022 U.S. military: USS Rushmore conducts blockade operations in Arabian Sea  \n\u2022 U.S. and UK banks prepare for economic fallout from Iran conflict  \n\u2022 U.S. tech and retail sectors brace for impact from geopolitical instability  \n\nDigested by *MarketClaw* \ud83d\udc3e \u2014 121 messages scanned",
+      "posted_at": "2026-04-19T11:00:10+00:00",
+      "captured_at": "2026-04-19T11:00:12.353973+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 454,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939330,
+      "message_text": "TURKEY'S FOREIGN MINISTER SPEAKING ON IRAN-U.S. TALKS, SAYS BOTH SIDES HAVE THE WILL TO CONTINUE TALKS ...",
+      "posted_at": "2026-04-19T10:49:13+00:00",
+      "captured_at": "2026-04-19T10:49:14.721603+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 456,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939331,
+      "message_text": "TURKEY'S FOREIGN MINISTER: IRAN-US TALKS LARGELY COMPLETE BUT THERE ARE STILL A COUPLE DISAGREEMENTS, CEASEFIRE EXTENTION NEEDED ...",
+      "posted_at": "2026-04-19T10:49:13+00:00",
+      "captured_at": "2026-04-19T10:49:15.007321+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 452,
       "source_chat_id": -1001263412188,
