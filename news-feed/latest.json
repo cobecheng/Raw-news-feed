@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T15:01:09.595992+00:00",
+  "generated_at": "2026-04-19T15:10:26.150743+00:00",
   "window_hours": 72,
-  "count": 331,
+  "count": 333,
   "news": [
+    {
+      "id": 654,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939431,
+      "message_text": "ISRAELI ARMY: 690 SOLDIERS INJURED, 42 OF THEM SERIOUSLY AND 96 MODERATELY, SINCE THE START OF THE MILITARY OPERATION IN LEBANON ...",
+      "posted_at": "2026-04-19T15:10:23+00:00",
+      "captured_at": "2026-04-19T15:10:25.605978+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 652,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939430,
+      "message_text": "ISRAELI ARMY: 37 SOLDIERS INJURED IN SOUTHERN LEBANON OVER THE PAST 24 HOURS ...",
+      "posted_at": "2026-04-19T15:10:22+00:00",
+      "captured_at": "2026-04-19T15:10:25.294007+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 650,
       "source_chat_id": -1001263412188,
