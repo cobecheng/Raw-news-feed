@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T19:13:46.259054+00:00",
+  "generated_at": "2026-04-19T19:19:31.279562+00:00",
   "window_hours": 72,
-  "count": 392,
+  "count": 393,
   "news": [
+    {
+      "id": 774,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939491,
+      "message_text": "TRUMP RESPONDED FURIOUSLY AFTER A U.S. AIRCRAFT WAS DOWNED IN IRAN, AT ONE POINT SHOUTING AT STAFF AND CITING JIMMY CARTER AND THE 1979 HOSTAGE CRISIS. - WSJ ...",
+      "posted_at": "2026-04-19T19:19:30+00:00",
+      "captured_at": "2026-04-19T19:19:31.002368+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 772,
       "source_chat_id": -1001263412188,
