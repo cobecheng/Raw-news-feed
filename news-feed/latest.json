@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T12:16:33.161480+00:00",
+  "generated_at": "2026-04-19T12:17:34.192038+00:00",
   "window_hours": 72,
-  "count": 281,
+  "count": 283,
   "news": [
+    {
+      "id": 554,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939381,
+      "message_text": "TRUMP: IRAN HAS COMMITTED SERIOUS VIOLATION OF CEASEFIRE BUT HE STILL THINKS HE CAN GET PEACE DEAL - ABC ...",
+      "posted_at": "2026-04-19T12:17:31+00:00",
+      "captured_at": "2026-04-19T12:17:33.956388+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 552,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939380,
+      "message_text": "TRUMP: WE'RE OFFERING A VERY FAIR AND REASONABLE DEAL, AND I HOPE THEY TAKE IT\n\nTRUMP: IF THEY DON'T, UNITED STATES IS GOING TO KNOCK OUT EVERY SINGLE POWER PLANT, AND EVERY SINGLE BRIDGE, IN IRAN. NO MORE MR. NICE GUY ...",
+      "posted_at": "2026-04-19T12:17:01+00:00",
+      "captured_at": "2026-04-19T12:17:03.876045+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 550,
       "source_chat_id": -1001263412188,
