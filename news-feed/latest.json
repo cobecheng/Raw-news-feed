@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T16:58:58.487241+00:00",
+  "generated_at": "2026-04-19T17:00:29.704211+00:00",
   "window_hours": 72,
-  "count": 353,
+  "count": 355,
   "news": [
+    {
+      "id": 698,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939453,
+      "message_text": "*BULGARIA'S RADEV SEEN SHORT OF MAJORITY IN ELECTION VICTORY ...",
+      "posted_at": "2026-04-19T17:00:26+00:00",
+      "captured_at": "2026-04-19T17:00:29.452009+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 696,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939452,
+      "message_text": "IRAN REJECTED TAKING PART IN THE SECOND ROUND OF THE TALKS WITH THE U.S. - IRAN'S IRNA ...",
+      "posted_at": "2026-04-19T16:59:26+00:00",
+      "captured_at": "2026-04-19T16:59:27.059737+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 694,
       "source_chat_id": -1001263412188,
