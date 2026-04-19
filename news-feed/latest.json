@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T13:16:20.077330+00:00",
+  "generated_at": "2026-04-19T13:20:50.838528+00:00",
   "window_hours": 72,
-  "count": 303,
+  "count": 304,
   "news": [
+    {
+      "id": 596,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939402,
+      "message_text": "PRESIDENT TRUMP JUST TOLD  THAT VANCE WILL NOT BE GOING TO ISLAMABAD. THE ISSUE IS SECURITY \u2014 THE SECRET SERVICE COULDN\u2019T DO IT ON 24 HOURS' NOTICE.  \u201cIT\u2019S ONLY BECAUSE OF SECURITY,\u201d HE TOLD . \u201cJD\u2019S GREAT.\u201d #OOTT ...",
+      "posted_at": "2026-04-19T13:20:49+00:00",
+      "captured_at": "2026-04-19T13:20:50.499150+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 594,
       "source_chat_id": -1001263412188,
