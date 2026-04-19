@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T17:49:57.655216+00:00",
+  "generated_at": "2026-04-19T18:01:14.019892+00:00",
   "window_hours": 72,
-  "count": 375,
+  "count": 376,
   "news": [
+    {
+      "id": 740,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939474,
+      "message_text": "HASSETT: THE FEDERAL RESERVE HAS LOST ITS WAY\u2026WHEN PRESIDENT TRUMP WAS RUNNING FOR OFFICE THE FIRST TIME, IT LOOKED LIKE INFLATION WAS VERY HIGH, BUT THE FED DIDN\u2019T MOVE.  ...",
+      "posted_at": "2026-04-19T18:01:12+00:00",
+      "captured_at": "2026-04-19T18:01:13.777677+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 738,
       "source_chat_id": -1001263412188,
