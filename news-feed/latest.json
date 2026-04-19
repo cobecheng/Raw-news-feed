@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T13:28:07.078692+00:00",
+  "generated_at": "2026-04-19T13:35:07.050346+00:00",
   "window_hours": 72,
-  "count": 310,
+  "count": 311,
   "news": [
+    {
+      "id": 610,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939409,
+      "message_text": "US VICE PRESIDENT VANCE, STEVE WITKOFF, & JARED KUSHNER WILL GO PAKISTAN FOR TALKS WITH IRAN - WHITE HOUSE OFFICIAL ...",
+      "posted_at": "2026-04-19T13:35:04+00:00",
+      "captured_at": "2026-04-19T13:35:06.801721+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 606,
       "source_chat_id": -1001263412188,
