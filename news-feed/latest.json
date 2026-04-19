@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T21:01:07.854714+00:00",
+  "generated_at": "2026-04-19T21:07:08.285033+00:00",
   "window_hours": 72,
-  "count": 420,
+  "count": 421,
   "news": [
+    {
+      "id": 830,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939520,
+      "message_text": "NORTH KOREA CARRIED OUT A BALLISTIC MISSILE LAUNCH ON SUNDAY. SOURCE: KCNA ...",
+      "posted_at": "2026-04-19T21:07:06+00:00",
+      "captured_at": "2026-04-19T21:07:08.039505+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 828,
       "source_chat_id": -1001263412188,
