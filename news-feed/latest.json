@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T17:10:12.740620+00:00",
+  "generated_at": "2026-04-19T17:17:58.695334+00:00",
   "window_hours": 72,
-  "count": 362,
+  "count": 364,
   "news": [
+    {
+      "id": 716,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939462,
+      "message_text": "IRNA FROM SOURCE: UNDER THE CURRENT CIRCUMSTANCES, IT DOES NOT APPEAR THAT THERE IS A CLEAR HORIZON FOR FRUITFUL NEGOTIATIONS. ...",
+      "posted_at": "2026-04-19T17:17:56+00:00",
+      "captured_at": "2026-04-19T17:17:58.370080+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 714,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939461,
+      "message_text": "IRANIAN MEDIA: TEHRAN HAS NOT YET FINALIZED ITS PARTICIPATION IN NEW TALKS WITH THE UNITED STATES ...",
+      "posted_at": "2026-04-19T17:10:26+00:00",
+      "captured_at": "2026-04-19T17:10:28.821547+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 712,
       "source_chat_id": -1001263412188,
