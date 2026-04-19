@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T16:53:43.201375+00:00",
+  "generated_at": "2026-04-19T16:56:46.906270+00:00",
   "window_hours": 72,
-  "count": 349,
+  "count": 351,
   "news": [
+    {
+      "id": 690,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939449,
+      "message_text": "IRAN DELEGATION WILL ARRIVE IN PAKISTAN ON TUESDAY FOR TALKS WITH THE US, IRANIAN SOURCES FAMILIAR WITH THE TALKS. ...",
+      "posted_at": "2026-04-19T16:56:43+00:00",
+      "captured_at": "2026-04-19T16:56:46.370164+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 688,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939448,
+      "message_text": "IRAN REJECTED TAKING PART IN THE SECOND ROUND OF THE TALKS WITH US - IRNA ...",
+      "posted_at": "2026-04-19T16:54:11+00:00",
+      "captured_at": "2026-04-19T16:54:11.741610+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 686,
       "source_chat_id": -1001263412188,
