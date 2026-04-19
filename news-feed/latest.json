@@ -1,8 +1,60 @@
 {
-  "generated_at": "2026-04-19T14:41:09.926269+00:00",
+  "generated_at": "2026-04-19T14:51:09.544622+00:00",
   "window_hours": 72,
-  "count": 326,
+  "count": 330,
   "news": [
+    {
+      "id": 648,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939428,
+      "message_text": "THE HEADLINE BEFORE THIS:\nWHITE HOUSE OFFICIAL: VANCE, WITKOFF, AND KUSHNER WILL GO TO PAKISTAN FOR TALKS WITH IRAN.\n\nIRAN CURRENTLY HAS NO DECISION TO SEND A NEGOTIATING DELEGATION AS LONG AS THERE IS A NAVAL BLOCKADE - TASNIM - FINANCIALJUICE ...",
+      "posted_at": "2026-04-19T14:51:06+00:00",
+      "captured_at": "2026-04-19T14:51:09.230928+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 644,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939426,
+      "message_text": "IRAN'S FIRST VICE PRESIDENT: IRAN WILL PRESERVE ITS ACHIEVEMENTS, AND THE MANAGEMENT OF THE STRAIT OF HORMUZ AND CONTROL OVER IT MUST BE IN ITS HANDS. ...",
+      "posted_at": "2026-04-19T14:41:37+00:00",
+      "captured_at": "2026-04-19T14:41:40.030994+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 646,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939427,
+      "message_text": "IRAN'S FIRST VICE PRESIDENT: IF WE TAKE CONTROL OF THE STRAIT OF HORMUZ, THERE WILL BE NO NEED TO WAIT FOR THE LIFTING OF SANCTIONS, AND THEY WILL EFFECTIVELY BECOME WITHOUT IMPACT. ...",
+      "posted_at": "2026-04-19T14:41:37+00:00",
+      "captured_at": "2026-04-19T14:41:40.346906+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 642,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939425,
+      "message_text": "IRAN'S FIRST VICE PRESIDENT: THE POSITIONS OF THE OPPOSING SIDE IN THE NEGOTIATIONS ARE VOLATILE, BEGGING WHEN PRESSURED, AND THEN ADOPTING A STUBBORN APPROACH ...",
+      "posted_at": "2026-04-19T14:41:36+00:00",
+      "captured_at": "2026-04-19T14:41:37.225599+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 640,
       "source_chat_id": -1001263412188,
