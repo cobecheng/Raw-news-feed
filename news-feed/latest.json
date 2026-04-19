@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-19T18:25:59.822516+00:00",
+  "generated_at": "2026-04-19T18:32:31.307972+00:00",
   "window_hours": 72,
-  "count": 379,
+  "count": 382,
   "news": [
+    {
+      "id": 752,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939480,
+      "message_text": "OCCUPATION FORCES RAID THE TOWN OF KAFR AQAB AND THE VICINITY OF QALANDIA CAMP NORTH OF OCCUPIED JERUSALEM ...",
+      "posted_at": "2026-04-19T18:32:29+00:00",
+      "captured_at": "2026-04-19T18:32:31.066079+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 750,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939479,
+      "message_text": "PAKISTANI PRIME MINISTER: I AFFIRMED TO PEZESHKIAN OUR FULL COMMITMENT TO THE ROLE OF MEDIATOR IN ACHIEVING PERMANENT PEACE AND REGIONAL STABILITY ...",
+      "posted_at": "2026-04-19T18:32:28+00:00",
+      "captured_at": "2026-04-19T18:32:30.834219+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 748,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939478,
+      "message_text": "PAKISTAN PM SHARIF: ASSURED IRAN'S PEZESHKIAN THAT PAKISTAN REMAINS FULLY COMMITTED AS FACILITATOR OF LASTING PEACE AND REGIONAL STABILITY\n\nPAKISTAN PM SHARIF: HAD CONSTRUCTIVE CONVERSATION WITH IRAN PRESIDENT PEZESHKIAN THIS EVENING ON EVOLVING REGIONAL SITUATION - FINANCIALJUICE ...",
+      "posted_at": "2026-04-19T18:26:13+00:00",
+      "captured_at": "2026-04-19T18:26:15.526515+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 746,
       "source_chat_id": -1001263412188,
