@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-19T11:05:46.884819+00:00",
+  "generated_at": "2026-04-19T11:07:15.993048+00:00",
   "window_hours": 72,
-  "count": 238,
+  "count": 241,
   "news": [
+    {
+      "id": 470,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939339,
+      "message_text": "SOUTH KOREA, U.S. FINANCE MINISTERS TO CONTINUE CONSULTATION ON FX MARKET, MINISTRY SAYS ...",
+      "posted_at": "2026-04-19T11:07:13+00:00",
+      "captured_at": "2026-04-19T11:07:15.756649+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 468,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939338,
+      "message_text": "U.S. TREASURY SECRETARY BESSENT: WELCOMES SOUTH KOREA\u2019S EFFORTS TO IMPLEMENT TRADE DEAL, MINISTRY SAYS ...",
+      "posted_at": "2026-04-19T11:06:43+00:00",
+      "captured_at": "2026-04-19T11:06:45.609638+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 466,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939337,
+      "message_text": "SOUTH KOREAN, U.S. FINANCE MINISTERS AGREE THAT EXCESSIVE VOLATILITY IN WON IS UNDESIRABLE, SOUTH KOREA'S FINANCE MINISTRY SAYS ...",
+      "posted_at": "2026-04-19T11:06:13+00:00",
+      "captured_at": "2026-04-19T11:06:15.561341+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 464,
       "source_chat_id": -1001263412188,
