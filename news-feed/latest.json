@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T12:20:35.562199+00:00",
+  "generated_at": "2026-04-19T12:27:03.359693+00:00",
   "window_hours": 72,
-  "count": 287,
+  "count": 289,
   "news": [
+    {
+      "id": 566,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939387,
+      "message_text": "IRANIAN & PAKISTANI FOREIGN MINISTERS DISCUSS REGIONAL DEVELOPMENTS IN PHONE CALL - TASNIM NEWS AGENCY ...",
+      "posted_at": "2026-04-19T12:27:01+00:00",
+      "captured_at": "2026-04-19T12:27:03.039247+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 564,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939386,
+      "message_text": "IRAN'S FOREIGN MINISTRY SPOKESPERSON BAGHAEI SAYS U.S. BLOCKADE OF IRAN'S PORTS AND COASTLINE IS VIOLATION OF CEASEFIRE, CALLS IT 'UNLAWFUL AND CRIMINAL' - POST ON X ...",
+      "posted_at": "2026-04-19T12:21:01+00:00",
+      "captured_at": "2026-04-19T12:21:04.322644+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 560,
       "source_chat_id": -1001263412188,
