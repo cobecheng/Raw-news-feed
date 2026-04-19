@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T10:33:30.163445+00:00",
+  "generated_at": "2026-04-19T10:36:14.241849+00:00",
   "window_hours": 72,
-  "count": 227,
+  "count": 228,
   "news": [
+    {
+      "id": 444,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939325,
+      "message_text": "IRANIAN REVOLUTIONARY GUARDS SAY THEY ARE REPLENISHING MISSILE AND DRONE LAUNCH PLATFORMS AT A FASTER RATE THAN BEFORE THE WAR ...",
+      "posted_at": "2026-04-19T10:36:12+00:00",
+      "captured_at": "2026-04-19T10:36:14.004560+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 440,
       "source_chat_id": -1001263412188,
