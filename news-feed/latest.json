@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T22:12:10.748542+00:00",
+  "generated_at": "2026-04-19T22:47:57.370449+00:00",
   "window_hours": 72,
-  "count": 441,
+  "count": 443,
   "news": [
+    {
+      "id": 874,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939542,
+      "message_text": "NEW ZEALAND TRADE BALANCE (NZD) MAR: 698M (PREV \u2013257M; PREVR -365M)\n\n- EXPORTS: 7.94B (PREV 6.63B; PREVR 6.52B)\u00a0 \n- IMPORTS: 7.25B (PREV 6.89B; PREVR 6.88B)\u00a0 \n- TRADE BALANCE 12 MTH YTD: -3191M (PREV \u20132998M; PREVR -3099M) ...",
+      "posted_at": "2026-04-19T22:47:54+00:00",
+      "captured_at": "2026-04-19T22:47:57.132289+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 872,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939541,
+      "message_text": "U.S. CRUDE FUTURES HIT HIGH OF $91.20/BBL, UP MORE THAN $7 ...",
+      "posted_at": "2026-04-19T22:12:23+00:00",
+      "captured_at": "2026-04-19T22:12:26.342173+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 870,
       "source_chat_id": -1001263412188,
