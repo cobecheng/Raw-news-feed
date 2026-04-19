@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T10:06:28.409806+00:00",
+  "generated_at": "2026-04-19T10:19:45.157762+00:00",
   "window_hours": 72,
-  "count": 221,
+  "count": 223,
   "news": [
+    {
+      "id": 434,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939320,
+      "message_text": "IRAN'S REVOLUTIONARY GUARDS AEROSPACE FORCE COMMANDER MOUSAVI SAYS SPEED OF REPLENISHING LAUNCHERS DURING CEASEFIRE IS GREATER THAN PRIOR TO WAR - NOORNEWS ...",
+      "posted_at": "2026-04-19T10:19:42+00:00",
+      "captured_at": "2026-04-19T10:19:44.936182+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 432,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939319,
+      "message_text": "NETANYAHU: HAD WE NOT MOVED TO ATTACK IRAN, THEY WOULD HAVE POSSESSED THE NUCLEAR BOMB, AND IT WOULD HAVE BEEN THE BEGINNING OF THE END FOR THE JEWISH PEOPLE. ...",
+      "posted_at": "2026-04-19T10:06:57+00:00",
+      "captured_at": "2026-04-19T10:06:59.362297+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 430,
       "source_chat_id": -1001263412188,
