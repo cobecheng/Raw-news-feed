@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T07:52:38.030690+00:00",
+  "generated_at": "2026-04-19T07:53:39.105972+00:00",
   "window_hours": 72,
-  "count": 206,
+  "count": 208,
   "news": [
+    {
+      "id": 404,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939305,
+      "message_text": "INDIA AND RUSSIA AGREE TO DEPLOY UP TO 3000 TROOPS ON EACH OTHER\u2019S TERRITORY\n\nDEAL ALSO ALLOWS UP TO 10 AIRCRAFT AND 5 WARSHIPS, OUTLINING RULES FOR JOINT DEPLOYMENTS AND SUPPORT ...",
+      "posted_at": "2026-04-19T07:53:36+00:00",
+      "captured_at": "2026-04-19T07:53:38.872262+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 402,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939304,
+      "message_text": "WEEKEND MARKETS UPDATE:   \n#DAX 24490 -0.66%   \n#DOW 49249 -0.41%   \n#NASDAQ 26464 -0.82%   \n#FTSE 10646 -0.49%   \n#HANGSENG 26273 -0.87%   \n#EURUSD 11750 -0.12%   \n#GOLD 4807 -0.48%   \n#SILVER 8039 -0.58%   \n#USOIL 8675 +3.04% ...",
+      "posted_at": "2026-04-19T07:53:06+00:00",
+      "captured_at": "2026-04-19T07:53:08.954593+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 400,
       "source_chat_id": -1001263412188,
