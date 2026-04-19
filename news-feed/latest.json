@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T20:46:40.552181+00:00",
+  "generated_at": "2026-04-19T20:48:53.621849+00:00",
   "window_hours": 72,
-  "count": 417,
+  "count": 418,
   "news": [
+    {
+      "id": 824,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939517,
+      "message_text": "#OOTT | TRUMP ORDERS NEGOTIATORS TO PAKISTAN, BUT IRAN ON THE FENCE OVER TALKS \u2013 YF\n\n ...",
+      "posted_at": "2026-04-19T20:48:51+00:00",
+      "captured_at": "2026-04-19T20:48:53.384977+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 822,
       "source_chat_id": -1001263412188,
