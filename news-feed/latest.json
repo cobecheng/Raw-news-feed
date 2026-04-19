@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T19:36:02.426949+00:00",
+  "generated_at": "2026-04-19T19:37:48.116209+00:00",
   "window_hours": 72,
-  "count": 409,
+  "count": 410,
   "news": [
+    {
+      "id": 808,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939508,
+      "message_text": "TRUMP: US FORCES BLEW HOLE IN TOUSKA ENGINEROOM AFTER IRANIAN CREW IGNORED WARNING.\n\nTRUMP: IRANIAN-FLAGGED CARGO SHIP NAMED TOUSKA TRIED TO GET PAST OUR NAVAL BLOCKADE. - FINANCIALJUICE ...",
+      "posted_at": "2026-04-19T19:37:45+00:00",
+      "captured_at": "2026-04-19T19:37:47.866270+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 806,
       "source_chat_id": -1001263412188,
