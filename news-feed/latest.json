@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T12:52:05.644101+00:00",
+  "generated_at": "2026-04-19T12:53:33.500743+00:00",
   "window_hours": 72,
-  "count": 294,
+  "count": 296,
   "news": [
+    {
+      "id": 580,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939394,
+      "message_text": "IRANIAN FOREIGN MINISTRY: THE SIEGE IMPOSED BY AMERICA ON OUR PORTS AND COASTS IS A VIOLATION OF THE CEASEFIRE ...",
+      "posted_at": "2026-04-19T12:53:32+00:00",
+      "captured_at": "2026-04-19T12:53:33.189474+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 578,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939393,
+      "message_text": "US VICE PRESIDENT VANCE TO LEAD AMERICAN DELEGATION FOR TALKS WITH IRAN IN PAKISTAN - ABC NEWS, CITING US AMBASSADOR TO UN. ...",
+      "posted_at": "2026-04-19T12:52:32+00:00",
+      "captured_at": "2026-04-19T12:52:34.684157+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 576,
       "source_chat_id": -1001263412188,
