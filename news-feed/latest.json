@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T11:17:15.894107+00:00",
+  "generated_at": "2026-04-19T11:25:31.101586+00:00",
   "window_hours": 72,
-  "count": 250,
+  "count": 251,
   "news": [
+    {
+      "id": 490,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939349,
+      "message_text": "ISRAELI CHIEF OF STAFF: THERE IS NO POINT IN THE MIDDLE EAST THAT ISRAEL CANNOT REACH. ...",
+      "posted_at": "2026-04-19T11:25:29+00:00",
+      "captured_at": "2026-04-19T11:25:30.849745+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 488,
       "source_chat_id": -1001263412188,
