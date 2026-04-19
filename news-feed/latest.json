@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T16:45:12.545794+00:00",
+  "generated_at": "2026-04-19T16:53:43.201375+00:00",
   "window_hours": 72,
-  "count": 348,
+  "count": 349,
   "news": [
+    {
+      "id": 686,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939447,
+      "message_text": "*IRAN'S IRNA: IRAN REJECTED TAKING PART IN THE SECOND ROUND OF THE TALKS WITH THE U.S ...",
+      "posted_at": "2026-04-19T16:53:40+00:00",
+      "captured_at": "2026-04-19T16:53:42.873476+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 684,
       "source_chat_id": -1001263412188,
