@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-19T05:00:04.570647+00:00",
+  "generated_at": "2026-04-19T05:16:31.642285+00:00",
   "window_hours": 72,
-  "count": 168,
+  "count": 171,
   "news": [
+    {
+      "id": 330,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939268,
+      "message_text": "AT LEAST 200 HOMES HAVE REPORTEDLY BEEN DESTROYED IN A MAJOR FIRE IN THE FLOATING VILLAGE OF KAMPUNG BAHAGIA IN SANDAKAN, MALAYSIA. ...",
+      "posted_at": "2026-04-19T05:16:30+00:00",
+      "captured_at": "2026-04-19T05:16:31.332580+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 326,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939266,
+      "message_text": "DRC GOVERNMENT, REBELS AGREE TO EASE TRAVEL FOR AID CONVOYS, REFRAIN FROM CIVILIAN ATTACKS, US SAYS ...",
+      "posted_at": "2026-04-19T05:16:29+00:00",
+      "captured_at": "2026-04-19T05:16:30.806166+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 328,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939267,
+      "message_text": "POPE LEO XIV HAS CHALLENGED ANGOLA'S LEADERS TO \"BREAK THE CYCLES OF INTERESTS\" THAT HAVE PLUNDERED AND EXPLOITED AFRICA FOR CENTURIES. ...",
+      "posted_at": "2026-04-19T05:16:29+00:00",
+      "captured_at": "2026-04-19T05:16:31.112455+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 324,
       "source_chat_id": -1001263412188,
