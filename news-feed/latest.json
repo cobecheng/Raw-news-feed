@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T19:40:03.474418+00:00",
+  "generated_at": "2026-04-19T20:01:16.922335+00:00",
   "window_hours": 72,
-  "count": 411,
+  "count": 412,
   "news": [
+    {
+      "id": 812,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939510,
+      "message_text": "JD VANCE IS ASKED ABOUT THE EPSTEIN FILES:  ...",
+      "posted_at": "2026-04-19T20:01:16+00:00",
+      "captured_at": "2026-04-19T20:01:16.599183+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 810,
       "source_chat_id": -1001263412188,
