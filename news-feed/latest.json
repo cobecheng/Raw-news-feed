@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T20:06:18.500421+00:00",
+  "generated_at": "2026-04-19T20:30:14.519624+00:00",
   "window_hours": 72,
-  "count": 413,
+  "count": 414,
   "news": [
+    {
+      "id": 816,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939512,
+      "message_text": "\ud83c\udf06 Market News Digest  \nApril 19, 2026 EST\n\n\ud83d\udd25 Top Stories  \n\u2022 Iran\u2019s military prevented two tankers from transiting the Strait of Hormuz \u2014 escalating tensions amid ongoing US-Iran conflicts.  \n\u2022 Israel has divided southern Lebanon into 3 zones \u2014 amid heightened regional security concerns.  \n\u2022 US and South Korea agree on stabilizing Won, continue FX talks \u2014 signaling cooperation on currency stability.  \n\u2022 Trump warns Iran of severe retaliation if ceasefire violations persist \u2014 including potential destruction of Iran\u2019s infrastructure.  \n\u2022 Iran rearming missile and drone stockpiles during ceasefire \u2014 despite US claims of degraded defenses.  \n\n\u26fd Oil & Energy  \n\u2022 US Secretary of Energy: Strait of Hormuz pressure slipping from Iran\u2019s hands \u2014 maximum pressure campaign underway.  \n\u2022 ADNOC CEO: Hormuz Strait must be returned to global control; current threats are a protection racket.  \n\u2022 US Navy intercepted Iranian cargo ship Touska in Gulf of Oman; crew under US custody. \u2014 escalating maritime confrontations.  \n\n\ud83d\udcca Markets & Macro  \n\u2022 Initial market panic over Strait of Hormuz closure shifted to risk-on sentiment after Trump\u2019s optimistic tone.  \n\u2022 Gasoline prices may not drop below $3/gal before 2027, per US officials.  \n\u2022 Vitol reports ~$2B profit in Q1 despite war losses.  \n\u2022 Markets remain uncertain amid geopolitical tensions and conflicting signals on Iran negotiations.  \n\n\ud83c\udf0d Geopolitical  \n\u2022 Israel threatens full force in Lebanon if soldiers are threatened; ongoing clashes with Hezbollah.  \n\u2022 Iran\u2019s President emphasizes dialogue, opposes expansion of conflict, and rebuilds missile stockpiles.  \n\u2022 Pakistan prepares for US-Iran talks; regional diplomacy ongoing.  \n\u2022 UK raises maritime threat level in Gulf to critical; intense naval activity reported.  \n\u2022 UAE calls for stability, criticizes threats, and urges return of Hormuz to international control.  \n\n\ud83e\ude99 Crypto & DeFi  \n\u2022 Bitcoin at $75,372, down 0.52%; Ethereum at $2,325, down 1.13%.  \n\u2022 Market cautious amid geopolitical tensions and US-Iran negotiations.  \n\n\ud83c\udfdb\ufe0f Regulatory & Policy  \n\u2022 Spain proposes EU cancellation of partnership with Israel over violations; European stance under review.  \n\u2022 US authorities arrest Iranian businesswoman over arms deals; sanctions enforcement active.  \n\u2022 US and Pakistan discuss regional stability; US considers new peace initiatives.  \n\n\ud83c\udfe2 Corporate  \n\u2022 QXO to acquire TopBuild for $17B.  \n\u2022 CMA CGM confirms ship fired upon in Strait of Hormuz.  \n\u2022 Google in talks with Marvell to develop AI chips for inference.  \n\nDigested by *MarketClaw* \ud83d\udc3e \u2014 178 headlines analyzed",
+      "posted_at": "2026-04-19T20:30:12+00:00",
+      "captured_at": "2026-04-19T20:30:14.250272+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 814,
       "source_chat_id": -1001263412188,
