@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T04:04:44.352597+00:00",
+  "generated_at": "2026-04-19T05:00:04.570647+00:00",
   "window_hours": 72,
-  "count": 166,
+  "count": 168,
   "news": [
+    {
+      "id": 324,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939265,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-04-19T05:00:01+00:00",
+      "captured_at": "2026-04-19T05:00:04.244432+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 322,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939264,
+      "message_text": "WHILST GOING THROUGH ROUTINE CHECK OF ALL THE BACK AND FORTH IRAN-US HEADLINES, AND SAW THIS. A QUICK SEARCH WOULD NOT HAVE HURT \ud83d\ude02  ...",
+      "posted_at": "2026-04-19T04:05:41+00:00",
+      "captured_at": "2026-04-19T04:05:43.388690+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 320,
       "source_chat_id": -1001263412188,
