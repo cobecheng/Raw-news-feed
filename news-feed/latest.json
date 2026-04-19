@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T17:45:45.434192+00:00",
+  "generated_at": "2026-04-19T17:46:59.175590+00:00",
   "window_hours": 72,
-  "count": 371,
+  "count": 373,
   "news": [
+    {
+      "id": 734,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939471,
+      "message_text": "ADNOC CEO AL JABER SAYS ON X: HORMUZ BELONGS TO THE WORLD. IT MUST BE RETURNED TO THE WORLD. EXACTLY AS IT WAS ...",
+      "posted_at": "2026-04-19T17:46:58+00:00",
+      "captured_at": "2026-04-19T17:46:58.932690+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 732,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939470,
+      "message_text": "ADNOC CEO AL JABER SAYS ON X: THE GLOBAL ECONOMY CANNOT AFFORD MORE UNCERTAINTY; HORMUZ STRAIT CANNOT OPERATE UNDER THREAT ...",
+      "posted_at": "2026-04-19T17:46:57+00:00",
+      "captured_at": "2026-04-19T17:46:58.600429+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 730,
       "source_chat_id": -1001263412188,
