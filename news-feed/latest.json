@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T15:10:26.150743+00:00",
+  "generated_at": "2026-04-19T15:30:39.322325+00:00",
   "window_hours": 72,
-  "count": 333,
+  "count": 334,
   "news": [
+    {
+      "id": 656,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939432,
+      "message_text": "TRUMP TO FOX NEWS: IF IRAN DOES NOT SIGN AN AGREEMENT, THE ENTIRE COUNTRY WILL BE DESTROYED ...",
+      "posted_at": "2026-04-19T15:30:38+00:00",
+      "captured_at": "2026-04-19T15:30:38.996500+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 654,
       "source_chat_id": -1001263412188,
