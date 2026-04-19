@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T19:29:01.950549+00:00",
+  "generated_at": "2026-04-19T19:30:17.558492+00:00",
   "window_hours": 72,
-  "count": 399,
+  "count": 401,
   "news": [
+    {
+      "id": 790,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939499,
+      "message_text": "TRUMP ON IRAN: U.S. MARINES HAVE CUSTODY OF VESSEL THAT TRIED TO GET THROUGH U.S. BLOCKADE ...",
+      "posted_at": "2026-04-19T19:30:15+00:00",
+      "captured_at": "2026-04-19T19:30:17.317315+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 788,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939498,
+      "message_text": "TRUMP SAYS IF IRAN DOESN'T TAKE THE DEAL HE \"IS GOING TO KNOCK OUT EVERY SINGLE POWER PLANT, AND EVERY SINGLE BRIDGE, IN IRAN. NO MORE MR. NICE GUY!.\" ...",
+      "posted_at": "2026-04-19T19:29:30+00:00",
+      "captured_at": "2026-04-19T19:29:32.365899+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 786,
       "source_chat_id": -1001263412188,
