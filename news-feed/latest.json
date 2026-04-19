@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-19T23:29:45.839895+00:00",
+  "generated_at": "2026-04-19T23:31:04.224810+00:00",
   "window_hours": 72,
-  "count": 450,
+  "count": 453,
   "news": [
+    {
+      "id": 894,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939552,
+      "message_text": "JAPAN PM TAKAICHI'S APPROVAL DROPS TO 53% PER MAINICHI; YOMIURI POLL SHOWS RATING AT 66%, DOWN 5 POINTS. ...",
+      "posted_at": "2026-04-19T23:31:01+00:00",
+      "captured_at": "2026-04-19T23:31:03.997341+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 892,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939551,
+      "message_text": "IRAN: THE VESSEL TARGETED BY THE U.S. WAS EN ROUTE FROM CHINA TO IRAN. ...",
+      "posted_at": "2026-04-19T23:30:29+00:00",
+      "captured_at": "2026-04-19T23:30:31.412181+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 890,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939550,
+      "message_text": "EUROPEAN GAS SURGES AS MUCH AS 9.8% AS IRAN SHUTS THE STRAIT OF HORMUZ ONCE MORE. ...",
+      "posted_at": "2026-04-19T23:29:59+00:00",
+      "captured_at": "2026-04-19T23:30:01.332061+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 888,
       "source_chat_id": -1001263412188,
