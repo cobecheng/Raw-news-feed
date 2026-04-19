@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-19T12:59:19.507702+00:00",
+  "generated_at": "2026-04-19T13:01:19.006665+00:00",
   "window_hours": 72,
-  "count": 299,
+  "count": 301,
   "news": [
+    {
+      "id": 590,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939399,
+      "message_text": "TRUMP ON THE POPE: \"I DON'T THINK HE'S DOING A VERY GOOD JOB. HE LIKES CRIME, I GUESS... I'M NOT A BIG FAN OF POPE LEO. HE'S A VERY LIBERAL PERSON \u2014 AND HE'S A MAN THAT DOESN'T BELIEVE IN STOPPING CRIME.\"  ...",
+      "posted_at": "2026-04-19T13:01:18+00:00",
+      "captured_at": "2026-04-19T13:01:18.754856+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 588,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939398,
+      "message_text": "ISRAELI ARMY: 5 MILITARY BRIGADES AND NAVAL FORCES ARE OPERATING SOUTH OF THE FRONT DEFENSE LINE TO DESTROY HEZBOLLAH'S INFRASTRUCTURE ...",
+      "posted_at": "2026-04-19T12:59:48+00:00",
+      "captured_at": "2026-04-19T12:59:50.673299+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 586,
       "source_chat_id": -1001263412188,
