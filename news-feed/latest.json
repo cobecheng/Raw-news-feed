@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T13:01:19.006665+00:00",
+  "generated_at": "2026-04-19T13:04:05.213810+00:00",
   "window_hours": 72,
-  "count": 301,
+  "count": 302,
   "news": [
+    {
+      "id": 592,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939400,
+      "message_text": "GOOGLE IS IN TALKS WITH MARVELL TO BUILD NEW AI CHIPS FOR INFERENCE - THE INFORMATION ...",
+      "posted_at": "2026-04-19T13:04:03+00:00",
+      "captured_at": "2026-04-19T13:04:04.968362+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 590,
       "source_chat_id": -1001263412188,
