@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T20:53:52.778645+00:00",
+  "generated_at": "2026-04-19T21:01:07.854714+00:00",
   "window_hours": 72,
-  "count": 419,
+  "count": 420,
   "news": [
+    {
+      "id": 828,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939519,
+      "message_text": "TREASURY SECRETARY SCOTT BESSENT SAYS HE\u2019S \u201cOPTIMISTIC\u201d CONSUMERS WILL SEE $3.00 GAS AGAIN SOMETIME BETWEEN JUNE 20 AND SEPTEMBER 20.  ...",
+      "posted_at": "2026-04-19T21:01:05+00:00",
+      "captured_at": "2026-04-19T21:01:07.615554+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 826,
       "source_chat_id": -1001263412188,
