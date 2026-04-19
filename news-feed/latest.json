@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-19T11:15:16.643278+00:00",
+  "generated_at": "2026-04-19T11:17:15.894107+00:00",
   "window_hours": 72,
-  "count": 249,
+  "count": 250,
   "news": [
+    {
+      "id": 488,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939348,
+      "message_text": "BRITISH FOREIGN SECRETARY AFFIRMS, FOLLOWING HER MEETING WITH THE UAE FOREIGN MINISTER, HER COUNTRY'S SUPPORT FOR ITS ALLIES IN THE GULF AND THE STRENGTHENING OF THE UAE-BRITISH PARTNERSHIP. ...",
+      "posted_at": "2026-04-19T11:17:14+00:00",
+      "captured_at": "2026-04-19T11:17:15.564392+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 486,
       "source_chat_id": -1001263412188,
