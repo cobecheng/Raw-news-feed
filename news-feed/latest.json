@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T11:17:11.304678+00:00",
+  "generated_at": "2026-04-20T11:24:10.458108+00:00",
   "window_hours": 72,
-  "count": 703,
+  "count": 706,
   "news": [
+    {
+      "id": 1400,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939806,
+      "message_text": "SENIOR LEBANESE POLITICIAN KHALIL: ISRAELI FORCES HAVE CARRIED OUT VARYING DEGREES OF DESTRUCTION IN 39 VILLAGES THEY OCCUPY IN SOUTHERN LEBANON ...",
+      "posted_at": "2026-04-20T11:24:09+00:00",
+      "captured_at": "2026-04-20T11:24:10.144705+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1396,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939804,
+      "message_text": "TSUNAMI WARNING LOWERED TO ADVISORY FOLLOWING JAPAN EARTHQUAKE, REPORTS NHK. ...",
+      "posted_at": "2026-04-20T11:20:39+00:00",
+      "captured_at": "2026-04-20T11:20:39.910352+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1398,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939805,
+      "message_text": "NITROGEN FERTILIZER PRICES HAVE NEARLY DOUBLED SINCE THE IRAN WAR AND MAY INCREASE MORE DUE TO KEY SUPPLIES BEING STUCK IN THE PERSIAN GULF, AS STATED BY A MAJOR EXPORTER. ...",
+      "posted_at": "2026-04-20T11:20:39+00:00",
+      "captured_at": "2026-04-20T11:20:40.193486+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1394,
       "source_chat_id": -1001263412188,
