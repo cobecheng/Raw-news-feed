@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-20T02:54:34.751776+00:00",
+  "generated_at": "2026-04-20T02:59:52.145379+00:00",
   "window_hours": 72,
-  "count": 527,
+  "count": 528,
   "news": [
+    {
+      "id": 1044,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939627,
+      "message_text": "PIPER SANDLER LIFTS ITS TARGET PRICE ON BANK FIRST CORP TO $157 VERSUS $150 EARLIER. ...",
+      "posted_at": "2026-04-20T02:59:49+00:00",
+      "captured_at": "2026-04-20T02:59:51.830321+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1042,
       "source_chat_id": -1001263412188,
