@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T06:54:16.900968+00:00",
+  "generated_at": "2026-04-20T07:10:31.849885+00:00",
   "window_hours": 72,
-  "count": 599,
+  "count": 601,
   "news": [
+    {
+      "id": 1190,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939700,
+      "message_text": "EUROPEAN MOVERS\n\nWINNERS:\n\nRUBIS (RUI FP) +2.1%\nWACKER CHEMIE (WCH GY) +1.9%\nTECHNIP ENERGIES (TE FP) +1.8%\n\nLOSERS:\n\nFERREXPO (FXPO LN) -5.0%\nUCB (UCB BB) -2.0%\nASTRAZENECA (AZN LN) -0.3% ...",
+      "posted_at": "2026-04-20T07:10:30+00:00",
+      "captured_at": "2026-04-20T07:10:31.601139+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1188,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939699,
+      "message_text": "JEFFERIES RAISES PLUS500\u2019S TARGET PRICE TO 5,100P FROM 4,800P. ...",
+      "posted_at": "2026-04-20T06:58:00+00:00",
+      "captured_at": "2026-04-20T06:58:01.828204+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1186,
       "source_chat_id": -1001263412188,
