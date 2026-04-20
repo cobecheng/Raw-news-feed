@@ -1,8 +1,60 @@
 {
-  "generated_at": "2026-04-20T08:36:50.745463+00:00",
+  "generated_at": "2026-04-20T08:43:51.225830+00:00",
   "window_hours": 72,
-  "count": 643,
+  "count": 647,
   "news": [
+    {
+      "id": 1282,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939746,
+      "message_text": "TSUNAMI OF 70CM RECORDED IN JAPAN'S IWATE- NHK ...",
+      "posted_at": "2026-04-20T08:43:48+00:00",
+      "captured_at": "2026-04-20T08:43:50.983359+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1280,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939745,
+      "message_text": "TSUNAMI OF 70CM RECORDED IN JAPAN'S IWATE- NHK\n-TSUNAMI IN JAPAN'S KUJI HARBOUR IS RISING ...",
+      "posted_at": "2026-04-20T08:41:18+00:00",
+      "captured_at": "2026-04-20T08:41:20.739204+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1278,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939744,
+      "message_text": "IRAN: CLAIMS IT HAS REBUILT ITS MISSILE ARSENAL FASTER THAN BEFORE ...",
+      "posted_at": "2026-04-20T08:38:18+00:00",
+      "captured_at": "2026-04-20T08:38:19.099394+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1276,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939743,
+      "message_text": "IRAN CLAIMS IT HAS REBUILT ITS MISSILE ARSENAL FASTER THAN BEFORE ...",
+      "posted_at": "2026-04-20T08:37:49+00:00",
+      "captured_at": "2026-04-20T08:37:51.675807+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1274,
       "source_chat_id": -1001263412188,
