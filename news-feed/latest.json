@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T11:11:25.735088+00:00",
+  "generated_at": "2026-04-20T11:17:11.304678+00:00",
   "window_hours": 72,
-  "count": 700,
+  "count": 703,
   "news": [
+    {
+      "id": 1394,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939803,
+      "message_text": "JPMORGAN SAYS IT SEES LITTLE STOCK UPSIDE LEFT IN EUROPE THIS YEAR, PER BLOOMBERG. ...",
+      "posted_at": "2026-04-20T11:17:08+00:00",
+      "captured_at": "2026-04-20T11:17:10.994173+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1392,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939802,
+      "message_text": "MERCEDES-BENZ LAUNCHED A FULL ELECTRIC C-CLASS TO COMPETE MORE AGGRESSIVELY WITH CHINESE AUTO MAKERS. ...",
+      "posted_at": "2026-04-20T11:13:23+00:00",
+      "captured_at": "2026-04-20T11:13:24.540078+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1390,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939801,
+      "message_text": "FRANCE AND GERMANY PLAN \u2018SYMBOLIC\u2019 EU MEMBERSHIP BENEFITS FOR UKRAINE - FT ...",
+      "posted_at": "2026-04-20T11:11:54+00:00",
+      "captured_at": "2026-04-20T11:11:56.418104+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1388,
       "source_chat_id": -1001263412188,
