@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-20T20:06:28.388480+00:00",
+  "generated_at": "2026-04-20T20:16:13.389974+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 2230,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940221,
+      "message_text": "THE WHITE HOUSE ISSUES A DPA MEMO ON DOMESTIC PETROLEUM PRODUCTION. ...",
+      "posted_at": "2026-04-20T20:16:11+00:00",
+      "captured_at": "2026-04-20T20:16:13.141404+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 2228,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "IRAN'S PARLIAMENT SPEAKER GHALIBAF: MUST GET ASSURANCES US OR ZIONIST ENTITY WON'T WAGE WAR AGAINST IRAN AGAIN.\n\nIRAN'S PARLIAMENT SPEAKER GHALIBAF: WE HAVE MADE PROGRESS IN NEGOTIATIONS WITH THE US, YET THERE IS STILL A SIGNIFICANT DISTANCE - STATE TV. - FINANCIALJUICE ...",
       "posted_at": "2026-04-18T22:18:33+00:00",
       "captured_at": "2026-04-18T22:18:35.330517+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 228,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939217,
-      "message_text": "IRAN'S PARLIAMENT SPEAKER GHALIBAF: WE HAVE MADE PROGRESS IN NEGOTIATIONS WITH THE US, YET THERE IS STILL A SIGNIFICANT DISTANCE - STATE TV. ...",
-      "posted_at": "2026-04-18T22:16:48+00:00",
-      "captured_at": "2026-04-18T22:16:49.082024+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
