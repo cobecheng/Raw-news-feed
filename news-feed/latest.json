@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T07:16:31.533708+00:00",
+  "generated_at": "2026-04-20T07:21:33.122602+00:00",
   "window_hours": 72,
-  "count": 602,
+  "count": 604,
   "news": [
+    {
+      "id": 1196,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939703,
+      "message_text": "CHINA EXPRESSES CONCERN OVER US SEIZURE OF IRANIAN SHIP: GUO ...",
+      "posted_at": "2026-04-20T07:21:31+00:00",
+      "captured_at": "2026-04-20T07:21:32.862626+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1194,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939702,
+      "message_text": "CHINA FOREIGN MINISTRY, ON US-IRAN TALKS: THE CURRENT SITUATION IS AT A CRITICAL STAGE ...",
+      "posted_at": "2026-04-20T07:21:00+00:00",
+      "captured_at": "2026-04-20T07:21:02.625511+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1192,
       "source_chat_id": -1001263412188,
