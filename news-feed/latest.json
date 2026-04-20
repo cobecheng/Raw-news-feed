@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-20T22:31:33.867790+00:00",
+  "generated_at": "2026-04-20T22:47:04.483160+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 2308,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940261,
+      "message_text": "NEW ZEALAND CPI (Q/Q) Q1: 0.9% (EST 0.8%; PREV 0.6%)\n\n- CPI (Y/Y): 3.1% (EST 2.9%; PREV 3.1%)\n- CPI TRADEABLE (Q/Q): 0.7% (EST 0.6%; PREV 0.7%)\n- CPI NON-TRADEABLE (Q/Q): 1.1% (EST 0.9%; PREV 0.6%) ...",
+      "posted_at": "2026-04-20T22:47:01+00:00",
+      "captured_at": "2026-04-20T22:47:04.229545+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 2306,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "ISRAELI BROADCASTING AUTHORITY CITING AN INFORMED SOURCE: ISRAEL IS PREPARING FOR THE POSSIBILITY OF RENEWED ESCALATION IN THE IRAN WAR ...",
       "posted_at": "2026-04-19T02:37:55+00:00",
       "captured_at": "2026-04-19T02:37:57.763474+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 308,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939257,
-      "message_text": "IRNA ON THE IRANIAN DEPUTY FOREIGN MINISTER: WE WILL NOT SEND ANY ENRICHED MATERIALS TO THE UNITED STATES, AND THIS MATTER IS NOT OPEN FOR DISCUSSION. ...",
-      "posted_at": "2026-04-19T02:14:10+00:00",
-      "captured_at": "2026-04-19T02:14:11.865701+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
