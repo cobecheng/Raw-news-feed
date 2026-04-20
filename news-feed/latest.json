@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-20T19:37:28.878247+00:00",
+  "generated_at": "2026-04-20T19:51:46.613804+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 2216,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940214,
+      "message_text": "MOC IMBALANCE\nS&P 500: +155 MLN\nNASDAQ 100: -75 MLN\nDOW 30: -137 MLN\nMAG 7: +4 MLN ...",
+      "posted_at": "2026-04-20T19:51:44+00:00",
+      "captured_at": "2026-04-20T19:51:46.367229+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 2214,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "Q: WHY AREN'T PEOPLE FEELING BETTER ABOUT THE ECONOMY?  \n\nTREASURY SECRETARY BESSENT: WELL, IN THEIR HEART OF HEARTS THEY FEEL GOOD  ...",
       "posted_at": "2026-04-18T21:01:31+00:00",
       "captured_at": "2026-04-18T21:01:32.902191+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 216,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939211,
-      "message_text": "TESLA: ROBOTAXI NOW LAUNCHING IN DALLAS AND HOUSTON. $TSLA ...",
-      "posted_at": "2026-04-18T20:50:00+00:00",
-      "captured_at": "2026-04-18T20:50:03.298439+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
