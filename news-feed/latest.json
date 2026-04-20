@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T04:31:43.642665+00:00",
+  "generated_at": "2026-04-20T04:45:14.260098+00:00",
   "window_hours": 72,
-  "count": 555,
+  "count": 558,
   "news": [
+    {
+      "id": 1104,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939657,
+      "message_text": "IRAN SAYS IT HAS CARRIED OUT EXECUTIONS OF TWO INDIVIDUALS ACCUSED OF BELONGING TO A SPY NETWORK CONNECTED TO ISRAEL, MIZAN REPORTS. ...",
+      "posted_at": "2026-04-20T04:45:11+00:00",
+      "captured_at": "2026-04-20T04:45:13.933294+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1102,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939656,
+      "message_text": "ACCORDING TO THE BOJ SURVEY, HOUSEHOLDS IN JAPAN SEE INFLATION AT +10.3% ON AVERAGE AND +5.0% AT THE MEDIAN OVER A FIVE-YEAR HORIZON. ...",
+      "posted_at": "2026-04-20T04:36:41+00:00",
+      "captured_at": "2026-04-20T04:36:41.605679+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1100,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939655,
+      "message_text": "ACCORDING TO THE BOJ SURVEY, HOUSEHOLDS IN JAPAN FORECAST INFLATION AT +11.4% ON AVERAGE AND +10.0% AT THE MEDIAN OVER THE NEXT YEAR. ...",
+      "posted_at": "2026-04-20T04:32:40+00:00",
+      "captured_at": "2026-04-20T04:32:41.848304+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1098,
       "source_chat_id": -1001263412188,
