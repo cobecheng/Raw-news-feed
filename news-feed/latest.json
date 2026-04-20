@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T00:56:19.897899+00:00",
+  "generated_at": "2026-04-20T01:03:05.892972+00:00",
   "window_hours": 72,
-  "count": 493,
+  "count": 496,
   "news": [
+    {
+      "id": 980,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939595,
+      "message_text": "THE PBOC MAINTAINS THE 1-YEAR LPR AT 3.00%, UNCHANGED FROM LAST MONTH. ...",
+      "posted_at": "2026-04-20T01:03:03+00:00",
+      "captured_at": "2026-04-20T01:03:05.659431+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 976,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939593,
+      "message_text": "CHINA KEEPS LOAN PRIME RATE UNCHANGED, AS EXPECTED\n\n- 1Y LPR 3.00%; 5Y LPR 3.50% ...",
+      "posted_at": "2026-04-20T01:01:04+00:00",
+      "captured_at": "2026-04-20T01:01:06.950858+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 978,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939594,
+      "message_text": "HASSETT: THE BIG GLOBAL ECONOMIC DISRUPTION IS REALLY ALL ABOUT ASIA. ASIAN ECONOMIES ARE VERY DEPENDENT ON OIL FROM THAT REGION, AND THEY'RE FEELING REAL PAIN RIGHT NOW. IN THE US IT'S MUCH DIFFERENT THAN IT WAS IN THE 1970S BECAUSE WE PRODUCE SO MUCH OIL. IT'S BEEN MUCH LESS DISRUPTIVE IF DISRUPTIVE AT ALL. ...",
+      "posted_at": "2026-04-20T01:01:04+00:00",
+      "captured_at": "2026-04-20T01:01:07.174964+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 974,
       "source_chat_id": -1001263412188,
