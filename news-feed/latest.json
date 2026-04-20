@@ -1,8 +1,60 @@
 {
-  "generated_at": "2026-04-20T08:58:50.688921+00:00",
+  "generated_at": "2026-04-20T09:05:06.613588+00:00",
   "window_hours": 72,
-  "count": 649,
+  "count": 653,
   "news": [
+    {
+      "id": 1294,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939752,
+      "message_text": "DEUTSCHE BANK CEO AND GERMAN BANKING ASSOCIATION PRESIDENT SEWING: ENERGY PRICES TO REMAIN AT HIGH LEVEL ...",
+      "posted_at": "2026-04-20T09:05:05+00:00",
+      "captured_at": "2026-04-20T09:05:06.374578+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1292,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939751,
+      "message_text": "EUROZONE CONSTRUCTION OUTPUT (M/M) FEB: -0.2% (PREV -0.1%; PREV R -1.3%)\n- CONSTRUCTION OUTPUT (Y/Y): -1.9% (PREV -1.9%; PREV R -4.1%) ...",
+      "posted_at": "2026-04-20T09:05:04+00:00",
+      "captured_at": "2026-04-20T09:05:06.086956+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1290,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939750,
+      "message_text": "EUROZONE CONSTRUCTION OUTPUT (M/M) FEB: -0.2% (PREV -0.1%; PREV R -1.3%)\n- CONSTRUCTION OUTPUT (Y/Y): -2.0% (PREV -1.9%) ...",
+      "posted_at": "2026-04-20T09:01:34+00:00",
+      "captured_at": "2026-04-20T09:01:35.610270+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1288,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939749,
+      "message_text": "PAKISTANI SECURITY SOURCE: PAKISTAN ARMY CHIEF MUNIR SPOKE TO TRUMP, TOLD HIM HORMUZ BLOCKADE IS HURDLE TO TALKS ...",
+      "posted_at": "2026-04-20T09:00:49+00:00",
+      "captured_at": "2026-04-20T09:00:50.055158+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1284,
       "source_chat_id": -1001263412188,
