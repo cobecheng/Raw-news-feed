@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T10:10:39.301940+00:00",
+  "generated_at": "2026-04-20T10:16:09.715351+00:00",
   "window_hours": 72,
-  "count": 676,
+  "count": 678,
   "news": [
+    {
+      "id": 1342,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939776,
+      "message_text": "JAPAN METEOROLOGICAL AGENCY TO ISSUE WARNING OF HEIGHTENED RISK OF MEGAQUAKE AFTER M7.5 EARTHQUAKE OFF NORTHERN JAPAN \u2013 KYODO CITES SOURCES ...",
+      "posted_at": "2026-04-20T10:16:07+00:00",
+      "captured_at": "2026-04-20T10:16:09.257817+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1344,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939777,
+      "message_text": "JAPAN METEOROLOGICAL AGENCY TO ISSUE WARNING OF HEIGHTENED RISK OF MEGAQUAKE AFTER M7.5 EARTHQUAKE OFF NORTHERN JAPAN, KYODO SAYS, CITING UNNAMED SOURCES ...",
+      "posted_at": "2026-04-20T10:16:07+00:00",
+      "captured_at": "2026-04-20T10:16:09.475661+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1340,
       "source_chat_id": -1001263412188,
