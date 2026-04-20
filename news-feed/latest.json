@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-20T04:45:14.260098+00:00",
+  "generated_at": "2026-04-20T04:53:28.745630+00:00",
   "window_hours": 72,
-  "count": 558,
+  "count": 559,
   "news": [
+    {
+      "id": 1106,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939658,
+      "message_text": "BALTIC CLASSIFIEDS GROUP PLC SEES ITS PRICE TARGET REDUCED TO 240P BY PANMURE LIBERUM, DOWN FROM 265P. ...",
+      "posted_at": "2026-04-20T04:53:26+00:00",
+      "captured_at": "2026-04-20T04:53:28.406695+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1104,
       "source_chat_id": -1001263412188,
