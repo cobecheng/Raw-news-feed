@@ -1,8 +1,60 @@
 {
-  "generated_at": "2026-04-20T12:02:27.353104+00:00",
+  "generated_at": "2026-04-20T12:11:56.975977+00:00",
   "window_hours": 72,
-  "count": 725,
+  "count": 729,
   "news": [
+    {
+      "id": 1446,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939829,
+      "message_text": "GERMAN NEWS AGENCY: UKRAINIAN DEPUTY DEFENSE MINISTER SURVIVES RUSSIAN DRONE ATTACK ...",
+      "posted_at": "2026-04-20T12:11:55+00:00",
+      "captured_at": "2026-04-20T12:11:56.724988+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1444,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939828,
+      "message_text": "BREAKING: MICHAEL SAYLOR'S 'STRATEGY' BUYS 34,164 BITCOIN WORTH $2.55 BILLION.  ...",
+      "posted_at": "2026-04-20T12:05:55+00:00",
+      "captured_at": "2026-04-20T12:05:57.469618+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1442,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939827,
+      "message_text": "MICROSTRATEGY BUYS 34,164 BITCOIN FOR AGGREGATE PURCHASE PRICE $2.54B ...",
+      "posted_at": "2026-04-20T12:05:25+00:00",
+      "captured_at": "2026-04-20T12:05:27.685546+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1440,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939826,
+      "message_text": "[ Z ]\n\nSTRATEGY BUYS $2.54B OF BTC AT AVERAGE PRICE OF $74,395 OVER PAST WEEK: FILING ...",
+      "posted_at": "2026-04-20T12:02:55+00:00",
+      "captured_at": "2026-04-20T12:02:56.049437+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1436,
       "source_chat_id": -1001263412188,
