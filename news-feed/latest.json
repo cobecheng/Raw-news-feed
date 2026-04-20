@@ -1,8 +1,60 @@
 {
-  "generated_at": "2026-04-20T13:47:47.477228+00:00",
+  "generated_at": "2026-04-20T13:53:48.089057+00:00",
   "window_hours": 72,
-  "count": 830,
+  "count": 834,
   "news": [
+    {
+      "id": 1660,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939936,
+      "message_text": "ECB'S PEREIRA: ECONOMIC DAMAGE OF IRAN WAR HAS YET TO SHOW. ...",
+      "posted_at": "2026-04-20T13:53:45+00:00",
+      "captured_at": "2026-04-20T13:53:47.719478+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1658,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939935,
+      "message_text": "*IEA'S BIROL SAYS FUEL PROBLEMS TO START MOVING TO EUROPE ...",
+      "posted_at": "2026-04-20T13:48:45+00:00",
+      "captured_at": "2026-04-20T13:48:46.354274+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1654,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939933,
+      "message_text": "IRAN: US NOT SERIOUS ABOUT TALKS, WILL FACE DECISIVE RESPONSE IF IT REPEATS PAST MISTAKES ...",
+      "posted_at": "2026-04-20T13:48:44+00:00",
+      "captured_at": "2026-04-20T13:48:45.878493+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1656,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939934,
+      "message_text": "TRUMP DISMISSES $3 GAS TIMELINE\n\nTRUMP SAYS GAS PRICES WILL FALL AS SOON AS THE IRAN CONFLICT ENDS, REJECTING HIS ENERGY SECRETARY\u2019S VIEW THAT PRICES MAY STAY ABOVE $3 UNTIL NEXT YEAR.\n\nGAS IS CURRENTLY AROUND $4, WITH OIL NEAR $90+, AS SUPPLY DISRUPTIONS AND TENSIONS IN THE STRAIT OF HORMUZ KEEP PRICES ELEVATED. ...",
+      "posted_at": "2026-04-20T13:48:44+00:00",
+      "captured_at": "2026-04-20T13:48:46.116949+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1650,
       "source_chat_id": -1001263412188,
