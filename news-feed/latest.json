@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T03:55:10.421529+00:00",
+  "generated_at": "2026-04-20T04:03:12.975445+00:00",
   "window_hours": 72,
-  "count": 545,
+  "count": 547,
   "news": [
+    {
+      "id": 1082,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939646,
+      "message_text": "GERMANY TO BEGIN PRIVATISATION OF SEIZED GAZPROM DIVISION- FT ...",
+      "posted_at": "2026-04-20T04:03:10+00:00",
+      "captured_at": "2026-04-20T04:03:12.628254+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1080,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939645,
+      "message_text": "THAILAND IS CONSIDERING RAISING ITS PUBLIC DEBT CEILING, ACCORDING TO THE DEPUTY PM. ...",
+      "posted_at": "2026-04-20T03:56:11+00:00",
+      "captured_at": "2026-04-20T03:56:12.979704+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1078,
       "source_chat_id": -1001263412188,
