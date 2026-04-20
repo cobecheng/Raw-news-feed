@@ -1,8 +1,60 @@
 {
-  "generated_at": "2026-04-20T08:08:34.555984+00:00",
+  "generated_at": "2026-04-20T08:15:33.671754+00:00",
   "window_hours": 72,
-  "count": 633,
+  "count": 637,
   "news": [
+    {
+      "id": 1262,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939736,
+      "message_text": "TOYOTA, CATL IN PARTNERSHIP TO MAKE HYBRID CAR BATTERIES: DETIK ...",
+      "posted_at": "2026-04-20T08:15:32+00:00",
+      "captured_at": "2026-04-20T08:15:33.356196+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1260,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939735,
+      "message_text": "HOKKAIDO ELEC: NO ABNORMALITIES TO NUKE, THERMAL PLANT ...",
+      "posted_at": "2026-04-20T08:13:02+00:00",
+      "captured_at": "2026-04-20T08:13:02.904526+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1256,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939733,
+      "message_text": "TSUNAMI MAY HAVE ALREADY REACHED IWATE- NHK ...",
+      "posted_at": "2026-04-20T08:12:05+00:00",
+      "captured_at": "2026-04-20T08:12:07.314317+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1258,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939734,
+      "message_text": "TSUNAMI MAY HAVE ALREADY REACHED IWATE- NHK ...",
+      "posted_at": "2026-04-20T08:12:05+00:00",
+      "captured_at": "2026-04-20T08:12:07.588837+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1254,
       "source_chat_id": -1001263412188,
