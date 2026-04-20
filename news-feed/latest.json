@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T10:57:26.124702+00:00",
+  "generated_at": "2026-04-20T11:11:25.735088+00:00",
   "window_hours": 72,
-  "count": 698,
+  "count": 700,
   "news": [
+    {
+      "id": 1388,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939800,
+      "message_text": "CHINA'S PREMIER LI: TO EXPLORE RENEWABLE ENERGY SUPPLY POTENTIAL- CCTV ...",
+      "posted_at": "2026-04-20T11:11:24+00:00",
+      "captured_at": "2026-04-20T11:11:25.497027+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1386,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939798,
+      "message_text": "\ud83c\udf05 Market News Digest  \nApril 19-20, 2026, EST\n\n\ud83d\udd25 Top Stories  \n\u2022 UAE seeks US financial safety net amid Iran tensions \u2014 discussions include currency swap proposals.  \n\u2022 Iran resumes Strait of Hormuz closure, escalating oil prices \u2014 Brent jumps over $96/B, oil surges 7.5%.  \n\u2022 US seizes Iranian ship, Iran vows retaliation \u2014 maritime clashes intensify, risks of conflict rise.  \n\u2022 Bulgarian election: Radev\u2019s party leads \u2014 early results show 43-44.6%.  \n\u2022 Elon Musk\u2019s Lilly in $2B+ bid for Kelonia Therapeutics \u2014 advancing cancer biotech.\n\n\u26fd Oil & Energy  \n\u2022 Iran closes Hormuz again, oil jumps 7.3% \u2014 Brent hits $96.94/B.  \n\u2022 US crude hits $91.20/B, up $7+ \u2014 energy markets volatile amid Middle East tensions.  \n\u2022 European gas rises 9.8% \u2014 Iran\u2019s Strait closure fuels energy supply fears.  \n\u2022 Iran\u2019s military claims drone strikes on US ships \u2014 escalation in maritime conflict.  \n\u2022 Oil tankers resume Hormuz transit \u2014 some ships pass through, but overall traffic remains disrupted.\n\n\ud83d\udcca Markets & Macro  \n\u2022 S&P futures down 1%, Nasdaq futures nearly 1% \u2014 market sentiment cautious amid geopolitical risks.  \n\u2022 Asian stocks mixed; Nikkei up 0.4%, KOSPI down 0.2% \u2014 regional impact of Middle East tensions.  \n\u2022 Yields rise on US Treasuries \u2014 10Y at 3.23%, 30Y at 3.565%, amid conflict fears.  \n\u2022 Japan\u2019s bond yields ease slightly \u2014 10Y at 2.40%, 5Y at 1.82%.  \n\u2022 US dollar index above 98 \u2014 safe-haven flows strengthen the dollar.\n\n\ud83c\udf0d Geopolitical  \n\u2022 Iran\u2019s top officials deny negotiations, vow resistance \u2014 no second Iran-US talks planned.  \n\u2022 Iran\u2019s envoy in Moscow affirms control over Hormuz \u2014 rejects US claims, emphasizes legal transit.  \n\u2022 Pakistan mediates Iran-US talks; Hormuz blockade remains key hurdle.  \n\u2022 Russia\u2019s Kremlin hopes negotiations avoid regional fallout \u2014 offers to assist if needed.  \n\u2022 Israel advises civilians in Lebanon amid ongoing conflict \u2014 heightened regional security concerns.\n\n\ud83e\ude99 Crypto & DeFi  \n\u2022 Bitcoin dips below $74,000 \u2014 after Iran rejects peace talks, market reacts.  \n\u2022 Crypto inflows hit $1.4B \u2014 strongest weekly since January, indicating investor interest.  \n\u2022 Rave crypto crashes 98%, erasing $6.7B \u2014 extreme volatility amid geopolitical turmoil.\n\n\ud83c\udfdb\ufe0f Regulatory & Policy  \n\u2022 US considers tariffs\u2019 refunds after court ruling \u2014 tariffs declared unconstitutional, refunds available.  \n\u2022 EU to potentially share jet fuel stocks \u2014 energy cooperation discussions.  \n\u2022 Japan to ban Chinese IT products in local governments \u2014 tech security measures tighten.  \n\u2022 Germany begins privatization of Gazprom division \u2014 energy sector restructuring.  \n\u2022 India to tighten online content rules \u2014 reshaping creator economy.\n\n\ud83c\udfe2 Corporate  \n\u2022 Elon Lilly in $2B+ bid for Kelonia \u2014 advancing biotech M&A.  \n\u2022 Samsung starts manufacturing chips for NVIDIA \u2014 new VERA Rubin processors.  \n\u2022 Barclays raises target on State Street to $165 \u2014 optimistic on bank\u2019s prospects.  \n\u2022 Jefferies ups Target on Prologis to $163 \u2014 positive outlook on logistics REITs.  \n\u2022 S&P Global raises Target on Bank First to $157 \u2014 strong regional bank performance.\n\nDigested by *MarketClaw* \ud83d\udc3e \u2014 283 headlines processed",
+      "posted_at": "2026-04-20T11:00:19+00:00",
+      "captured_at": "2026-04-20T11:00:20.169712+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1384,
       "source_chat_id": -1001263412188,
