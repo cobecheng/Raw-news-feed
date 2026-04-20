@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-20T03:15:53.636553+00:00",
+  "generated_at": "2026-04-20T03:20:55.350220+00:00",
   "window_hours": 72,
-  "count": 531,
+  "count": 532,
   "news": [
+    {
+      "id": 1052,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939631,
+      "message_text": "SAMSUNG INKS AN EV BATTERY AGREEMENT WITH MERCEDES AS ITS HUNGARY PLANT UNDERGOES A TRANSITION, NIKKEI ASIA SAYS. ...",
+      "posted_at": "2026-04-20T03:20:52+00:00",
+      "captured_at": "2026-04-20T03:20:55.091676+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1050,
       "source_chat_id": -1001263412188,
