@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T01:33:20.617056+00:00",
+  "generated_at": "2026-04-20T01:40:21.397108+00:00",
   "window_hours": 72,
-  "count": 506,
+  "count": 509,
   "news": [
+    {
+      "id": 1006,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939608,
+      "message_text": "QANTAS LONG-HAUL PILOT GROUP HAS VOTED AGAINST THE PROPOSED ENTERPRISE AGREEMENT, ACCORDING TO THE AUSTRALIAN FEDERATION OF AIR PILOTS. ...",
+      "posted_at": "2026-04-20T01:40:19+00:00",
+      "captured_at": "2026-04-20T01:40:21.156646+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1004,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939607,
+      "message_text": "TAIWAN\u2019S MAIN STOCK INDEX CLIMBS AS MUCH AS 1.4% TO A RECORD LEVEL OF 37,303.56 POINTS. ...",
+      "posted_at": "2026-04-20T01:37:49+00:00",
+      "captured_at": "2026-04-20T01:37:50.725644+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1002,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939606,
+      "message_text": "SOUTH KOREA TARGETS INDIA, VIETNAM IN \u2018CO-PROSPERITY\u2019 PUSH FOR TRADE AND TECH-SCMP ...",
+      "posted_at": "2026-04-20T01:36:48+00:00",
+      "captured_at": "2026-04-20T01:36:49.168829+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1000,
       "source_chat_id": -1001263412188,
