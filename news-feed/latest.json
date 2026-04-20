@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T20:16:13.389974+00:00",
+  "generated_at": "2026-04-20T20:30:22.251183+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 2234,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940223,
+      "message_text": "\ud83c\udf06 Market News Digest  \nApril 20, 2026 EST\n\n\ud83d\udd25 Top Stories  \n\u2022 U.S. and Iran negotiations face uncertainty amid conflicting signals \u2014 Iran signals willingness for talks, but Tehran\u2019s officials express mistrust and delay, while Trump dismisses a possible ceasefire extension.  \n\u2022 Global energy markets remain volatile; oil surges on geopolitical tensions \u2014 Brent hits $95.48, US crude at $89.61, as Strait of Hormuz traffic collapses and Iran\u2019s blockade impacts supply.  \n\u2022 European stocks decline sharply; ECB signals cautious stance \u2014 DAX down 1.04%, CAC 40 down 1.04%, Lagarde emphasizes uncertainty and the need for data before policy moves.  \n\u2022 US equities close mixed; tech and financials see notable moves \u2014 S&P down 0.24%, Nasdaq down 0.30%, with Bitcoin inflows exceeding $100M in first week of April.  \n\u2022 Major geopolitical escalation in Middle East and Lebanon \u2014 Israel conducts strikes in Lebanon, US pushes for ceasefire extension, while Iran\u2019s delegation prepares for Pakistan talks amid conflicting reports.  \n\n\u26fd Oil & Energy  \n\u2022 Brent crude settles at $95.48, WTI at $89.61 amid Middle East tensions.  \n\u2022 US oil exports from Yanbu port drop 17%; Iran\u2019s blockade impacts global supply.  \n\u2022 IEA warns of \"very serious\" economic issues; reserves could be tapped again if needed.  \n\u2022 Fuel problems expected to shift from Middle East to Europe; gas prices above $4 in US, with ongoing supply disruptions.  \n\u2022 US military operations in Red Sea continue; Iran\u2019s ships redirected toward US, while oil prices surge.\n\n\ud83d\udcca Markets & Macro  \n\u2022 US stock indices hover near flat; Dow at 49,438, S&P at 7,109, Nasdaq at 24,396.  \n\u2022 US Treasury auctions: 3-month bills at 3.61%, 6-month at 3.59%.  \n\u2022 US GDP forecast for 2026 revised down to 3.1%; inflation expectations decline.  \n\u2022 US retail sales and PMI data highlight resilient consumer demand, but energy sector remains volatile.  \n\u2022 US national debt rises to $39.07T, up 164% since 2026 start.\n\n\ud83c\udf0d Geopolitical  \n\u2022 Iran refuses US pressure, delays second round of talks, citing mistrust and US violations of ceasefire.  \n\u2022 Israel prepares for potential conflict escalation; strikes in Lebanon, military on high alert.  \n\u2022 US and Pakistan discuss Iran\u2019s participation; Pakistan confident Iran will attend Pakistan talks.  \n\u2022 Russia and Iran maintain communication; Middle East conflict threatens global stability.  \n\u2022 UK warns of recession risk; 250,000 jobs at stake by 2027 due to Iran war.\n\n\ud83e\ude99 Crypto & DeFi  \n\u2022 Strategy buys 34,164 Bitcoin for $2.54B; record inflows in early April.  \n\u2022 OpenAI to release new image model; Coinbase-backed X402 launches AI bot store.  \n\u2022 Crypto hacks spike; market remains volatile amid geopolitical tensions.  \n\u2022 MicroStrategy adds 34,164 BTC; Bitcoin\u2019s price remains resilient despite macro risks.\n\n\ud83c\udfdb\ufe0f Regulatory & Policy  \n\u2022 US government to refund up to $166B in Trump-era tariffs; new customs system launched.  \n\u2022 US SEC\u2019s Paul Atkins: crypto regulation shifts from enforcement to clarity.  \n\u2022 UK and Japan invest heavily in recycling, green bonds, and critical minerals; Japan commits $6B.  \n\u2022 US Department of Justice investigates meatpackers for anti-competitive conduct.  \n\u2022 ECB signals cautious approach; Lagarde emphasizes data-driven policy amid war uncertainties.\n\n\ud83c\udfe2 Corporate  \n\u2022 Lilly to acquire Kelonia Therapeutics for up to $7B; aims to advance CAR-T therapies.  \n\u2022 Nojima to buy Hitachi appliance unit for over $630M; boost product development.  \n\u2022 Morgan Stanley\u2019s Bitcoin ETF sees $100M inflow in first week.  \n\u2022 Commerzbank rejects Unicredit\u2019s hostile takeover approach.  \n\u2022 Meta reports worker shortages hindering US data center expansion.\n\nDigested by *MarketClaw* \ud83d\udc3e \u2014 423 messages scanned",
+      "posted_at": "2026-04-20T20:30:20+00:00",
+      "captured_at": "2026-04-20T20:30:21.968419+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 2232,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940222,
+      "message_text": "WHITE HOUSE ISSUES DPA MEMO ON NATURAL GAS & LARGE-SCALE ENERGY.\n\nTHE WHITE HOUSE ISSUES A DPA MEMO ON DOMESTIC PETROLEUM PRODUCTION. - FINANCIALJUICE ...",
+      "posted_at": "2026-04-20T20:20:27+00:00",
+      "captured_at": "2026-04-20T20:20:29.878238+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 2230,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "IRAN'S PARLIAMENT SPEAKER GHALIBAF: ANY CURRENT TRAFFIC THROUGH STRAIT IS UNDER OUR CONTROL. IF US BLOCKADE CONTINUES, PASSAGE THROUGH THE STRAIT OF HORMUZ WILL BE RESTRICTED\n\nIRAN'S PARLIAMENT SPEAKER GHALIBAF: US AND IRAN NEGOTIATING TEAMS NOW HAVE A MORE PRAGMATIC UNDERSTANDING OF EACH OTHER. - FINANCIALJUICE ...",
       "posted_at": "2026-04-18T22:22:18+00:00",
       "captured_at": "2026-04-18T22:22:19.540632+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 234,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939220,
-      "message_text": "IRAN'S PARLIAMENT SPEAKER GHALIBAF: US AND IRAN NEGOTIATING TEAMS NOW HAVE A MORE PRAGMATIC UNDERSTANDING OF EACH OTHER.\n\nIRAN'S PARLIAMENT SPEAKER GHALIBAF: MUST GET ASSURANCES US OR ZIONIST ENTITY WON'T WAGE WAR AGAINST IRAN AGAIN. - FINANCIALJUICE ...",
-      "posted_at": "2026-04-18T22:19:18+00:00",
-      "captured_at": "2026-04-18T22:19:19.685178+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 232,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939219,
-      "message_text": "IRAN'S PARLIAMENT SPEAKER GHALIBAF: MUST GET ASSURANCES US OR ZIONIST ENTITY WON'T WAGE WAR AGAINST IRAN AGAIN.\n\nIRAN'S PARLIAMENT SPEAKER GHALIBAF: WE HAVE MADE PROGRESS IN NEGOTIATIONS WITH THE US, YET THERE IS STILL A SIGNIFICANT DISTANCE - STATE TV. - FINANCIALJUICE ...",
-      "posted_at": "2026-04-18T22:18:33+00:00",
-      "captured_at": "2026-04-18T22:18:35.330517+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
