@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T09:58:52.605619+00:00",
+  "generated_at": "2026-04-20T10:05:23.989013+00:00",
   "window_hours": 72,
-  "count": 670,
+  "count": 673,
   "news": [
+    {
+      "id": 1334,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939772,
+      "message_text": "DIGITAL ASSET INVESTMENT PRODUCTS SAW INFLOWS OF $1.4BN, THE STRONGEST WEEKLY TOTAL SINCE JANUARY AND A THIRD CONSECUTIVE WEEK OF POSITIVE FLOWS  ...",
+      "posted_at": "2026-04-20T10:05:21+00:00",
+      "captured_at": "2026-04-20T10:05:23.665613+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1332,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939771,
+      "message_text": "BREAKING: BUSINESSES CAN CLAIM REFUNDS STARTING TODAY FOR TRUMP TARIFFS DECLARED UNCONSTITUTIONAL, PER AP ...",
+      "posted_at": "2026-04-20T10:01:22+00:00",
+      "captured_at": "2026-04-20T10:01:24.589905+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1330,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939770,
+      "message_text": "IRAQI OIL MINISTRY TO AL JAZEERA: OIL EXPORTS VIA THE KIRKUK-JIHAN LINE WILL BEGIN WITHIN DAYS AT A RATE OF 500,000 BARRELS PER DAY ...",
+      "posted_at": "2026-04-20T10:01:21+00:00",
+      "captured_at": "2026-04-20T10:01:24.269002+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1328,
       "source_chat_id": -1001263412188,
