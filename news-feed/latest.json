@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T08:43:51.225830+00:00",
+  "generated_at": "2026-04-20T08:58:50.688921+00:00",
   "window_hours": 72,
-  "count": 647,
+  "count": 649,
   "news": [
+    {
+      "id": 1284,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939747,
+      "message_text": "PAKISTANI SECURITY SOURCE: PAKISTAN ARMY CHIEF MUNIR SPOKE TO TRUMP, TOLD HIM HORMUZ BLOCKADE IS HURDLE TO TALKS. ...",
+      "posted_at": "2026-04-20T08:58:49+00:00",
+      "captured_at": "2026-04-20T08:58:50.191448+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1286,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939748,
+      "message_text": "PAKISTANI SECURITY SOURCE: TRUMP TOLD MUNIR HE WOULD CONSIDER HIS ADVICE. ...",
+      "posted_at": "2026-04-20T08:58:49+00:00",
+      "captured_at": "2026-04-20T08:58:50.457133+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1282,
       "source_chat_id": -1001263412188,
