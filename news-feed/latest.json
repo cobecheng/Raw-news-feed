@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T02:48:50.094368+00:00",
+  "generated_at": "2026-04-20T02:54:34.751776+00:00",
   "window_hours": 72,
-  "count": 525,
+  "count": 527,
   "news": [
+    {
+      "id": 1042,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939626,
+      "message_text": "BARCLAYS INCREASES ITS TARGET PRICE ON STATE STREET CORP TO $165 VERSUS $152 EARLIER. ...",
+      "posted_at": "2026-04-20T02:54:33+00:00",
+      "captured_at": "2026-04-20T02:54:34.486344+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1040,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939625,
+      "message_text": "AUD/USD PRICE FORECAST: LOOKS TO BUILD ON MOMENTUM ABOVE MID-0.7100S AMID BULLISH SETUP-FX ...",
+      "posted_at": "2026-04-20T02:53:33+00:00",
+      "captured_at": "2026-04-20T02:53:34.915248+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1038,
       "source_chat_id": -1001263412188,
