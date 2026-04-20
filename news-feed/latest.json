@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T13:15:14.950792+00:00",
+  "generated_at": "2026-04-20T13:20:16.199663+00:00",
   "window_hours": 72,
-  "count": 790,
+  "count": 793,
   "news": [
+    {
+      "id": 1578,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939895,
+      "message_text": "SECOND ROUND OF TALKS BETWEEN ISRAEL AND LEBANON WILL TAKE PLACE ON THURSDAY IN WASHINGTON - ISRAELI MEDIA ...",
+      "posted_at": "2026-04-20T13:20:13+00:00",
+      "captured_at": "2026-04-20T13:20:15.949395+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1576,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939894,
+      "message_text": "SECOND ROUND OF TALKS BETWEEN ISRAEL AND LEBANON WILL TAKE PLACE ON THURSDAY IN WASHINGTON - ISRAELI MEDIA ...",
+      "posted_at": "2026-04-20T13:19:42+00:00",
+      "captured_at": "2026-04-20T13:19:45.704460+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1574,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939893,
+      "message_text": "THE US FEDERAL AVIATION ADMINISTRATION HAS BROUGHT IN PALANTIR, $PLTR,  TO COMPETE ON A NEW ARTIFICIAL INTELLIGENCE TOOL FOR AIR TRAFFIC MANAGEMENT, PER BLOOMBERG. ...",
+      "posted_at": "2026-04-20T13:17:15+00:00",
+      "captured_at": "2026-04-20T13:17:17.856866+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1572,
       "source_chat_id": -1001263412188,
