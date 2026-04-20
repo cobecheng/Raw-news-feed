@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T02:26:33.451159+00:00",
+  "generated_at": "2026-04-20T02:36:34.263760+00:00",
   "window_hours": 72,
-  "count": 520,
+  "count": 523,
   "news": [
+    {
+      "id": 1034,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939622,
+      "message_text": "THE INFORMATION REPORTS THAT POLYMARKET IS SEEKING NEW FUNDING AT AN APPROXIMATELY $15 BILLION VALUATION. ...",
+      "posted_at": "2026-04-20T02:36:32+00:00",
+      "captured_at": "2026-04-20T02:36:34.022406+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1032,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939621,
+      "message_text": "OIL PRICES ROSE IN EARLY TRADING SUNDAY AS A STANDOFF BETWEEN IRAN AND THE U.S. PREVENTED TANKERS FROM USING THE STRAIT OF HORMUZ, THE PERSIAN GULF WATERWAY THAT IS CRUCIAL TO GLOBAL ENERGY SUPPLIES-CBS ...",
+      "posted_at": "2026-04-20T02:30:34+00:00",
+      "captured_at": "2026-04-20T02:30:36.427421+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1030,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939620,
+      "message_text": "*MSCI EMERGING-MARKETS STOCKS INDEX ERASES IRAN WAR LOSSES ...",
+      "posted_at": "2026-04-20T02:27:32+00:00",
+      "captured_at": "2026-04-20T02:27:33.640740+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1028,
       "source_chat_id": -1001263412188,
