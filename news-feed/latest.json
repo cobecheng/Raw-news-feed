@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T00:21:20.986646+00:00",
+  "generated_at": "2026-04-20T00:27:16.559239+00:00",
   "window_hours": 72,
-  "count": 472,
+  "count": 475,
   "news": [
+    {
+      "id": 938,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939574,
+      "message_text": "THE YIELD ON THE 10-YEAR JAPANESE GOVERNMENT BOND EASED BY 2 BASIS POINTS TO 2.40%. ...",
+      "posted_at": "2026-04-20T00:27:15+00:00",
+      "captured_at": "2026-04-20T00:27:16.242102+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 936,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939573,
+      "message_text": "MARKETS ACROSS ASIA-PACIFIC WERE MIXED AT THE OPEN, AS TRADERS REACTED TO HEIGHTENED GEOPOLITICAL RISKS, NOTABLY THE RECLOSURE OF THE STRAIT OF HORMUZ. ...",
+      "posted_at": "2026-04-20T00:26:01+00:00",
+      "captured_at": "2026-04-20T00:26:02.439192+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 934,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939572,
+      "message_text": "JGB FUTURES EDGE HIGHER AS INVESTORS FOCUS ON MIDEAST DEVELOPMENTS-WSJ ...",
+      "posted_at": "2026-04-20T00:21:46+00:00",
+      "captured_at": "2026-04-20T00:21:48.866952+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 932,
       "source_chat_id": -1001263412188,
