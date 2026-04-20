@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T04:03:12.975445+00:00",
+  "generated_at": "2026-04-20T04:13:13.189421+00:00",
   "window_hours": 72,
-  "count": 547,
+  "count": 549,
   "news": [
+    {
+      "id": 1086,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939648,
+      "message_text": "TD COWEN REDUCES ITS TARGET PRICE ON TOTALENERGIES  TO $102 VERSUS $106 EARLIER. ...",
+      "posted_at": "2026-04-20T04:13:10+00:00",
+      "captured_at": "2026-04-20T04:13:12.888643+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1084,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939647,
+      "message_text": "GERMANY TO BEGIN PRIVATISATION OF GAZPROM UNIT - FT\n\n ...",
+      "posted_at": "2026-04-20T04:04:10+00:00",
+      "captured_at": "2026-04-20T04:04:12.410767+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1082,
       "source_chat_id": -1001263412188,
