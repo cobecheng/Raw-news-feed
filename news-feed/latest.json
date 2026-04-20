@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T04:13:13.189421+00:00",
+  "generated_at": "2026-04-20T04:18:58.706112+00:00",
   "window_hours": 72,
-  "count": 549,
+  "count": 552,
   "news": [
+    {
+      "id": 1092,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939651,
+      "message_text": "JPMORGAN INCREASES ITS TARGET PRICE ON CARPENTER TECHNOLOGY (CRS.N) TO $465 VERSUS $394 EARLIER. ...",
+      "posted_at": "2026-04-20T04:18:56+00:00",
+      "captured_at": "2026-04-20T04:18:58.410969+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1088,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939649,
+      "message_text": "RBC REDUCES ITS TARGET PRICE ON WINGSTOP INC TO $275 VERSUS $340 EARLIER. ...",
+      "posted_at": "2026-04-20T04:14:55+00:00",
+      "captured_at": "2026-04-20T04:14:56.165887+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1090,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939650,
+      "message_text": "JUST IN: $RAVE CRYPTOCURRENCY FALLS 98% TO $0.5, ERASING $6.7 BILLION FROM ITS MARKET CAP IN TWO DAYS.  ...",
+      "posted_at": "2026-04-20T04:14:55+00:00",
+      "captured_at": "2026-04-20T04:14:56.455492+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1086,
       "source_chat_id": -1001263412188,
