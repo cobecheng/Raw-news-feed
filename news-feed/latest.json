@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-20T02:17:38.801793+00:00",
+  "generated_at": "2026-04-20T02:26:33.451159+00:00",
   "window_hours": 72,
-  "count": 519,
+  "count": 520,
   "news": [
+    {
+      "id": 1028,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939619,
+      "message_text": "N. KOREA SAYS IT TESTED IMPROVED BALLISTIC MISSILES WITH CLUSTER MUNITIONS-KYODO ...",
+      "posted_at": "2026-04-20T02:26:32+00:00",
+      "captured_at": "2026-04-20T02:26:33.197333+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1026,
       "source_chat_id": -1001263412188,
