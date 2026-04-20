@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T01:40:21.397108+00:00",
+  "generated_at": "2026-04-20T01:47:05.317118+00:00",
   "window_hours": 72,
-  "count": 509,
+  "count": 512,
   "news": [
+    {
+      "id": 1012,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939611,
+      "message_text": "IRAN SAYS IT LAUNCHED DRONE ATTACKS ON U.S. MILITARY VESSELS IN RESPONSE TO THE U.S. STRIKING AND SEIZING AN IRANIAN CARGO SHIP IN THE STRAIT OF HORMUZ, ACCORDING TO TASNIM. ...",
+      "posted_at": "2026-04-20T01:47:04+00:00",
+      "captured_at": "2026-04-20T01:47:04.980124+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1010,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939610,
+      "message_text": "EUROPEAN EQUITY FUTURES FALL, AS EUROSTOXX 50 AND DAX CONTRACTS DROP BY MORE THAN 1%. ...",
+      "posted_at": "2026-04-20T01:42:03+00:00",
+      "captured_at": "2026-04-20T01:42:05.816440+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1008,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939609,
+      "message_text": "ACCORDING TO THE AUSTRALIAN FEDERATION OF AIR PILOTS, THE DEAL\u2019S PAY INCREASES ARE UNLIKELY TO KEEP UP WITH INFLATION FORECASTS. ...",
+      "posted_at": "2026-04-20T01:41:03+00:00",
+      "captured_at": "2026-04-20T01:41:03.993297+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1006,
       "source_chat_id": -1001263412188,
