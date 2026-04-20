@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T10:51:23.517408+00:00",
+  "generated_at": "2026-04-20T10:57:26.124702+00:00",
   "window_hours": 72,
-  "count": 695,
+  "count": 698,
   "news": [
+    {
+      "id": 1384,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939797,
+      "message_text": "THE TRUMP ADMINISTRATION PLANS TO OFFER AT LEAST 400,000 ACRES IN ALASKA\u2019S ARCTIC NATIONAL WILDLIFE REFUGE FOR OIL AND GAS DRILLING RIGHTS IN JUNE, PER BLOOMBERG ...",
+      "posted_at": "2026-04-20T10:57:23+00:00",
+      "captured_at": "2026-04-20T10:57:25.795078+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1382,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939796,
+      "message_text": "SPAIN\u2019S ENERGY MINISTER: IF EU REQUIRES SHARING JET FUEL STOCK, WE\u2019LL ACTIVELY PARTICIPATE ...",
+      "posted_at": "2026-04-20T10:53:23+00:00",
+      "captured_at": "2026-04-20T10:53:24.622606+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1380,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939795,
+      "message_text": "PAKISTANI MEDIATOR CONVEYED SOME NEWS TO THE IRANIAN SIDE REGARDING THE LIFTING OF THE SIEGE ON IRANIAN PORTS, AND A NEW HIGH-LEVEL MEETING MAY SOON DECIDE ON THE ISSUE OF IRAN'S PARTICIPATION IN A NEW ROUND OF NEGOTIATIONS WITH WASHINGTON IN ISLAMABAD. BY THE EVENING OF THIS DAY, THE PICTURE MAY BECOME CLEARER UNLESS UNEXPECTED POSTS EMERGE FROM WASHINGTON ...",
+      "posted_at": "2026-04-20T10:52:52+00:00",
+      "captured_at": "2026-04-20T10:52:54.575571+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1378,
       "source_chat_id": -1001263412188,
