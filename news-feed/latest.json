@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T03:41:25.941367+00:00",
+  "generated_at": "2026-04-20T03:48:42.793078+00:00",
   "window_hours": 72,
-  "count": 540,
+  "count": 542,
   "news": [
+    {
+      "id": 1072,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939641,
+      "message_text": "BAT SEES ITS PRICE TARGET REDUCED BY ALPHAVALUE TO 4,233P, DOWN FROM 4,272P. ...",
+      "posted_at": "2026-04-20T03:48:40+00:00",
+      "captured_at": "2026-04-20T03:48:42.551448+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1070,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939640,
+      "message_text": "EURO PARES DECLINES AND MOVES LITTLE CHANGED AT $1.1762. ...",
+      "posted_at": "2026-04-20T03:45:09+00:00",
+      "captured_at": "2026-04-20T03:45:11.123124+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1068,
       "source_chat_id": -1001263412188,
