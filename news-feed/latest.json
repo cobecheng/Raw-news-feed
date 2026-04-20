@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T15:21:03.597665+00:00",
+  "generated_at": "2026-04-20T15:26:04.364764+00:00",
   "window_hours": 72,
-  "count": 935,
+  "count": 937,
   "news": [
+    {
+      "id": 1868,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940040,
+      "message_text": "\ud83d\udd34AN IRANIAN DELEGATION WOULD TRAVEL TO PAKISTAN ON TUESDAY. - THE NEW YORK TIMES, CITING TWO IRANIAN OFFICIALS ...",
+      "posted_at": "2026-04-20T15:26:02+00:00",
+      "captured_at": "2026-04-20T15:26:04.107638+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1866,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940039,
+      "message_text": "US TO HOST TALKS BETWEEN ISRAEL AND LEBANON ON APRIL 23RD - AXIOS ...",
+      "posted_at": "2026-04-20T15:21:32+00:00",
+      "captured_at": "2026-04-20T15:21:34.678325+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1864,
       "source_chat_id": -1001263412188,
