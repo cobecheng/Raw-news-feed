@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T01:03:05.892972+00:00",
+  "generated_at": "2026-04-20T01:13:49.308424+00:00",
   "window_hours": 72,
-  "count": 496,
+  "count": 499,
   "news": [
+    {
+      "id": 986,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939598,
+      "message_text": "THE SOUTH KOREAN KOSPI (.KS11) ADVANCES AS MUCH AS 1.1% TO 6,257.36, THE HIGHEST SINCE FEBRUARY 27. ...",
+      "posted_at": "2026-04-20T01:13:48+00:00",
+      "captured_at": "2026-04-20T01:13:49.077274+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 984,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939597,
+      "message_text": "THE OVERNIGHT INTERBANK RATE IN TAIWAN OPENS AT 0.805%, UNCHANGED VERSUS THE PREVIOUS SESSION\u2019S OPENING. ...",
+      "posted_at": "2026-04-20T01:04:19+00:00",
+      "captured_at": "2026-04-20T01:04:21.301314+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 982,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939596,
+      "message_text": "CHINA LEAVES ITS 5-YEAR LOAN PRIME RATE STEADY AT 3.50% FOR THE CURRENT MONTH. ...",
+      "posted_at": "2026-04-20T01:03:17+00:00",
+      "captured_at": "2026-04-20T01:03:19.113076+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 980,
       "source_chat_id": -1001263412188,
