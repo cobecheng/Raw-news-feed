@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-20T19:12:11.874783+00:00",
+  "generated_at": "2026-04-20T19:17:14.124090+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 2202,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940207,
+      "message_text": "TRUMP: THE IRANIAN LEADERSHIP HAS FORCED HUNDREDS OF SHIPS TOWARD THE UNITED STATES, MOSTLY TEXAS, LOUISIANA, AND ALASKA, TO GET THEIR OIL ...",
+      "posted_at": "2026-04-20T19:17:11+00:00",
+      "captured_at": "2026-04-20T19:17:13.782346+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 2200,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "KELP DAO'S RSETH BRIDGE APPARENTLY EXPLOITED FOR ROUGHLY $292 MILLION IN LAYERZERO-BASED ATTACK ...",
       "posted_at": "2026-04-18T19:24:01+00:00",
       "captured_at": "2026-04-18T19:24:02.981137+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 203,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939204,
-      "message_text": "HERE\u2019S HOW MEHDI TABATABAEI, SPOKESPERSON FOR THE IRANIAN PRESIDENT\u2019S OFFICE, EXPLAINS THE REASONING BEHIND CLOSING THE STRAIT:\n\n\u201cIRAN ENABLED CONDITIONAL PASSAGE THROUGH THE STRAIT OF HORMUZ AS A DEMONSTRATION OF ITS GOODWILL AND PEACEFUL INTENTIONS. WITH REPEATED BREACHES OF TRUST AND EXPLOITATION OF THIS GREAT CONCESSION FOR PROPAGANDA PURPOSES, THE STRAIT WAS BLOCKED AGAIN.\u201d ...",
-      "posted_at": "2026-04-18T19:22:27+00:00",
-      "captured_at": "2026-04-18T19:22:30.220153+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
