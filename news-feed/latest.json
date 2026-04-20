@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-20T12:48:13.828800+00:00",
+  "generated_at": "2026-04-20T12:55:44.712099+00:00",
   "window_hours": 72,
-  "count": 769,
+  "count": 770,
   "news": [
+    {
+      "id": 1530,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939871,
+      "message_text": "JUST IN: TOM LEE'S 'BITMINE' BUYS 101,627 $ETH WORTH $235 MILLION.  ...",
+      "posted_at": "2026-04-20T12:55:42+00:00",
+      "captured_at": "2026-04-20T12:55:44.456436+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1528,
       "source_chat_id": -1001263412188,
