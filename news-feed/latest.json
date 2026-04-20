@@ -1,8 +1,60 @@
 {
-  "generated_at": "2026-04-20T07:27:16.930500+00:00",
+  "generated_at": "2026-04-20T07:37:18.833216+00:00",
   "window_hours": 72,
-  "count": 607,
+  "count": 611,
   "news": [
+    {
+      "id": 1208,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939709,
+      "message_text": "SENIOR IRANIAN SOURCE: DIFFERENCES OVER NUCLEAR PROGRAMME REMAIN UNRESOLVED, GAPS HAVE NOT NARROWED. ...",
+      "posted_at": "2026-04-20T07:37:17+00:00",
+      "captured_at": "2026-04-20T07:37:18.323264+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1210,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939710,
+      "message_text": "SENIOR IRANIAN SOURCE: CONTINUATION OF THE US BLOCKADE ON THE STRAIT OF HORMUZ UNDERMINES IRAN-US PEACE TALKS. ...",
+      "posted_at": "2026-04-20T07:37:17+00:00",
+      "captured_at": "2026-04-20T07:37:18.549222+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1206,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939708,
+      "message_text": "IRAN'S FOREIGN MINISTRY SPOKESPERSON BAGHAEI SAYS THERE IS NO PLAN FOR A SECOND ROUND OF NEGOTIATIONS WITH U.S. FOR NOW ...",
+      "posted_at": "2026-04-20T07:31:17+00:00",
+      "captured_at": "2026-04-20T07:31:19.854196+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1204,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939707,
+      "message_text": "\ud83d\udd34IRAN'S FOREIGN MINISTRY SPOKESPERSON BAGHAEI: THERE IS NO PLAN FOR A SECOND ROUND OF NEGOTIATIONS WITH THE US FOR NOW ...",
+      "posted_at": "2026-04-20T07:31:16+00:00",
+      "captured_at": "2026-04-20T07:31:17.119676+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1202,
       "source_chat_id": -1001263412188,
