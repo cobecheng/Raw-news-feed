@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-20T07:10:31.849885+00:00",
+  "generated_at": "2026-04-20T07:16:31.533708+00:00",
   "window_hours": 72,
-  "count": 601,
+  "count": 602,
   "news": [
+    {
+      "id": 1192,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939701,
+      "message_text": "PAKISTAN HAS INTENSIFIED DIPLOMATIC CONTACTS SINCE SUNDAY WITH WASHINGTON AND TEHRAN TO ENSURE TALKS PROCEED AS SOON AS TUESDAY- AP ...",
+      "posted_at": "2026-04-20T07:16:30+00:00",
+      "captured_at": "2026-04-20T07:16:31.208237+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1190,
       "source_chat_id": -1001263412188,
