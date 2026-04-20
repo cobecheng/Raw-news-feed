@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T11:24:10.458108+00:00",
+  "generated_at": "2026-04-20T11:32:41.375962+00:00",
   "window_hours": 72,
-  "count": 706,
+  "count": 708,
   "news": [
+    {
+      "id": 1404,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939808,
+      "message_text": "CHINA'S GRAIN PRODUCTION EXPECTED TO REACH 716 MILLION TONNES IN 2026. ...",
+      "posted_at": "2026-04-20T11:32:39+00:00",
+      "captured_at": "2026-04-20T11:32:41.122966+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1402,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939807,
+      "message_text": "SENIOR LEBANESE POLITICIAN ALI HASSAN KHALIL: ISRAELI FORCES HAVE CARRIED OUT VARYING DEGREES OF DESTRUCTION IN 39 VILLAGES THEY OCCUPY IN SOUTHERN LEBANON ...",
+      "posted_at": "2026-04-20T11:24:39+00:00",
+      "captured_at": "2026-04-20T11:24:41.786504+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1400,
       "source_chat_id": -1001263412188,
