@@ -1,8 +1,60 @@
 {
-  "generated_at": "2026-04-20T05:38:30.340648+00:00",
+  "generated_at": "2026-04-20T05:57:15.792871+00:00",
   "window_hours": 72,
-  "count": 575,
+  "count": 579,
   "news": [
+    {
+      "id": 1146,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939678,
+      "message_text": "ORIENT SECURITIES BUYOUT TO CREATE US$85B BROKERAGE AMID CONSOLIDATION PUSH-FT ...",
+      "posted_at": "2026-04-20T05:57:13+00:00",
+      "captured_at": "2026-04-20T05:57:15.547516+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1144,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939677,
+      "message_text": "ACCORDING TO VEDOMOSTI, IRAN\u2019S ENVOY IN MOSCOW HAS DENIED CLAIMS THAT RUSSIA IS PROVIDING INTELLIGENCE SUPPORT TO TEHRAN. ...",
+      "posted_at": "2026-04-20T05:42:00+00:00",
+      "captured_at": "2026-04-20T05:42:03.531374+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1142,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939676,
+      "message_text": "ACCORDING TO VEDOMOSTI, IRAN\u2019S ENVOY IN MOSCOW STATED THAT THE SECURITY OF TRANSIT THROUGH THE STRAIT OF HORMUZ IS MAINTAINED UNDER A DEFINED LEGAL REGIME. ...",
+      "posted_at": "2026-04-20T05:40:58+00:00",
+      "captured_at": "2026-04-20T05:41:00.485612+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1140,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939675,
+      "message_text": "IRANIAN ENVOY IN MOSCOW STATES THAT NATIONAL UNITY HAS STRENGTHENED AND RESOLVE REMAINS FIRM, VEDOMOSTI REPORTS. ...",
+      "posted_at": "2026-04-20T05:38:58+00:00",
+      "captured_at": "2026-04-20T05:38:58.614176+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1136,
       "source_chat_id": -1001263412188,
