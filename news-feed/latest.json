@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T06:37:46.953807+00:00",
+  "generated_at": "2026-04-20T06:48:16.161238+00:00",
   "window_hours": 72,
-  "count": 592,
+  "count": 594,
   "news": [
+    {
+      "id": 1176,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939693,
+      "message_text": "IFX REPORTS THAT RUSSIAN AUTHORITIES HAVE DETAINED A GERMAN NATIONAL. ...",
+      "posted_at": "2026-04-20T06:48:15+00:00",
+      "captured_at": "2026-04-20T06:48:15.898970+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1174,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939692,
+      "message_text": "TRANSLATION | HEAD OF IRAN'S JUDICIARY: WE HAVE NOT AND WILL NOT RETREAT A SINGLE STEP FROM OUR DEMANDS, AND THE ENEMY HAS SURRENDERED AND IS DEMANDING TO NEGOTIATE WITH US \n\n\u0639\u0627\u062c\u0644 | \u0631\u0626\u064a\u0633 \u0627\u0644\u0633\u0644\u0637\u0629 \u0627\u0644\u0642\u0636\u0627\u0626\u064a\u0629 \u0627\u0644\u0625\u064a\u0631\u0627\u0646\u064a\u0629: \u0644\u0645 \u0648\u0644\u0646 \u0646\u062a\u0631\u0627\u062c\u0639 \u062e\u0637\u0648\u0629 \u0648\u0627\u062d\u062f\u0629 \u0639\u0646 \u0645\u0637\u0627\u0644\u0628\u0646\u0627 \u0648\u0627\u0644\u0639\u062f\u0648 \u0627\u0633\u062a\u0633\u0644\u0645 \u0648\u064a\u0637\u0627\u0644\u0628 \u0623\u0646 \u064a\u062a\u0641\u0627\u0648\u0636 \u0645\u0639\u0646\u0627 - \u0627\u0644\u062c\u0632\u064a\u0631\u0629 - \u0639\u0627\u062c\u0644 ...",
+      "posted_at": "2026-04-20T06:48:14+00:00",
+      "captured_at": "2026-04-20T06:48:15.673386+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1172,
       "source_chat_id": -1001263412188,
