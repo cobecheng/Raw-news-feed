@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T16:31:35.932955+00:00",
+  "generated_at": "2026-04-20T16:37:20.312141+00:00",
   "window_hours": 72,
-  "count": 991,
+  "count": 993,
   "news": [
+    {
+      "id": 1980,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940096,
+      "message_text": "TRUMP SAYS THAT THE HE WILL NOT OPEN THE STRAIT OF HORMUZ UNTIL DEAL IS SIGNED. ...",
+      "posted_at": "2026-04-20T16:37:19+00:00",
+      "captured_at": "2026-04-20T16:37:20.055090+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1978,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940095,
+      "message_text": "JUST IN: \ud83c\uddfa\ud83c\uddf8 SEC CHAIR PAUL ATKINS SAYS THE AGENCY HAS ENDED \"REGULATION THROUGH ENFORCEMENT\" AGAINST CRYPTO.  ...",
+      "posted_at": "2026-04-20T16:32:50+00:00",
+      "captured_at": "2026-04-20T16:32:52.565564+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1976,
       "source_chat_id": -1001263412188,
