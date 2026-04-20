@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T09:05:06.613588+00:00",
+  "generated_at": "2026-04-20T09:20:08.180320+00:00",
   "window_hours": 72,
-  "count": 653,
+  "count": 656,
   "news": [
+    {
+      "id": 1300,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939755,
+      "message_text": "NOVO NORDISK: ETAVOPIVAT IS THE FIRST IN A NEW CLASS OF DRUGS TO MEET BOTH CO-PRIMARY ENDPOINTS IN THE PHASE 3 HIBISCUS TRIAL, SUBSTANTIALLY REDUCING VASO-OCCLUSIVE CRISIS EVENTS AND IMPROVING HAEMOGLOBIN RESPONSE IN SICKLE CELL DISEASE ...",
+      "posted_at": "2026-04-20T09:20:05+00:00",
+      "captured_at": "2026-04-20T09:20:07.860589+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1298,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939754,
+      "message_text": "FRENCH CONSERVATIVE LEADER RETAILLEAU GETS PARTY BACKING FOR PRESIDENTIAL BID - POLITICO ...",
+      "posted_at": "2026-04-20T09:09:04+00:00",
+      "captured_at": "2026-04-20T09:09:05.162933+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1296,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939753,
+      "message_text": "DEUTSCHE BANK CEO: IF IRAN WAR CONTINUES, COULD BE ANOTHER YEAR OF STAGNATION FOR GERMAN ECONOMY ...",
+      "posted_at": "2026-04-20T09:08:04+00:00",
+      "captured_at": "2026-04-20T09:08:04.837066+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1294,
       "source_chat_id": -1001263412188,
