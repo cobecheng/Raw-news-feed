@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T05:14:59.162953+00:00",
+  "generated_at": "2026-04-20T05:20:58.120897+00:00",
   "window_hours": 72,
-  "count": 566,
+  "count": 568,
   "news": [
+    {
+      "id": 1124,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939667,
+      "message_text": "US STABLECOINS POSE DANGER TO EMERGING MARKETS, SAY CENTRAL BANKERS-FT ...",
+      "posted_at": "2026-04-20T05:20:57+00:00",
+      "captured_at": "2026-04-20T05:20:57.869896+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1122,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939666,
+      "message_text": "KBW LIFTS ITS TARGET PRICE ON TRAVELERS TO $342 VERSUS $340 EARLIER. ...",
+      "posted_at": "2026-04-20T05:16:27+00:00",
+      "captured_at": "2026-04-20T05:16:29.347349+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1120,
       "source_chat_id": -1001263412188,
