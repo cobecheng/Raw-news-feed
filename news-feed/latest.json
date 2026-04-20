@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T01:25:19.890856+00:00",
+  "generated_at": "2026-04-20T01:33:20.617056+00:00",
   "window_hours": 72,
-  "count": 503,
+  "count": 506,
   "news": [
+    {
+      "id": 1000,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939605,
+      "message_text": "THE YUAN BEGINS TRADE AT 6.8229 PER DOLLAR, MARGINALLY BELOW THE PREVIOUS CLOSE OF 6.8184. ...",
+      "posted_at": "2026-04-20T01:33:18+00:00",
+      "captured_at": "2026-04-20T01:33:20.358786+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 998,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939604,
+      "message_text": "S. KOREA TO RUN PROMOTION BOOTH AT DEFENSE EXHIBITION IN MALAYSIA-YONHAP ...",
+      "posted_at": "2026-04-20T01:28:34+00:00",
+      "captured_at": "2026-04-20T01:28:35.316295+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 996,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939603,
+      "message_text": "FITCH NOTES THAT INDONESIA\u2019S MINING RULES IMPACT THE COMMODITY VALUE CHAIN DIFFERENTLY DEPENDING ON THE SEGMENT. ...",
+      "posted_at": "2026-04-20T01:27:48+00:00",
+      "captured_at": "2026-04-20T01:27:49.654706+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 994,
       "source_chat_id": -1001263412188,
