@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T09:20:08.180320+00:00",
+  "generated_at": "2026-04-20T09:32:23.494608+00:00",
   "window_hours": 72,
-  "count": 656,
+  "count": 659,
   "news": [
+    {
+      "id": 1306,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939758,
+      "message_text": "AI BOOM POISED TO BE \u2018MASSIVELY DISINFLATIONARY\u2019, NORTHERN TRUST SAYS ...",
+      "posted_at": "2026-04-20T09:32:20+00:00",
+      "captured_at": "2026-04-20T09:32:23.120446+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1304,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939757,
+      "message_text": "BOJ LIKELY TO HOLD OFF RAISING INTEREST RATES IN APRIL - SOURCES ...",
+      "posted_at": "2026-04-20T09:25:05+00:00",
+      "captured_at": "2026-04-20T09:25:06.704677+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1302,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939756,
+      "message_text": "IRAN REVIEWING US PROPOSAL DELIVERED VIA PAKISTAN: ISNA ...",
+      "posted_at": "2026-04-20T09:23:35+00:00",
+      "captured_at": "2026-04-20T09:23:38.405155+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1300,
       "source_chat_id": -1001263412188,
