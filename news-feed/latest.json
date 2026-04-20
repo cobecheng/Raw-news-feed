@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T00:01:31.812653+00:00",
+  "generated_at": "2026-04-20T00:09:17.988469+00:00",
   "window_hours": 72,
-  "count": 462,
+  "count": 464,
   "news": [
+    {
+      "id": 916,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939563,
+      "message_text": "ASIA-PAC STOCKS BEGIN MIXED AS THE REGION ATTEMPTS TO SHRUG OFF THE ESCALATORY GEOPOLITICAL HEADLINES FROM OVER THE WEEKEND, INCLUDING THE RECLOSURE OF THE STRAIT OF HORMUZ: ASX 200 (-0.5%), NIKKEI 225 (+0.7%), KOSPI (-0.2%) ...",
+      "posted_at": "2026-04-20T00:09:15+00:00",
+      "captured_at": "2026-04-20T00:09:17.741925+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 914,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939562,
+      "message_text": "CHINA WARNS STRONG EL NINO THIS YEAR MAY WORSEN GLOBAL FOSSIL FUEL CRISIS-SCMP ...",
+      "posted_at": "2026-04-20T00:05:15+00:00",
+      "captured_at": "2026-04-20T00:05:15.680982+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 912,
       "source_chat_id": -1001263412188,
