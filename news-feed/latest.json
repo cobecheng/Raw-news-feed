@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T16:00:21.673030+00:00",
+  "generated_at": "2026-04-20T16:06:19.462207+00:00",
   "window_hours": 72,
-  "count": 969,
+  "count": 972,
   "news": [
+    {
+      "id": 1938,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940075,
+      "message_text": "*COMMERZBANK REJECTS UNICREDIT\u2019S 'HOSTILE' TAKEOVER APPROACH ...",
+      "posted_at": "2026-04-20T16:06:18+00:00",
+      "captured_at": "2026-04-20T16:06:19.164405+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1936,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940074,
+      "message_text": "VOLLAND SPX DEALER PREMIUM: $507.22B\nDEALERS HAVE COLLECTED ROUGHLY $507.22B IN TOTAL OPTION PREMIUM, MARKING AN EXCEPTIONALLY LARGE PREMIUM CUSHION EMBEDDED IN SPX POSITIONING.\n\n0DTE PREMIUM IS ABOUT $3.64B TODAY, REFLECTING SOLID SAME-DAY OPTIONS ACTIVITY THAT CAN INFLUENCE INTRADAY MARKET FLOWS.\n\nNET PREMIUMS COLLECTED BY DEALERS FROM ALL OPEN POSITIONS / 0DTE PREMIUMS REPRESENT THE TOTAL PREMIUMS COLLECTED BY DEALERS TODAY \nSOURCE:  ...",
+      "posted_at": "2026-04-20T16:05:18+00:00",
+      "captured_at": "2026-04-20T16:05:21.155464+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1934,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940073,
+      "message_text": "THE ECB IS SCARRED BY ITS OWN HISTORY AND WANTS TO PROTECT ITS CREDIBILITY. TIGHTENING INTO A SUPPLY SHOCK CARRIES MORE RISK THAN EXTENDING THE PRIOR EASING CYCLE. LAGARDE AND SCHNABEL HAVE BOTH SOUNDED MORE HESITANT THIS WEEK. THE WAIT-AND-SEE POSTURE LOOKS LIKE THE RIGHT READ.  ...",
+      "posted_at": "2026-04-20T16:00:48+00:00",
+      "captured_at": "2026-04-20T16:00:50.525185+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1932,
       "source_chat_id": -1001263412188,
