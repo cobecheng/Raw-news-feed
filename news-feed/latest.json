@@ -1,8 +1,60 @@
 {
-  "generated_at": "2026-04-20T00:09:17.988469+00:00",
+  "generated_at": "2026-04-20T00:14:34.232210+00:00",
   "window_hours": 72,
-  "count": 464,
+  "count": 468,
   "news": [
+    {
+      "id": 924,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939567,
+      "message_text": "EUROPEAN NATURAL GAS FUTURES CLIMBED AS IRAN ONCE AGAIN SHUT THE STRAIT OF HORMUZ, HEIGHTENING FEARS THAT ENERGY FLOWS FROM THE PERSIAN GULF WILL STAY RESTRICTED. ...",
+      "posted_at": "2026-04-20T00:14:31+00:00",
+      "captured_at": "2026-04-20T00:14:33.991430+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 922,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939566,
+      "message_text": "SINGAPORE'S GROWTH SET TO SLOW AS ITS EXPORT-RELIANT MODEL FACES PRESSURE FROM GEOPOLITICAL STRAINS AND A FRACTURING GLOBAL TRADE LANDSCAPE. - SOURCES ...",
+      "posted_at": "2026-04-20T00:14:15+00:00",
+      "captured_at": "2026-04-20T00:14:16.539543+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 920,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939565,
+      "message_text": "PHILIPPINE BANKS MAY NEED TO INTENSIFY EFFORTS TO PERSUADE FIRMS TO HEDGE THEIR FX EXPOSURE, AS THE IRAN CONFLICT HIGHLIGHTS THE NATION'S SUSCEPTIBILITY TO GEOPOLITICAL DISRUPTIONS, A SENIOR CENTRAL BANKER STATED. ...",
+      "posted_at": "2026-04-20T00:13:45+00:00",
+      "captured_at": "2026-04-20T00:13:46.821188+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 918,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939564,
+      "message_text": "GOLD DECLINED AFTER ATTACKS ON VESSELS IN THE STRAIT OF HORMUZ REIGNITED ENERGY SUPPLY FEARS, DRIVING OIL PRICES HIGHER AND LIFTING INFLATION EXPECTATIONS, WHICH REDUCED THE APPEAL OF NON-YIELDING ASSETS LIKE BULLION. ...",
+      "posted_at": "2026-04-20T00:10:15+00:00",
+      "captured_at": "2026-04-20T00:10:18.035843+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 916,
       "source_chat_id": -1001263412188,
