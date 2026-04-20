@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-20T02:42:06.038836+00:00",
+  "generated_at": "2026-04-20T02:48:50.094368+00:00",
   "window_hours": 72,
-  "count": 524,
+  "count": 525,
   "news": [
+    {
+      "id": 1038,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939624,
+      "message_text": "STRAIT OF HORMUZ DEVELOPMENTS CAST \u2018WORRYING SHADOW\u2019 OVER U.S.-IRAN TALKS-WSJ ...",
+      "posted_at": "2026-04-20T02:48:48+00:00",
+      "captured_at": "2026-04-20T02:48:49.799612+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1036,
       "source_chat_id": -1001263412188,
