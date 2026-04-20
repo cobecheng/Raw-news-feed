@@ -1,8 +1,60 @@
 {
-  "generated_at": "2026-04-20T00:14:34.232210+00:00",
+  "generated_at": "2026-04-20T00:21:20.986646+00:00",
   "window_hours": 72,
-  "count": 468,
+  "count": 472,
   "news": [
+    {
+      "id": 932,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939571,
+      "message_text": "DONALD TRUMP SAID U.S. FORCES FIRED ON AND SEIZED AN IRAN-LINKED VESSEL NEAR THE STRAIT OF HORMUZ AFTER IT IGNORED WARNINGS, WHILE IRAN CONDEMNED THE ACTION AS A CEASEFIRE BREACH AND WARNED OF IMMINENT RETALIATION, SHARPLY ESCALATING RISKS OF FURTHER MARITIME CLASHES AND POTENTIAL DISRUPTION TO A VITAL GLOBAL OIL ROUTE. ...",
+      "posted_at": "2026-04-20T00:21:18+00:00",
+      "captured_at": "2026-04-20T00:21:20.744511+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 928,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939569,
+      "message_text": "TRUMP SAYS U.S. SEIZED IRANIAN SHIP AHEAD OF NEW ROUND OF PEACE TALKS-WSJ ...",
+      "posted_at": "2026-04-20T00:17:16+00:00",
+      "captured_at": "2026-04-20T00:17:18.471605+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 930,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939570,
+      "message_text": "CENTCOM: \u201cA U.S. SAILOR SIGNALS TO AN F/A-18E SUPER HORNET AS IT PREPARES TO LAUNCH FROM THE FLIGHT DECK OF USS ABRAHAM LINCOLN (CVN 72) DURING U.S. NAVAL BLOCKADE OPERATIONS IN REGIONAL WATERS.\u201d-BREAKING911 ...",
+      "posted_at": "2026-04-20T00:17:16+00:00",
+      "captured_at": "2026-04-20T00:17:18.691822+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 926,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939568,
+      "message_text": "IRAN CONFLICT OIL SURGE ACCELERATES ASIA'S EV TRANSFORMATION INTO HIGH GEAR. - SCMP ...",
+      "posted_at": "2026-04-20T00:15:15+00:00",
+      "captured_at": "2026-04-20T00:15:17.365803+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 924,
       "source_chat_id": -1001263412188,
