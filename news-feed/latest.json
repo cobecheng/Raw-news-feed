@@ -1,8 +1,60 @@
 {
-  "generated_at": "2026-04-20T05:07:59.324210+00:00",
+  "generated_at": "2026-04-20T05:14:59.162953+00:00",
   "window_hours": 72,
-  "count": 562,
+  "count": 566,
   "news": [
+    {
+      "id": 1120,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939665,
+      "message_text": "STATE STREET CORP SEES ITS PRICE TARGET LIFTED TO $175 BY KBW, UP FROM $157. ...",
+      "posted_at": "2026-04-20T05:14:57+00:00",
+      "captured_at": "2026-04-20T05:14:58.841162+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1118,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939664,
+      "message_text": "ISRAEL\u2019S MILITARY CAUTIONS CIVILIANS AGAINST NEARING THE LITANI RIVER, WADI SALUKI, AND SURROUNDING REGIONS IN SOUTH LEBANON. ...",
+      "posted_at": "2026-04-20T05:12:27+00:00",
+      "captured_at": "2026-04-20T05:12:28.894566+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1116,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939663,
+      "message_text": "S. KOREAN, INDIAN SPACE AUTHORITIES HOLD EVENT TO EXPLORE BILATERAL COOPERATION, BUSINESS OPPORTUNITIES-YONHAP ...",
+      "posted_at": "2026-04-20T05:09:57+00:00",
+      "captured_at": "2026-04-20T05:09:58.091704+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1114,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939662,
+      "message_text": "ISRAEL ADVISES RESIDENTS NOT TO RETURN TO VARIOUS SOUTHERN LEBANON BORDER VILLAGES UNTIL FURTHER NOTICE, CITING ONGOING SECURITY CONCERNS. ...",
+      "posted_at": "2026-04-20T05:08:59+00:00",
+      "captured_at": "2026-04-20T05:09:00.762187+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1112,
       "source_chat_id": -1001263412188,
