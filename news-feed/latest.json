@@ -1,8 +1,60 @@
 {
-  "generated_at": "2026-04-20T03:35:25.903634+00:00",
+  "generated_at": "2026-04-20T03:41:25.941367+00:00",
   "window_hours": 72,
-  "count": 536,
+  "count": 540,
   "news": [
+    {
+      "id": 1068,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939639,
+      "message_text": "JEFFERIES INCREASES ITS TARGET PRICE ON PROLOGIS TO $163 VERSUS $155 EARLIER. ...",
+      "posted_at": "2026-04-20T03:41:24+00:00",
+      "captured_at": "2026-04-20T03:41:25.665769+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1066,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939638,
+      "message_text": "ASIA-PAC MARKET UPDATES #NEWSQUAWKANALYSIS                                                                                                                                                                                                                                                                                        \n\nFOR MORE DETAILS AND/OR QUESTIONS ABOUT A SPECIFIC  ASSET, PLEASE CONTACT THE DESK VIA THE NEWSQUAWK ANALYST CHAT \ud83d\udc47                                                                                                                                                                                                                     \n\nLIVE 24HR GLOBAL SQUAWK OF MARKET TRADING NEWS WITH AUDIO ...",
+      "posted_at": "2026-04-20T03:39:24+00:00",
+      "captured_at": "2026-04-20T03:39:24.889055+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1064,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939637,
+      "message_text": "INDIA\u2019S 10-YEAR BENCHMARK GOVERNMENT BOND YIELD RISES TO 6.9094% FROM THE PREVIOUS CLOSE OF 6.9049%. ...",
+      "posted_at": "2026-04-20T03:38:24+00:00",
+      "captured_at": "2026-04-20T03:38:25.586158+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1062,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939636,
+      "message_text": "INDIA\u2019S CURRENCY OPENS AT 92.82 PER DOLLAR, SLIGHTLY FIRMER THAN THE LAST CLOSE OF 92.92. ...",
+      "posted_at": "2026-04-20T03:37:54+00:00",
+      "captured_at": "2026-04-20T03:37:55.976028+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1060,
       "source_chat_id": -1001263412188,
