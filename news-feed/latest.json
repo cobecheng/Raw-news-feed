@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T12:22:43.821547+00:00",
+  "generated_at": "2026-04-20T12:29:27.183753+00:00",
   "window_hours": 72,
-  "count": 739,
+  "count": 742,
   "news": [
+    {
+      "id": 1472,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939842,
+      "message_text": "PAKISTANI INTERIOR MINISTRY: THE INTERIOR MINISTER DISCUSSED WITH THE IRANIAN AMBASSADOR THE ARRANGEMENTS FOR THE SECOND PHASE OF THE ISLAMABAD TALKS ...",
+      "posted_at": "2026-04-20T12:29:26+00:00",
+      "captured_at": "2026-04-20T12:29:26.933676+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1470,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939841,
+      "message_text": "TRUMP ADMINISTRATION TO BEGIN REFUNDING $166B IN TARIFFS \n\nTHE U.S. GOVERNMENT WILL START REFUNDING UP TO $166 BILLION IN TRUMP-ERA TARIFFS AFTER THE SUPREME COURT RULED THE POLICY UNLAWFUL.\n\nFROM APRIL 20, BUSINESSES CAN FILE CLAIMS THROUGH A NEW CUSTOMS SYSTEM TO RECOVER DUTIES PAID UNDER EMERGENCY POWERS. COURTS FOUND ONLY CONGRESS CAN IMPOSE TARIFFS, FORCING THE ROLLBACK.\n\nOVER 330,000 IMPORTERS ACROSS 53 MILLION SHIPMENTS MAY BE ELIGIBLE. ONCE APPROVED, REFUNDS\u2014PLUS INTEREST\u2014SHOULD ARRIVE WITHIN 60\u201390 DAYS, THOUGH COMPLEX CASES MAY TAKE LONGER.\n\nOFFICIALS WARN THE PROCESS WILL BE MASSIVE AND COMPLEX, BUT PAYMENTS WILL GO DIRECTLY TO THE BUSINESSES THAT ORIGINALLY PAID. ...",
+      "posted_at": "2026-04-20T12:25:41+00:00",
+      "captured_at": "2026-04-20T12:25:42.494413+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1468,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939840,
+      "message_text": "HASSETT: TRUMP SAID IRAN PEACE TALKS WILL HAPPEN ...",
+      "posted_at": "2026-04-20T12:23:41+00:00",
+      "captured_at": "2026-04-20T12:23:42.618853+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1466,
       "source_chat_id": -1001263412188,
