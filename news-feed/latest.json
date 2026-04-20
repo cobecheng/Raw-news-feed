@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T17:09:24.679835+00:00",
+  "generated_at": "2026-04-20T17:15:24.772663+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 2044,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940128,
+      "message_text": "*UKRAINE SEES DRUZHBA OIL RESUMING TUESDAY, PAVING WAY FOR LOAN ...",
+      "posted_at": "2026-04-20T17:15:21+00:00",
+      "captured_at": "2026-04-20T17:15:24.518000+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 2042,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940127,
+      "message_text": "ISRAELI OFFICIAL: FAILURE TO ADDRESS BALLISTIC MISSILES IN TALKS CAUSING SERIOUS CONCERN AMONG POLITICAL LEADERSHIP - ISRAEL'S CHANNEL 13. ...",
+      "posted_at": "2026-04-20T17:10:51+00:00",
+      "captured_at": "2026-04-20T17:10:53.566005+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 2040,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "HEZBOLLAH: WE ARE SURPRISED BY THE INDISCRIMINATE HURLING OF ACCUSATIONS WHILE WE HEAR NOT A SINGLE VOICE WHEN THE ISRAELI ENEMY ATTACKS UNIFIL ...",
       "posted_at": "2026-04-18T14:49:03+00:00",
       "captured_at": "2026-04-18T16:34:02.313824+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 0,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 73,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939125,
-      "message_text": "HEZBOLLAH: WE DENY ANY CONNECTION TO US WITH THE INCIDENT THAT OCCURRED WITH UNIFIL FORCES IN THE AL-GHANDOURIYA AREA IN TYRE ...",
-      "posted_at": "2026-04-18T14:48:34+00:00",
-      "captured_at": "2026-04-18T16:34:02.312532+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 0,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 71,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939123,
-      "message_text": "HEZBOLLAH: WE DENY ANY CONNECTION TO US WITH THE INCIDENT THAT OCCURRED WITH UNIFIL FORCES IN THE AL-GHANDOURIYA AREA IN BENT JBEIL ...",
-      "posted_at": "2026-04-18T14:48:33+00:00",
-      "captured_at": "2026-04-18T16:34:02.311286+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 0,
       "destination_chat_id": -1003951421812,
