@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T14:23:15.978670+00:00",
+  "generated_at": "2026-04-20T14:28:16.287072+00:00",
   "window_hours": 72,
-  "count": 881,
+  "count": 883,
   "news": [
+    {
+      "id": 1758,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939985,
+      "message_text": "CRUDE OIL LOADS FROM SAUDI ARABIA'S YANBU PORT DROPPED BY 17% TO NEARLY 3.5 MILLION BARRELS PER DAY IN THE WEEK STARTING APRIL 13, ACCORDING TO SHIPPING DATA. ...",
+      "posted_at": "2026-04-20T14:28:15+00:00",
+      "captured_at": "2026-04-20T14:28:16.038054+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1756,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939984,
+      "message_text": "CRUDE OIL LOADINGS FROM SAUDI ARABIA\u2019S YANBU PORT FELL 17% TO ABOUT 3.5 MLN BPD IN THE WEEK BEGINNING APRIL 13, SHIPPING DATA SHOWS ...",
+      "posted_at": "2026-04-20T14:28:00+00:00",
+      "captured_at": "2026-04-20T14:28:02.939528+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1754,
       "source_chat_id": -1001263412188,
