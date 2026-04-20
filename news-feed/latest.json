@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T07:21:33.122602+00:00",
+  "generated_at": "2026-04-20T07:27:16.930500+00:00",
   "window_hours": 72,
-  "count": 604,
+  "count": 607,
   "news": [
+    {
+      "id": 1202,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939706,
+      "message_text": "CHINA'S SILVER IMPORTS HIT RECORD LEVELS IN MARCH DUE TO STRONG DEMAND FROM RETAIL INVESTORS AND THE LARGE SOLAR INDUSTRY. ...",
+      "posted_at": "2026-04-20T07:27:16+00:00",
+      "captured_at": "2026-04-20T07:27:16.600758+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1200,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939705,
+      "message_text": "JAPAN TO BAN LOCAL GOVTS FROM USING CHINESE IT PRODUCTS - KYODO ...",
+      "posted_at": "2026-04-20T07:24:01+00:00",
+      "captured_at": "2026-04-20T07:24:04.054775+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1198,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939704,
+      "message_text": "JAPAN WILL PROHIBIT LOCAL GOVERNMENTS FROM UTILIZING CHINESE IT PRODUCTS, ACCORDING TO KYODO. ...",
+      "posted_at": "2026-04-20T07:22:01+00:00",
+      "captured_at": "2026-04-20T07:22:02.374064+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1196,
       "source_chat_id": -1001263412188,
