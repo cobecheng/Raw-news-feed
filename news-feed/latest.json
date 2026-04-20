@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-20T04:24:12.991053+00:00",
+  "generated_at": "2026-04-20T04:31:43.642665+00:00",
   "window_hours": 72,
-  "count": 554,
+  "count": 555,
   "news": [
+    {
+      "id": 1098,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939654,
+      "message_text": "ACCORDING TO THE BOJ QUARTERLY SURVEY IN MARCH, 83.7% OF HOUSEHOLDS IN JAPAN EXPECT HIGHER PRICES IN A YEAR, COMPARED WITH 86.0% EARLIER. ...",
+      "posted_at": "2026-04-20T04:31:41+00:00",
+      "captured_at": "2026-04-20T04:31:43.372758+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1096,
       "source_chat_id": -1001263412188,
