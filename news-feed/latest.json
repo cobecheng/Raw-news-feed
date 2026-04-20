@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T01:47:05.317118+00:00",
+  "generated_at": "2026-04-20T01:54:23.902915+00:00",
   "window_hours": 72,
-  "count": 512,
+  "count": 514,
   "news": [
+    {
+      "id": 1016,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939613,
+      "message_text": "THE NIKKEI INDEX IN JAPAN GAINS 1.0%, REACHING 59,062.27. ...",
+      "posted_at": "2026-04-20T01:54:23+00:00",
+      "captured_at": "2026-04-20T01:54:23.635375+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1014,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939612,
+      "message_text": "ACCORDING TO TASNIM, IRAN HAS LAUNCHED DRONE STRIKES ON US NAVAL VESSELS FOLLOWING THE US ATTACK AND SEIZURE OF AN IRANIAN CARGO SHIP IN THE STRAIT OF HORMUZ. ...",
+      "posted_at": "2026-04-20T01:47:34+00:00",
+      "captured_at": "2026-04-20T01:47:35.899560+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1012,
       "source_chat_id": -1001263412188,
