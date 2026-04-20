@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-20T21:31:31.902166+00:00",
+  "generated_at": "2026-04-20T21:58:21.105678+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 2300,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940257,
+      "message_text": "ALTHOUGH THE US ECONOMY IS \"EXTREMELY STRONG,\" WELLS FARGO CEO CHARLES SCHARF ACKNOWLEDGES THAT SENTIMENT AMONG CONSUMERS AND BUSINESSES IS POOR: \"EVERYONE'S NERVOUS. ...",
+      "posted_at": "2026-04-20T21:58:18+00:00",
+      "captured_at": "2026-04-20T21:58:20.793174+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 2298,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "IRANIAN TV ON DEPUTY FOREIGN MINISTER: WE HAVE NOT YET REACHED A POINT IN THE NEGOTIATIONS THAT ALLOWS MOVING TO HOLDING AN ACTUAL MEETING ...",
       "posted_at": "2026-04-19T02:13:11+00:00",
       "captured_at": "2026-04-19T02:13:12.152647+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 300,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939253,
-      "message_text": "U.S. CENTRAL COMMAND: USS RUSHMORE AMPHIBIOUS SHIP CONDUCTS BLOCKADE OPERATIONS IN THE ARABIAN SEA ...",
-      "posted_at": "2026-04-19T02:13:10+00:00",
-      "captured_at": "2026-04-19T02:13:11.940616+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
