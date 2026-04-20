@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T10:05:23.989013+00:00",
+  "generated_at": "2026-04-20T10:10:39.301940+00:00",
   "window_hours": 72,
-  "count": 673,
+  "count": 676,
   "news": [
+    {
+      "id": 1340,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939775,
+      "message_text": "GERMANY'S MERZ SEES POTENTIAL IN BRAZIL FOR CRITICAL METALS, OFFERS TECH SUPPORT ...",
+      "posted_at": "2026-04-20T10:10:36+00:00",
+      "captured_at": "2026-04-20T10:10:38.964576+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1338,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939774,
+      "message_text": "PAKISTANI SECURITY SOURCE: TRUMP TOLD MUNIR HE WOULD CONSIDER HIS ADVICE ...",
+      "posted_at": "2026-04-20T10:06:51+00:00",
+      "captured_at": "2026-04-20T10:06:52.433948+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1336,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939773,
+      "message_text": "GERMAN FINANCE MINISTRY SPOKESPERSON ON UNICREDIT AND COMMERZBANK: GOVERNMENT'S POSITION IS WELL-KNOWN AND UNCHANGED: THE FEDERAL GOVERNMENT SUPPORTS COMMERZBANK'S STRATEGY OF INDEPENDENCE ...",
+      "posted_at": "2026-04-20T10:05:51+00:00",
+      "captured_at": "2026-04-20T10:05:52.306195+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1334,
       "source_chat_id": -1001263412188,
