@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-20T19:51:46.613804+00:00",
+  "generated_at": "2026-04-20T19:59:13.097403+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 2218,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940215,
+      "message_text": "WHATSAPP FOLLOWS INSTAGRAM IN LAUNCHING NEW PREMIUM SUBSCRIPTION OFFERINGS - SOURCES ...",
+      "posted_at": "2026-04-20T19:59:12+00:00",
+      "captured_at": "2026-04-20T19:59:12.823907+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 2216,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "FASTEST MARKET COMEBACK IN YEARS: AI LEADS THE CHARGE\n\nTHE S&P 500 HAS COMPLETED ONE OF THE FASTEST ROUND TRIPS IN RECENT HISTORY, MOVING FROM A NEAR CORRECTION OF ABOUT 9 PERCENT TO A NEW ALL TIME HIGH IN JUST 54 TRADING DAYS. THE REBOUND FROM THE BOTTOM TO A NEW HIGH TOOK ONLY 11 DAYS, MAKING IT THE FASTEST RECOVERY FROM A DRAWDOWN OF THIS SIZE SINCE AT LEAST 1990.\n\nTHE RALLY IS BEING DRIVEN BY A NARROW GROUP OF SECTORS TIED TO ARTIFICIAL INTELLIGENCE SPENDING:\n\nSEMICONDUCTORS\nMEDIA AND INTERNET\nHARDWARE\n\nTHESE AREAS ARE LEADING THE MARKET HIGHER, WHILE SOFTWARE CONTINUES TO LAG BEHIND THE BROADER TECHNOLOGY SECTOR.\n\nTHE MOVE REFLECTS A SHARP SHIFT BACK INTO ARTIFICIAL INTELLIGENCE THEMES AFTER THE EARLIER MARKET DECLINE. INVESTORS ARE FOCUSING ON COMPANIES THAT BENEFIT FROM INFRASTRUCTURE AND CAPITAL SPENDING LINKED TO AI.\n\nKEY TAKEAWAY:\nTHE SPEED OF THE RECOVERY SHOWS STRONG DEMAND FOR AI RELATED ASSETS, BUT LEADERSHIP REMAINS CONCENTRATED IN A FEW SECTORS. ...",
       "posted_at": "2026-04-18T21:21:01+00:00",
       "captured_at": "2026-04-18T21:21:03.436324+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 218,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939212,
-      "message_text": "Q: WHY AREN'T PEOPLE FEELING BETTER ABOUT THE ECONOMY?  \n\nTREASURY SECRETARY BESSENT: WELL, IN THEIR HEART OF HEARTS THEY FEEL GOOD  ...",
-      "posted_at": "2026-04-18T21:01:31+00:00",
-      "captured_at": "2026-04-18T21:01:32.902191+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
