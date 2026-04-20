@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T16:18:57.740759+00:00",
+  "generated_at": "2026-04-20T16:26:35.325087+00:00",
   "window_hours": 72,
-  "count": 983,
+  "count": 985,
   "news": [
+    {
+      "id": 1964,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940088,
+      "message_text": "AIR FORCE CONTINUES ITS PREPARATIONS AND MANEUVERS, AND ITS PILOTS ARE ON HIGH ALERT AT THEIR BASES - ISRAELI CHANNEL 12, CITING A SOURCE. ...",
+      "posted_at": "2026-04-20T16:26:34+00:00",
+      "captured_at": "2026-04-20T16:26:35.064187+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1962,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940087,
+      "message_text": "AL-JAZEERA CORRESPONDENT ON THE ACCUSED: \"IRAN HAS NOT YET DECIDED REGARDING A TRIP TO ISLAMABAD; THEY HAVE TIED THEIR MOVEMENT TO THE LIFTING OF THE SIEGE. THE PAKISTANI MEDIATORS INFORMED IRAN THAT THE AMERICANS DO NOT PLAN TO LIFT THE SIEGE BEFORE SIGNING AN AGREEMENT. THIS WON'T HELP IRAN. HOWEVER, JUST LIKE LAST TIME, A DECISION MIGHT BE MADE AT THE LAST MOMENT.\" \n\nREGARDING THE NAVAL CONFRONTATION, HE NOTED THAT \"FOLLOWING THE AMERICAN MOVE YESTERDAY, THE IRANIANS THREATENED TO ESCALATE AND THEN REFRAINED FROM ACTION, AND THIS CANNOT BE SEPARATED FROM IRAN'S WILLINGNESS NOT TO COMPLICATE NEGOTIATIONS THAT ARE ALREADY VERY COMPLICATED.\"\n\n\u05db\u05ea\u05d1 \u05d0\u05dc-\u05d2'\u05d6\u05d9\u05e8\u05d4 \u05e2\u05dc\u05d9 \u05d4\u05d0\u05e9\u05dd: \"\u05d0\u05d9\u05e8\u05d0\u05df \u05e2\u05d3\u05d9\u05d9\u05df \u05dc\u05d0 \u05d4\u05d7\u05dc\u05d9\u05d8\u05d4 \u05dc\u05d2\u05d1\u05d9 \u05e0\u05e1\u05d9\u05e2\u05d4 \u05dc\u05d0\u05d9\u05e1\u05dc\u05de\u05d1\u05d0\u05d3, \u05d4\u05dd \u05e7\u05e9\u05e8\u05d5 \u05d0\u05ea \u05ea\u05e0\u05d5\u05e2\u05ea\u05dd \u05dc\u05d4\u05e1\u05e8\u05ea \u05d4\u05de\u05e6\u05d5\u05e8. \u05d4\u05de\u05ea\u05d5\u05d5\u05db\u05d9\u05dd \u05d4\u05e4\u05e7\u05d9\u05e1\u05d8\u05e0\u05d9\u05dd \u05d4\u05d5\u05d3\u05d9\u05e2\u05d5 \u05dc\u05d0\u05d9\u05e8\u05d0\u05df \u05e9\u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05e0\u05d9\u05dd \u05dc\u05d0 \u05de\u05ea\u05db\u05e0\u05e0\u05d9\u05dd \u05dc\u05d4\u05e1\u05d9\u05e8 \u05d0\u05ea \u05d4\u05de\u05e6\u05d5\u05e8 \u05dc\u05e4\u05e0\u05d9 \u05d7\u05ea\u05d9\u05de\u05ea \u05d4\u05e1\u05db\u05dd. \u05dc\u05d0\u05d9\u05e8\u05d0\u05df \u05d6\u05d4 \u05dc\u05d0 \u05d9\u05e2\u05d6\u05d5\u05e8. \u05e2\u05dd \u05d6\u05d0\u05ea, \u05d1\u05d3\u05d9\u05d5\u05e7 \u05db\u05de\u05d5 \u05d1\u05e4\u05e2\u05dd \u05d4\u05e7\u05d5\u05d3\u05de\u05ea, \u05d4\u05d7\u05dc\u05d8\u05d4 \u05e2\u05dc\u05d5\u05dc\u05d4 \u05dc\u05d4\u05ea\u05e7\u05d1\u05dc \u05d1\u05e8\u05d2\u05e2 \u05d4\u05d0\u05d7\u05e8\u05d5\u05df\"\n\n\u05d1\u05d0\u05e9\u05e8 \u05dc\u05e2\u05d9\u05de\u05d5\u05ea \u05d1\u05d9\u05dd, \u05d4\u05d5\u05d0 \u05e6\u05d9\u05d9\u05df \u05db\u05d9 \"\u05dc\u05d0\u05d7\u05e8 \u05d4\u05de\u05d4\u05dc\u05da \u05d4\u05d0\u05de\u05e8\u05d9\u05e7\u05e0\u05d9 \u05d0\u05ea\u05de\u05d5\u05dc, \u05d4\u05d0\u05d9\u05e8\u05d0\u05e0\u05d9\u05dd \u05d0\u05d9\u05d9\u05de\u05d5 \u05dc\u05d4\u05e1\u05dc\u05d9\u05dd \u05d5\u05d0\u05d6 \u05e0\u05de\u05e0\u05e2\u05d5 \u05de\u05e4\u05e2\u05d5\u05dc\u05d4, \u05d5\u05d6\u05d4 \u05dc\u05d0 \u05e0\u05d9\u05ea\u05df \u05dc\u05d4\u05e4\u05e8\u05d9\u05d3 \u05de\u05d4\u05e0\u05db\u05d5\u05e0\u05d5\u05ea \u05e9\u05dc \u05d0\u05d9\u05e8\u05d0\u05df \u05e9\u05dc\u05d0 \u05dc\u05e1\u05d1\u05da \u05de\u05e9\u05d0 \u05d5\u05de\u05ea\u05df \u05e9\u05db\u05d1\u05e8 \u05de\u05e1\u05d5\u05d1\u05da \u05de\u05d0\u05d5\u05d3\" - \u05e1\u05e4\u05d9\u05e8 \u05dc\u05d9\u05e4\u05e7\u05d9\u05df | SAPIR LIPKIN | \u0633\u0627\u0628\u064a\u0631 \u0644\u064a\u0628\u0643\u064a\u0646 ...",
+      "posted_at": "2026-04-20T16:19:20+00:00",
+      "captured_at": "2026-04-20T16:19:21.066634+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1960,
       "source_chat_id": -1001263412188,
