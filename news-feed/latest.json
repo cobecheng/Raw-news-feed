@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T04:18:58.706112+00:00",
+  "generated_at": "2026-04-20T04:24:12.991053+00:00",
   "window_hours": 72,
-  "count": 552,
+  "count": 554,
   "news": [
+    {
+      "id": 1096,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939653,
+      "message_text": "TRAVELERS PRICE TARGET IS TRIMMED TO $318 BY JEFFERIES FROM $321. ...",
+      "posted_at": "2026-04-20T04:24:10+00:00",
+      "captured_at": "2026-04-20T04:24:12.747512+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1094,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939652,
+      "message_text": "JPMORGAN INCREASES ITS TARGET PRICE ON CARPENTER TECHNOLOGY  TO $465 VERSUS $394 EARLIER. ...",
+      "posted_at": "2026-04-20T04:19:11+00:00",
+      "captured_at": "2026-04-20T04:19:12.187127+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1092,
       "source_chat_id": -1001263412188,
