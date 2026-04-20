@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-20T02:36:34.263760+00:00",
+  "generated_at": "2026-04-20T02:42:06.038836+00:00",
   "window_hours": 72,
-  "count": 523,
+  "count": 524,
   "news": [
+    {
+      "id": 1036,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939623,
+      "message_text": "HONG KONG REASSERTS ROLE AS SAFE HAVEN IN GLOBAL FINANCE AMID IRAN CONFLICT-SCMP ...",
+      "posted_at": "2026-04-20T02:42:03+00:00",
+      "captured_at": "2026-04-20T02:42:05.727409+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1034,
       "source_chat_id": -1001263412188,
