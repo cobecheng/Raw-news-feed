@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T03:28:13.564172+00:00",
+  "generated_at": "2026-04-20T03:35:25.903634+00:00",
   "window_hours": 72,
-  "count": 534,
+  "count": 536,
   "news": [
+    {
+      "id": 1060,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939635,
+      "message_text": "THE ECB IS NOW SEEN DELIVERING 25 BPS RATE HIKES IN JUNE AND SEPTEMBER 2026, ACCORDING TO BARCLAYS, VERSUS PRIOR FORECASTS OF APRIL AND JUNE INCREASES. ...",
+      "posted_at": "2026-04-20T03:35:24+00:00",
+      "captured_at": "2026-04-20T03:35:25.597812+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1058,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939634,
+      "message_text": "RUSSIA\u2019S TUAPSE PORT IS SET ABLAZE IN A \u201cMASSIVE\u201d UKRAINIAN DRONE ATTACK, WITH ONE PERSON KILLED, ACCORDING TO THE REGIONAL GOVERNOR. ...",
+      "posted_at": "2026-04-20T03:31:54+00:00",
+      "captured_at": "2026-04-20T03:31:55.130432+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1056,
       "source_chat_id": -1001263412188,
