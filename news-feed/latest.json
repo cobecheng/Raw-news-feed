@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T06:30:31.990354+00:00",
+  "generated_at": "2026-04-20T06:37:46.953807+00:00",
   "window_hours": 72,
-  "count": 590,
+  "count": 592,
   "news": [
+    {
+      "id": 1172,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939691,
+      "message_text": "UKRAINE REPORTS THAT ITS DRONE UNIT TARGETED AND HIT THE TUAPSE OIL REFINERY IN RUSSIA, ACCORDING TO ITS COMMANDER. ...",
+      "posted_at": "2026-04-20T06:37:44+00:00",
+      "captured_at": "2026-04-20T06:37:46.710323+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1170,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939690,
+      "message_text": "INDONESIAN RIGHTS BODY, MILITARY CLASH OVER REPORTS OF PAPUA CIVILIAN KILLINGS-SCMP ...",
+      "posted_at": "2026-04-20T06:34:14+00:00",
+      "captured_at": "2026-04-20T06:34:17.040430+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1168,
       "source_chat_id": -1001263412188,
