@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T00:40:33.656554+00:00",
+  "generated_at": "2026-04-20T00:50:04.774908+00:00",
   "window_hours": 72,
-  "count": 487,
+  "count": 490,
   "news": [
+    {
+      "id": 968,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939589,
+      "message_text": "US NAVY SEIZES IRANIAN-FLAGGED SHIP NEAR HORMUZ, TEHRAN VOWS SWIFT RESPONSE-BS ...",
+      "posted_at": "2026-04-20T00:50:02+00:00",
+      "captured_at": "2026-04-20T00:50:04.536528+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 966,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939588,
+      "message_text": "BULGARIA ELECTION UPDATE: PROGRESSIVE BULGARIA, LED BY FORMER PRESIDENT RADEV, LEADS WITH 44.59% AFTER 32% OF VOTES COUNTED (PRELIMINARY). ...",
+      "posted_at": "2026-04-20T00:43:47+00:00",
+      "captured_at": "2026-04-20T00:43:48.664762+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 964,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939587,
+      "message_text": "THE SHUTDOWN OF THE STRAIT OF HORMUZ BY IRAN THREATENS HIGHER CRUDE PRICES AND COULD WEAKEN THE RUPEE. ...",
+      "posted_at": "2026-04-20T00:41:55+00:00",
+      "captured_at": "2026-04-20T00:41:56.983203+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 962,
       "source_chat_id": -1001263412188,
