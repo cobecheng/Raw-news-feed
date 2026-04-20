@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T03:48:42.793078+00:00",
+  "generated_at": "2026-04-20T03:55:10.421529+00:00",
   "window_hours": 72,
-  "count": 542,
+  "count": 545,
   "news": [
+    {
+      "id": 1078,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939644,
+      "message_text": "THAILAND\u2019S DEPUTY PRIME MINISTER ANNOUNCES PLANS FOR A LAW ALLOWING 500 BILLION BAHT IN GOVERNMENT BORROWING. ...",
+      "posted_at": "2026-04-20T03:55:09+00:00",
+      "captured_at": "2026-04-20T03:55:10.177091+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1076,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939643,
+      "message_text": "THE YIELD ON THE 5-YEAR JAPANESE GOVERNMENT BOND EASES BY 2 BASIS POINTS TO 1.815%. ...",
+      "posted_at": "2026-04-20T03:52:10+00:00",
+      "captured_at": "2026-04-20T03:52:11.974439+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1074,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939642,
+      "message_text": "TD COWEN INCREASES ITS TARGET PRICE ON CELESTICA  TO $350 VERSUS $330 EARLIER. ...",
+      "posted_at": "2026-04-20T03:51:10+00:00",
+      "captured_at": "2026-04-20T03:51:11.617538+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1072,
       "source_chat_id": -1001263412188,
