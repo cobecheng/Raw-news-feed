@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T20:35:46.039735+00:00",
+  "generated_at": "2026-04-20T20:41:43.667253+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 2266,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940240,
+      "message_text": "BREAKING: AMAZON, $AMZN, HAS SAID IT IS INVESTING $25 BILLION IN ANTHROPIC ...",
+      "posted_at": "2026-04-20T20:41:42+00:00",
+      "captured_at": "2026-04-20T20:41:43.417748+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 2264,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940239,
+      "message_text": "ISLAMABAD HAS ASKED WASHINGTON AND TEHRAN TO EXTEND THE TRUCE FOR TWO MORE WEEKS - AL HADATH, CITING PAKISTANI MEDIA.\n\nPAKISTANI PRIME MINISTER SHEHBAZ SHARIF MAY ANNOUNCE AN EXTENSION OF THE CEASEFIRE TOMORROW - AL HADATH, CITING MEDIA SOURCES. - FINANCIALJUICE ...",
+      "posted_at": "2026-04-20T20:36:28+00:00",
+      "captured_at": "2026-04-20T20:36:30.014354+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 2262,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "TRUMP ON \u201cNUCLEAR DUST\u201d: \u201cWE\u2019RE TAKING IT \u2014 VERY SIMPLE. WE\u2019LL TAKE IT AFTER THE DEAL IS SIGNED.\u201d ...",
       "posted_at": "2026-04-19T01:36:41+00:00",
       "captured_at": "2026-04-19T01:36:42.754097+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 266,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939236,
-      "message_text": "Q: CEASEFIRE EXTENSION AFTER WEDNESDAY?\n\nTRUMP: MAYBE NOT \u2014 BLOCKADE STAYS, BOMBING MAY RESUME ...",
-      "posted_at": "2026-04-19T01:35:40+00:00",
-      "captured_at": "2026-04-19T01:35:42.981857+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 264,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939235,
-      "message_text": "US MILITARY PREPARING TO BOARD IRAN LINKED OIL TANKERS AND SEIZE COMMERCIAL SHIPS IN INTERNATIONAL WATERS: WSJ ...",
-      "posted_at": "2026-04-19T01:30:39+00:00",
-      "captured_at": "2026-04-19T01:30:41.461593+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
