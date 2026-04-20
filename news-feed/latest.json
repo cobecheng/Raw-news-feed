@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-04-20T00:50:04.774908+00:00",
+  "generated_at": "2026-04-20T00:56:19.897899+00:00",
   "window_hours": 72,
-  "count": 490,
+  "count": 493,
   "news": [
+    {
+      "id": 974,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939592,
+      "message_text": "OIL JUMPS, STOCKS WOBBLE AS MIDEAST CEASEFIRE HANGS IN THE BALANCE-RTRS ...",
+      "posted_at": "2026-04-20T00:56:17+00:00",
+      "captured_at": "2026-04-20T00:56:19.661138+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 972,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939591,
+      "message_text": "RISING US\u2013IRAN TENSIONS PUT SLIGHT PRESSURE ON THE JAPANESE YEN, NUDGING IT LOWER. ...",
+      "posted_at": "2026-04-20T00:54:17+00:00",
+      "captured_at": "2026-04-20T00:54:18.316383+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 970,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939590,
+      "message_text": "TRUMP ANNOUNCES US SEIZURE OF IRANIAN SHIP IN GULF OF OMAN DURING BLOCKADE-CNBC ...",
+      "posted_at": "2026-04-20T00:51:32+00:00",
+      "captured_at": "2026-04-20T00:51:34.705631+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 968,
       "source_chat_id": -1001263412188,
