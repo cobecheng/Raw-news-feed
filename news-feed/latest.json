@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T02:01:06.828846+00:00",
+  "generated_at": "2026-04-20T02:10:23.017986+00:00",
   "window_hours": 72,
-  "count": 516,
+  "count": 518,
   "news": [
+    {
+      "id": 1024,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939617,
+      "message_text": "SINGAPORE TYCOON SUES BANKS FOR US$1 BILLION FROM COLLAPSE OF AUSTRALIAN NEWSAT-SCMP ...",
+      "posted_at": "2026-04-20T02:10:21+00:00",
+      "captured_at": "2026-04-20T02:10:22.668837+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1022,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939616,
+      "message_text": "THE YIELD ON THE 2-YEAR JAPANESE GOVERNMENT BOND EASES BY 0.5 BASIS POINTS TO 1.355%. ...",
+      "posted_at": "2026-04-20T02:01:34+00:00",
+      "captured_at": "2026-04-20T02:01:37.234788+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1020,
       "source_chat_id": -1001263412188,
