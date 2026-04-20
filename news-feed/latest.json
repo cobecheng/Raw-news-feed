@@ -1,8 +1,60 @@
 {
-  "generated_at": "2026-04-20T14:12:02.044859+00:00",
+  "generated_at": "2026-04-20T14:17:17.140541+00:00",
   "window_hours": 72,
-  "count": 866,
+  "count": 870,
   "news": [
+    {
+      "id": 1732,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939972,
+      "message_text": "\"THERE IS A US EFFORT TO EXTEND CEASEFIRE BETWEEN LEBANON AND ISRAEL,\" PER LEBANESE PARLIAMENT SPEAKER BERRI ...",
+      "posted_at": "2026-04-20T14:17:15+00:00",
+      "captured_at": "2026-04-20T14:17:16.862340+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1730,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939971,
+      "message_text": "VANCE HASN'T LEFT FOR PAKISTAN YET: CNN\n\nVANCE SET FOR IRAN TALKS TRIP TO PAKISTAN\n\nVICE PRESIDENT JD VANCE IS EXPECTED TO LEAVE WASHINGTON TUESDAY FOR PAKISTAN TO JOIN U.S.\u2013IRAN TALKS, ACCORDING TO SOURCES.\n\nA SECOND ROUND OF NEGOTIATIONS IS TENTATIVELY SET FOR WEDNESDAY IN ISLAMABAD, THOUGH TIMING REMAINS UNCERTAIN AMID ONGOING TENSIONS AND CONFLICTING SIGNALS FROM OFFICIALS.\n\nTHE WHITE HOUSE SAID NO FINAL SCHEDULE IS CONFIRMED, WHILE TRUMP EARLIER SUGGESTED THE DELEGATION WAS ALREADY EN ROUTE. - *WALTER BLOOMBERG ...",
+      "posted_at": "2026-04-20T14:16:15+00:00",
+      "captured_at": "2026-04-20T14:16:16.523442+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1728,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939970,
+      "message_text": "VANCE SET FOR IRAN TALKS TRIP TO PAKISTAN\n\nVICE PRESIDENT JD VANCE IS EXPECTED TO LEAVE WASHINGTON TUESDAY FOR PAKISTAN TO JOIN U.S.\u2013IRAN TALKS, ACCORDING TO SOURCES.\n\nA SECOND ROUND OF NEGOTIATIONS IS TENTATIVELY SET FOR WEDNESDAY IN ISLAMABAD, THOUGH TIMING REMAINS UNCERTAIN AMID ONGOING TENSIONS AND CONFLICTING SIGNALS FROM OFFICIALS.\n\nTHE WHITE HOUSE SAID NO FINAL SCHEDULE IS CONFIRMED, WHILE TRUMP EARLIER SUGGESTED THE DELEGATION WAS ALREADY EN ROUTE. ...",
+      "posted_at": "2026-04-20T14:15:45+00:00",
+      "captured_at": "2026-04-20T14:15:46.408362+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 1726,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 939969,
+      "message_text": "PROBABLY WHAT VANCE IS DOING ATM \n\nVP VANCE HAS NOT LEFT FOR PAKISTAN, YET - CNN. - FINANCIALJUICE ...",
+      "posted_at": "2026-04-20T14:15:30+00:00",
+      "captured_at": "2026-04-20T14:15:30.881570+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 1724,
       "source_chat_id": -1001263412188,
