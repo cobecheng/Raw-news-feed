@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-21T00:11:54.905215+00:00",
+  "generated_at": "2026-04-21T00:17:24.033947+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 2354,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940284,
+      "message_text": "JAPAN AND UK FOREIGN MINISTERS MET IN TOKYO ON MONDAY, ACCORDING TO NHK. ...",
+      "posted_at": "2026-04-21T00:17:22+00:00",
+      "captured_at": "2026-04-21T00:17:23.790347+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 2352,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940283,
+      "message_text": "BREAKING: TRUMP HAS SIGNED AN EXECUTIVE ORDER INVOKING THE DEFENSE PRODUCTION ACT AMID RISING ENERGY PRICES.\n\nTHE ORDER DIRECTS FEDERAL RESOURCES TOWARD BOOSTING PRODUCTION OF PETROLEUM, LIQUEFIED NATURAL GAS, COAL, AND POWER GRID INFRASTRUCTURE. ...",
+      "posted_at": "2026-04-21T00:16:22+00:00",
+      "captured_at": "2026-04-21T00:16:24.426719+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 2350,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "BLACKROCK WARNS OF HIT TO EUROPEAN STOCKS FROM ENERGY CRISIS ...",
       "posted_at": "2026-04-19T05:21:14+00:00",
       "captured_at": "2026-04-19T05:21:16.413278+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 356,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939281,
-      "message_text": "CHINESE MIGRANT WORKERS RETURN HOME AS URBAN JOBS GROW SCARCER ...",
-      "posted_at": "2026-04-19T05:21:14+00:00",
-      "captured_at": "2026-04-19T05:21:16.634709+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 350,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939278,
-      "message_text": "UKRAINIAN MISSILES REPORTEDLY STRIKE RUSSIAN DRONE PLANT. ...",
-      "posted_at": "2026-04-19T05:20:44+00:00",
-      "captured_at": "2026-04-19T05:20:45.101225+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
