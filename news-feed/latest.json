@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-21T23:56:34.526741+00:00",
+  "generated_at": "2026-04-21T23:58:31.577434+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 2618,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 941349,
+      "message_text": "ANTHROPIC'S MYTHOS HAS BEEN ACCESSED BY A SMALL GROUP OF UNAUTHORIZED USERS, PER BLOOMBERG ...",
+      "posted_at": "2026-04-21T23:58:30+00:00",
+      "captured_at": "2026-04-21T23:58:31.330097+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 2616,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "SUMMARY OF IRAN-US NEWS:\n\nSTRAIT OF HORMUZ OPENED FRIDAY\n\nCLOSED SATURDAY BECAUSE AGREEMENT NOT UPHELD\n\nTALKS COULD HAPPEN TOMORROW, BUT IRANIANS DON'T TO.\n\nNOTHING HAS CHANGED. TIME TO TOUCH THE GRASS AND ENJOY THE WEEKEND \ud83d\ude02 ...",
       "posted_at": "2026-04-19T14:09:35+00:00",
       "captured_at": "2026-04-19T14:09:37.545390+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 618,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939413,
-      "message_text": "GOOGLE IS IN TALKS WITH MARVELL TO BUILD NEW AI CHIPS FOR INFERENCE - THE INFORMATION $GOOGL ...",
-      "posted_at": "2026-04-19T14:05:05+00:00",
-      "captured_at": "2026-04-19T14:05:05.972146+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
