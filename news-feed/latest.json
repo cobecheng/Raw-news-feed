@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-20T23:56:39.242457+00:00",
+  "generated_at": "2026-04-21T00:02:37.417742+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 2344,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940279,
+      "message_text": "BRENT CRUDE FUTURES  DECLINED $1, DOWN 1.05%, TO $94.52 PER BARREL AT MARKET OPEN. ...",
+      "posted_at": "2026-04-21T00:02:36+00:00",
+      "captured_at": "2026-04-21T00:02:37.171638+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 2342,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940278,
+      "message_text": "LABOR SECRETARY LORI CHAVEZ-DEREMER IS STEPPING DOWN AMID AN INVESTIGATION OF ALLEGATIONS OF WIDESPREAD MISCONDUCT, PER CNN ...",
+      "posted_at": "2026-04-20T23:58:06+00:00",
+      "captured_at": "2026-04-20T23:58:07.195047+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 2338,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "VESSEL-TRACKING FOOTAGE FROM MARINETRAFFIC SHOWED SHIP TRAFFIC IN THE STRAIT OF HORMUZ EARLY ON SUNDAY AFTER IRAN SAID IT HAD CLOSED THE WATERWAY AGAIN. ...",
       "posted_at": "2026-04-19T05:19:44+00:00",
       "captured_at": "2026-04-19T05:19:46.188265+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 346,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939276,
-      "message_text": "IRAN HAD TEMPORARILY REOPENED THE STRAIT ON FRIDAY FOLLOWING A CEASEFIRE AGREEMENT IN LEBANON, WHICH HAD RAISED HOPES FOR BROADER PEACE TALKS, BUT LATER SAID IT HAD SHUT IT AGAIN. ...",
-      "posted_at": "2026-04-19T05:19:44+00:00",
-      "captured_at": "2026-04-19T05:19:46.414180+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 340,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939273,
-      "message_text": "EXPERTS HAVE OUTLINED RADICAL CHANGES TO AUSTRALIA\u2019S NDIS AS IT FACES A $14 BILLION BLOWOUT THAT COULD CRIPPLE THE BUDGET BY 2030. ...",
-      "posted_at": "2026-04-19T05:18:29+00:00",
-      "captured_at": "2026-04-19T05:18:31.236229+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
