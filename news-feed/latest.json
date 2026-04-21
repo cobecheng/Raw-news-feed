@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-21T22:56:04.783549+00:00",
+  "generated_at": "2026-04-21T22:58:30.841690+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 2594,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 941337,
+      "message_text": "THE UNITED STATES WILL BAN INDIVIDUALS ACCUSED OF PROMOTING ANTISEMITISM FROM ATTENDING THE 2026 FIFA WORLD CUP, U.S. ANTISEMITISM ENVOY RABBI YEHUDA KAPLOUN HAS ANNOUNCED. ...",
+      "posted_at": "2026-04-21T22:58:28+00:00",
+      "captured_at": "2026-04-21T22:58:30.569767+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 2590,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "PRESIDENT TRUMP JUST TOLD  THAT VANCE WILL NOT BE GOING TO ISLAMABAD. THE ISSUE IS SECURITY \u2014 THE SECRET SERVICE COULDN\u2019T DO IT ON 24 HOURS' NOTICE.  \u201cIT\u2019S ONLY BECAUSE OF SECURITY,\u201d HE TOLD . \u201cJD\u2019S GREAT.\u201d #OOTT ...",
       "posted_at": "2026-04-19T13:20:49+00:00",
       "captured_at": "2026-04-19T13:20:50.499150+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 594,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939401,
-      "message_text": "PRES. TRUMP: IRAN DECIDED TO FIRE BULLETS YESTERDAY IN THE STRAIT OF HORMUZ \u2014 A TOTAL VIOLATION OF OUR CEASEFIRE  ...",
-      "posted_at": "2026-04-19T13:16:18+00:00",
-      "captured_at": "2026-04-19T13:16:19.792676+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
