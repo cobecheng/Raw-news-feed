@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-21T01:21:27.054971+00:00",
+  "generated_at": "2026-04-21T01:27:11.948209+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 2418,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940316,
+      "message_text": "BREAKING: TRUMP WILL APPEAR ON CNBC TOMORROW MORNING AT 8:30AM ET. ...",
+      "posted_at": "2026-04-21T01:27:09+00:00",
+      "captured_at": "2026-04-21T01:27:11.693626+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 2416,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940315,
+      "message_text": "VANCE TO TRAVEL TO PAKISTAN ON TUESDAY FOR IRAN TALKS -AXIOS ...",
+      "posted_at": "2026-04-21T01:21:53+00:00",
+      "captured_at": "2026-04-21T01:21:55.045928+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 2414,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "PAKISTAN'S GEO NEWS, CITING HIGH-LEVEL GOVERNMENT SOURCES: THE DATE FOR THE NEW ROUND OF US-IRANIAN TALKS HAS NOT YET BEEN DETERMINED. ...",
       "posted_at": "2026-04-19T09:47:57+00:00",
       "captured_at": "2026-04-19T09:47:58.578950+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 418,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939312,
-      "message_text": "U.S. ENERGY SECRETARY TO FOX NEWS: WE ARE CLOSE TO A MAJOR SOLUTION TO THE CONFLICT IN IRAN AND PUTTING AN END TO ITS ONGOING THREAT TO THE REGION FOR 47 YEARS ...",
-      "posted_at": "2026-04-19T09:47:56+00:00",
-      "captured_at": "2026-04-19T09:47:58.282842+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 416,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939311,
-      "message_text": "UK FOREIGN SECRETARY: I DISCUSSED WITH MY PAKISTANI COUNTERPART THE IMPORTANCE OF EXTENDING THE CEASEFIRE AND FREEDOM OF NAVIGATION IN THE STRAIT OF HORMUZ ...",
-      "posted_at": "2026-04-19T09:47:26+00:00",
-      "captured_at": "2026-04-19T09:47:26.939552+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
