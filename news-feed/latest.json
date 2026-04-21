@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-21T00:26:25.104117+00:00",
+  "generated_at": "2026-04-21T00:32:26.438775+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 2358,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940286,
+      "message_text": "ASIAN MARKETS TRADED CAUTIOUSLY, WITH THE MSCI ASIA PACIFIC INDEX SHOWING MIXED TO LOWER MOVES AS RENEWED U.S.\u2013IRAN TENSIONS WEAKENED RISK SENTIMENT AND PROMPTED INVESTORS TO PULL BACK AFTER RECENT GAINS. ...",
+      "posted_at": "2026-04-21T00:32:23+00:00",
+      "captured_at": "2026-04-21T00:32:26.188016+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 2356,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "BULGARIA WILL HOLD ITS EIGHTH GENERAL ELECTION SINCE 2021 ON SUNDAY, WITH FORMER PRESIDENT RUMEN RADEV AIMING TO FINALLY END YEARS OF POLITICAL GRIDLOCK ...",
       "posted_at": "2026-04-19T05:21:46+00:00",
       "captured_at": "2026-04-19T05:21:46.933171+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 358,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939282,
-      "message_text": "BRUSSELS PUSHES REMOTE WORKING TO EASE ENERGY CRISIS ...",
-      "posted_at": "2026-04-19T05:21:15+00:00",
-      "captured_at": "2026-04-19T05:21:16.845351+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
