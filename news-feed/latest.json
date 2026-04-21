@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-21T02:37:25.956202+00:00",
+  "generated_at": "2026-04-21T02:46:38.314369+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 2480,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940347,
+      "message_text": "FITCH RATINGS: FOREIGN INVESTMENT COULD IMPROVE THE CREDIT PROFILES OF INDIA\u2019S FINANCIAL INSTITUTIONS. ...",
+      "posted_at": "2026-04-21T02:46:37+00:00",
+      "captured_at": "2026-04-21T02:46:37.984069+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 2478,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "IRANIAN CIVIL AVIATION: RESUMPTION OF INTERNATIONAL FLIGHTS FROM MASHHAD AIRPORT TOMORROW, MONDAY ...",
       "posted_at": "2026-04-19T11:11:16+00:00",
       "captured_at": "2026-04-19T11:11:18.328458+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 480,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939344,
-      "message_text": "YNET REPORT ON ISRAELI OFFICIALS: IT SEEMS WE WON'T GET WHAT WE WANT REGARDING IRAN'S MISSILES AND SUPPORT FOR PROXY FORCES ...",
-      "posted_at": "2026-04-19T11:10:45+00:00",
-      "captured_at": "2026-04-19T11:10:46.194465+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
