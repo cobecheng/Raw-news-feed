@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-04-21T03:08:50.233611+00:00",
+  "generated_at": "2026-04-21T03:14:49.853957+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 2492,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 940353,
+      "message_text": "ABBOTT SEES LEERINK PARTNERS REDUCE ITS TARGET PRICE TO $106 FROM $119. ...",
+      "posted_at": "2026-04-21T03:14:49+00:00",
+      "captured_at": "2026-04-21T03:14:49.513394+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 2490,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "SPANISH PRIME MINISTER: ANY GOVERNMENT THAT VIOLATES INTERNATIONAL LAW CANNOT BE A PARTNER FOR EUROPE ...",
       "posted_at": "2026-04-19T11:29:30+00:00",
       "captured_at": "2026-04-19T11:29:31.045137+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 492,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939350,
-      "message_text": "SPANISH PRIME MINISTER: NEXT TUESDAY, WE WILL PROPOSE TO THE EUROPEAN UNION THE CANCELLATION OF THE PARTNERSHIP AGREEMENT WITH ISRAEL. ...",
-      "posted_at": "2026-04-19T11:29:29+00:00",
-      "captured_at": "2026-04-19T11:29:30.806025+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
