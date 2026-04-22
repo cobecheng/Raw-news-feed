@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-04-22T01:57:35.608954+00:00",
+  "generated_at": "2026-04-22T02:01:23.252729+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 2722,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 941401,
+      "message_text": "GOLD EDGES HIGHER AFTER TRUMP SAYS U.S. WILL EXTEND CEASE-FIRE DEADLINE-WSJ ...",
+      "posted_at": "2026-04-22T02:01:21+00:00",
+      "captured_at": "2026-04-22T02:01:23.016483+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 2720,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 941400,
+      "message_text": "JGBS MIXED AS INVESTORS DIGEST MIDDLE EAST DEVELOPMENTS-WSJ ...",
+      "posted_at": "2026-04-22T02:00:51+00:00",
+      "captured_at": "2026-04-22T02:00:53.053538+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 2718,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "US AUTHORITIES: DETENTION OF AN IRANIAN WOMAN AT LOS ANGELES AIRPORT ON CHARGES OF ARMS TRAFFICKING ON BEHALF OF IRAN FOR THE BENEFIT OF THE SUDANESE ARMY ...",
       "posted_at": "2026-04-19T17:34:57+00:00",
       "captured_at": "2026-04-19T17:35:01.808136+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 722,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939465,
-      "message_text": "ISRAELI CHANNEL 12 ON TRUMP: THE FRAMEWORK OF THE AGREEMENT WITH IRAN HAS BECOME READY ...",
-      "posted_at": "2026-04-19T17:18:56+00:00",
-      "captured_at": "2026-04-19T17:18:58.966508+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 720,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 939464,
-      "message_text": "US OFFICIAL: THE US AIRCRAFT CARRIER GERALD FORD HAS RETURNED TO THE MIDDLE EAST - CBS ...",
-      "posted_at": "2026-04-19T17:18:27+00:00",
-      "captured_at": "2026-04-19T17:18:29.759238+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
