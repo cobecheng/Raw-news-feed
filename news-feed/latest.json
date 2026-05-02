@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-05-02T10:26:37.518762+00:00",
+  "generated_at": "2026-05-02T10:27:24.169594+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 15902,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 948672,
+      "message_text": "ISRAELI ARTILLERY SHELLING ON YAHMOUR AL-SHAQIF TOWN SOUTH OF LEBANON ...",
+      "posted_at": "2026-05-02T10:27:22+00:00",
+      "captured_at": "2026-05-02T10:27:23.687778+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 15900,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "US HOUSE REPUBLICANS SCHEDULE VOTE ON THURSDAY FOR SENATE-PASSED DHS FUNDING BILL ...",
       "posted_at": "2026-04-30T16:53:38+00:00",
       "captured_at": "2026-04-30T16:53:39.634341+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 13902,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 947669,
-      "message_text": "TRUMP OFFICIALS IN TALKS WITH LAWMAKERS ABOUT IRAN WAR AUTHORIZATION AHEAD OF DEADLINE, WHITE HOUSE OFFICIAL SAYS - CBS ...",
-      "posted_at": "2026-04-30T16:53:37+00:00",
-      "captured_at": "2026-04-30T16:53:39.292501+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
