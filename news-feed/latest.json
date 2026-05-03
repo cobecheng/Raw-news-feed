@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-05-03T07:07:50.464650+00:00",
+  "generated_at": "2026-05-03T09:07:57.419899+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 16304,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 948875,
+      "message_text": "WEEKEND MARKETS UPDATE:   \n#DAX 24271 +0.03%   \n#DOW 49462 +0.01%   \n#NASDAQ 27671 +0.04%   \n#FTSE 10357 +0.09%   \n#HANGSENG 26142 +0.06%   \n#EURUSD 11722 +0.01%   \n#GOLD 4620 -0.11%   \n#SILVER 7573 -0.09%  \n#USOIL 10008 -0.02%   \n#IGWEEKENDMARKETS ...",
+      "posted_at": "2026-05-03T07:36:50+00:00",
+      "captured_at": "2026-05-03T07:36:51.046136+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 16302,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 948874,
+      "message_text": "CRYPTO UPDATE:   \n#BITCOIN 78407.00 -0.08%   \n#ETHER 2311.00 -0.06%   \n#CARDANO 0.2492 -0.80%\n#BITCOINCASH 444.02 -0.53%   \n#EOS 0.0894 -1.32%   \n#LITECOIN 55.08 -0.11%   \n#STELLAR 0.1596 -0.31%   \n#DOGECOIN 0.1080 -0.74%   \n#UNISWAP 3.2295 -0.67%   \n#CHAINLINK 9.1227 -0.47%   \n#POLKADOT 1.2136 -1.3%   \n#SOLANA 83.9200 -0.3%   \n#AVALANCHE 9.0600 -1.31%   \n#NEO 2.762 -0.68% ...",
+      "posted_at": "2026-05-03T07:31:05+00:00",
+      "captured_at": "2026-05-03T07:31:07.446686+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 16300,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "JOHNSON & JOHNSON: STATEMENT ON ITS INVESTIGATIONAL PROGRAMS IN LARGE B-CELL LYMPHOMA \u2014 THE COMPANY IS DISCONTINUING ITS CD20 AND CD19-CD20 CAR-T PROGRAMS. ...",
       "posted_at": "2026-04-30T20:32:14+00:00",
       "captured_at": "2026-04-30T20:32:16.384984+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 14304,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 947871,
-      "message_text": "*APPLE 2Q GREATER CHINA REV. $20.50B, EST. $18.91B ...",
-      "posted_at": "2026-04-30T20:32:01+00:00",
-      "captured_at": "2026-04-30T20:32:03.610845+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 14300,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 947869,
-      "message_text": "*APPLE 2Q IPHONE REVENUE $56.99B, EST. $56.98B ...",
-      "posted_at": "2026-04-30T20:32:00+00:00",
-      "captured_at": "2026-04-30T20:32:00.662184+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
