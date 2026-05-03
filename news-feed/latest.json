@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-05-03T02:52:34.434127+00:00",
+  "generated_at": "2026-05-03T03:06:54.330762+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 16276,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 948861,
+      "message_text": "IRANIAN SPEEDBOATS SPOTTED IN STRAIT OF HORMUZ, POSSIBLE MINE ACTIVITY ...",
+      "posted_at": "2026-05-03T03:06:53+00:00",
+      "captured_at": "2026-05-03T03:06:53.817924+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 16274,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "AWS: AMAZON Q DEVELOPER IN THE AWS MANAGEMENT CONSOLE AND ACROSS FIRST-PARTY AWS EXPERIENCES IS UNAFFECTED BY THE AMAZON Q DEVELOPER SUNSET. ...",
       "posted_at": "2026-04-30T20:22:29+00:00",
       "captured_at": "2026-04-30T20:22:31.254746+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 14276,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 947856,
-      "message_text": "AWS BLOG: AMAZON Q DEVELOPER IDE PLUGINS AND PAID SUBSCRIPTIONS WILL HIT END-OF-SUPPORT ON APRIL 30, 2027, WITH THE COMPANY HAVING DEVELOPED KIRO \u2014 AN AGENTIC DEVELOPMENT ENVIRONMENT (IDE, CLI) PURPOSE-BUILT FROM THE GROUND UP FOR SPEC-DRIVEN DEVELOPMENT. ...",
-      "posted_at": "2026-04-30T20:20:45+00:00",
-      "captured_at": "2026-04-30T20:20:47.448200+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
