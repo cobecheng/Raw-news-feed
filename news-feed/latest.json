@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T20:14:11.282425+00:00",
+  "generated_at": "2026-05-04T20:19:21.689941+00:00",
   "window_hours": 72,
-  "count": 811,
+  "count": 808,
   "news": [
     {
       "id": 17206,
@@ -10502,45 +10502,6 @@
       "message_text": "QATAR'S AIRCRAFT FOR THE US AS TEMPORARY AIR FORCE ONE FOR PRESIDENT DONALD TRUMP IS SLATED FOR DELIVERY THIS SUMMER, WITH L3HARRIS FINISHING MODIFICATIONS, STATED THE US AIR FORCE ON FRIDAY. ...",
       "posted_at": "2026-05-01T20:19:24+00:00",
       "captured_at": "2026-05-01T20:19:25.747671+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15590,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948515,
-      "message_text": "SPIRIT AIRLINES IS PREPARING TO CEASE OPERATIONS AFTER FAILING TO SECURE A $500 MILLION GOVERNMENT LIFELINE. ...",
-      "posted_at": "2026-05-01T20:18:38+00:00",
-      "captured_at": "2026-05-01T20:18:41.166602+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15588,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948514,
-      "message_text": "UKRAINE SEES PATH TO JAPANESE ARMS AFTER TOKYO EASES EXPORT RULES. ...",
-      "posted_at": "2026-05-01T20:18:37+00:00",
-      "captured_at": "2026-05-01T20:18:38.520312+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15586,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948513,
-      "message_text": "SPIRIT IS CURRENTLY EXPECTED TO CEASE OPERATIONS AROUND 3 A.M. ET SATURDAY - WSJ ...",
-      "posted_at": "2026-05-01T20:17:07+00:00",
-      "captured_at": "2026-05-01T20:17:08.640744+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
