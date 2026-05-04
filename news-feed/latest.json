@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T19:17:26.801057+00:00",
+  "generated_at": "2026-05-04T19:22:37.207601+00:00",
   "window_hours": 72,
-  "count": 820,
+  "count": 819,
   "news": [
     {
       "id": 17206,
@@ -10645,19 +10645,6 @@
       "message_text": "CFTC POSITIONS IN THE WEEK ENDED APRIL 28TH\n ...",
       "posted_at": "2026-05-01T19:32:07+00:00",
       "captured_at": "2026-05-01T19:32:08.382654+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15568,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948504,
-      "message_text": "MONDAY FX OPTIONS EXPIRIES\n ...",
-      "posted_at": "2026-05-01T19:21:51+00:00",
-      "captured_at": "2026-05-01T19:21:53.578492+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
