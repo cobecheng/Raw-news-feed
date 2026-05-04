@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T18:20:43.494678+00:00",
+  "generated_at": "2026-05-04T18:25:52.866776+00:00",
   "window_hours": 72,
-  "count": 843,
+  "count": 842,
   "news": [
     {
       "id": 17206,
@@ -10944,19 +10944,6 @@
       "message_text": "IRGC: CONTROLLING NEARLY 2,000 KM OF IRAN COASTLINE IN THE PERSIAN GULF AND STRAIT OF HORMUZ WILL BE SOURCE OF LIVELIHOOD, SECURITY AND PROSPERITY FOR IRAN AND REGION - IRAN'S SNN ...",
       "posted_at": "2026-05-01T18:27:34+00:00",
       "captured_at": "2026-05-01T18:27:36.741780+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15522,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948481,
-      "message_text": "IRAN'S RASHIDI: HORMUZ STRAIT WON'T OPEN, NO URANIUM LEAVES IRAN - TASNIM ...",
-      "posted_at": "2026-05-01T18:24:04+00:00",
-      "captured_at": "2026-05-01T18:24:04.776671+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
