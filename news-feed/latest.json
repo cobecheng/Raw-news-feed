@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T20:55:30.773888+00:00",
+  "generated_at": "2026-05-04T21:00:40.197626+00:00",
   "window_hours": 72,
-  "count": 795,
+  "count": 791,
   "news": [
     {
       "id": 17206,
@@ -10281,58 +10281,6 @@
       "message_text": "U.S. BLOCKADE HAS COST IRAN $4.8 BILLION -AXIOS ...",
       "posted_at": "2026-05-01T21:01:24+00:00",
       "captured_at": "2026-05-01T21:01:25.929532+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15624,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948533,
-      "message_text": "\n\nUS ESTIMATES BLOCKADE HAS COST IRAN $4.8 BLN - AXIOS. - FINANCIALJUICE ...",
-      "posted_at": "2026-05-01T21:00:25+00:00",
-      "captured_at": "2026-05-01T21:00:26.022811+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15622,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948532,
-      "message_text": "US ESTIMATES BLOCKADE HAS COST IRAN $4.8 BLN - AXIOS. ...",
-      "posted_at": "2026-05-01T20:59:39+00:00",
-      "captured_at": "2026-05-01T20:59:40.940447+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15620,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948531,
-      "message_text": "TRUMP: GERMANY HAS NOT ADHERED TO OUR TRADE DEAL. EU HAS NOT ADHERED TO TRADE DEAL WITH THE US. ...",
-      "posted_at": "2026-05-01T20:58:54+00:00",
-      "captured_at": "2026-05-01T20:58:55.674369+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15618,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948530,
-      "message_text": "RENTS AROUND THE U.S. ARE GROWING MORE SLOWLY THAN THEY HAVE IN YEARS, PER CBS ...",
-      "posted_at": "2026-05-01T20:58:10+00:00",
-      "captured_at": "2026-05-01T20:58:11.941731+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
