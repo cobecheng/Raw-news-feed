@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T18:51:39.807597+00:00",
+  "generated_at": "2026-05-04T18:56:49.203279+00:00",
   "window_hours": 72,
-  "count": 825,
+  "count": 823,
   "news": [
     {
       "id": 17206,
@@ -10698,32 +10698,6 @@
       "posted_at": "2026-05-01T19:00:01+00:00",
       "captured_at": "2026-05-01T19:00:02.564775+00:00",
       "has_media": 1,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15560,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948500,
-      "message_text": "BRENT CRUDE FUTURES SETTLE AT USD108.17/BBL, DOWN USD2.23, 2.02% ...",
-      "posted_at": "2026-05-01T18:55:35+00:00",
-      "captured_at": "2026-05-01T18:55:37.613564+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15558,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948499,
-      "message_text": "BRENT CRUDE FUTURES SETTLE AT $108.17/BBL, DOWN $2.23, 2.02% ...",
-      "posted_at": "2026-05-01T18:55:05+00:00",
-      "captured_at": "2026-05-01T18:55:07.324258+00:00",
-      "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
       "destination_topic_id": 127
