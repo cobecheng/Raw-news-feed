@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T18:00:03.793630+00:00",
+  "generated_at": "2026-05-04T18:05:14.202038+00:00",
   "window_hours": 72,
-  "count": 853,
+  "count": 851,
   "news": [
     {
       "id": 17206,
@@ -11061,32 +11061,6 @@
       "message_text": "IRAN SOFTENS CONDITIONS FOR RESUMING PEACE TALKS WITH THE US - WSJ \n\nIRAN HAS HANDED WASHINGTON A NEW PROPOSAL FOR ENDING THE WAR, OFFERING HINTS OF COMPROMISE IN A BID TO REVIVE TALKS TO END A STANDOFF THAT IS PROVING COSTLY FOR ITS ECONOMY.\n\nTHE TWO SIDES REMAIN FAR APART, HOWEVER, ON THE SUBSTANTIVE ISSUES OF REOPENING THE STRAIT OF HORMUZ AND IRAN\u2019S NUCLEAR PROGRAM, PEOPLE FAMILIAR WITH THE MATTER SAID, AN INDICATION THAT NEGOTIATIONS WILL CONTINUE TO BE FRAUGHT. ...",
       "posted_at": "2026-05-01T18:05:49+00:00",
       "captured_at": "2026-05-01T18:05:51.086130+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15504,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948472,
-      "message_text": "ISRAEL HELPED DEFEND UAE WITH THE IRON DOME - NYT ...",
-      "posted_at": "2026-05-01T18:04:18+00:00",
-      "captured_at": "2026-05-01T18:04:21.565702+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15502,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948471,
-      "message_text": "*TRUMP MEDIA PLANS TO SPIN OUT TRUTH SOCIAL AND TRUTH+ INTO SEPARATE PUBLIC COMPANY\n\n$DJT ...",
-      "posted_at": "2026-05-01T18:00:48+00:00",
-      "captured_at": "2026-05-01T18:00:50.668280+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
