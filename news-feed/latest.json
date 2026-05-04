@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T20:50:21.314148+00:00",
+  "generated_at": "2026-05-04T20:55:30.773888+00:00",
   "window_hours": 72,
-  "count": 799,
+  "count": 795,
   "news": [
     {
       "id": 17206,
@@ -10333,58 +10333,6 @@
       "message_text": "RENTS AROUND THE U.S. ARE GROWING MORE SLOWLY THAN THEY HAVE IN YEARS, PER CBS ...",
       "posted_at": "2026-05-01T20:58:10+00:00",
       "captured_at": "2026-05-01T20:58:11.941731+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15616,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948529,
-      "message_text": "TRUMP: I THINK CLOSE TO 400 SHIPS WITH OIL LOCKED UP IN HORMUZ.\n\nTRUMP: IRAN NOT COMING THROUGH WITH DEAL WE HAVE TO HAVE. WE WILL GET THIS THING DONE PROPERLY. - FINANCIALJUICE ...",
-      "posted_at": "2026-05-01T20:54:25+00:00",
-      "captured_at": "2026-05-01T20:54:27.665036+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15614,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948528,
-      "message_text": "TRUMP: IRAN NOT COMING THROUGH WITH DEAL WE HAVE TO HAVE. WE WILL GET THIS THING DONE PROPERLY.\n\nTRUMP ON IRAN: WE WILL NOT LEAVE EARLY AND HAVE THE PROBLEM ARISE AGAIN. - FINANCIALJUICE ...",
-      "posted_at": "2026-05-01T20:51:24+00:00",
-      "captured_at": "2026-05-01T20:51:25.787319+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15612,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948527,
-      "message_text": "TRUMP ON IRAN: WE WILL NOT LEAVE EARLY AND HAVE THE PROBLEM ARISE AGAIN ...",
-      "posted_at": "2026-05-01T20:50:54+00:00",
-      "captured_at": "2026-05-01T20:50:55.500901+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15610,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948526,
-      "message_text": "TRUMP ON IRAN: WE WILL NOT LEAVE EARLY AND HAVE THE PROBLEM ARISE AGAIN.\n\nTRUMP: I THOUGHT THE STOCK MARKET WOULD GO DOWN BY 25%. - FINANCIALJUICE ...",
-      "posted_at": "2026-05-01T20:50:24+00:00",
-      "captured_at": "2026-05-01T20:50:25.302944+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
