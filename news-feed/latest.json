@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T19:07:07.994968+00:00",
+  "generated_at": "2026-05-04T19:12:17.387982+00:00",
   "window_hours": 72,
-  "count": 822,
+  "count": 820,
   "news": [
     {
       "id": 17206,
@@ -10658,32 +10658,6 @@
       "message_text": "MONDAY FX OPTIONS EXPIRIES\n ...",
       "posted_at": "2026-05-01T19:21:51+00:00",
       "captured_at": "2026-05-01T19:21:53.578492+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15566,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948503,
-      "message_text": "STREETING READY TO LAUNCH LEADERSHIP CHALLENGE AGAINST STARMER - TELEGRAPH ...",
-      "posted_at": "2026-05-01T19:10:22+00:00",
-      "captured_at": "2026-05-01T19:10:23.567435+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15564,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948502,
-      "message_text": "TRUMP SAYS HE\u2019S STILL CONSIDERING A TAXPAYER-FUNDED DEAL TO BAIL OUT SPIRIT AIRLINES. ...",
-      "posted_at": "2026-05-01T19:08:21+00:00",
-      "captured_at": "2026-05-01T19:08:22.281783+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
