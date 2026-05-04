@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T15:56:11.056440+00:00",
+  "generated_at": "2026-05-04T16:01:20.465282+00:00",
   "window_hours": 72,
-  "count": 991,
+  "count": 988,
   "news": [
     {
       "id": 17206,
@@ -12842,45 +12842,6 @@
       "message_text": "HIGHER OIL PRICES ARE A POSITIVE TERMS-OF-TRADE SHOCK FOR THE US AND A NEGATIVE ONE FOR EUROPE. IF THE ECB STAYS ON THE SIDELINES, THE EURO DEPRECIATES FURTHER, LONG-END INFLATION EXPECTATIONS RISE, AND PUBLIC FINANCES COME UNDER PRESSURE. THE UK AND JAPAN ARE THE REFERENCE POINTS. THE ECB IS BETWEEN A ROCK AND A HARD PLACE, AND RATE HIKES ARE SEEN AS WARRANTED. ...",
       "posted_at": "2026-05-01T16:02:00+00:00",
       "captured_at": "2026-05-01T16:02:02.682388+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15230,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948335,
-      "message_text": "SENATORS OFFER AN ACT ON THE CHINA THREAT TO STRATEGIC INTERESTS. THE US SENATORS' CHINA THREAT RESOLUTION IS BIPARTISAN. ...",
-      "posted_at": "2026-05-01T15:57:45+00:00",
-      "captured_at": "2026-05-01T15:57:46.251829+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15228,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948334,
-      "message_text": "\"THE TOP 0.1% OF INCOME EARNERS IN CALIFORNIA MAKE 12% OF THE STATE'S TOTAL INCOME AND PAY 27% OF TOTAL INCOME TAXES.\n\nTHE BOTTOM 50% OF INCOME EARNERS MAKE 12% OF TOTAL INCOME AND PAY 3% OF TOTAL INCOME TAXES,\" PER CHARLIE BILELLO ...",
-      "posted_at": "2026-05-01T15:56:15+00:00",
-      "captured_at": "2026-05-01T15:56:17.637828+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15226,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948333,
-      "message_text": "\n\n\ud83d\udd34 TRUMP: I WILL BE INCREASING TARIFFS CHARGED TO THE EUROPEAN UNION FOR CARS AND TRUCKS COMING INTO UNITED STATES. TARIFF WILL BE INCREASED TO 25% - TRUITH SOCIAL. - FINANCIALJUICE ...",
-      "posted_at": "2026-05-01T15:56:14+00:00",
-      "captured_at": "2026-05-01T15:56:17.324979+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
