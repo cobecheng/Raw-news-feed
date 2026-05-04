@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T16:47:48.053762+00:00",
+  "generated_at": "2026-05-04T16:52:57.436830+00:00",
   "window_hours": 72,
-  "count": 876,
+  "count": 875,
   "news": [
     {
       "id": 17206,
@@ -11373,19 +11373,6 @@
       "message_text": "META IS ACQUIRING ASSURED ROBOT INTELLIGENCE; NO TERMS ANNOUNCED. ...",
       "posted_at": "2026-05-01T16:57:31+00:00",
       "captured_at": "2026-05-01T16:57:33.259396+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15456,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948448,
-      "message_text": "IRAN\u2019S FOREIGN MINISTER ARAGHCHI AND RUSSIAN FOREIGN MINISTER LAVROV DISCUSS IRAN'S LATEST EFFORTS TO END THE WAR. ...",
-      "posted_at": "2026-05-01T16:52:16+00:00",
-      "captured_at": "2026-05-01T16:52:18.855408+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
