@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T18:25:52.866776+00:00",
+  "generated_at": "2026-05-04T18:31:02.252649+00:00",
   "window_hours": 72,
-  "count": 842,
+  "count": 840,
   "news": [
     {
       "id": 17206,
@@ -10918,32 +10918,6 @@
       "message_text": "EUROPEAN COMMISSION SAYS IT IS IMPLEMENTING EU-US TRADE AGREEMENT IN LINE WITH STANDARD LEGISLATIVE PRACTICE ...",
       "posted_at": "2026-05-01T18:31:07+00:00",
       "captured_at": "2026-05-01T18:31:07.841434+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15526,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948483,
-      "message_text": "IRCG: NEW PERSIAN GULF MANAGEMENT RULES SET, TO BE IMPLEMENTED UNDER SUPREME LEADER\u2019S HISTORIC COMMAND - SNN TV\n\nIRGC: CONTROLLING NEARLY 2,000 KM OF IRAN COASTLINE IN THE PERSIAN GULF AND STRAIT OF HORMUZ WILL BE SOURCE OF LIVELIHOOD, SECURITY AND PROSPERITY FOR IRAN AND REGION - IRAN'S SNN - FINANCIALJUICE ...",
-      "posted_at": "2026-05-01T18:28:35+00:00",
-      "captured_at": "2026-05-01T18:28:36.540508+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15524,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948482,
-      "message_text": "IRGC: CONTROLLING NEARLY 2,000 KM OF IRAN COASTLINE IN THE PERSIAN GULF AND STRAIT OF HORMUZ WILL BE SOURCE OF LIVELIHOOD, SECURITY AND PROSPERITY FOR IRAN AND REGION - IRAN'S SNN ...",
-      "posted_at": "2026-05-01T18:27:34+00:00",
-      "captured_at": "2026-05-01T18:27:36.741780+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
