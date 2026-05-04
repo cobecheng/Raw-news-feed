@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T21:00:40.197626+00:00",
+  "generated_at": "2026-05-04T21:05:49.608255+00:00",
   "window_hours": 72,
-  "count": 791,
+  "count": 790,
   "news": [
     {
       "id": 17206,
@@ -10268,19 +10268,6 @@
       "message_text": "*US PLANS TO PULL ABOUT 5,000 TROOPS FROM GERMANY, CBS REPORTS ...",
       "posted_at": "2026-05-01T21:22:10+00:00",
       "captured_at": "2026-05-01T21:22:11.174827+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15626,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948534,
-      "message_text": "U.S. BLOCKADE HAS COST IRAN $4.8 BILLION -AXIOS ...",
-      "posted_at": "2026-05-01T21:01:24+00:00",
-      "captured_at": "2026-05-01T21:01:25.929532+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
