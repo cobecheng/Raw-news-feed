@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T18:41:21.029259+00:00",
+  "generated_at": "2026-05-04T18:46:30.430081+00:00",
   "window_hours": 72,
-  "count": 828,
+  "count": 827,
   "news": [
     {
       "id": 17206,
@@ -10749,19 +10749,6 @@
       "message_text": "HEAD OF IRANIAN JUDICIARY: WE DO NOT WANT WAR AND WE DO NOT WANT IT TO CONTINUE - AL HADATH ...",
       "posted_at": "2026-05-01T18:51:35+00:00",
       "captured_at": "2026-05-01T18:51:38.533588+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15552,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948496,
-      "message_text": "\n\nTRUMP: AUTHORIZATION FOR IRAN OPERATIONS NOT NEEDED - NBC. - FINANCIALJUICE ...",
-      "posted_at": "2026-05-01T18:46:21+00:00",
-      "captured_at": "2026-05-01T18:46:23.562184+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
