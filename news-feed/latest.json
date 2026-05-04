@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T18:46:30.430081+00:00",
+  "generated_at": "2026-05-04T18:51:39.807597+00:00",
   "window_hours": 72,
-  "count": 827,
+  "count": 825,
   "news": [
     {
       "id": 17206,
@@ -10723,32 +10723,6 @@
       "message_text": "BRENT CRUDE FUTURES SETTLE AT $108.17/BBL, DOWN $2.23, 2.02% ...",
       "posted_at": "2026-05-01T18:55:05+00:00",
       "captured_at": "2026-05-01T18:55:07.324258+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15556,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948498,
-      "message_text": "HEAD OF IRANIAN JUDICIARY: WE SEEK NEGOTIATIONS, NOT TO ACCEPT DICTATES - AL HADATH ...",
-      "posted_at": "2026-05-01T18:51:36+00:00",
-      "captured_at": "2026-05-01T18:51:38.752484+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15554,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948497,
-      "message_text": "HEAD OF IRANIAN JUDICIARY: WE DO NOT WANT WAR AND WE DO NOT WANT IT TO CONTINUE - AL HADATH ...",
-      "posted_at": "2026-05-01T18:51:35+00:00",
-      "captured_at": "2026-05-01T18:51:38.533588+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
