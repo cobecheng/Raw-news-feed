@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T17:08:26.627930+00:00",
+  "generated_at": "2026-05-04T17:13:36.057116+00:00",
   "window_hours": 72,
-  "count": 866,
+  "count": 862,
   "news": [
     {
       "id": 17206,
@@ -11204,58 +11204,6 @@
       "message_text": "IRAN\u2019S RAHIMI: TALKS WITH US WERE NOT PHONE CALLS AS TRUMP CLAIMS -  AL MAYADEEN\n- TALKS VIA PAKISTANI MEDIATOR & ARAGHICHI MESSAGES\n\n ...",
       "posted_at": "2026-05-01T17:14:03+00:00",
       "captured_at": "2026-05-01T17:14:05.576389+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15482,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948461,
-      "message_text": "JUST IN: \ud83c\uddfa\ud83c\uddf8 US GOVERNMENT SAYS IT IS UP $40,000,000,000 ON ITS 10% OWNERSHIP STAKE IN INTEL $INTC.  ...",
-      "posted_at": "2026-05-01T17:11:32+00:00",
-      "captured_at": "2026-05-01T17:11:33.023095+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15478,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948459,
-      "message_text": "US CENTCOM: 45 COMMERCIAL VESSELS HAVE BEEN REDIRECTED AT HORMUZ. ...",
-      "posted_at": "2026-05-01T17:10:33+00:00",
-      "captured_at": "2026-05-01T17:10:34.198152+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15480,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948460,
-      "message_text": "*IRAN HAS OFFERED A NEW PROPOSAL FOR A SECOND ROUND OF PEACE TALKS WITH THE U.S. - CBS ...",
-      "posted_at": "2026-05-01T17:10:33+00:00",
-      "captured_at": "2026-05-01T17:10:34.500884+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15476,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948458,
-      "message_text": "IRAN SUPREME LEADER: THE ISLAMIC REPUBLIC OF IRAN, NOW THAT IN ITS MILITARY BATTLE, IT HAS PROVEN PART OF ITS REMARKABLE CAPABILITY TO THE WORLD, MUST ALSO DISAPPOINT AND DEFEAT THE ENEMY IN THE STAGE OF ECONOMIC JIHAD AND CULTURAL JIHAD. ...",
-      "posted_at": "2026-05-01T17:09:01+00:00",
-      "captured_at": "2026-05-01T17:09:04.316373+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
