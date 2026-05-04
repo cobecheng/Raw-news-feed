@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T19:38:05.373247+00:00",
+  "generated_at": "2026-05-04T19:43:14.837766+00:00",
   "window_hours": 72,
-  "count": 817,
+  "count": 816,
   "news": [
     {
       "id": 17206,
@@ -10606,19 +10606,6 @@
       "message_text": "JUST IN: TRUMP TOLD CONGRESS THAT THE IRAN WAR HAS \u201cTERMINATED\u201d \u2014 AN EFFORT TO JUSTIFY NOT SEEKING AUTHORIZATION AFTER THE CONFLICT REACHED A 60-DAY THRESHOLD, PER POLITICO ...",
       "posted_at": "2026-05-01T19:50:37+00:00",
       "captured_at": "2026-05-01T19:50:37.670636+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15574,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948507,
-      "message_text": "CHEVRON CFO: OIL MARKETS ARE RUNNING DOWN STORAGE BUFFERS. $CVX ...",
-      "posted_at": "2026-05-01T19:38:52+00:00",
-      "captured_at": "2026-05-01T19:38:55.614240+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
