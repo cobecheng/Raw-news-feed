@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T20:03:52.519389+00:00",
+  "generated_at": "2026-05-04T20:09:01.907615+00:00",
   "window_hours": 72,
-  "count": 812,
+  "count": 811,
   "news": [
     {
       "id": 17206,
@@ -10541,19 +10541,6 @@
       "message_text": "SPIRIT IS CURRENTLY EXPECTED TO CEASE OPERATIONS AROUND 3 A.M. ET SATURDAY - WSJ ...",
       "posted_at": "2026-05-01T20:17:07+00:00",
       "captured_at": "2026-05-01T20:17:08.640744+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15584,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948512,
-      "message_text": "ETHEREUM FOUNDATION'S RECENT ETH SALES TO TOM LEE'S BITMINE HIT $47 MILLION AFTER LATEST DEAL ...",
-      "posted_at": "2026-05-01T20:07:07+00:00",
-      "captured_at": "2026-05-01T20:07:09.584576+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
