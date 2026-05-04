@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T20:45:10.767875+00:00",
+  "generated_at": "2026-05-04T20:50:21.314148+00:00",
   "window_hours": 72,
-  "count": 803,
+  "count": 799,
   "news": [
     {
       "id": 17206,
@@ -10385,58 +10385,6 @@
       "message_text": "TRUMP ON IRAN: WE WILL NOT LEAVE EARLY AND HAVE THE PROBLEM ARISE AGAIN.\n\nTRUMP: I THOUGHT THE STOCK MARKET WOULD GO DOWN BY 25%. - FINANCIALJUICE ...",
       "posted_at": "2026-05-01T20:50:24+00:00",
       "captured_at": "2026-05-01T20:50:25.302944+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15608,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948525,
-      "message_text": "TRUMP: I THOUGHT THE STOCK MARKET WOULD GO DOWN BY 25%.\n\nTRUMP: OIL PRICE WILL COME CRASHING DOWN AS SOON AS WAR OVER. - FINANCIALJUICE ...",
-      "posted_at": "2026-05-01T20:50:10+00:00",
-      "captured_at": "2026-05-01T20:50:12.747804+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15606,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948524,
-      "message_text": "TRUMP: OIL PRICE WILL COME CRASHING DOWN AS SOON AS WAR OVER. ...",
-      "posted_at": "2026-05-01T20:49:09+00:00",
-      "captured_at": "2026-05-01T20:49:12.437495+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15604,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948523,
-      "message_text": "NOTIFICATIONS FROM ALERTS ...",
-      "posted_at": "2026-05-01T20:48:09+00:00",
-      "captured_at": "2026-05-01T20:48:12.328066+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15602,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948522,
-      "message_text": "*CEREBRAS SYSTEMS IS SAID TO TARGET UP TO $4 BILLION IN US IPO ...",
-      "posted_at": "2026-05-01T20:48:08+00:00",
-      "captured_at": "2026-05-01T20:48:09.492739+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
