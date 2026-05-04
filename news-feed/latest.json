@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T16:01:20.465282+00:00",
+  "generated_at": "2026-05-04T16:06:29.866490+00:00",
   "window_hours": 72,
-  "count": 988,
+  "count": 986,
   "news": [
     {
       "id": 17206,
@@ -12816,32 +12816,6 @@
       "message_text": "IRAN\u2019S FOREIGN MINISTER ARAGHCHI: THE US IS THE MAIN SOURCE OF INSECURITY IN THE STRAIT OF HORMUZ. ...",
       "posted_at": "2026-05-01T16:08:45+00:00",
       "captured_at": "2026-05-01T16:08:46.360025+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15234,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948337,
-      "message_text": "ECB'S SLEIJPEN: THE IMPACT ON INFLATION DEPENDS ON THE LENGTH OF THE CRISIS - LINKEDIN. ...",
-      "posted_at": "2026-05-01T16:05:00+00:00",
-      "captured_at": "2026-05-01T16:05:01.432760+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15232,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948336,
-      "message_text": "HIGHER OIL PRICES ARE A POSITIVE TERMS-OF-TRADE SHOCK FOR THE US AND A NEGATIVE ONE FOR EUROPE. IF THE ECB STAYS ON THE SIDELINES, THE EURO DEPRECIATES FURTHER, LONG-END INFLATION EXPECTATIONS RISE, AND PUBLIC FINANCES COME UNDER PRESSURE. THE UK AND JAPAN ARE THE REFERENCE POINTS. THE ECB IS BETWEEN A ROCK AND A HARD PLACE, AND RATE HIKES ARE SEEN AS WARRANTED. ...",
-      "posted_at": "2026-05-01T16:02:00+00:00",
-      "captured_at": "2026-05-01T16:02:02.682388+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
