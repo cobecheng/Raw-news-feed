@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T18:05:14.202038+00:00",
+  "generated_at": "2026-05-04T18:10:24.653111+00:00",
   "window_hours": 72,
-  "count": 851,
+  "count": 848,
   "news": [
     {
       "id": 17206,
@@ -11022,45 +11022,6 @@
       "message_text": "GERMAN VDA PRESIDENT: COSTS OF ADDITIONAL TARIFFS WOULD BE ENORMOUS FOR GERMAN AND EUROPEAN AUTOMOTIVE INDUSTRIES ...",
       "posted_at": "2026-05-01T18:12:04+00:00",
       "captured_at": "2026-05-01T18:12:04.970208+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15510,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948475,
-      "message_text": "GERMANY'S VDA AUTO ASSOCIATION SAYS TRUMP\u2019S TARIFF ANNOUNCEMENT ON TRUCKS AND CARS IMPORTED FROM EU REPRESENT A RENEWED, SERIOUS STRAIN ON TRANSATLANTIC RELATIONS\n\n- URGENTLY CALLS ON BOTH SIDES TO DE-ESCALATE, ENGAGE IN SWIFT NEGOTIATIONS ...",
-      "posted_at": "2026-05-01T18:09:19+00:00",
-      "captured_at": "2026-05-01T18:09:19.842786+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15508,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948474,
-      "message_text": "ISRAEL HELPED DEFEND UAE WITH THE IRON DOME - NYT ...",
-      "posted_at": "2026-05-01T18:06:19+00:00",
-      "captured_at": "2026-05-01T18:06:21.361444+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15506,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948473,
-      "message_text": "IRAN SOFTENS CONDITIONS FOR RESUMING PEACE TALKS WITH THE US - WSJ \n\nIRAN HAS HANDED WASHINGTON A NEW PROPOSAL FOR ENDING THE WAR, OFFERING HINTS OF COMPROMISE IN A BID TO REVIVE TALKS TO END A STANDOFF THAT IS PROVING COSTLY FOR ITS ECONOMY.\n\nTHE TWO SIDES REMAIN FAR APART, HOWEVER, ON THE SUBSTANTIVE ISSUES OF REOPENING THE STRAIT OF HORMUZ AND IRAN\u2019S NUCLEAR PROGRAM, PEOPLE FAMILIAR WITH THE MATTER SAID, AN INDICATION THAT NEGOTIATIONS WILL CONTINUE TO BE FRAUGHT. ...",
-      "posted_at": "2026-05-01T18:05:49+00:00",
-      "captured_at": "2026-05-01T18:05:51.086130+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
