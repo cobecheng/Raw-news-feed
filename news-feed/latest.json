@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T19:48:24.211735+00:00",
+  "generated_at": "2026-05-04T19:53:33.687702+00:00",
   "window_hours": 72,
-  "count": 816,
+  "count": 814,
   "news": [
     {
       "id": 17206,
@@ -10580,32 +10580,6 @@
       "message_text": "CALL YOUR WEEKEND.  ...",
       "posted_at": "2026-05-01T20:01:22+00:00",
       "captured_at": "2026-05-01T20:01:24.696121+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15578,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948509,
-      "message_text": "MOC IMBALANCE\n\nS&P 500: +121 MLN\nNASDAQ 100: +380 MLN\nDOW 30: -135 MLN\nMAG 7: -7 MLN ...",
-      "posted_at": "2026-05-01T19:50:52+00:00",
-      "captured_at": "2026-05-01T19:50:53.189391+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15576,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948508,
-      "message_text": "JUST IN: TRUMP TOLD CONGRESS THAT THE IRAN WAR HAS \u201cTERMINATED\u201d \u2014 AN EFFORT TO JUSTIFY NOT SEEKING AUTHORIZATION AFTER THE CONFLICT REACHED A 60-DAY THRESHOLD, PER POLITICO ...",
-      "posted_at": "2026-05-01T19:50:37+00:00",
-      "captured_at": "2026-05-01T19:50:37.670636+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
