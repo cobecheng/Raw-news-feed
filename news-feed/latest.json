@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T18:10:24.653111+00:00",
+  "generated_at": "2026-05-04T18:15:34.099082+00:00",
   "window_hours": 72,
-  "count": 848,
+  "count": 845,
   "news": [
     {
       "id": 17206,
@@ -10983,45 +10983,6 @@
       "message_text": "VOLLAND SPX GREEK HEDGING\nGREEK HEDGING (SPX) ESTIMATES THE DIRECTION AND SIZE OF DAILY DEALER REBALANCING FLOWS IMPLIED BY THE OPTIONS MARKET.\n\nDELTA HEDGING (~$15.52B): SUGGESTS DEALERS MAY NEED TO BUY UNDERLYING (OR FUTURES) TO STAY HEDGED AGAINST PRICE MOVES.\nVEGA HEDGING (~-$7.06B): EXPOSURE TO CHANGES IN IMPLIED VOLATILITY; TYPICALLY MANAGED THROUGH REPRICING OPTIONS, WITH THE NEGATIVE FIGURE SUGGESTING VOLATILITY SENSITIVITY IS DECLINING.\nTHETA HEDGING (~$0.52M): THE IMPACT OF ONE DAY PASSING ON THE DEALER BOOK; LIKE VEGA, THIS IS LARGELY HANDLED THROUGH OPTION REPRICING, WITH MINIMAL ADDITIONAL HEDGING PRESSURE FROM TIME DECAY.\nGREEK HEDGING: NET NOTIONAL DEALER HEDGING THAT NEEDS TO BE APPLIED BY THE END OF THE DAY \nSOURCE:  ...",
       "posted_at": "2026-05-01T18:16:34+00:00",
       "captured_at": "2026-05-01T18:16:35.784862+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15514,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948477,
-      "message_text": "*S&P 500 WEIGH FASTER ENTRY FOR MEGA-IPOS - THE INFORMATION\n\n*S&P DOW JONES INDICES PROPOSES CUTTING IPO ELIGIBILITY WAIT-TIME FROM 12 TO 6 MONTHS\n\n*S&P DOW JONES REMOVES PROFITABILITY REQUIREMENTS FOR MEGA-CAP FIRMS WITH $100B+ MARKET CAPS ...",
-      "posted_at": "2026-05-01T18:13:49+00:00",
-      "captured_at": "2026-05-01T18:13:49.773703+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15516,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948478,
-      "message_text": "VOLLAND SPX SPOT-VOL BETA: 0.18\nTHIS GAUGE MEASURES HOW MUCH THE VIX IS REACTING RELATIVE TO THE S&P 500\u2019S PRICE MOVE. A READING OF 0.18 SUGGESTS VOLATILITY IS SLIGHTLY UNDER-REACTING, MEANING OPTIONS MARKETS REMAIN RELATIVELY CALM COMPARED TO THE INDEX MOVE. OVERALL, THE IMPLIED VOLATILITY RESPONSE APPEARS MODEST AND CONTAINED.\n\nSPOT-VOL BETA: HOW MUCH VIX IS OVER- OR UNDER-REACTING TO SPOT MOVE. VOL EVENT STUDY BY \nSOURCE:  ...",
-      "posted_at": "2026-05-01T18:13:49+00:00",
-      "captured_at": "2026-05-01T18:13:52.510244+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15512,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948476,
-      "message_text": "GERMAN VDA PRESIDENT: COSTS OF ADDITIONAL TARIFFS WOULD BE ENORMOUS FOR GERMAN AND EUROPEAN AUTOMOTIVE INDUSTRIES ...",
-      "posted_at": "2026-05-01T18:12:04+00:00",
-      "captured_at": "2026-05-01T18:12:04.970208+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
