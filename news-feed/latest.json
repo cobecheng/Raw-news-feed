@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T20:40:00.309449+00:00",
+  "generated_at": "2026-05-04T20:45:10.767875+00:00",
   "window_hours": 72,
-  "count": 804,
+  "count": 803,
   "news": [
     {
       "id": 17206,
@@ -10437,19 +10437,6 @@
       "message_text": "*CEREBRAS SYSTEMS IS SAID TO TARGET UP TO $4 BILLION IN US IPO ...",
       "posted_at": "2026-05-01T20:48:08+00:00",
       "captured_at": "2026-05-01T20:48:09.492739+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15600,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948521,
-      "message_text": "GOOGLE, ANTHROPIC, META, TESLA, INTEL AND NVIDIA REPRESENTATIVES TO MEET WITH LAWMAKERS - AXIOS ...",
-      "posted_at": "2026-05-01T20:40:08+00:00",
-      "captured_at": "2026-05-01T20:40:10.706738+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
