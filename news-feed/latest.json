@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-04T19:32:55.998306+00:00",
+  "generated_at": "2026-05-04T19:38:05.373247+00:00",
   "window_hours": 72,
-  "count": 818,
+  "count": 817,
   "news": [
     {
       "id": 17206,
@@ -10619,19 +10619,6 @@
       "message_text": "CHEVRON CFO: OIL MARKETS ARE RUNNING DOWN STORAGE BUFFERS. $CVX ...",
       "posted_at": "2026-05-01T19:38:52+00:00",
       "captured_at": "2026-05-01T19:38:55.614240+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15572,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 948506,
-      "message_text": "IRAN'S REZAEI: US SEC. OF WAR LACKS GEOGRAPHY OF HORMUZ - MEHR ...",
-      "posted_at": "2026-05-01T19:37:51+00:00",
-      "captured_at": "2026-05-01T19:37:52.512867+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,

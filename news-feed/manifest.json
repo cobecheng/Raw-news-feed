@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-04T19:32:55.998306+00:00",
+  "generated_at": "2026-05-04T19:38:05.373247+00:00",
   "db_path": "/Users/cobecheng/Library/Application Support/telegram-autoforwarder-service/app/state/news.db",
   "window_hours": 72,
-  "news_count": 818,
+  "news_count": 817,
   "sources_count": 2,
   "files": [
     "latest.json",
