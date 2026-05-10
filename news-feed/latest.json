@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-05-10T02:17:21.936986+00:00",
+  "generated_at": "2026-05-10T02:24:09.087668+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 24326,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 953584,
+      "message_text": "PERSIAN GULF CONFLICT AND NEW CHINESE EXPORT CURBS SEND SULFURIC ACID PRICES SURGING, RAISING GLOBAL SUPPLY CONCERNS ...",
+      "posted_at": "2026-05-10T02:24:06+00:00",
+      "captured_at": "2026-05-10T02:24:08.678497+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 24324,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "*TRUMP SAYS HE HAS BEEN BRIEFED ABOUT HANTAVIRUS\n\n*TRUMP ON HANTAVIRUS: WE HOPE IT'S VERY MUCH UNDER CONTROL ...",
       "posted_at": "2026-05-08T00:02:37+00:00",
       "captured_at": "2026-05-08T00:02:39.150951+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 22326,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 952580,
-      "message_text": "30% OF AMERICANS ARE AGAINST THE POPE URGING PEACE AND REJECTING WAR, PER MS NOW. ...",
-      "posted_at": "2026-05-07T23:58:06+00:00",
-      "captured_at": "2026-05-07T23:58:07.984449+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
