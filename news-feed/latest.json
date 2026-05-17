@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-05-17T22:48:22.809669+00:00",
+  "generated_at": "2026-05-17T23:02:20.269145+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 33892,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 958380,
+      "message_text": "UK RIGHTMOVE HOUSE PRICES (M/M) MAY: 1.2% (PREV 0.8%)\n\n- RIGHTMOVE HOUSE PRICES (Y/Y): -0.3% (PREV \u20130.9%) ...",
+      "posted_at": "2026-05-17T23:02:18+00:00",
+      "captured_at": "2026-05-17T23:02:19.691046+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 33890,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 958379,
+      "message_text": "UKRAINE'S SOUTHERN ODESA REGION UNDER DRONE ATTACK; RESIDENTIAL BUILDINGS HIT - GOVERNOR ...",
+      "posted_at": "2026-05-17T22:55:33+00:00",
+      "captured_at": "2026-05-17T22:55:34.059953+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 33888,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "\ud83c\uddfa\ud83c\uddf8US PRE-MARKET MOVERS\ud83c\uddfa\ud83c\uddf8\nES -1.1% NQ -1.6% RTY -1.6%\n\n$AMAT -2.0%: EARNINGS BEAT OFFSET BY RISK-OFF MOOD\n\n$FIG +9.1%: BEAT EARNINGS & RAISED GUIDANCE\n\n$BOOT +4.6%: EARNINGS & OUTLOOK TOPPED EXPECTATIONS\n\n$MICC +12.3%: BLACKSTONE AND CD&R ARE REPORTEDLY SOME OF THE FIRMS CONSIDERING A BID FOR $MICC\n\n$DXCM +5.3%:  ELLIOTT INVESTMENT MANAGEMENT HAS TAKEN A STAKE IN $DXCM\n\n$BW -10.5%: ANNOUNCED A $200M COMMON STOCK OFFERING\n\n$PZZA +9.1%:  $PZZA'S LARGEST US FRANCHISEE, NADEEM BAJWA, IS JOINING IRTH CAPITAL\u2019S BUYOUT BID FOR $PZZA\n\n$CHRW +1.6%: UPGRADED AT CITI TO 'BUY' FROM 'NEUTRAL'\n\n$AOS -1.7%: DOWNGRADED AT JPM TO 'UNDERWEIGHT' FROM 'NEUTRAL' ...",
       "posted_at": "2026-05-15T12:21:26+00:00",
       "captured_at": "2026-05-15T12:21:26.867001+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 31892,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 957375,
-      "message_text": "CBOE VOLATILITY INDEX CLIMBS TO OVER TWO-WEEK HIGH, LAST UP 1.90 POINTS AT 19.16 ...",
-      "posted_at": "2026-05-15T12:21:25+00:00",
-      "captured_at": "2026-05-15T12:21:26.455616+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 31890,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 957374,
-      "message_text": "\n\nCANADIAN HOUSE STARTS, ANNUALIZED ACTUAL 279.317K (FORECAST 245K, PREVIOUS 235.9K) - FINANCIALJUICE ...",
-      "posted_at": "2026-05-15T12:17:28+00:00",
-      "captured_at": "2026-05-15T12:17:31.296287+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
