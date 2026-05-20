@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-05-20T21:12:54.194973+00:00",
+  "generated_at": "2026-05-20T23:13:11.524895+00:00",
   "count": 2,
   "sources": [
+    {
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "message_count": 18202,
+      "newest_posted_at": "2026-05-20T23:07:15+00:00"
+    },
     {
       "source_chat_id": -1001380328653,
       "source_title": "infinityhedge",
       "message_count": 20,
       "newest_posted_at": "2026-05-20T21:12:51+00:00"
-    },
-    {
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "message_count": 18216,
-      "newest_posted_at": "2026-05-20T21:00:36+00:00"
     }
   ]
 }
