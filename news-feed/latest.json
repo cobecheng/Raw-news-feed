@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-05-20T23:13:11.524895+00:00",
+  "generated_at": "2026-05-20T23:47:04.467659+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 38780,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 960822,
+      "message_text": "BENCHMARK 10-YEAR JGB FUTURES GAIN 0.39 POINT IN EARLY TRADE. ...",
+      "posted_at": "2026-05-20T23:47:03+00:00",
+      "captured_at": "2026-05-20T23:47:03.882923+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 38778,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 960821,
+      "message_text": "PENTAGON OFFICIAL\u2019S BEIJING VISIT IN DOUBT OVER $14B US ARMS PACKAGE FOR TAIWAN - FT\n\n ...",
+      "posted_at": "2026-05-20T23:20:47+00:00",
+      "captured_at": "2026-05-20T23:20:49.777056+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 38776,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "US API CRUDE OIL INVENTORY SHIFT ACTUAL -9.1M (PROJECTION -3.4M, PRIOR -2.188M) ...",
       "posted_at": "2026-05-19T20:46:19+00:00",
       "captured_at": "2026-05-19T20:46:20.475234+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 36780,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 959826,
-      "message_text": "JUST IN: \ud83c\udde8\ud83c\uddf3\ud83c\uddea\ud83c\uddfa US SENATOR LUMMIS SAYS CHINA & EUROPE ARE COMPETING WITH US TO LEAD IN CRYPTO. ...",
-      "posted_at": "2026-05-19T20:45:50+00:00",
-      "captured_at": "2026-05-19T20:45:53.048694+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 36778,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 959825,
-      "message_text": "BREAKING: WE DID IT.\n\nWE BUILT A TRADING COMPANION CONNECTED TO REAL-TIME MARKET DATA, STRAIGHT FROM THE SOURCE.\n\nMEET MR. WHALE.  \n\nHE KNOWS WHAT HAPPENED TO YOUR FAVORITE STOCK 2 MINUTES AGO.\n\nAND HOW TO USE OUR TOOLS TO FIND YOUR NEXT FAVORITE STOCK.\n\nASK HIM ANYTHING TODAY.  ...",
-      "posted_at": "2026-05-19T20:36:34+00:00",
-      "captured_at": "2026-05-19T20:36:35.971716+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
