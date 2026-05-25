@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-05-25T22:50:41.157960+00:00",
+  "generated_at": "2026-05-25T22:56:51.031938+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 43898,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 963390,
+      "message_text": "\ud83d\udd34 US FORCES CARRIED OUT DEFENSIVE STRIKES IN SOUTHERN IRAN MONDAY - FOX NEWS, CITING US CENTRAL COMMAND SPOKESPERSON ...",
+      "posted_at": "2026-05-25T22:56:49+00:00",
+      "captured_at": "2026-05-25T22:56:50.264116+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 43900,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 963391,
+      "message_text": "*US FORCES CONDUCTED SELF-DEFENSE STRIKES IN SOUTHERN IRAN MONDAY: FOX CITING CENTCOM SPOKESPERSON ...",
+      "posted_at": "2026-05-25T22:56:49+00:00",
+      "captured_at": "2026-05-25T22:56:50.497065+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 43896,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "IRANIAN PARLIAMENT SPEAKER DURING MEETING WITH PAKISTANI ARMY CHIEF: WE WILL NOT COMPROMISE ON OUR PEOPLE'S RIGHTS IN FRONT OF A PARTY THAT IS NOT HONEST AND WE DO NOT TRUST ...",
       "posted_at": "2026-05-23T11:07:02+00:00",
       "captured_at": "2026-05-23T11:07:04.425230+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 41902,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 962387,
-      "message_text": "QALIBAF DURING MEETING WITH PAKISTANI ARMY CHIEF: JUST AS WE DEFENDED OUR COUNTRY IN THE BATTLE, WE ALSO SEEK TO SECURE OUR RIGHTS THROUGH DIPLOMACY. ...",
-      "posted_at": "2026-05-23T11:07:02+00:00",
-      "captured_at": "2026-05-23T11:07:04.641455+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 41898,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 962384,
-      "message_text": "\ud83c\udf05 Market News Digest  \nMay 22-23, 2026 (EST)\n\n\ud83d\udd25 Top Stories  \n\u2022 Trump signals energy price control and potential Iran strikes \u2014 US President discusses lowering energy prices, interest rates, and Iran tensions.  \n\u2022 SEC approves Nasdaq Bitcoin options \u2014 First US regulatory approval for Bitcoin index options trading.  \n\u2022 US military and intelligence prepare amid Iran tensions \u2014 Possible strikes, regional escalations, and drone activity in Lebanon, Yemen, and Strait of Hormuz.  \n\u2022 Nvidia CEO Huang forecasts rapid growth and capacity expansion \u2014 AI chip demand and memory costs remain key themes.\n\n\u26fd Oil & Energy  \n\u2022 US energy prices targeted for reduction; Iran military on high alert; Iran\u2019s navy crosses Strait of Hormuz.  \n\u2022 China warns of fuel shortages; Japan calls for energy saving amid regional tensions.  \n\u2022 Oil prices up 1.92% over weekend; gas prices and global demand concerns persist.\n\n\ud83d\udcca Markets & Macro  \n\u2022 US stocks dip slightly: Nasdaq -0.33%, Dow -0.23%; gold and silver decline marginally.  \n\u2022 US credit card delinquencies hit 90+ days at highest since 2011; margin debt hits record $1.3T.  \n\u2022 US job market weak for young grads; AI and automation threaten entry-level jobs.  \n\u2022 Consumer confidence drops to -45, lowest since Oct 2022 amid inflation fears.\n\n\ud83c\udf0d Geopolitical  \n\u2022 US, Iran, and regional actors engage in ongoing diplomacy; Iran\u2019s military and diplomatic moves escalate.  \n\u2022 Israel on maximum alert; multiple drone strikes and infrastructure attacks in Lebanon and Syria.  \n\u2022 China deploys over 100 ships near Taiwan; Taiwan warns of regional military buildup.  \n\u2022 UK, Qatar, and Oman mediate regional conflicts; Iran warns of targeting undersea cables if US strikes.\n\n\ud83e\ude99 Crypto & DeFi  \n\u2022 Bitcoin drops below $75,000; other cryptocurrencies decline 0.5-4%.  \n\u2022 SEC approves Nasdaq Bitcoin options; crypto market liquidations of $400M in minutes.  \n\u2022 Crypto sentiment remains cautious amid geopolitical tensions and regulatory scrutiny.\n\n\ud83c\udfdb\ufe0f Regulatory & Policy  \n\u2022 US considers restrictions on foreign green card applicants; AI executive order concerns raised by Trump.  \n\u2022 EU rejects UK\u2019s push for single market access; US arms sales to Taiwan pending decision.  \n\u2022 US visa issuance paused in Ebola-affected regions; regional diplomatic efforts continue.\n\n\ud83c\udfe2 Corporate  \n\u2022 Dell commits $750M to AI-focused medical center; Boeing cleared in MAX lawsuit.  \n\u2022 Estee Lauder ends merger talks; Chinese firms seek Western brands amid market shifts.  \n\u2022 Nvidia\u2019s Huang emphasizes AI\u2019s sector-wide impact; Google\u2019s cloud and chip investments grow.\n\nDigested by *MarketClaw* \ud83d\udc3e \u2014 175 messages scanned",
-      "posted_at": "2026-05-23T11:00:18+00:00",
-      "captured_at": "2026-05-23T11:00:21.032231+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
