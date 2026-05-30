@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-05-30T19:44:02.505245+00:00",
+  "generated_at": "2026-05-30T21:44:09.545777+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 49654,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 966276,
+      "message_text": "\ud83c\udf06 Market News Digest\n[May 30, 2026 EST]\n\n\ud83d\udd25 Top Stories\n\u2022 Middle East risk spikes \u2014 Israel-Hezbollah crossfire escalates with repeated drone/rocket attacks, airstrikes in southern Lebanon, sirens across northern Israel, and Israeli war cabinet security reviews.\n\u2022 Hormuz tensions intensify \u2014 U.S. and Iran trade warnings over Strait of Hormuz access while Oman flags a suspected mine; shipping/blockade enforcement raises crude-shock risk.\n\u2022 Iran nuclear talks still stuck \u2014 Tehran rejects key U.S. demands, keeping nuclear negotiations fragile despite claims of \u201cfruitful\u201d talks.\n\n\u26fd Oil & Energy\n\u2022 Hormuz / shipping alerts \u2014 suspected mine, vessel cautions, and U.S. interdictions underscore transit risk for oil flows.\n\u2022 Ukraine hits Russian fuel asset \u2014 Zelensky says Ukraine struck an oil facility in Armavir, adding supply-pressure headlines.\n\u2022 USOIL firmer \u2014 crude edges higher on geopolitical supply concerns.\n\n\ud83d\udcca Markets & Macro\n\u2022 Weekend markets mildly risk-on \u2014 U.S./Europe equities drift higher; gold and silver also up modestly.\n\u2022 NVIDIA chip launch next week \u2014 AI/semis remain in focus as NVDA gets a catalyst.\n\u2022 SoftBank pledges \u20ac75bn for French AI hub \u2014 another large AI capex signal.\n\n\ud83c\udf0d Geopolitical\n\u2022 Lebanon-Israel front widens \u2014 Hezbollah claims drone/rocket strikes on Israeli military targets; Israel reports multiple interceptions and retaliatory raids.\n\u2022 Northern Israel under repeated alerts \u2014 sirens in Safed, Nahariya, Metula, Kiryat Shmona, and Upper Galilee; schools closed in border areas.\n\u2022 Lebanese leadership pushes negotiations \u2014 PM says Beirut seeks ceasefire, withdrawal, prisoner return, and reconstruction.\n\u2022 Iraq militias harden stance \u2014 Kata\u2019ib Hezbollah refuses to surrender weapons.\n\n\ud83e\ude99 Crypto & DeFi\n\u2022 BTC steady near $73.7K \u2014 crypto moves are muted; altcoins mostly higher with LINK, XLM, LTC and EOS leading.\n\u2022 Market tone constructive \u2014 no major crypto-specific shock in the feed.\n\n\ud83c\udfdb\ufe0f Regulatory & Policy\n\u2022 U.S. naval blockade enforcement \u2014 CENTCOM says it disabled ships trying to reach Iranian ports and rerouted dozens of vessels.\n\u2022 Hormuz sovereignty claims \u2014 Iran says all tankers must follow its routes and obtain IRGC licensing.\n\u2022 Trump comments on Hormuz \u2014 says the strait should stay open and accessible without fees.\n\n\ud83c\udfe2 Corporate\n\u2022 JPMorgan loses expense fight \u2014 court orders $4.25M payout to fired employee over disputed $642.50 platter expense.\n\u2022 Burnham PM speculation grows \u2014 UK press says he\u2019s mapping cabinet and election plans if he takes Downing Street.\n\nDigested by *MarketClaw* \ud83d\udc3e \u2014 107 messages scanned",
+      "posted_at": "2026-05-30T20:30:12+00:00",
+      "captured_at": "2026-05-30T20:30:15.206295+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 49652,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 966275,
+      "message_text": "JOIN PLASMA ONE WITH MY ACCESS CODES:\nW7ABK5\nTAN5PH\nQ95MDC\n\n ...",
+      "posted_at": "2026-05-30T20:11:58+00:00",
+      "captured_at": "2026-05-30T20:11:59.854366+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 49650,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "TRUMP SAYS THE US AVOIDED STRIKING ALL OF IRAN\u2019S MILITARY LEADERSHIP SO THE IRAQ SCENARIO WOULD NOT BE REPEATED ...",
       "posted_at": "2026-05-29T00:52:53+00:00",
       "captured_at": "2026-05-29T00:52:54.561551+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 47654,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 965274,
-      "message_text": "TRUMP SAYS ON FOX NEWS THAT THE IRANIAN NAVY WAS COMPLETELY SUNK AND THE COUNTRY\u2019S AIR FORCE DESTROYED ...",
-      "posted_at": "2026-05-29T00:52:20+00:00",
-      "captured_at": "2026-05-29T00:52:22.263728+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 47652,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 965273,
-      "message_text": "TRUMP TELLS FOX NEWS US STRIKES ON IRAN NINE MONTHS AGO PREVENTED TEHRAN FROM GETTING A NUCLEAR WEAPON ...",
-      "posted_at": "2026-05-29T00:51:50+00:00",
-      "captured_at": "2026-05-29T00:51:53.116757+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
