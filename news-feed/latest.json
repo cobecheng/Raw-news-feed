@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-05-30T21:44:09.545777+00:00",
+  "generated_at": "2026-05-30T23:44:16.176666+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 49658,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 966279,
+      "message_text": "JUST IN: \ud83c\uddfa\ud83c\uddf8 PRESIDENT SAYS IT'S \"TIME TO AUDIT\" FORT KNOX'S $667 BILLION GOLD RESERVES.  ...",
+      "posted_at": "2026-05-30T22:35:34+00:00",
+      "captured_at": "2026-05-30T22:35:35.533108+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 49656,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 966278,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-05-30T22:00:02+00:00",
+      "captured_at": "2026-05-30T22:00:03.271988+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 49654,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "TAIWAN EQUITIES CLIMB OVER 2% AMID BROAD MARKET GAINS ...",
       "posted_at": "2026-05-29T01:01:21+00:00",
       "captured_at": "2026-05-29T01:01:23.911544+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 47658,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 965276,
-      "message_text": "TAIWAN\u2019S OVERNIGHT INTERBANK RATE OPENS STEADY AT 0.808% COMPARED WITH THE PREVIOUS SESSION ...",
-      "posted_at": "2026-05-29T01:00:50+00:00",
-      "captured_at": "2026-05-29T01:00:51.368746+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 47656,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 965275,
-      "message_text": "TRUMP SAYS THE US AVOIDED STRIKING ALL OF IRAN\u2019S MILITARY LEADERSHIP SO THE IRAQ SCENARIO WOULD NOT BE REPEATED ...",
-      "posted_at": "2026-05-29T00:52:53+00:00",
-      "captured_at": "2026-05-29T00:52:54.561551+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
