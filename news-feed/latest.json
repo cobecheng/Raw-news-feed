@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-06-05T23:02:03.935434+00:00",
+  "generated_at": "2026-06-05T23:12:50.594145+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 57608,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 970283,
+      "message_text": "SECOND INSTANCE OF SCREWWORM PARASITE IDENTIFIED IN TEXAS: SOURCES ...",
+      "posted_at": "2026-06-05T23:12:49+00:00",
+      "captured_at": "2026-06-05T23:12:49.911706+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 57604,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "U.S. WILL UPHOLD TARIFF CAPS IN DEALS WITH EU, JAPAN AND OTHERS, U.S. TRADE REPRESENTATIVE GREER SAYS ...",
       "posted_at": "2026-06-04T13:30:39+00:00",
       "captured_at": "2026-06-04T13:30:40.810198+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 55608,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 969280,
-      "message_text": "EU SET INITIAL JUNE 26 DEADLINE FOR BAKER HUGHES/CHART REVIEW ...",
-      "posted_at": "2026-06-04T13:29:09+00:00",
-      "captured_at": "2026-06-04T13:29:10.954504+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
