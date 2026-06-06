@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-06-05T23:29:36.749004+00:00",
+  "generated_at": "2026-06-06T00:05:19.573779+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 57614,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 970286,
+      "message_text": "CUBA'S EX-LEADER RAUL CASTRO, SOUGHT BY US, SHOWS UP AT HAVANA MINISTRY OF INTERIOR EVENT - STATE MEDIA ...",
+      "posted_at": "2026-06-06T00:03:06+00:00",
+      "captured_at": "2026-06-06T00:03:07.760635+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 57612,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 970285,
+      "message_text": "DEMOCRAT XAVIER BECERRA PROJECTED TO MOVE FORWARD TO NOVEMBER'S CALIFORNIA GOVERNOR GENERAL ELECTION: CNN ...",
+      "posted_at": "2026-06-05T23:50:19+00:00",
+      "captured_at": "2026-06-05T23:50:21.221499+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 57610,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "USTR GREER: US CONSUMERS AND GLOBAL TRADE HAVE BEEN RESILIENT. ...",
       "posted_at": "2026-06-04T13:32:10+00:00",
       "captured_at": "2026-06-04T13:32:11.710567+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 55612,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 969282,
-      "message_text": "NASDAQ DOWN 289.39 POINTS, OR 1.08 PERCENT, AT 26,564.59 AFTER MARKET OPEN\n\nS&P 500 DOWN 27.67 POINTS, OR 0.37 PERCENT, AT 7,526.01 AFTER MARKET OPEN\n\nDOW JONES UP 476.57 POINTS, OR 0.94 PERCENT, AT 51,163.64 AFTER MARKET OPEN ...",
-      "posted_at": "2026-06-04T13:32:09+00:00",
-      "captured_at": "2026-06-04T13:32:11.195120+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 55614,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 969283,
-      "message_text": "USTR GREER: THE US SEEKS TO MITIGATE THE CHALLENGES WITH CHINA ON TRADE. ...",
-      "posted_at": "2026-06-04T13:32:09+00:00",
-      "captured_at": "2026-06-04T13:32:11.485376+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
