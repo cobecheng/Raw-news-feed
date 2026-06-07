@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-06-07T07:16:46.541136+00:00",
+  "generated_at": "2026-06-07T07:45:01.103519+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 58550,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 970756,
+      "message_text": "GERMANY'S BELEAGUERED CARMAKERS ARE DESPERATELY SEEKING SOLUTIONS FOR THEIR UNDER-USED FACTORIES, WITH SPECULATION SWIRLING THAT CHINESE MANUFACTURERS OR WEAPONS MAKERS COULD MOVE IN. ...",
+      "posted_at": "2026-06-07T07:44:59+00:00",
+      "captured_at": "2026-06-07T07:45:00.266672+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 58548,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 970755,
+      "message_text": "IRAN RAISED PASSENGER TRAIN TICKET PRICES BY 21% ON SUNDAY, ACCORDING TO THE SECRETARY OF THE RAILWAY PASSENGER TRANSPORT COMPANIES\u2019 ASSOCIATION. ...",
+      "posted_at": "2026-06-07T07:16:57+00:00",
+      "captured_at": "2026-06-07T07:16:58.174410+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 58544,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "INDIA GOVERNMENT SAYS VENEZUELA\u2019S ACTING PRESIDENT HAS WELCOMED INDIAN COMPANIES TO ACTIVELY PARTICIPATE IN THE COUNTRY\u2019S REFORMED OIL AND GAS SECTOR ...",
       "posted_at": "2026-06-05T05:12:03+00:00",
       "captured_at": "2026-06-05T05:12:05.408198+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 56550,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 969752,
-      "message_text": "VENEZUELAN ACTING PRESIDENT HAS INVITED AN INDIAN ENERGY DELEGATION TO VISIT AND ASSESS ENERGY COOPERATION OPPORTUNITIES, INDIA GOVERNMENT SAYS ...",
-      "posted_at": "2026-06-05T05:10:47+00:00",
-      "captured_at": "2026-06-05T05:10:50.495052+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 56548,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 969751,
-      "message_text": "INDIAN OIL COMPANIES ARE OPEN TO EXPANDING THEIR FOOTPRINT IN VENEZUELA, OIL MINISTER SAYS ...",
-      "posted_at": "2026-06-05T05:09:48+00:00",
-      "captured_at": "2026-06-05T05:09:50.133144+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
