@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-06-13T21:14:43.087478+00:00",
+  "generated_at": "2026-06-13T23:14:49.210342+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 69018,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 975997,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-06-13T22:00:04+00:00",
+      "captured_at": "2026-06-13T22:00:05.683765+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 69016,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 975996,
+      "message_text": "WHITE HOUSE EXPORT RESTRICTIONS ON ANTHROPIC TIED TO WORRIES OVER CHINESE ACCESS: SEMAFOR ...",
+      "posted_at": "2026-06-13T21:46:43+00:00",
+      "captured_at": "2026-06-13T21:46:45.935756+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 69014,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "UK INDEX OF SERVICES (M/M) APR -0.2% (EST -0.1%; PREV 0.3%)\n- INDEX OF SERVICES (3M/3M): 0.8% (EST 0.8%; PREV 0.8%) ...",
       "posted_at": "2026-06-12T06:04:40+00:00",
       "captured_at": "2026-06-12T06:04:43.204573+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 67020,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 974993,
-      "message_text": "GERMANY (MAY) CPI YOY ACTUAL: 2.6% VS 2.6% PREVIOUS;EST 2.6% ...",
-      "posted_at": "2026-06-12T06:04:40+00:00",
-      "captured_at": "2026-06-12T06:04:43.500010+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 67014,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 974990,
-      "message_text": "GERMANY (MAY) CPI MOM ACTUAL: -0.2%  VS -0.2% PREVIOUS;EST -0.2% ...",
-      "posted_at": "2026-06-12T06:04:39+00:00",
-      "captured_at": "2026-06-12T06:04:40.065737+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
