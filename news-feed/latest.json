@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-06-13T16:59:31.596343+00:00",
+  "generated_at": "2026-06-13T17:01:22.230427+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 68934,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 975954,
+      "message_text": "*IRANIAN NEGOTIATING OFFICIALS STATE AGREEMENT NOT FINALIZED AND WILL NOT BE SIGNED SUNDAY: FARS ...",
+      "posted_at": "2026-06-13T17:01:19+00:00",
+      "captured_at": "2026-06-13T17:01:21.512999+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 68932,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "KUWAIT SIGNIFICANTLY CUT ITS JULY CRUDE OSP FOR ASIAN BUYERS, ACCORDING TO PRICING DOCUMENTS. ...",
       "posted_at": "2026-06-12T04:56:43+00:00",
       "captured_at": "2026-06-12T04:56:44.749539+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 66934,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 974950,
-      "message_text": "DEEP-SEA CABLE CUTTING CAN BE A WEAPON OF DETERRENCE LIKE NUKES, RETN CEO SAYS-SCMP ...",
-      "posted_at": "2026-06-12T04:55:11+00:00",
-      "captured_at": "2026-06-12T04:55:12.792627+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
