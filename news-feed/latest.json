@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-06-20T21:24:33.514647+00:00",
+  "generated_at": "2026-06-20T23:26:57.742531+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 79438,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 981210,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-06-20T22:00:07+00:00",
+      "captured_at": "2026-06-20T22:00:09.026745+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 79436,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 981209,
+      "message_text": "LONDON FIRE BRIGADE: THREE KILLED IN FIRE ON NEW ZEALAND WAY, WHITE CITY ...",
+      "posted_at": "2026-06-20T21:56:59+00:00",
+      "captured_at": "2026-06-20T21:57:00.583508+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 79434,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "U.S. GASOLINE PRICES FALL BELOW $4/GALLON AS OIL RETREATS AFTER U.S.-IRAN PEACE DEAL\n\n\u2022 U.S. GASOLINE PRICES HAVE FALLEN BELOW $4 PER GALLON FOR THE FIRST TIME SINCE MARCH\n\n\u2022 DECLINE FOLLOWS THE U.S.-IRAN INTERIM PEACE DEAL AND EXPECTATIONS FOR A GRADUAL REOPENING OF THE STRAIT OF HORMUZ\n\n\u2022 LOWER CRUDE OIL PRICES ARE PROVIDING SOME RELIEF TO CONSUMERS AFTER MONTHS OF ENERGY-DRIVEN INFLATION\n\n\u2022 ANALYSTS CAUTION THAT THE RELIEF MAY BE LIMITED DUE TO DEPLETED INVENTORIES, REFINERY CONSTRAINTS, AND ONGOING SUPPLY-CHAIN DISRUPTIONS\n\n\u2022 FUEL AND CONSUMER PRICES ARE EXPECTED TO REMAIN ELEVATED THROUGH THE REST OF 2026\n\n\u2022 DESPITE THE RECENT DECLINE, U.S. GASOLINE PRICES REMAIN APPROXIMATELY 25% HIGHER THAN A YEAR AGO\n\n\u2022 PRICES ARE STILL ABOUT $1 PER GALLON ABOVE PRE-WAR LEVELS\n\n\u2022 ELEVATED ENERGY COSTS CONTINUE TO PRESSURE HOUSEHOLDS AND CONTRIBUTE TO PERSISTENT INFLATION ACROSS THE U.S. ECONOMY ...",
       "posted_at": "2026-06-18T18:56:35+00:00",
       "captured_at": "2026-06-18T18:56:37.655443+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 77438,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 980205,
-      "message_text": "PETROBRAS PLANS TO RESUME FERTILIZER PLANT CONSTRUCTION IN MATO GROSSO DO SUL BY SEPTEMBER, WITH EXECUTIVE NOTING LOWER OIL PRICES AND THE US-IRAN DEAL WILL ALLOW POSTPONED REFINERY MAINTENANCE TO PROCEED. ...",
-      "posted_at": "2026-06-18T18:53:34+00:00",
-      "captured_at": "2026-06-18T18:53:36.100943+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 77436,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 980204,
-      "message_text": "BRENT CRUDE SETTLES UP 0.38% AT $79.85/BBL, GAINING 30 CENTS. ...",
-      "posted_at": "2026-06-18T18:51:35+00:00",
-      "captured_at": "2026-06-18T18:51:36.714873+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
