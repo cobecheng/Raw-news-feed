@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-06-21T01:27:04.629342+00:00",
+  "generated_at": "2026-06-21T01:41:09.233886+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 79502,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 981242,
+      "message_text": "AI IS DRIVING MORE UNPAID OVERTIME, NOT LESS WORK, ADP SURVEY FINDS\n\nA NEW 2026 WORKPLACE STUDY FROM  ADP\u2060, BASED ON RESPONSES FROM MORE THAN 39,000 WORKERS ACROSS 36 MARKETS, SUGGESTS THAT ARTIFICIAL INTELLIGENCE IS NOT REDUCING WORKLOADS FOR MANY EMPLOYEES. INSTEAD, AI USERS ARE REPORTING HIGHER LEVELS OF UNPAID OVERTIME, WHILE CONCERNS ABOUT JOB SECURITY AND WORKPLACE ENGAGEMENT REMAIN ELEVATED ...",
+      "posted_at": "2026-06-21T01:41:06+00:00",
+      "captured_at": "2026-06-21T01:41:08.103596+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 79500,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "MOTORSPORT GAMES NAMES PETER HANSEN-CHAMBERS AS CFO EFFECTIVE JULY 1, WITH CURRENT CFO STANLEY BECKLEY MOVING TO NEWLY CREATED CHIEF ACCOUNTING AND COMPLIANCE OFFICER ROLE. ...",
       "posted_at": "2026-06-18T20:11:53+00:00",
       "captured_at": "2026-06-18T20:11:56.146818+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 77502,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 980237,
-      "message_text": "FDA ADVISORY COMMITTEE UNANIMOUSLY BACKS MODERNA'S MRNA-1010 SEASONAL FLU VACCINE; PDUFA GOAL DATE REMAINS AUGUST 5, 2026. ...",
-      "posted_at": "2026-06-18T20:11:07+00:00",
-      "captured_at": "2026-06-18T20:11:08.431500+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
