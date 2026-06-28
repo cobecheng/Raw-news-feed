@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-06-28T14:45:20.118231+00:00",
+  "generated_at": "2026-06-28T15:06:09.069602+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 89942,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 986473,
+      "message_text": "LEBANESE PARLIAMENT PRESIDENCY: BERRI AND QALIBAF DISCUSSED ISRAEL'S ATTACKS ON THE SOUTH AND ITS VIOLATION OF THE TEHRAN-WASHINGTON MEMORANDUM OF UNDERSTANDING ...",
+      "posted_at": "2026-06-28T15:06:06+00:00",
+      "captured_at": "2026-06-28T15:06:07.855429+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 89940,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "TRADERS NO LONGER FULLY PRICE A QUARTER-POINT ECB HIKE THIS YEAR ...",
       "posted_at": "2026-06-26T07:57:21+00:00",
       "captured_at": "2026-06-26T07:57:24.079309+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 87942,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 985469,
-      "message_text": "IRAN: SECURITY IN THE REGION CAN ONLY BE ACHIEVED THROUGH COOPERATION AMONG COUNTRIES WITHOUT FOREIGN INTERFERENCE ...",
-      "posted_at": "2026-06-26T07:57:20+00:00",
-      "captured_at": "2026-06-26T07:57:23.209738+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
