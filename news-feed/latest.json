@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-06-30T02:57:24.010924+00:00",
+  "generated_at": "2026-06-30T02:59:08.989647+00:00",
   "window_hours": 72,
-  "count": 2,
+  "count": 3,
   "news": [
+    {
+      "id": 5,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 987414,
+      "message_text": "INDIA\u2019S HALDIA REFINERY HIT BY LARGE BLAZE, WITH MULTIPLE WORKER INJURIES REPORTED BY LOCAL MEDIA. ...",
+      "posted_at": "2026-06-30T02:59:06+00:00",
+      "captured_at": "2026-06-30T02:59:08.347140+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 3,
       "source_chat_id": -1001263412188,
