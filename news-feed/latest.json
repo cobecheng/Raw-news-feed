@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-06-30T02:59:08.989647+00:00",
+  "generated_at": "2026-06-30T03:00:10.032220+00:00",
   "window_hours": 72,
-  "count": 3,
+  "count": 4,
   "news": [
+    {
+      "id": 7,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 987415,
+      "message_text": "INDONESIA EQUITIES DROP UP TO 3.1%, WITH THE BENCHMARK INDEX HITTING 5,638.574, THE WEAKEST LEVEL SINCE JUNE 9. ...",
+      "posted_at": "2026-06-30T03:00:06+00:00",
+      "captured_at": "2026-06-30T03:00:09.412983+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 5,
       "source_chat_id": -1001263412188,
