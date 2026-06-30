@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-06-30T03:01:07.996824+00:00",
+  "generated_at": "2026-06-30T03:35:56.075221+00:00",
   "window_hours": 72,
-  "count": 5,
+  "count": 6,
   "news": [
+    {
+      "id": 11,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 987417,
+      "message_text": "AI SPEEDS THE MARCH OF CHINA\u2019S FACTORY ROBOTS INTO NEW SECTORS-FT ...",
+      "posted_at": "2026-06-30T03:35:53+00:00",
+      "captured_at": "2026-06-30T03:35:55.430911+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 9,
       "source_chat_id": -1001263412188,
