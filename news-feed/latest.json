@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-06-30T02:03:19.304034+00:00",
+  "generated_at": "2026-06-30T02:48:22.800252+00:00",
   "window_hours": 72,
-  "count": 0,
-  "news": []
+  "count": 1,
+  "news": [
+    {
+      "id": 1,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 987412,
+      "message_text": "APPLE SUPPLIER LUXSHARE SET FOR HONG KONG\u2019S BIGGEST LISTING SO FAR THIS YEAR-WSJ ...",
+      "posted_at": "2026-06-30T02:48:20+00:00",
+      "captured_at": "2026-06-30T02:48:22.146670+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    }
+  ]
 }

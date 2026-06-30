@@ -1,5 +1,12 @@
 {
-  "generated_at": "2026-06-30T02:03:19.304034+00:00",
-  "count": 0,
-  "sources": []
+  "generated_at": "2026-06-30T02:48:22.800252+00:00",
+  "count": 1,
+  "sources": [
+    {
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "message_count": 1,
+      "newest_posted_at": "2026-06-30T02:48:20+00:00"
+    }
+  ]
 }
