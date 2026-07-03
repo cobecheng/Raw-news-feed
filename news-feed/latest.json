@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-07-03T22:00:08.546483+00:00",
+  "generated_at": "2026-07-03T22:50:17.519186+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 5711,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 990268,
+      "message_text": "SAUDI-LED COALITION IN YEMEN: HOUTHIS\u2019 REMARKS AGAINST KINGDOM AN EFFORT TO DIVERT FOCUS FROM VIOLATIONS AGAINST YEMENI PEOPLE - STATEMENT ...",
+      "posted_at": "2026-07-03T22:50:14+00:00",
+      "captured_at": "2026-07-03T22:50:16.869450+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 5709,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "GOOD MORNING ALL!!\n\n- US AND IRAN TALKS IN DOHA FOCUSED ON MANAGEMENT OF THE STRAIT OF HORMUZ AND THE TERMS OF A 60-DAY MOU AIMED AT A COMPREHENSIVE NUCLEAR DEAL, AXIOS REPORTED.\n\n- QATARI AND PAKISTANI MEDIATORS SUGGESTED THAT POSITIVE PROGRESS WAS MADE, AND STATED THAT BOTH PARTIES AGREED TO CONTINUE DISCUSSION OVER THE COMING PERIOD; BRENT -0.9%.\n\n- USTR SAID THE US HAD NOT AGREED TO RENEW THE USMCA IN ITS CURRENT FORM AND WOULD CONTINUE ENGAGING WITH CANADA AND MEXICO TO ADDRESS SHORTCOMINGS IN THE AGREEMENT AND BILATERAL TRADE DEFICITS.\n\n- APAC STOCKS WERE MIXED; EUROPEAN EQUITY FUTURES ARE INDICATIVE OF A SLIGHTLY FIRMER OPEN.\n\n- DXY IS A LITTLE LOWER, WITH PRICE ACTION TENTATIVE AHEAD OF TODAY\u2019S NFP REPORT.\n\n- LOOKING AHEAD, HIGHLIGHTS INCLUDE SWISS INFLATION (JUN), EU UNEMPLOYMENT RATE (MAY), US JOBS REPORT (JUN), INITIAL JOBLESS CLAIMS, SPEAKERS INCLUDING ECB'S ELDERSON & CIPOLLONE, BOE'S MANN, FED'S DALY, SUPPLY FROM SPAIN, FRANCE & UK. ...",
       "posted_at": "2026-07-02T06:17:10+00:00",
       "captured_at": "2026-07-02T06:17:10.722346+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 3709,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 989266,
-      "message_text": "JAPAN\u2019S NAGAHAMA FORECASTS BOJ RATE HIKES THIS YEAR AND NEXT SUMMER, FOLLOWED BY A PAUSE ...",
-      "posted_at": "2026-07-02T06:16:10+00:00",
-      "captured_at": "2026-07-02T06:16:11.945129+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
