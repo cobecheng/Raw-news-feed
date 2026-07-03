@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-07-03T21:16:14.699115+00:00",
+  "generated_at": "2026-07-03T22:00:08.546483+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 5709,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 990267,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-07-03T22:00:05+00:00",
+      "captured_at": "2026-07-03T22:00:07.813818+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 5707,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "JAPAN\u2019S NAGAHAMA FORECASTS BOJ RATE HIKES THIS YEAR AND NEXT SUMMER, FOLLOWED BY A PAUSE ...",
       "posted_at": "2026-07-02T06:16:10+00:00",
       "captured_at": "2026-07-02T06:16:11.945129+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 3711,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 989267,
-      "message_text": "JAPAN\u2019S NAGAHAMA BACKS JUNE RATE HIKE, CITING RISKS OF EXCESSIVE YEN DEPRECIATION ...",
-      "posted_at": "2026-07-02T06:16:10+00:00",
-      "captured_at": "2026-07-02T06:16:12.617952+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
