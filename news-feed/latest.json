@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-07-03T19:33:09.767547+00:00",
+  "generated_at": "2026-07-03T20:15:57.111911+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 5693,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 990258,
+      "message_text": "US BANK DEPOSITS ROSE TO $19.374 TRILLION FROM $19.304 TRILLION IN THE PRIOR WEEK. ...",
+      "posted_at": "2026-07-03T20:15:55+00:00",
+      "captured_at": "2026-07-03T20:15:56.455652+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 5691,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "JAPAN'S NAGAHAMA: MODERATE BOJ RATE HIKES ARE IMPORTANT TO RECTIFY EXCESSIVE YEN WEAKNESS. ...",
       "posted_at": "2026-07-02T06:12:40+00:00",
       "captured_at": "2026-07-02T06:12:43.139197+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 3693,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 989258,
-      "message_text": "*JAPAN 20-YEAR BOND YIELD RISES 11 BASIS POINTS TO 3.775% ...",
-      "posted_at": "2026-07-02T06:05:54+00:00",
-      "captured_at": "2026-07-02T06:05:56.008560+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
