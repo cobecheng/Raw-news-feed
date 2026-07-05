@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-07-04T23:05:38.275598+00:00",
+  "generated_at": "2026-07-05T00:03:09.790434+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 6249,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 990539,
+      "message_text": "CHINA'S ETHNIC LAW WITH GLOBAL REACH DRAWS BACKLASH FROM JAPAN TO EUROPE\n\nTAKAICHI AIDE SAYS 'NO DEMOCRATIC NATION COULD TOLERATE' MOVE AS UNHCR AND EU URGE REPEAL- NIKKEI AISA ...",
+      "posted_at": "2026-07-05T00:03:07+00:00",
+      "captured_at": "2026-07-05T00:03:08.993922+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 6247,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "HASSETT SAYS IT'S VERY UNUSUAL FOR POWELL NOT TO HAVE LEFT THE FEDERAL RESERVE. ...",
       "posted_at": "2026-07-02T13:37:36+00:00",
       "captured_at": "2026-07-02T13:37:40.639615+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 4249,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 989534,
-      "message_text": "GERMANY'S DAX INDEX RISES 2% TO 25,541.79 ...",
-      "posted_at": "2026-07-02T13:36:35+00:00",
-      "captured_at": "2026-07-02T13:36:36.613736+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
