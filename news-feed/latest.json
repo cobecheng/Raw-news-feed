@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T16:33:56.398146+00:00",
+  "generated_at": "2026-07-06T16:39:26.659255+00:00",
   "window_hours": 72,
-  "count": 954,
+  "count": 952,
   "news": [
     {
       "id": 7511,
@@ -12374,32 +12374,6 @@
       "message_text": "FITCH RATINGS REASSESSES IRAN-RELATED LINGERING RISKS FOR CORPORATE SECTORS GLOBALLY. ...",
       "posted_at": "2026-07-03T16:41:49+00:00",
       "captured_at": "2026-07-03T16:41:51.678858+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5607,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990215,
-      "message_text": "NETANYAHU AND TRUMP AGREED TO MEET IN US SOON - ISRAELI PM\u2019S OFFICE ...",
-      "posted_at": "2026-07-03T16:37:04+00:00",
-      "captured_at": "2026-07-03T16:37:05.461330+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5605,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990214,
-      "message_text": "ISRAELI PM OFFICE: NETANYAHU, TRUMP AGREED TO MEET IN US SOON ...",
-      "posted_at": "2026-07-03T16:36:19+00:00",
-      "captured_at": "2026-07-03T16:36:20.778739+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
