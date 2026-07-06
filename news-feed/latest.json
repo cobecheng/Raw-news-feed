@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T18:07:31.176456+00:00",
+  "generated_at": "2026-07-06T18:13:01.465013+00:00",
   "window_hours": 72,
-  "count": 929,
+  "count": 927,
   "news": [
     {
       "id": 7511,
@@ -12049,32 +12049,6 @@
       "message_text": "LARGEST U.S. POWER GRID OPERATOR PJM ISSUES EEA2 ACTION AS NO LONGER ABLE TO PROVIDE EXPECTED ENERGY REQUIREMENTS - PJM EMERGENCY PROCEDURES WEBSITE ...",
       "posted_at": "2026-07-03T18:20:08+00:00",
       "captured_at": "2026-07-03T18:20:09.560613+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5657,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990240,
-      "message_text": "IRAN'S PRESIDENT PEZESHKIAN SPOKE TO RUSSIA ON EXPANDING COOPERATION - ISN. ...",
-      "posted_at": "2026-07-03T18:11:22+00:00",
-      "captured_at": "2026-07-03T18:11:25.569357+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5655,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990239,
-      "message_text": "IRAN'S PEZESHKIAN SPOKE TO RUSSIA ON EXPANDING COOPERATION: ISNA ...",
-      "posted_at": "2026-07-03T18:10:52+00:00",
-      "captured_at": "2026-07-03T18:10:53.970778+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
