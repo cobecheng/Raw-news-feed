@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T16:44:56.950608+00:00",
+  "generated_at": "2026-07-06T16:50:27.231082+00:00",
   "window_hours": 72,
-  "count": 946,
+  "count": 944,
   "news": [
     {
       "id": 7511,
@@ -12270,32 +12270,6 @@
       "message_text": "UK'S BURNHAM: WILL ENSURE DEFENSE INVESTMENT PLAN IS FULLY FUNDED - REDDIT FORUM ...",
       "posted_at": "2026-07-03T16:57:34+00:00",
       "captured_at": "2026-07-03T16:57:34.936528+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5623,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990223,
-      "message_text": "IRAN'S DEPUTY DEFENSE MINISTER: IRAN AND PAKISTAN CAN BE THE FOUNDATION FOR A NEW SECURITY ARRANGEMENT IN THE REGION - IRNA ...",
-      "posted_at": "2026-07-03T16:48:34+00:00",
-      "captured_at": "2026-07-03T16:48:35.965560+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5621,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990222,
-      "message_text": "IRAN'S DEPUTY DEFENSE MINISTER: IRAN AND PAKISTAN CAN BE THE FOUNDATION FOR A NEW SECURITY ARRANGEMENT IN THE REGION - IRNA ...",
-      "posted_at": "2026-07-03T16:46:04+00:00",
-      "captured_at": "2026-07-03T16:46:05.900315+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
