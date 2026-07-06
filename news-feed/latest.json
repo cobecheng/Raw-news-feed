@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T15:33:23.276588+00:00",
+  "generated_at": "2026-07-06T15:38:53.563730+00:00",
   "window_hours": 72,
-  "count": 973,
+  "count": 971,
   "news": [
     {
       "id": 7511,
@@ -12621,32 +12621,6 @@
       "message_text": "MAKHLOUF SAYS ECB IS DETERMINED TO ACHIEVE 2% INFLATION. ...",
       "posted_at": "2026-07-03T15:39:32+00:00",
       "captured_at": "2026-07-03T15:39:34.757891+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5567,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990195,
-      "message_text": "BRITAIN'S FTSE 100 UP 0.19%; GERMANY'S DAX UP 0.85% ...",
-      "posted_at": "2026-07-03T15:33:32+00:00",
-      "captured_at": "2026-07-03T15:33:33.955862+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5569,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990196,
-      "message_text": "FRANCE'S CAC 40 UP 0.48%; SPAIN'S IBEX UP 0.93% ...",
-      "posted_at": "2026-07-03T15:33:32+00:00",
-      "captured_at": "2026-07-03T15:33:34.656154+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
