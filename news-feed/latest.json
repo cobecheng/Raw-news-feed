@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T18:46:03.173538+00:00",
+  "generated_at": "2026-07-06T18:51:33.460173+00:00",
   "window_hours": 72,
-  "count": 925,
+  "count": 922,
   "news": [
     {
       "id": 7511,
@@ -11984,45 +11984,6 @@
       "message_text": "UK SECURITY MINISTER ANGELA EAGLE SAID THE \"ABHORRENT\" ATTACK ON ZERAATI WAS \u201cCARRIED OUT ON BEHALF OF IRAN BEFORE BOTH MEN COWARDLY FLED THE COUNTRY.\u201d ...",
       "posted_at": "2026-07-03T18:59:26+00:00",
       "captured_at": "2026-07-03T18:59:27.485396+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5667,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990245,
-      "message_text": "ABOUT ONE IN THREE U.S. MEN AGED 20 AND OLDER ARE NEITHER EMPLOYED NOR ACTIVELY SEEKING WORK.\n\nTHIS REFLECTS A LONG-TERM RISE IN LABOR FORCE NON-PARTICIPATION AMONG WORKING-AGE MEN.\n\nEXPERTS CITE FACTORS SUCH AS DISABILITY, CAREGIVING, EDUCATION, EARLY RETIREMENT, AND ECONOMIC CHANGES.\n\nTHE TREND HAS FUELED DEBATE OVER WORKFORCE PARTICIPATION AND ITS IMPACT ON THE U.S. ECONOMY. ...",
-      "posted_at": "2026-07-03T18:50:39+00:00",
-      "captured_at": "2026-07-03T18:50:40.364265+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5665,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990244,
-      "message_text": "JAPAN CELEBRATED AMERICA'S 250TH INDEPENDENCE DAY WITH FIREWORKS IN TOKYO TONIGHT. ...",
-      "posted_at": "2026-07-03T18:48:39+00:00",
-      "captured_at": "2026-07-03T18:48:41.868544+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5663,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990243,
-      "message_text": "IRAN'S PRESIDENT MASOUD PEZESHKIAN ON FRIDAY PRAISED SLAIN SUPREME LEADER ALI KHAMENEI, SAYING FEW COUNTRIES CAN RESIST US COERCION BUT KHAMENEI STOOD \u201cWITH STRENGTH\u201d AGAINST WORLD POWERS TO DEFEND IRAN\u2019S INDEPENDENCE AND MUSLIMS. ...",
-      "posted_at": "2026-07-03T18:48:09+00:00",
-      "captured_at": "2026-07-03T18:48:10.579431+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
