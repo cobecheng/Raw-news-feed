@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T21:14:40.828609+00:00",
+  "generated_at": "2026-07-06T21:20:11.113716+00:00",
   "window_hours": 72,
-  "count": 905,
+  "count": 902,
   "news": [
     {
       "id": 7511,
@@ -11725,45 +11725,6 @@
       "posted_at": "2026-07-03T22:00:05+00:00",
       "captured_at": "2026-07-03T22:00:07.813818+00:00",
       "has_media": 1,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5707,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990266,
-      "message_text": "CON EDISON: CREWS WORKING TO ASSESS DAMAGE AND RESTORE SERVICE SWIFTLY AND SAFELY ...",
-      "posted_at": "2026-07-03T21:16:13+00:00",
-      "captured_at": "2026-07-03T21:16:13.961259+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5705,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990265,
-      "message_text": "CON EDISON: POWER OUTAGE IN SOUTHWEST QUEENS CAUSED BY EQUIPMENT ISSUES FROM EXTREME HEAT AND HIGH DEMAND ...",
-      "posted_at": "2026-07-03T21:15:27+00:00",
-      "captured_at": "2026-07-03T21:15:28.479977+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5703,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990264,
-      "message_text": "CON EDISON: CON EDISON TEMPORARILY CUTS POWER TO 9,800 CUSTOMERS IN SOUTHWEST QUEENS ...",
-      "posted_at": "2026-07-03T21:14:56+00:00",
-      "captured_at": "2026-07-03T21:14:57.227052+00:00",
-      "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
       "destination_topic_id": 127
