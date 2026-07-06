@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T15:38:53.563730+00:00",
+  "generated_at": "2026-07-06T15:44:23.842884+00:00",
   "window_hours": 72,
-  "count": 971,
+  "count": 967,
   "news": [
     {
       "id": 7511,
@@ -12569,58 +12569,6 @@
       "message_text": "BAILEY: ABSENT WAR, UK INFLATION WOULD BE AT TARGET ...",
       "posted_at": "2026-07-03T15:46:02+00:00",
       "captured_at": "2026-07-03T15:46:03.734578+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5577,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990200,
-      "message_text": "ECB\u2019S MAKHLOUF: ECB HAS `ABSOLUTE WILL' TO DELIVER 2% INFLATION ...",
-      "posted_at": "2026-07-03T15:41:02+00:00",
-      "captured_at": "2026-07-03T15:41:04.979133+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5573,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990198,
-      "message_text": "ECB\u2019S MAKHLOUF: THE ECB HAS THE ABSOLUTE WILL TO DELIVER 2% INFLATION. ...",
-      "posted_at": "2026-07-03T15:39:33+00:00",
-      "captured_at": "2026-07-03T15:39:35.494894+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5575,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990199,
-      "message_text": "LME HAS GIVEN THE GREEN LIGHT FOR ADANI COPPER BRAND TO BE LISTED FOR DELIVERY ON ITS PLATFORM. ...",
-      "posted_at": "2026-07-03T15:39:33+00:00",
-      "captured_at": "2026-07-03T15:39:36.137867+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5571,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990197,
-      "message_text": "MAKHLOUF SAYS ECB IS DETERMINED TO ACHIEVE 2% INFLATION. ...",
-      "posted_at": "2026-07-03T15:39:32+00:00",
-      "captured_at": "2026-07-03T15:39:34.757891+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
