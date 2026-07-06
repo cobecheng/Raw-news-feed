@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T16:17:25.556764+00:00",
+  "generated_at": "2026-07-06T16:22:55.831663+00:00",
   "window_hours": 72,
-  "count": 957,
+  "count": 956,
   "news": [
     {
       "id": 7511,
@@ -12426,19 +12426,6 @@
       "message_text": "NETANYAHU AND TRUMP HELD PHONE CALL ON FRIDAY - NETANYAHU'S OFFICE ...",
       "posted_at": "2026-07-03T16:33:19+00:00",
       "captured_at": "2026-07-03T16:33:21.065606+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5599,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990211,
-      "message_text": "CHINA'S HE WEI: CHINA IS DETERMINED TO DEVELOP PARTNERSHIP WITH IRAN. ...",
-      "posted_at": "2026-07-03T16:20:18+00:00",
-      "captured_at": "2026-07-03T16:20:19.177966+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
