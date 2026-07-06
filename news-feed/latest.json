@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T17:06:58.080704+00:00",
+  "generated_at": "2026-07-06T17:12:28.361933+00:00",
   "window_hours": 72,
-  "count": 941,
+  "count": 939,
   "news": [
     {
       "id": 7511,
@@ -12205,32 +12205,6 @@
       "message_text": "ICE BRENT CRUDE SEPT. FUTURES SETTLE AT $72.12/BBL ...",
       "posted_at": "2026-07-03T17:18:35+00:00",
       "captured_at": "2026-07-03T17:18:37.743467+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5633,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990228,
-      "message_text": "UK'S BURNHAM: WILL BUILD ON GOVT'S GOOD WORK TO FORGE CLOSER EU TIES ...",
-      "posted_at": "2026-07-03T17:10:05+00:00",
-      "captured_at": "2026-07-03T17:10:06.525826+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5631,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990227,
-      "message_text": "UK'S BURNHAM WHEN ASKED IF HE'LL CALL AN ELECTION: NO ...",
-      "posted_at": "2026-07-03T17:09:05+00:00",
-      "captured_at": "2026-07-03T17:09:08.157389+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
