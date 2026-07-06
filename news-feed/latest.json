@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T19:19:04.884244+00:00",
+  "generated_at": "2026-07-06T19:24:35.163531+00:00",
   "window_hours": 72,
-  "count": 916,
+  "count": 915,
   "news": [
     {
       "id": 7511,
@@ -11893,19 +11893,6 @@
       "message_text": "TRUMP: JUST SIGNED PARDONS FOR SIX PEOPLE ...",
       "posted_at": "2026-07-03T19:25:25+00:00",
       "captured_at": "2026-07-03T19:25:26.729959+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5681,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990252,
-      "message_text": "MONDAY FX OPTION EXPIRIES\n ...",
-      "posted_at": "2026-07-03T19:21:55+00:00",
-      "captured_at": "2026-07-03T19:21:56.935591+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
