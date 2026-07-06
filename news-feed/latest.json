@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T20:14:07.686462+00:00",
+  "generated_at": "2026-07-06T20:19:37.973171+00:00",
   "window_hours": 72,
-  "count": 910,
+  "count": 909,
   "news": [
     {
       "id": 7511,
@@ -11815,19 +11815,6 @@
       "message_text": "*LARGEST US GRID PJM SAYS IT LIKELY HIT RECORD DEMAND ON JULY 2 ...",
       "posted_at": "2026-07-03T20:23:24+00:00",
       "captured_at": "2026-07-03T20:23:25.244225+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5693,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990258,
-      "message_text": "US BANK DEPOSITS ROSE TO $19.374 TRILLION FROM $19.304 TRILLION IN THE PRIOR WEEK. ...",
-      "posted_at": "2026-07-03T20:15:55+00:00",
-      "captured_at": "2026-07-03T20:15:56.455652+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
