@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T19:30:05.454632+00:00",
+  "generated_at": "2026-07-06T19:35:35.738058+00:00",
   "window_hours": 72,
-  "count": 911,
+  "count": 910,
   "news": [
     {
       "id": 7511,
@@ -11828,19 +11828,6 @@
       "message_text": "US BANK DEPOSITS ROSE TO $19.374 TRILLION FROM $19.304 TRILLION IN THE PRIOR WEEK. ...",
       "posted_at": "2026-07-03T20:15:55+00:00",
       "captured_at": "2026-07-03T20:15:56.455652+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5691,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990257,
-      "message_text": "TRUMP: JUST SIGNED PARDONS FOR SIX PEOPLE ...",
-      "posted_at": "2026-07-03T19:33:07+00:00",
-      "captured_at": "2026-07-03T19:33:09.020845+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
