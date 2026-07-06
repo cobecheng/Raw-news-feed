@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T17:17:58.647825+00:00",
+  "generated_at": "2026-07-06T17:23:28.925855+00:00",
   "window_hours": 72,
-  "count": 939,
+  "count": 937,
   "news": [
     {
       "id": 7511,
@@ -12179,32 +12179,6 @@
       "message_text": "UK\u2019S ANDY BURNHAM COMMITS TO NOT CALLING ELECTION ...",
       "posted_at": "2026-07-03T17:23:35+00:00",
       "captured_at": "2026-07-03T17:23:36.883014+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5637,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990230,
-      "message_text": "UK\u2019S ANDY BURNHAM SAYS HE WILL NEGOTIATE A MORE \"AMBITIOUS\" DEAL WITH THE EU ...",
-      "posted_at": "2026-07-03T17:23:05+00:00",
-      "captured_at": "2026-07-03T17:23:07.755486+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5635,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990229,
-      "message_text": "ICE BRENT CRUDE SEPT. FUTURES SETTLE AT $72.12/BBL ...",
-      "posted_at": "2026-07-03T17:18:35+00:00",
-      "captured_at": "2026-07-03T17:18:37.743467+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
