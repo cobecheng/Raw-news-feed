@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T19:24:35.163531+00:00",
+  "generated_at": "2026-07-06T19:30:05.454632+00:00",
   "window_hours": 72,
-  "count": 915,
+  "count": 911,
   "news": [
     {
       "id": 7511,
@@ -11841,58 +11841,6 @@
       "message_text": "TRUMP: JUST SIGNED PARDONS FOR SIX PEOPLE ...",
       "posted_at": "2026-07-03T19:33:07+00:00",
       "captured_at": "2026-07-03T19:33:09.020845+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5689,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990256,
-      "message_text": "TRUMP ON TRUTH SOCIAL\n\nIT IS MY GREAT HONOR TO HAVE JUST SIGNED PARDONS FOR SIX PEOPLE WHO WERE PERSECUTED BY THE BIDEN ADMINISTRATION, AND WERE IN, OR BEING SENT TO, PRISON, FOR \u201cFIXING THEIR CAR.\u201d WHILE I KNOW THIS SOUNDS RIDICULOUS, IT IS NEVERTHELESS A FACT, AND PART OF THE WEAPONIZATION AND STUPIDITY THAT OUR COUNTRY HAD TO ENDURE DURING FOUR LONG YEARS OF SLEEPY JOE BIDEN. I AM SETTING THEM ALL FREE, RIGHT NOW! PRESIDENT DONALD J. TRUMP ...",
-      "posted_at": "2026-07-03T19:27:53+00:00",
-      "captured_at": "2026-07-03T19:27:55.551257+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5687,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990255,
-      "message_text": "WEEK AHEAD: ECONOMIC INDICATORS 6TH \u2013 10TH JULY (US)  ...",
-      "posted_at": "2026-07-03T19:27:06+00:00",
-      "captured_at": "2026-07-03T19:27:08.665172+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5685,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990254,
-      "message_text": "TRUMP: SIGNED PARDONS FOR PEOPLE 'PERSECUTED' FOR 'FIXING' CAR ...",
-      "posted_at": "2026-07-03T19:25:41+00:00",
-      "captured_at": "2026-07-03T19:25:42.366457+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5683,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990253,
-      "message_text": "TRUMP: JUST SIGNED PARDONS FOR SIX PEOPLE ...",
-      "posted_at": "2026-07-03T19:25:25+00:00",
-      "captured_at": "2026-07-03T19:25:26.729959+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
