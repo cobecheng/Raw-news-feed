@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T16:55:57.515560+00:00",
+  "generated_at": "2026-07-06T17:01:27.796441+00:00",
   "window_hours": 72,
-  "count": 944,
+  "count": 941,
   "news": [
     {
       "id": 7511,
@@ -12231,45 +12231,6 @@
       "message_text": "UK'S BURNHAM WHEN ASKED IF HE'LL CALL AN ELECTION: NO ...",
       "posted_at": "2026-07-03T17:09:05+00:00",
       "captured_at": "2026-07-03T17:09:08.157389+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5627,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990225,
-      "message_text": "UK\u2019S ANDY BURNHAM: COMMITMENT IN MANIFESTO ON TRIPLE LOCK STILL STANDS ...",
-      "posted_at": "2026-07-03T16:57:35+00:00",
-      "captured_at": "2026-07-03T16:57:38.068132+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5629,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990226,
-      "message_text": "UK\u2019S ANDY BURNHAM: WILL ENSURE DEFENCE INVESTMENT PLAN IS \u2018FULLY FUNDED\u2019 ...",
-      "posted_at": "2026-07-03T16:57:35+00:00",
-      "captured_at": "2026-07-03T16:57:38.701700+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5625,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990224,
-      "message_text": "UK'S BURNHAM: WILL ENSURE DEFENSE INVESTMENT PLAN IS FULLY FUNDED - REDDIT FORUM ...",
-      "posted_at": "2026-07-03T16:57:34+00:00",
-      "captured_at": "2026-07-03T16:57:34.936528+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
