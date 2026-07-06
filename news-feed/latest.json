@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T19:08:04.312363+00:00",
+  "generated_at": "2026-07-06T19:13:34.595857+00:00",
   "window_hours": 72,
-  "count": 920,
+  "count": 917,
   "news": [
     {
       "id": 7511,
@@ -11919,45 +11919,6 @@
       "message_text": "MACRON SAYS CDG AIRCRAFT CARRIER TO RETURN TO HOME PORT ...",
       "posted_at": "2026-07-03T19:17:26+00:00",
       "captured_at": "2026-07-03T19:17:26.876687+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5677,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990250,
-      "message_text": "FRANCE\u2019S PRESIDENT MACRON: THE AIRCRAFT CARRIER CHARLES DE GAULLE IS THUS RETURNING TO ITS HOME PORT IN TOULON, WHILE OUR MINE COUNTERMEASURES ASSETS AND THEIR ESCORT REMAIN DEPLOYED AND READY TO INTERVENE ALONGSIDE OUR PARTNERS. ...",
-      "posted_at": "2026-07-03T19:10:10+00:00",
-      "captured_at": "2026-07-03T19:10:11.997874+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5675,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990249,
-      "message_text": "FRANCE\u2019S PRESIDENT MACRON: ACCOMPANIED BY TWO FRIGATES AND A MARITIME PATROL AIRCRAFT, THESE ASSETS ARE READY TO CONTRIBUTE, ALONGSIDE OUR PARTNERS, TO THE FULL RESUMPTION OF NAVIGATION AND TO ENSURE THE SAFETY OF TRAFFIC IN THE STRAIT OF HORMUZ.\n\nFRANCE\u2019S PRESIDENT MACRON: FRANCE HAS DEPLOYED MINE COUNTERMEASURES ASSETS TO THE MIDDLE EAST, INCLUDING TWO MINEHUNTERS IN PARTICULAR - POST ON X - FINANCIALJUICE ...",
-      "posted_at": "2026-07-03T19:09:40+00:00",
-      "captured_at": "2026-07-03T19:09:41.787677+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5673,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990248,
-      "message_text": "FRANCE\u2019S PRESIDENT MACRON: FRANCE HAS DEPLOYED MINE COUNTERMEASURES ASSETS TO THE MIDDLE EAST, INCLUDING TWO MINEHUNTERS IN PARTICULAR - POST ON X ...",
-      "posted_at": "2026-07-03T19:09:10+00:00",
-      "captured_at": "2026-07-03T19:09:11.514302+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
