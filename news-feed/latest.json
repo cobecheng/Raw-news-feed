@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T21:58:43.103815+00:00",
+  "generated_at": "2026-07-06T22:04:13.385135+00:00",
   "window_hours": 72,
-  "count": 902,
+  "count": 901,
   "news": [
     {
       "id": 7511,
@@ -11712,19 +11712,6 @@
       "posted_at": "2026-07-03T22:50:14+00:00",
       "captured_at": "2026-07-03T22:50:16.869450+00:00",
       "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5709,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990267,
-      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
-      "posted_at": "2026-07-03T22:00:05+00:00",
-      "captured_at": "2026-07-03T22:00:07.813818+00:00",
-      "has_media": 1,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
       "destination_topic_id": 127
