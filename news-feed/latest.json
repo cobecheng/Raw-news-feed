@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T20:52:39.678904+00:00",
+  "generated_at": "2026-07-06T20:58:09.963523+00:00",
   "window_hours": 72,
-  "count": 906,
+  "count": 905,
   "news": [
     {
       "id": 7511,
@@ -11763,19 +11763,6 @@
       "message_text": "CON EDISON: CON EDISON TEMPORARILY CUTS POWER TO 9,800 CUSTOMERS IN SOUTHWEST QUEENS ...",
       "posted_at": "2026-07-03T21:14:56+00:00",
       "captured_at": "2026-07-03T21:14:57.227052+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5701,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990263,
-      "message_text": "UK DOWNING STREET: THE SULTANATE OF OMAN AGREED TO WORK WITH THE UK AND FRANCE TO ENSURE ITS SOVEREIGN TERRITORIAL WATERS ARE SAFE FOR NAVIGATION. ...",
-      "posted_at": "2026-07-03T20:54:10+00:00",
-      "captured_at": "2026-07-03T20:54:12.089112+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
