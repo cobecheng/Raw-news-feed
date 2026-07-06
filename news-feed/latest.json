@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T18:57:03.744898+00:00",
+  "generated_at": "2026-07-06T19:02:34.022210+00:00",
   "window_hours": 72,
-  "count": 922,
+  "count": 920,
   "news": [
     {
       "id": 7511,
@@ -11958,32 +11958,6 @@
       "message_text": "FRANCE\u2019S PRESIDENT MACRON: FRANCE HAS DEPLOYED MINE COUNTERMEASURES ASSETS TO THE MIDDLE EAST, INCLUDING TWO MINEHUNTERS IN PARTICULAR - POST ON X ...",
       "posted_at": "2026-07-03T19:09:10+00:00",
       "captured_at": "2026-07-03T19:09:11.514302+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5671,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990247,
-      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
-      "posted_at": "2026-07-03T19:00:03+00:00",
-      "captured_at": "2026-07-03T19:00:04.621354+00:00",
-      "has_media": 1,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5669,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990246,
-      "message_text": "UK SECURITY MINISTER ANGELA EAGLE SAID THE \"ABHORRENT\" ATTACK ON ZERAATI WAS \u201cCARRIED OUT ON BEHALF OF IRAN BEFORE BOTH MEN COWARDLY FLED THE COUNTRY.\u201d ...",
-      "posted_at": "2026-07-03T18:59:26+00:00",
-      "captured_at": "2026-07-03T18:59:27.485396+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
