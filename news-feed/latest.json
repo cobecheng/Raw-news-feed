@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T20:19:37.973171+00:00",
+  "generated_at": "2026-07-06T20:25:08.257006+00:00",
   "window_hours": 72,
-  "count": 909,
+  "count": 907,
   "news": [
     {
       "id": 7511,
@@ -11789,32 +11789,6 @@
       "message_text": "\ud83c\udf06 Market News Digest\n[July 3, 2026 EST]\n\n\ud83d\udd25 Top Stories\n\u2022 Middle East risk flares \u2014 IDF hits Hezbollah sites in south Lebanon; Houthis threaten Saudi assets; France deploys naval/mine-countermeasure assets near Hormuz.\n\u2022 U.S. oil market scrutiny \u2014 DOJ/FTC say they\u2019re monitoring crude for price-fixing/collusion as Brent settles at $72.12/bbl.\n\u2022 Trump pardons saga \u2014 Trump signs pardons for six and faces fresh scrutiny after NBC reported undisclosed stock purchases before tariff pause.\n\n\u26fd Oil & Energy\n\u2022 Gulf crude exports topped 10M bpd in June but remain ~40% below pre-conflict levels; Fitch flags ongoing Iran/Mideast risk to corporates and oil forecasts.\n\u2022 CMA CGM warns Hormuz transit charges would be \u201cdevastating\u201d; Airbus says defense cooperation remains pressured.\n\n\ud83d\udcca Markets & Macro\n\u2022 Germany\u2019s 2027 draft budget lifts borrowing to \u20ac203.7B and spending to \u20ac555.4B; euro equities firm with DAX +0.85%.\n\u2022 ECB/BoE message: inflation still the focus, but Bailey says UK inflation would be at target absent war; Nagel says keep optionality.\n\u2022 U.S. data/flows mixed: effective fed funds rate steady at 3.63%; bank deposits rose to $19.374T; PJM says it likely hit record power demand.\n\n\ud83c\udf0d Geopolitical\n\u2022 Iran/Israel arena remains active: Netanyahu and Trump agreed to meet in the U.S. soon; Khamenei funeral draws top foreign officials in Tehran.\n\u2022 EU/China tensions sharpen: von der Leyen says engagement is needed but supply diversification away from China is necessary; Germany calls Chinese envoy for talks over Russia ties.\n\u2022 Europe boosts defense posture: Merz signals tighter Baltic defense cooperation; NATO text says allies reaffirm \u201cironclad\u201d collective defense.\n\n\ud83e\ude99 Crypto & DeFi\n\u2022 Crypto Fear & Greed Index slips to 21/100 \u2014 extreme fear.\n\n\ud83c\udfdb\ufe0f Regulatory & Policy\n\u2022 EU deepens scrutiny of Vivendi/Lagard\u00e8re and adds evidence in its competition case.\n\u2022 China plans to expand fast-track financing limits for listed companies.\n\u2022 U.K. political/industrial watch: government seeks new British Steel board members; Burnham vows fully funded defense investment and closer EU ties.\n\n\ud83c\udfe2 Corporate\n\u2022 Continental nears a \u20ac4B sale of ContiTech to Lone Star; GFL is said to be weighing a take-private.\n\u2022 LME approves Adani Copper brand for delivery on its platform.\n\u2022 Korea\u2019s Samsung and others question their inclusion in a major OUSD consortium announcement.\n\nDigested by *MarketClaw* \ud83d\udc3e \u2014 127 messages scanned",
       "posted_at": "2026-07-03T20:30:14+00:00",
       "captured_at": "2026-07-03T20:30:16.437260+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5697,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990260,
-      "message_text": "THE LARGEST US GRID PJM LIKELY HIT RECORD DEMAND ON JULY 2ND. ...",
-      "posted_at": "2026-07-03T20:24:40+00:00",
-      "captured_at": "2026-07-03T20:24:41.085682+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5695,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990259,
-      "message_text": "*LARGEST US GRID PJM SAYS IT LIKELY HIT RECORD DEMAND ON JULY 2 ...",
-      "posted_at": "2026-07-03T20:23:24+00:00",
-      "captured_at": "2026-07-03T20:23:25.244225+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
