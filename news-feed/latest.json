@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T22:48:15.666550+00:00",
+  "generated_at": "2026-07-06T22:53:45.958194+00:00",
   "window_hours": 72,
-  "count": 901,
+  "count": 899,
   "news": [
     {
       "id": 7511,
@@ -11685,32 +11685,6 @@
       "message_text": "JAPAN'S NISEKO EYES 'GHOST OF YOTEI' VIDEO GAME TO ATTRACT SUMMER TOURISTS-NA ...",
       "posted_at": "2026-07-04T00:01:02+00:00",
       "captured_at": "2026-07-04T00:01:03.136981+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5713,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990269,
-      "message_text": "SAUDI-LED COALITION IN YEMEN: WILL RESPOND FIRMLY WITH 'UNPRECEDENTED FORCE' TO ANY ATTEMPTS TARGETING KINGDOM - STATEMENT ...",
-      "posted_at": "2026-07-03T22:51:14+00:00",
-      "captured_at": "2026-07-03T22:51:16.089592+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5711,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990268,
-      "message_text": "SAUDI-LED COALITION IN YEMEN: HOUTHIS\u2019 REMARKS AGAINST KINGDOM AN EFFORT TO DIVERT FOCUS FROM VIOLATIONS AGAINST YEMENI PEOPLE - STATEMENT ...",
-      "posted_at": "2026-07-03T22:50:14+00:00",
-      "captured_at": "2026-07-03T22:50:16.869450+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
