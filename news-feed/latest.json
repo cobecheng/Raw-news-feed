@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T17:51:00.325805+00:00",
+  "generated_at": "2026-07-06T17:56:30.614611+00:00",
   "window_hours": 72,
-  "count": 931,
+  "count": 930,
   "news": [
     {
       "id": 7511,
@@ -12088,19 +12088,6 @@
       "message_text": "AIRBUS CEO: \" NOT NECESSARILY OPTIMISTIC\" ON DEFENCE COOPERATION AS COUNTRIES ARE UNDER PRESSURE AND HAVE OWN FUNDS\" ...",
       "posted_at": "2026-07-03T17:59:07+00:00",
       "captured_at": "2026-07-03T17:59:08.635409+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5651,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990237,
-      "message_text": "CLAUDE CODE WAS ACCUSED OF LOGGING INFORMATION ABOUT CERTAIN USERS \u2013 INCLUDING WHETHER THEY WERE USING PROXIES OR LOCATED IN CHINESE TIME ZONES ...",
-      "posted_at": "2026-07-03T17:54:07+00:00",
-      "captured_at": "2026-07-03T17:54:07.907044+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
