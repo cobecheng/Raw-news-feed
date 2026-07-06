@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T17:23:28.925855+00:00",
+  "generated_at": "2026-07-06T17:28:59.203251+00:00",
   "window_hours": 72,
-  "count": 937,
+  "count": 936,
   "news": [
     {
       "id": 7511,
@@ -12166,19 +12166,6 @@
       "message_text": "JUST IN: \ud83c\uddfa\ud83c\uddf8 PRESIDENT TRUMP'S INVESTMENT ACCOUNTS MADE 327 UNDISCLOSED STOCK PURCHASES ONE DAY BEFORE HE PAUSED MAJOR TARIFFS, NBC REPORTS. ...",
       "posted_at": "2026-07-03T17:29:21+00:00",
       "captured_at": "2026-07-03T17:29:23.004404+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5639,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990231,
-      "message_text": "UK\u2019S ANDY BURNHAM COMMITS TO NOT CALLING ELECTION ...",
-      "posted_at": "2026-07-03T17:23:35+00:00",
-      "captured_at": "2026-07-03T17:23:36.883014+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
