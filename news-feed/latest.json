@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T17:34:29.487503+00:00",
+  "generated_at": "2026-07-06T17:39:59.767878+00:00",
   "window_hours": 72,
-  "count": 935,
+  "count": 933,
   "news": [
     {
       "id": 7511,
@@ -12127,32 +12127,6 @@
       "message_text": "PAKISTAN\u2019S ARMY CHIEF, FIELD MARSHAL ASIM MUNIR, MET IRANIAN FOREIGN MINISTER ABBAS ARAGHCHI IN TEHRAN ON FRIDAY.  MUNIR WAS IN TEHRAN TO ATTEND THE FUNERAL OF SLAIN SUPREME LEADER ALI KHAMENEI. ...",
       "posted_at": "2026-07-03T17:50:36+00:00",
       "captured_at": "2026-07-03T17:50:37.031500+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5645,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990234,
-      "message_text": "NBC REPORTS THAT PRESIDENT TRUMP'S INVESTMENT ACCOUNTS MADE 327 STOCK PURCHASES ONE DAY BEFORE HE PAUSED MAJOR TARIFFS.\n\nTHE TRANSACTIONS WERE REPORTEDLY NOT PUBLICLY DISCLOSED AT THE TIME.\n\nTHE TIMING HAS RAISED QUESTIONS ABOUT POTENTIAL CONFLICTS OF INTEREST AND TRANSPARENCY.\n\nTHE REPORT HAS RENEWED SCRUTINY OVER FINANCIAL DISCLOSURES AND TRADING ACTIVITY LINKED TO THE PRESIDENT. ...",
-      "posted_at": "2026-07-03T17:36:51+00:00",
-      "captured_at": "2026-07-03T17:36:51.640349+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5643,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990233,
-      "message_text": "ELON MUSK CALLS REPORT ON SPACEX AI HANDHELD DEVICE \u2018UTTERLY FALSE\u2019 AFTER CLAIMS OF AN IPHONE RIVAL SPARKS ONLINE BUZZ. ...",
-      "posted_at": "2026-07-03T17:35:51+00:00",
-      "captured_at": "2026-07-03T17:35:54.028567+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
