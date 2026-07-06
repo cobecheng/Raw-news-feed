@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T18:18:31.752601+00:00",
+  "generated_at": "2026-07-06T18:24:02.034422+00:00",
   "window_hours": 72,
-  "count": 927,
+  "count": 926,
   "news": [
     {
       "id": 7511,
@@ -12036,19 +12036,6 @@
       "message_text": "TOP FOREIGN OFFICIALS ON FRIDAY PAID THEIR FINAL RESPECTS TO IRAN'S SLAIN SUPREME LEADER ALI KHAMENEI AT THE START OF A WEEK OF FUNERAL CEREMONIES, WITH ALLIES AND MOURNERS CONVERGING ON TEHRAN, WHERE HIS BODY IS LYING IN STATE. ...",
       "posted_at": "2026-07-03T18:30:54+00:00",
       "captured_at": "2026-07-03T18:30:55.990759+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5659,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990241,
-      "message_text": "LARGEST U.S. POWER GRID OPERATOR PJM ISSUES EEA2 ACTION AS NO LONGER ABLE TO PROVIDE EXPECTED ENERGY REQUIREMENTS - PJM EMERGENCY PROCEDURES WEBSITE ...",
-      "posted_at": "2026-07-03T18:20:08+00:00",
-      "captured_at": "2026-07-03T18:20:09.560613+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
