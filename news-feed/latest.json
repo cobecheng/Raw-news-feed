@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T19:13:34.595857+00:00",
+  "generated_at": "2026-07-06T19:19:04.884244+00:00",
   "window_hours": 72,
-  "count": 917,
+  "count": 916,
   "news": [
     {
       "id": 7511,
@@ -11906,19 +11906,6 @@
       "message_text": "MONDAY FX OPTION EXPIRIES\n ...",
       "posted_at": "2026-07-03T19:21:55+00:00",
       "captured_at": "2026-07-03T19:21:56.935591+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5679,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990251,
-      "message_text": "MACRON SAYS CDG AIRCRAFT CARRIER TO RETURN TO HOME PORT ...",
-      "posted_at": "2026-07-03T19:17:26+00:00",
-      "captured_at": "2026-07-03T19:17:26.876687+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
