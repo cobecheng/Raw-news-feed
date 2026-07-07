@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T08:26:16.447579+00:00",
+  "generated_at": "2026-07-07T08:31:46.731497+00:00",
   "window_hours": 72,
-  "count": 771,
+  "count": 769,
   "news": [
     {
       "id": 7511,
@@ -9995,32 +9995,6 @@
       "message_text": "KYIV\u2019S SUBWAY MORPHS INTO AN UNDERGROUND TOWN AS MISSILES THUD ABOVE-WSJ ...",
       "posted_at": "2026-07-04T08:32:57+00:00",
       "captured_at": "2026-07-04T08:32:59.283335+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5973,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990399,
-      "message_text": "RUSSIAN TROOPS ARE PRESENT ACROSS THE ENTIRE TERRITORY OF KONSTANTINOVKA \u2014 COLONEL GENERAL SERGEY RUDSKOY ...",
-      "posted_at": "2026-07-04T08:31:26+00:00",
-      "captured_at": "2026-07-04T08:31:28.590646+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5971,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990398,
-      "message_text": "JAPANESE WINTER RESORT TOWN OF NISEKO, GRAPPLING WITH A SEASONAL GAP IN HOTEL RATES THAT CAN BE MORE THAN 10-FOLD, HAS TURNED TO VIDEO GAME CONTENT TO ATTRACT TOURISTS DURING THE OFF-SEASON. ...",
-      "posted_at": "2026-07-04T08:30:57+00:00",
-      "captured_at": "2026-07-04T08:30:57.478907+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
