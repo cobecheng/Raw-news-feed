@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T10:05:21.651427+00:00",
+  "generated_at": "2026-07-07T10:10:51.936637+00:00",
   "window_hours": 72,
-  "count": 747,
+  "count": 743,
   "news": [
     {
       "id": 7511,
@@ -9657,58 +9657,6 @@
       "message_text": "RUSSIA'S MEDVEDEV: \n\nIRAN, INSTEAD OF NUCLEAR WEAPONS, DISCOVERED ANOTHER WEAPON THAT IS NO WEAKER THAN NUCLEAR \u2014 THE STRAIT OF HORMUZ. ...",
       "posted_at": "2026-07-04T10:12:44+00:00",
       "captured_at": "2026-07-04T10:12:46.571696+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6025,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990425,
-      "message_text": "\u2018HEAT DOME\u2019 OVER EASTERN US SENDS ELECTRICITY PRICES SOARING\n-FT ...",
-      "posted_at": "2026-07-04T10:10:14+00:00",
-      "captured_at": "2026-07-04T10:10:16.936844+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6023,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990424,
-      "message_text": "US CLEAN POWER PRICES SET TO SOAR AS AI DEMAND COINCIDES WITH SUBSIDY CUTS-FT ...",
-      "posted_at": "2026-07-04T10:09:44+00:00",
-      "captured_at": "2026-07-04T10:09:46.535042+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6021,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990423,
-      "message_text": "NORTHERN METROPOLIS PILOT BID FEATURES \u2018DIVERSIFIED\u2019 CONSORTIUM, SAYS DEVELOPMENT CHIEF ...",
-      "posted_at": "2026-07-04T10:08:44+00:00",
-      "captured_at": "2026-07-04T10:08:45.213185+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6019,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990422,
-      "message_text": "CONTINENTAL TO SELL CONTITECH UNIT TO LONE STAR FUNDS FOR $4.6 BILLION ...",
-      "posted_at": "2026-07-04T10:05:59+00:00",
-      "captured_at": "2026-07-04T10:06:01.443385+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
