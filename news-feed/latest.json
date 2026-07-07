@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T02:44:58.403014+00:00",
+  "generated_at": "2026-07-07T02:50:28.710274+00:00",
   "window_hours": 72,
-  "count": 846,
+  "count": 845,
   "news": [
     {
       "id": 7511,
@@ -10983,19 +10983,6 @@
       "message_text": "HIGH-EARNER FAMILIES ARE DITCHING TRADITIONAL SCHOOLS FOR LIFE SKILLS AND AI-WSJ ...",
       "posted_at": "2026-07-04T02:53:58+00:00",
       "captured_at": "2026-07-04T02:54:01.033468+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5821,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990323,
-      "message_text": "CHINA IS DEVASTATING THE LAST STRONGHOLD OF GERMAN INDUSTRY-WSJ ...",
-      "posted_at": "2026-07-04T02:47:58+00:00",
-      "captured_at": "2026-07-04T02:48:00.439295+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
