@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T15:30:08.662281+00:00",
+  "generated_at": "2026-07-07T15:35:38.970697+00:00",
   "window_hours": 72,
-  "count": 677,
+  "count": 676,
   "news": [
     {
       "id": 7511,
@@ -8786,19 +8786,6 @@
       "message_text": "KREMLIN: ZELENSKY CAN COME TO MOSCOW WHEN HE IS READY TO MAKE IMPORTANT DECISIONS ...",
       "posted_at": "2026-07-04T15:52:44+00:00",
       "captured_at": "2026-07-04T15:52:45.364675+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6159,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990493,
-      "message_text": "IRAN'S AMBASSADOR TO CHINA: BEIJING WILL RECEIVE FACILITIES IN THE STRAIT OF HORMUZ ...",
-      "posted_at": "2026-07-04T15:33:58+00:00",
-      "captured_at": "2026-07-04T15:34:00.764648+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
