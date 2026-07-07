@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T08:20:46.157105+00:00",
+  "generated_at": "2026-07-07T08:26:16.447579+00:00",
   "window_hours": 72,
-  "count": 773,
+  "count": 771,
   "news": [
     {
       "id": 7511,
@@ -10021,32 +10021,6 @@
       "message_text": "JAPANESE WINTER RESORT TOWN OF NISEKO, GRAPPLING WITH A SEASONAL GAP IN HOTEL RATES THAT CAN BE MORE THAN 10-FOLD, HAS TURNED TO VIDEO GAME CONTENT TO ATTRACT TOURISTS DURING THE OFF-SEASON. ...",
       "posted_at": "2026-07-04T08:30:57+00:00",
       "captured_at": "2026-07-04T08:30:57.478907+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5969,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990397,
-      "message_text": "AI EFFICIENCY STRATEGY AT INTEL SEEN AS BUFFER AGAINST SLOWING CHIP DEMAND ...",
-      "posted_at": "2026-07-04T08:25:56+00:00",
-      "captured_at": "2026-07-04T08:26:00.018361+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5967,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990396,
-      "message_text": "CHINESE SHOPPERS HEAD TO KOREA AS CURRENCY BENEFITS AND K-BEAUTY BOOST SPENDING ...",
-      "posted_at": "2026-07-04T08:20:56+00:00",
-      "captured_at": "2026-07-04T08:20:57.550247+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
