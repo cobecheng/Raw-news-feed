@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T17:14:44.166156+00:00",
+  "generated_at": "2026-07-07T17:20:14.464118+00:00",
   "window_hours": 72,
-  "count": 669,
+  "count": 666,
   "news": [
     {
       "id": 7511,
@@ -8656,45 +8656,6 @@
       "message_text": "JUST IN: BITCOIN RECLAIMS $63,000  ...",
       "posted_at": "2026-07-04T17:34:53+00:00",
       "captured_at": "2026-07-04T17:34:56.431924+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6179,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990503,
-      "message_text": "*TRUMP TO AXIOS: US, IRAN NOT TO SHOOT TILL FUNERAL EVENTS ...",
-      "posted_at": "2026-07-04T17:17:36+00:00",
-      "captured_at": "2026-07-04T17:17:38.705463+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6175,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990501,
-      "message_text": "TRUMP SAYS NETANYAHU AND HIM GET ALONG VERY GOOD; NETANYAHU KNOWS WHO THE BOSS IS - AXIOS ...",
-      "posted_at": "2026-07-04T17:17:35+00:00",
-      "captured_at": "2026-07-04T17:17:37.322533+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6177,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990502,
-      "message_text": "*TRUMP TO AXIOS: US, IRAN DECIDED TO TAKE A WEEK OFF FROM TALKS ...",
-      "posted_at": "2026-07-04T17:17:35+00:00",
-      "captured_at": "2026-07-04T17:17:37.992422+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
