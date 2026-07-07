@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T15:02:37.159763+00:00",
+  "generated_at": "2026-07-07T15:08:07.438399+00:00",
   "window_hours": 72,
-  "count": 680,
+  "count": 678,
   "news": [
     {
       "id": 7511,
@@ -8812,32 +8812,6 @@
       "message_text": "MILLIONS OF ADULT CHILDREN FACE AGONIZING DECISIONS WHEN THEIR PARENTS CAN NO LONGER CARE FOR THEMSELVES-WSJ ...",
       "posted_at": "2026-07-04T15:10:42+00:00",
       "captured_at": "2026-07-04T15:10:44.830755+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6155,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990491,
-      "message_text": "LEBANESE MINISTRY OF HEALTH: 4303 MARTYRS AND 12,202 WOUNDED, THE TOLL OF ISRAELI ATTACKS ON THE COUNTRY SINCE MARCH 2 LAST YEAR ...",
-      "posted_at": "2026-07-04T15:06:42+00:00",
-      "captured_at": "2026-07-04T15:06:44.308540+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6153,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990490,
-      "message_text": "THE NEXT ROUND OF TALKS BETWEEN THE UNITED STATES AND IRAN IS SCHEDULED TO TAKE PLACE IN PAKISTAN ON JULY 11, ACCORDING TO AL ARABIYA. ...",
-      "posted_at": "2026-07-04T15:03:42+00:00",
-      "captured_at": "2026-07-04T15:03:42.681803+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
