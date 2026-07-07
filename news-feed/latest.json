@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T03:40:01.531654+00:00",
+  "generated_at": "2026-07-07T03:45:31.818925+00:00",
   "window_hours": 72,
-  "count": 834,
+  "count": 833,
   "news": [
     {
       "id": 7511,
@@ -10827,19 +10827,6 @@
       "message_text": "TRUMP PARDONS 11, MOST OF WHOM HAD VIOLATED VEHICLE EMISSIONS CONTROLS-NA ...",
       "posted_at": "2026-07-04T03:46:45+00:00",
       "captured_at": "2026-07-04T03:46:47.012891+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5845,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990335,
-      "message_text": "US EXTREME HEAT BROKE POWER DEMAND RECORD ON LARGEST GRID-CNBC ...",
-      "posted_at": "2026-07-04T03:42:45+00:00",
-      "captured_at": "2026-07-04T03:42:47.334944+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
