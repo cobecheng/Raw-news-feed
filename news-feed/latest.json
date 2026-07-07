@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T08:09:45.572051+00:00",
+  "generated_at": "2026-07-07T08:15:15.858532+00:00",
   "window_hours": 72,
-  "count": 777,
+  "count": 776,
   "news": [
     {
       "id": 7511,
@@ -10086,19 +10086,6 @@
       "message_text": "AUTHORITIES IN IRAN'S CENTRAL ISFAHAN PROVINCE SAID CONTROLLED EXPLOSIONS OF UNEXPLODED ORDNANCE WOULD BE CARRIED OUT ON SATURDAY MORNING AND AFTERNOON IN SEVERAL AREAS SOUTH OF ISFAHAN CITY ...",
       "posted_at": "2026-07-04T08:17:41+00:00",
       "captured_at": "2026-07-04T08:17:43.219200+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5959,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990392,
-      "message_text": "KONA BIDCO REPORTS SHARE ACCEPTANCES IN MANDATORY OFFER FOR ZALARIS ASA ACQUISITION ...",
-      "posted_at": "2026-07-04T08:11:56+00:00",
-      "captured_at": "2026-07-04T08:11:58.377370+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
