@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T01:00:22.798252+00:00",
+  "generated_at": "2026-07-07T01:05:53.083494+00:00",
   "window_hours": 72,
-  "count": 871,
+  "count": 869,
   "news": [
     {
       "id": 7511,
@@ -11295,32 +11295,6 @@
       "message_text": "NEW ZEALAND BRACES FOR AN EXTENDED WINTER WEATHER SYSTEM FEATURING HEAVY SNOWFALL AND GALE-FORCE WINDS. ...",
       "posted_at": "2026-07-04T01:06:34+00:00",
       "captured_at": "2026-07-04T01:06:36.441115+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5771,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990298,
-      "message_text": "AMERICA\u2019S GREATEST INNOVATIONS: THE LIGHTBULB, THE IPHONE AND THIS WHITE LINE ON THE RIGHT SIDE OF THE ROAD-WSJ ...",
-      "posted_at": "2026-07-04T01:02:03+00:00",
-      "captured_at": "2026-07-04T01:02:05.566334+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5773,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990299,
-      "message_text": "SMALL COMPANIES ARE PUNCHING ABOVE THEIR WEIGHT ON WALL STREET-WSJ ...",
-      "posted_at": "2026-07-04T01:02:03+00:00",
-      "captured_at": "2026-07-04T01:02:06.203360+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
