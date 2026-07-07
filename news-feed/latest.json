@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T19:15:50.515082+00:00",
+  "generated_at": "2026-07-07T19:21:20.789686+00:00",
   "window_hours": 72,
-  "count": 649,
+  "count": 647,
   "news": [
     {
       "id": 7511,
@@ -8409,32 +8409,6 @@
       "message_text": "ZELENSKIY: AGREED TO CONTINUE TALKS WITH TRUMP AT NATO SUMMIT IN TURKEY ...",
       "posted_at": "2026-07-04T20:01:16+00:00",
       "captured_at": "2026-07-04T20:01:18.007109+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6217,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990522,
-      "message_text": "AXIOS REPORTER: A SENIOR ISRAELI OFFICIAL SAID THAT A FINAL DATE FOR THE MEETING HAS NOT YET BEEN SET AND THAT NEXT WEEK MIGHT BE TOO EARLY FOR THE VISIT DUE TO TRUMP'S TRIP TO TURKEY. \"THE VISIT MIGHT TAKE PLACE THE FOLLOWING WEEK,\" THE SENIOR ISRAELI OFFICIAL SAID ...",
-      "posted_at": "2026-07-04T19:17:12+00:00",
-      "captured_at": "2026-07-04T19:17:13.887729+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6215,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990521,
-      "message_text": "AXIOS REPORTER: IF NETANYAHU ARRIVES AT THE WHITE HOUSE, IT WILL BE HIS FIRST MEETING WITH TRUMP SINCE THEIR DRAMATIC ENCOUNTER IN THE SITUATION ROOM IN FEBRUARY, DURING WHICH NETANYAHU PRESENTED HIS PROPOSAL FOR A PLAN FOR WAR AGAINST IRAN ...",
-      "posted_at": "2026-07-04T19:16:58+00:00",
-      "captured_at": "2026-07-04T19:16:59.314318+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
