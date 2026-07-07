@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T01:27:54.215768+00:00",
+  "generated_at": "2026-07-07T01:33:24.494715+00:00",
   "window_hours": 72,
-  "count": 863,
+  "count": 860,
   "news": [
     {
       "id": 7511,
@@ -11178,45 +11178,6 @@
       "message_text": "VIETNAM\u2019S GOVERNMENT CONDUCTED ITS ROUTINE MEETING ALONGSIDE A CONFERENCE WITH LOCALITIES. ...",
       "posted_at": "2026-07-04T01:35:34+00:00",
       "captured_at": "2026-07-04T01:35:35.057016+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5791,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990308,
-      "message_text": "JAPAN'S AVERAGE WAGES UP OVER 5% FOR 3RD STRAIGHT YEAR AMID RISING PRICES-KYODO ...",
-      "posted_at": "2026-07-04T01:32:36+00:00",
-      "captured_at": "2026-07-04T01:32:37.594698+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5787,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990306,
-      "message_text": "CHINA TO SCRAP TAX BREAKS FOR NEVS AND ENERGY-SAVING VEHICLES FROM 2027-SCMP ...",
-      "posted_at": "2026-07-04T01:28:19+00:00",
-      "captured_at": "2026-07-04T01:28:20.020678+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5789,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990307,
-      "message_text": "THE UKRAINIAN FLAMINGO MISSILES HAVE BEEN SHOT DOWN OVER CHUVASH REPUBLIC, RUSSIA-WSN ...",
-      "posted_at": "2026-07-04T01:28:19+00:00",
-      "captured_at": "2026-07-04T01:28:23.306023+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
