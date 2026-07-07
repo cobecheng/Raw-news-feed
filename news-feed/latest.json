@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T14:57:06.866774+00:00",
+  "generated_at": "2026-07-07T15:02:37.159763+00:00",
   "window_hours": 72,
-  "count": 681,
+  "count": 680,
   "news": [
     {
       "id": 7511,
@@ -8838,19 +8838,6 @@
       "message_text": "THE NEXT ROUND OF TALKS BETWEEN THE UNITED STATES AND IRAN IS SCHEDULED TO TAKE PLACE IN PAKISTAN ON JULY 11, ACCORDING TO AL ARABIYA. ...",
       "posted_at": "2026-07-04T15:03:42+00:00",
       "captured_at": "2026-07-04T15:03:42.681803+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6151,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990489,
-      "message_text": "HEALTHCARE AND SOCIAL ASSISTANCE ACCOUNTED FOR ALMOST ALL NET EMPLOYMENT GROWTH OVER THE PAST YEAR, THE WSJ REPORTED. ...",
-      "posted_at": "2026-07-04T15:02:11+00:00",
-      "captured_at": "2026-07-04T15:02:13.478195+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
