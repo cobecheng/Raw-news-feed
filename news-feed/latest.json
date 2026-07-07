@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T02:06:26.320942+00:00",
+  "generated_at": "2026-07-07T02:11:56.610027+00:00",
   "window_hours": 72,
-  "count": 854,
+  "count": 853,
   "news": [
     {
       "id": 7511,
@@ -11087,19 +11087,6 @@
       "message_text": "2 ILLEGAL GAMBLING NETWORK OPERATORS EXTRADITED FROM UAE IN JOINT GOV'T OPERATION-YONHAP ...",
       "posted_at": "2026-07-04T02:16:36+00:00",
       "captured_at": "2026-07-04T02:16:38.228442+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5805,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990315,
-      "message_text": "LG AND HONDA HAVE LAUNCHED BATTERY STORAGE PRODUCTION IN OHIO, ACCORDING TO SOUTH KOREAN REPORTS. ...",
-      "posted_at": "2026-07-04T02:09:35+00:00",
-      "captured_at": "2026-07-04T02:09:36.744798+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
