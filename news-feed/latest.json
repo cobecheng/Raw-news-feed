@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T07:53:14.704268+00:00",
+  "generated_at": "2026-07-07T07:58:45.006669+00:00",
   "window_hours": 72,
-  "count": 785,
+  "count": 784,
   "news": [
     {
       "id": 7511,
@@ -10190,19 +10190,6 @@
       "message_text": "MARK ZUCKERBERG TELLS STAFF AI AGENT PROGRESS HAS FALLEN SHORT OF EXPECTATIONS ...",
       "posted_at": "2026-07-04T08:02:26+00:00",
       "captured_at": "2026-07-04T08:02:27.777746+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5943,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990384,
-      "message_text": "UKRAINE'S MILITARY TARGETS OIL AND DEFENSE SITES NEAR ST. PETERSBURG: ZELENSKIY ...",
-      "posted_at": "2026-07-04T07:55:25+00:00",
-      "captured_at": "2026-07-04T07:55:27.560201+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
