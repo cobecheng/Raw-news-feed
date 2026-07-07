@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T13:45:33.133049+00:00",
+  "generated_at": "2026-07-07T13:51:03.425699+00:00",
   "window_hours": 72,
-  "count": 700,
+  "count": 698,
   "news": [
     {
       "id": 7511,
@@ -9072,32 +9072,6 @@
       "message_text": "RUSSIAN DEFENSE MINISTRY: CAPTURES FIVE SETTLEMENTS IN EASTERN UKRAINE - TASS ...",
       "posted_at": "2026-07-04T13:56:55+00:00",
       "captured_at": "2026-07-04T13:56:56.138774+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6115,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990471,
-      "message_text": "RUSSIAN DEFENCE MINISTRY: FORCES CLEARING TOWN OF LIMAN OF UKRAINIAN TROOPS - TASS ...",
-      "posted_at": "2026-07-04T13:48:54+00:00",
-      "captured_at": "2026-07-04T13:48:56.624816+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6113,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990470,
-      "message_text": "RUSSIAN DEFENSE MINISTRY: CAPTURES FIVE SETTLEMENTS IN EASTERN UKRAINE - TASS ...",
-      "posted_at": "2026-07-04T13:47:54+00:00",
-      "captured_at": "2026-07-04T13:47:56.541559+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
