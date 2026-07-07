@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T02:22:57.205940+00:00",
+  "generated_at": "2026-07-07T02:28:27.508574+00:00",
   "window_hours": 72,
-  "count": 851,
+  "count": 849,
   "news": [
     {
       "id": 7511,
@@ -11035,32 +11035,6 @@
       "message_text": "LEE TO REVIEW MEGA CHIP CLUSTER PROJECT NEXT WEEK-YONHAP ...",
       "posted_at": "2026-07-04T02:32:56+00:00",
       "captured_at": "2026-07-04T02:32:57.233683+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5813,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990319,
-      "message_text": "WASHINGTON, D.C. CANCELS INDEPENDENCE DAY PARADE DUE TO EXTREME HEAT TELLS BNO NEWS. ...",
-      "posted_at": "2026-07-04T02:26:14+00:00",
-      "captured_at": "2026-07-04T02:26:15.220581+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5811,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990318,
-      "message_text": "*US INDEPENDENCE DAY PARADE CANCELLED IN DC ON EXTREME HEAT ...",
-      "posted_at": "2026-07-04T02:23:12+00:00",
-      "captured_at": "2026-07-04T02:23:12.534434+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
