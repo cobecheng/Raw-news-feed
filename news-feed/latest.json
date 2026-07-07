@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T11:33:26.267116+00:00",
+  "generated_at": "2026-07-07T11:38:56.543836+00:00",
   "window_hours": 72,
-  "count": 724,
+  "count": 722,
   "news": [
     {
       "id": 7511,
@@ -9384,32 +9384,6 @@
       "message_text": "NEW YORK TIMES: A MESSAGE FROM THE IRANIAN CENTRAL BANK GOVERNOR CONVINCED MOJTABA TO APPROVE THE MEMORANDUM OF UNDERSTANDING ...",
       "posted_at": "2026-07-04T11:47:33+00:00",
       "captured_at": "2026-07-04T11:47:35.502198+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6067,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990447,
-      "message_text": "MALI'S ARMY SAYS THE SITUATION IS UNDER CONTROL AFTER A SERIES OF ATTACKS LAUNCHED BY ARMED MEN IN 5 CITIES AND SEVERAL TOWNS ...",
-      "posted_at": "2026-07-04T11:38:32+00:00",
-      "captured_at": "2026-07-04T11:38:34.135971+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6065,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990446,
-      "message_text": "LEBANESE ARMY: ARMY COMMANDER RECEIVES UNIFIL HEAD OF MISSION TO DISCUSS ENHANCING COOPERATION AMID CURRENT CHALLENGES ...",
-      "posted_at": "2026-07-04T11:37:32+00:00",
-      "captured_at": "2026-07-04T11:37:32.809289+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
