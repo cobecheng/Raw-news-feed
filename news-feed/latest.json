@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T14:40:36.002991+00:00",
+  "generated_at": "2026-07-07T14:46:06.298608+00:00",
   "window_hours": 72,
-  "count": 684,
+  "count": 682,
   "news": [
     {
       "id": 7511,
@@ -8864,32 +8864,6 @@
       "message_text": "ITALIAN RICE CROPS SUFFER IN DROUGHT, WORST EUROPEAN HEATWAVE EVER-SCMP ...",
       "posted_at": "2026-07-04T14:46:41+00:00",
       "captured_at": "2026-07-04T14:46:50.619603+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6147,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990487,
-      "message_text": "CHINA HAS DISPATCHED A NEW COAST GUARD FORCE TO WATERS EAST OF TAIWAN, FURTHER INCREASING ITS MARITIME ACTIVITIES AROUND THE ISLAND. ...",
-      "posted_at": "2026-07-04T14:44:41+00:00",
-      "captured_at": "2026-07-04T14:44:42.018383+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6145,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990486,
-      "message_text": "LEBANON\u2019S PRESIDENT URGES US SOLIDARITY AS ISRAELI TROOPS OCCUPY SOUTH-SCMP ...",
-      "posted_at": "2026-07-04T14:43:41+00:00",
-      "captured_at": "2026-07-04T14:43:42.873127+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
