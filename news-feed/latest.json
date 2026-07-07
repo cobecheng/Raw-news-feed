@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T08:04:15.297620+00:00",
+  "generated_at": "2026-07-07T08:09:45.572051+00:00",
   "window_hours": 72,
-  "count": 779,
+  "count": 777,
   "news": [
     {
       "id": 7511,
@@ -10099,32 +10099,6 @@
       "message_text": "KONA BIDCO REPORTS SHARE ACCEPTANCES IN MANDATORY OFFER FOR ZALARIS ASA ACQUISITION ...",
       "posted_at": "2026-07-04T08:11:56+00:00",
       "captured_at": "2026-07-04T08:11:58.377370+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5957,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990391,
-      "message_text": "UKRAINE TARGETED OIL INFRASTRUCTURE NEAR ST. PETERSBURG, SAYS VOLODYMYR ZELENSKYY ...",
-      "posted_at": "2026-07-04T08:08:26+00:00",
-      "captured_at": "2026-07-04T08:08:28.383547+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5955,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990390,
-      "message_text": "MULTIPLE TOWNS IN NORTHERN AND CENTRAL MALI TARGETED IN INSURGENT ATTACKS \u2013 RTRS ...",
-      "posted_at": "2026-07-04T08:07:56+00:00",
-      "captured_at": "2026-07-04T08:07:57.792637+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
