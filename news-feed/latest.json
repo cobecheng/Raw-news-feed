@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T00:10:49.950089+00:00",
+  "generated_at": "2026-07-07T00:16:20.303183+00:00",
   "window_hours": 72,
-  "count": 895,
+  "count": 894,
   "news": [
     {
       "id": 7511,
@@ -11620,19 +11620,6 @@
       "message_text": "CROWN CAPITAL UNVEILS DEBENTURE AMENDMENT PROPOSAL AND DEFAULT WAIVER FOR 12% SECURED SUBORDINATED NOTES ...",
       "posted_at": "2026-07-04T00:17:32+00:00",
       "captured_at": "2026-07-04T00:17:32.535353+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5723,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990274,
-      "message_text": "PRESIDENT TRUMP SAYS THE US TREASURY WILL NOW ACCEPT DONATIONS OF PUBLICLY TRADED STOCKS TO HELP FUND 'TRUMP ACCOUNTS.' - WATCHER GURU ...",
-      "posted_at": "2026-07-04T00:14:02+00:00",
-      "captured_at": "2026-07-04T00:14:03.275481+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
