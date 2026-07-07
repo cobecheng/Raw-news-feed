@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T21:27:57.252960+00:00",
+  "generated_at": "2026-07-07T21:33:27.542272+00:00",
   "window_hours": 72,
-  "count": 639,
+  "count": 634,
   "news": [
     {
       "id": 7511,
@@ -8241,71 +8241,6 @@
       "posted_at": "2026-07-04T22:00:02+00:00",
       "captured_at": "2026-07-04T22:00:04.320186+00:00",
       "has_media": 1,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6241,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990535,
-      "message_text": "USHAKOV: PUTIN-TRUMP DISCUSSION WAS PRAGMATIC AND CONSTRUCTIVE ...",
-      "posted_at": "2026-07-04T21:29:49+00:00",
-      "captured_at": "2026-07-04T21:29:52.731193+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6243,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990536,
-      "message_text": "USHAKOV: PUTIN GAVE TRUMP PRECISE EVALUATION OF BATTLEFIELD DEVELOPMENTS IN UKRAINE WAR ...",
-      "posted_at": "2026-07-04T21:29:49+00:00",
-      "captured_at": "2026-07-04T21:29:53.342814+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6237,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990533,
-      "message_text": "KREMLIN AIDE USHAKOV: PUTIN AND TRUMP TALKED FOR 1 HOUR 25 MINUTES ON SATURDAY ...",
-      "posted_at": "2026-07-04T21:29:48+00:00",
-      "captured_at": "2026-07-04T21:29:51.445104+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6239,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990534,
-      "message_text": "USHAKOV: U.S. ENVOYS WITKOFF, KUSHNER TO KEEP AIDING PEACE EFFORTS AND ARE PREPARED TO VISIT MOSCOW ...",
-      "posted_at": "2026-07-04T21:29:48+00:00",
-      "captured_at": "2026-07-04T21:29:52.059557+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6235,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990532,
-      "message_text": "USHAKOV: TRUMP OFFERED BEFORE NATO SUMMIT IN TURKEY TO ASSIST IN UKRAINE CONFLICT SETTLEMENT ...",
-      "posted_at": "2026-07-04T21:29:47+00:00",
-      "captured_at": "2026-07-04T21:29:48.218867+00:00",
-      "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
       "destination_topic_id": 127
