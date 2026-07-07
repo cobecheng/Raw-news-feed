@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T02:00:56.030149+00:00",
+  "generated_at": "2026-07-07T02:06:26.320942+00:00",
   "window_hours": 72,
-  "count": 855,
+  "count": 854,
   "news": [
     {
       "id": 7511,
@@ -11100,19 +11100,6 @@
       "message_text": "LG AND HONDA HAVE LAUNCHED BATTERY STORAGE PRODUCTION IN OHIO, ACCORDING TO SOUTH KOREAN REPORTS. ...",
       "posted_at": "2026-07-04T02:09:35+00:00",
       "captured_at": "2026-07-04T02:09:36.744798+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5803,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990314,
-      "message_text": "NZD/USD PRICE FORECAST: REBOUNDS ABOVE 0.5700, BEARS GUARD 0.5750-FX ...",
-      "posted_at": "2026-07-04T02:01:50+00:00",
-      "captured_at": "2026-07-04T02:01:52.680668+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
