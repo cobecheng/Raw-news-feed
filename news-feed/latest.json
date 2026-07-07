@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T00:49:22.215964+00:00",
+  "generated_at": "2026-07-07T00:54:52.517646+00:00",
   "window_hours": 72,
-  "count": 875,
+  "count": 873,
   "news": [
     {
       "id": 7511,
@@ -11347,32 +11347,6 @@
       "message_text": "CHINA\u2019S BYTEDANCE DISCOVERS NEW SCALING LAW THAT COULD SUSTAIN AI BOOM-SCMP ...",
       "posted_at": "2026-07-04T00:57:19+00:00",
       "captured_at": "2026-07-04T00:57:20.872092+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5763,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990294,
-      "message_text": "HONG KONG GRADUATES FACE TURNING POINT AS AI DISRUPTS ENTRY-LEVEL JOBS, EXPERTS WARN\n\nEXPERTS SAY AI IS INCREASINGLY REPLACING OR RESHAPING ENTRY-LEVEL ROLES IN HONG KONG\u2019S JOB MARKET.\nTHIS IS CREATING TOUGHER PROSPECTS FOR NEW GRADUATES ENTERING THE WORKFORCE. ...",
-      "posted_at": "2026-07-04T00:53:18+00:00",
-      "captured_at": "2026-07-04T00:53:19.128300+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5765,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990295,
-      "message_text": "JAPAN TO LAUNCH DIRECT EXPRESS BETWEEN HANEDA AND NARITA AIRPORTS-NA ...",
-      "posted_at": "2026-07-04T00:53:18+00:00",
-      "captured_at": "2026-07-04T00:53:19.765877+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
