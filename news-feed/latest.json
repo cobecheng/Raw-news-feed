@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T15:52:09.835923+00:00",
+  "generated_at": "2026-07-07T15:57:40.117672+00:00",
   "window_hours": 72,
-  "count": 676,
+  "count": 675,
   "news": [
     {
       "id": 7511,
@@ -8773,19 +8773,6 @@
       "message_text": "INDIA LIFTS EMERGENCY CURBS ON NATURAL GAS SUPPLY IMPOSED AFTER LNG DISRUPTIONS FROM MIDDLE EAST CRISIS: GOVERNMENT NOTIFICATION ...",
       "posted_at": "2026-07-04T16:08:14+00:00",
       "captured_at": "2026-07-04T16:08:16.990112+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6161,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990494,
-      "message_text": "KREMLIN: ZELENSKY CAN COME TO MOSCOW WHEN HE IS READY TO MAKE IMPORTANT DECISIONS ...",
-      "posted_at": "2026-07-04T15:52:44+00:00",
-      "captured_at": "2026-07-04T15:52:45.364675+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
