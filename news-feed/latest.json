@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T19:59:52.768875+00:00",
+  "generated_at": "2026-07-07T20:05:23.053040+00:00",
   "window_hours": 72,
-  "count": 647,
+  "count": 644,
   "news": [
     {
       "id": 7511,
@@ -8370,45 +8370,6 @@
       "message_text": "YEDIOTH AHRONOTH, CITING ISRAELI SOURCES: NO ARRANGEMENTS YET FOR A MEETING BETWEEN NETANYAHU AND TRUMP ...",
       "posted_at": "2026-07-04T20:09:30+00:00",
       "captured_at": "2026-07-04T20:09:30.711557+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6223,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990525,
-      "message_text": "JAPAN'S MINEBEAMITSUMI TO BOOST BEARINGS OUTPUT FOR AI DATA CENTERS - NIKKEI ...",
-      "posted_at": "2026-07-04T20:01:44+00:00",
-      "captured_at": "2026-07-04T20:01:46.403028+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6219,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990523,
-      "message_text": "UKRAINE'S ZELENSKIY: SPOKE TO TRUMP ON JULY 4 HOLIDAY, SAYS US 'RESOLVE' CAN HELP END WAR WITH RUSSIA ...",
-      "posted_at": "2026-07-04T20:01:16+00:00",
-      "captured_at": "2026-07-04T20:01:17.345095+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6221,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990524,
-      "message_text": "ZELENSKIY: AGREED TO CONTINUE TALKS WITH TRUMP AT NATO SUMMIT IN TURKEY ...",
-      "posted_at": "2026-07-04T20:01:16+00:00",
-      "captured_at": "2026-07-04T20:01:18.007109+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
