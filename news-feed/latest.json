@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T08:37:16.998364+00:00",
+  "generated_at": "2026-07-07T08:42:47.287640+00:00",
   "window_hours": 72,
-  "count": 768,
+  "count": 767,
   "news": [
     {
       "id": 7511,
@@ -9969,19 +9969,6 @@
       "message_text": "NEXT TARGETS HARVEY NICHOLS IN LATEST BRITISH HIGH STREET SWOOP \u2013 SKY NEWS ...",
       "posted_at": "2026-07-04T08:46:27+00:00",
       "captured_at": "2026-07-04T08:46:27.342238+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5977,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990401,
-      "message_text": "LEE SAYS MEGA DEVELOPMENT PROJECTS ARE FOR FUTURE, NOT APPROVAL RATINGS-YONHAP ...",
-      "posted_at": "2026-07-04T08:40:26+00:00",
-      "captured_at": "2026-07-04T08:40:27.072438+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
