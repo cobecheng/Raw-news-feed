@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T05:57:38.768230+00:00",
+  "generated_at": "2026-07-07T06:03:09.042096+00:00",
   "window_hours": 72,
-  "count": 816,
+  "count": 814,
   "news": [
     {
       "id": 7511,
@@ -10580,32 +10580,6 @@
       "message_text": "SWISS FRANC EYES FIRST WEEKLY GAIN IN FIVE WEEKS AS WEAK NFP DELAYS FED HIKES-FX ...",
       "posted_at": "2026-07-04T06:09:37+00:00",
       "captured_at": "2026-07-04T06:09:37.862925+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5881,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990353,
-      "message_text": "JAPAN PLEDGES $3 MIL. TO HELP KAZAKHSTAN ADDRESS CASPIAN SEA WATER DECLINE-KYODO ...",
-      "posted_at": "2026-07-04T06:01:22+00:00",
-      "captured_at": "2026-07-04T06:01:24.025555+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5883,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990354,
-      "message_text": "JAPAN FOOD DELIVERY FIRMS AT CROSSROADS AS INFLATION SQUEEZES PROFITS-KYODO ...",
-      "posted_at": "2026-07-04T06:01:22+00:00",
-      "captured_at": "2026-07-04T06:01:24.679495+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
