@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T05:08:06.184241+00:00",
+  "generated_at": "2026-07-07T05:13:36.475397+00:00",
   "window_hours": 72,
-  "count": 821,
+  "count": 820,
   "news": [
     {
       "id": 7511,
@@ -10658,19 +10658,6 @@
       "message_text": "THOUSANDS GATHER IN IRAN AS KHAMENEI FUNERAL CEREMONIES BEGIN-SCMP ...",
       "posted_at": "2026-07-04T05:43:19+00:00",
       "captured_at": "2026-07-04T05:43:20.324783+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5871,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990348,
-      "message_text": "INDUSTRIAL SECTOR STILL LAGS ON ASIAN REPRESENTATION, SAYS LEE-NA ...",
-      "posted_at": "2026-07-04T05:10:33+00:00",
-      "captured_at": "2026-07-04T05:10:36.083318+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
