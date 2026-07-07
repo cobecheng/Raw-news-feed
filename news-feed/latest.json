@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T09:32:19.975623+00:00",
+  "generated_at": "2026-07-07T09:37:50.251095+00:00",
   "window_hours": 72,
-  "count": 756,
+  "count": 752,
   "news": [
     {
       "id": 7511,
@@ -9774,58 +9774,6 @@
       "message_text": "EU\u2019S DIPLOMATIC SERVICE, LED BY KAJA KALLAS, HAS BEEN LOSING A PROTRACTED TURF WAR WITH THE EUROPEAN COMMISSION UNDER URSULA VON DER LEYEN. ...",
       "posted_at": "2026-07-04T10:00:59+00:00",
       "captured_at": "2026-07-04T10:01:02.214087+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6005,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990415,
-      "message_text": "IRAQ\u2019S PRESIDENT CALLS ON ARAB DIPLOMATIC MISSIONS TO RETURN TO BAGHDAD \u2013 AL ARABIYA ...",
-      "posted_at": "2026-07-04T09:33:28+00:00",
-      "captured_at": "2026-07-04T09:33:29.287905+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6007,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990416,
-      "message_text": "UK AND FRANCE AGREE WITH OMAN TO ENSURE SAFETY OF ITS TERRITORIAL WATERS-CNBC ...",
-      "posted_at": "2026-07-04T09:33:28+00:00",
-      "captured_at": "2026-07-04T09:33:29.924310+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6003,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990414,
-      "message_text": "IRAQI PRESIDENT: IRAQ AIMS FOR BEST STRATEGIC RELATIONS WITH SAUDI ARABIA \u2013 AL ARABIYA ...",
-      "posted_at": "2026-07-04T09:32:58+00:00",
-      "captured_at": "2026-07-04T09:32:59.368548+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6001,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990413,
-      "message_text": "IRAQ STRESSES POLITICAL PATH NEEDED TO RESOLVE PKK ISSUE, PRESIDENT TELLS AL ARABIYA ...",
-      "posted_at": "2026-07-04T09:32:28+00:00",
-      "captured_at": "2026-07-04T09:32:29.173010+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
