@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T08:15:15.858532+00:00",
+  "generated_at": "2026-07-07T08:20:46.157105+00:00",
   "window_hours": 72,
-  "count": 776,
+  "count": 773,
   "news": [
     {
       "id": 7511,
@@ -10047,45 +10047,6 @@
       "message_text": "CHINESE SHOPPERS HEAD TO KOREA AS CURRENCY BENEFITS AND K-BEAUTY BOOST SPENDING ...",
       "posted_at": "2026-07-04T08:20:56+00:00",
       "captured_at": "2026-07-04T08:20:57.550247+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5965,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990395,
-      "message_text": "US PRESIDENT DONALD TRUMP, SPEAKING AT THE START OF THE US INDEPENDENCE DAY CELEBRATIONS, SAID THE ISLAMIC REPUBLIC WAS EAGER TO REACH A DEAL AND ADDED: \"WE GAVE THEM A WEEK TO HOLD THEIR FUNERAL AND MOURNING CEREMONIES ONLY BECAUSE WE'RE NICE PEOPLE ...",
-      "posted_at": "2026-07-04T08:19:56+00:00",
-      "captured_at": "2026-07-04T08:19:57.351705+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5963,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990394,
-      "message_text": "ZELENSKY: WE TARGETED RUSSIA'S OIL INFRASTRUCTURE NEAR ST. PETERSBURG ...",
-      "posted_at": "2026-07-04T08:18:11+00:00",
-      "captured_at": "2026-07-04T08:18:13.987383+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5961,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990393,
-      "message_text": "AUTHORITIES IN IRAN'S CENTRAL ISFAHAN PROVINCE SAID CONTROLLED EXPLOSIONS OF UNEXPLODED ORDNANCE WOULD BE CARRIED OUT ON SATURDAY MORNING AND AFTERNOON IN SEVERAL AREAS SOUTH OF ISFAHAN CITY ...",
-      "posted_at": "2026-07-04T08:17:41+00:00",
-      "captured_at": "2026-07-04T08:17:43.219200+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
