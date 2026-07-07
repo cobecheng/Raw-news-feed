@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T06:52:41.603843+00:00",
+  "generated_at": "2026-07-07T06:58:11.883574+00:00",
   "window_hours": 72,
-  "count": 809,
+  "count": 808,
   "news": [
     {
       "id": 7511,
@@ -10502,19 +10502,6 @@
       "message_text": "UKRAINE\u2019S GENERAL STAFF DENIES RUSSIAN FORCES SEIZED KOSTIANTYNIVKA IN EASTERN UKRAINE ...",
       "posted_at": "2026-07-04T06:58:23+00:00",
       "captured_at": "2026-07-04T06:58:25.884449+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5895,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990360,
-      "message_text": "RULING DP EXPRESSES 'STRONG REGRET' OVER RECENT U.S. HOUSE REPORT REGARDING COUPANG-YONHAP ...",
-      "posted_at": "2026-07-04T06:54:23+00:00",
-      "captured_at": "2026-07-04T06:54:26.608964+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
