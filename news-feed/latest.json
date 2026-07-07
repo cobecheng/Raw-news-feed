@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T17:36:45.313612+00:00",
+  "generated_at": "2026-07-07T17:42:15.594808+00:00",
   "window_hours": 72,
-  "count": 665,
+  "count": 664,
   "news": [
     {
       "id": 7511,
@@ -8630,19 +8630,6 @@
       "message_text": "TRUMP TO AXIOS: I AM FOLLOWING KHAMENEI'S FUNERAL PROCESSION AND WE CAN ELIMINATE EVERYONE, BUT THEN THERE WILL BE NO ONE LEFT TO NEGOTIATE WITH. ...",
       "posted_at": "2026-07-04T17:42:23+00:00",
       "captured_at": "2026-07-04T17:42:25.568613+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6183,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990505,
-      "message_text": "TRUMP TO AXIOS: NETANYAHU KNOWS WHO THE LEADER IS AND OUR RELATIONSHIP IS VERY GOOD ...",
-      "posted_at": "2026-07-04T17:41:54+00:00",
-      "captured_at": "2026-07-04T17:41:56.237835+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
