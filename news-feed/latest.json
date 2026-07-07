@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T12:56:00.577930+00:00",
+  "generated_at": "2026-07-07T13:01:30.856649+00:00",
   "window_hours": 72,
-  "count": 711,
+  "count": 710,
   "news": [
     {
       "id": 7511,
@@ -9228,19 +9228,6 @@
       "message_text": "PALESTINIAN MEDIA: SEVERAL KILLED AND WOUNDED AS A RESULT OF AN AIRSTRIKE CARRIED OUT BY AN ISRAELI DRONE NEAR THE \"ASQULA\" AREA IN \"AL-ZAYTUN\" NEIGHBORHOOD, SOUTHEAST OF GAZA CITY. ...",
       "posted_at": "2026-07-04T13:17:08+00:00",
       "captured_at": "2026-07-04T13:17:10.787129+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6091,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990459,
-      "message_text": "SUDANESE PRIME MINISTER: DARFUR AND KORDOFAN ARE A STONE'S THROW FROM COMPLETE LIBERATION ...",
-      "posted_at": "2026-07-04T12:59:22+00:00",
-      "captured_at": "2026-07-04T12:59:24.001360+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
