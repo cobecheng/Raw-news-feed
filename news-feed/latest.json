@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T16:03:10.403958+00:00",
+  "generated_at": "2026-07-07T16:08:40.679158+00:00",
   "window_hours": 72,
-  "count": 675,
+  "count": 674,
   "news": [
     {
       "id": 7511,
@@ -8760,19 +8760,6 @@
       "message_text": "INDIA LIFTS EMERGENCY CURBS ON NATURAL GAS SUPPLY IMPOSED AFTER LNG DISRUPTIONS FROM MIDDLE EAST CRISIS - GOVERNMENT NOTIFICATION ...",
       "posted_at": "2026-07-04T16:18:45+00:00",
       "captured_at": "2026-07-04T16:18:45.554367+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6163,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990495,
-      "message_text": "INDIA LIFTS EMERGENCY CURBS ON NATURAL GAS SUPPLY IMPOSED AFTER LNG DISRUPTIONS FROM MIDDLE EAST CRISIS: GOVERNMENT NOTIFICATION ...",
-      "posted_at": "2026-07-04T16:08:14+00:00",
-      "captured_at": "2026-07-04T16:08:16.990112+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
