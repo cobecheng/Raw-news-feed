@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T04:57:05.609504+00:00",
+  "generated_at": "2026-07-07T05:02:35.892541+00:00",
   "window_hours": 72,
-  "count": 824,
+  "count": 821,
   "news": [
     {
       "id": 7511,
@@ -10672,45 +10672,6 @@
       "posted_at": "2026-07-04T05:10:33+00:00",
       "captured_at": "2026-07-04T05:10:36.083318+00:00",
       "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5869,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990347,
-      "message_text": "OPENAI AND ANTHROPIC COME UNDER PRESSURE AS IPO AMBITIONS ARE QUESTIONED OVER FINANCES AND POTENTIAL GOVERNMENT EQUITY INVOLVEMENT ...",
-      "posted_at": "2026-07-04T05:01:33+00:00",
-      "captured_at": "2026-07-04T05:01:35.016405+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5867,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990346,
-      "message_text": "TRUMP WARNS AMERICAN IDENTITY UNDER \u2018RENEWED ATTACK\u2019 AS US TURNS 250-SCMP ...",
-      "posted_at": "2026-07-04T05:01:03+00:00",
-      "captured_at": "2026-07-04T05:01:06.024320+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5865,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990345,
-      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
-      "posted_at": "2026-07-04T05:00:02+00:00",
-      "captured_at": "2026-07-04T05:00:04.872467+00:00",
-      "has_media": 1,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
       "destination_topic_id": 127
