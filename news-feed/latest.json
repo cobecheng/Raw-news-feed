@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T16:52:43.013503+00:00",
+  "generated_at": "2026-07-07T16:58:13.295421+00:00",
   "window_hours": 72,
-  "count": 671,
+  "count": 669,
   "news": [
     {
       "id": 7511,
@@ -8695,32 +8695,6 @@
       "message_text": "*TRUMP TO AXIOS: US, IRAN DECIDED TO TAKE A WEEK OFF FROM TALKS ...",
       "posted_at": "2026-07-04T17:17:35+00:00",
       "captured_at": "2026-07-04T17:17:37.992422+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6173,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990500,
-      "message_text": "TRUMP: NETANYAHU REQUESTED WHITE HOUSE MEETING, COULD OCCUR AS SOON AS NEXT WEEK - AXIOS ...",
-      "posted_at": "2026-07-04T16:53:31+00:00",
-      "captured_at": "2026-07-04T16:53:32.260129+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6171,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990499,
-      "message_text": "TRUMP: NETANYAHU AND I GET ALONG WELL; NETANYAHU KNOWS WHO\u2019S IN CHARGE - AXIOS ...",
-      "posted_at": "2026-07-04T16:53:01+00:00",
-      "captured_at": "2026-07-04T16:53:02.972414+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
