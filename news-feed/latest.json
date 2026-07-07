@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T23:01:32.000680+00:00",
+  "generated_at": "2026-07-07T23:07:02.261320+00:00",
   "window_hours": 72,
-  "count": 633,
+  "count": 632,
   "news": [
     {
       "id": 7511,
@@ -8214,19 +8214,6 @@
       "message_text": "CHINA'S ETHNIC LAW WITH GLOBAL REACH DRAWS BACKLASH FROM JAPAN TO EUROPE\n\nTAKAICHI AIDE SAYS 'NO DEMOCRATIC NATION COULD TOLERATE' MOVE AS UNHCR AND EU URGE REPEAL- NIKKEI AISA ...",
       "posted_at": "2026-07-05T00:03:07+00:00",
       "captured_at": "2026-07-05T00:03:08.993922+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6247,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990538,
-      "message_text": "PAUL PELOSI FACES HIT-AND-RUN CHARGE AFTER STRIKING PARKED VEHICLE IN NAPA COUNTY, CA - FOX NEWS ...",
-      "posted_at": "2026-07-04T23:05:35+00:00",
-      "captured_at": "2026-07-04T23:05:37.608137+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
