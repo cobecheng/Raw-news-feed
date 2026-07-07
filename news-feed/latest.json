@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T06:19:39.877116+00:00",
+  "generated_at": "2026-07-07T06:25:10.187283+00:00",
   "window_hours": 72,
-  "count": 812,
+  "count": 811,
   "news": [
     {
       "id": 7511,
@@ -10542,19 +10542,6 @@
       "posted_at": "2026-07-04T06:30:29+00:00",
       "captured_at": "2026-07-04T06:30:32.142719+00:00",
       "has_media": 1,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5889,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990357,
-      "message_text": "BITCOIN SHOWS THREE BULLISH SIGNALS AMID ONGOING RALLY-CAPTAINALTCOIN ...",
-      "posted_at": "2026-07-04T06:24:53+00:00",
-      "captured_at": "2026-07-04T06:24:55.805698+00:00",
-      "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
       "destination_topic_id": 127
