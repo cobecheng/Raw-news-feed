@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T12:33:59.444084+00:00",
+  "generated_at": "2026-07-07T12:39:29.726005+00:00",
   "window_hours": 72,
-  "count": 714,
+  "count": 712,
   "news": [
     {
       "id": 7511,
@@ -9254,32 +9254,6 @@
       "message_text": "#OOTT\n\nAT LEAST EIGHT SHIPS U-TURNED IN HORMUZ BETWEEN FRIDAY AND SATURDAY, WITH SOME SWITCHING TO A ROUTE CLOSER TO IRAN.  - BLOOMBERG ...",
       "posted_at": "2026-07-04T12:45:20+00:00",
       "captured_at": "2026-07-04T12:45:22.315061+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6087,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990457,
-      "message_text": "CHINESE EV GIANT BYD IS REPORTEDLY PLANNING TO ESTABLISH A DEALER NETWORK IN CANADA. CONSIDERING THAT CHINESE VEHICLES ARE SUBJECT TO A 100% TARIFF IN THE U.S. AND CANADA, EFFECTIVELY CREATING AN EMBARGO - NIKKEI ...",
-      "posted_at": "2026-07-04T12:35:19+00:00",
-      "captured_at": "2026-07-04T12:35:21.185111+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6085,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990456,
-      "message_text": "JAPAN, UK AND ITALY AWARD $6BN CONTRACT TO ADVANCE NEXT-GEN FIGHTER JET - NIKKEI ...",
-      "posted_at": "2026-07-04T12:34:50+00:00",
-      "captured_at": "2026-07-04T12:34:50.458615+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
