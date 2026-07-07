@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T10:21:52.515641+00:00",
+  "generated_at": "2026-07-07T10:27:22.814543+00:00",
   "window_hours": 72,
-  "count": 737,
+  "count": 733,
   "news": [
     {
       "id": 7511,
@@ -9527,58 +9527,6 @@
       "message_text": "IRANIANS IN MILAN, ITALY, GATHERED OUTSIDE THE US CONSULATE ON SATURDAY IN RESPONSE TO A CALL BY PRINCE REZA PAHLAVI, PROTESTING AGAINST ANY AGREEMENT WITH THE ISLAMIC REPUBLIC AND CHANTING IN SUPPORT OF PAHLAVI. ...",
       "posted_at": "2026-07-04T10:28:15+00:00",
       "captured_at": "2026-07-04T10:28:15.613531+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6043,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990434,
-      "message_text": "FRANCE WEIGHS UP RESETTING TURKEY TIES AS EUROPE'S SECURITY LANDSCAPE SHIFTS\nA POSSIBLE THAW BETWEEN PARIS AND ANKARA IS BEING SHAPED BY RUSSIA, UKRAINE AND DEFENCE COOPERATION, BUT SEVERAL LONGSTANDING ISSUES REMAIN UNRESOLVED ...",
-      "posted_at": "2026-07-04T10:27:15+00:00",
-      "captured_at": "2026-07-04T10:27:17.448953+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6045,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990435,
-      "message_text": "IRAN MOURNERS DEMAND REVENGE AT AYATOLLAH\u2019S FUNERAL ...",
-      "posted_at": "2026-07-04T10:27:15+00:00",
-      "captured_at": "2026-07-04T10:27:18.085567+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6041,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990433,
-      "message_text": "ECB IS IN A \u201cGOOD POSITION\u201d FOLLOWING LAST MONTH'S RATE HIKE AND DATA SHOWING INFLATION HAS EASED WITH THE SLUMP IN OIL PRICES, GOVERNING COUNCIL MEMBER EMMANUEL MOULIN SAID ON SATURDAY. ...",
-      "posted_at": "2026-07-04T10:24:45+00:00",
-      "captured_at": "2026-07-04T10:24:47.638445+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6039,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990432,
-      "message_text": "IRAN ON SATURDAY OFFICIALLY BEGAN SEVERAL DAYS OF PUBLIC FUNERAL CEREMONIES FOR SLAIN SUPREME LEADER AYATOLLAH ALI KHAMENEI. \n\nAS THOUSANDS GATHERED TO PAY THEIR RESPECTS, MOURNERS AT THE GRAND MOSALLA PRAYER COMPLEX IN THE IRANIAN CAPITAL BEAT THEIR CHESTS AND CHANTED FOR REVENGE. ...",
-      "posted_at": "2026-07-04T10:24:14+00:00",
-      "captured_at": "2026-07-04T10:24:16.939775+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
