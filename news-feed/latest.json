@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T10:49:24.005007+00:00",
+  "generated_at": "2026-07-07T10:54:54.294246+00:00",
   "window_hours": 72,
-  "count": 732,
+  "count": 731,
   "news": [
     {
       "id": 7511,
@@ -9501,19 +9501,6 @@
       "message_text": "\ud83c\udf05 Market News Digest\n[July 3\u20134, 2026 EST]\n\n\ud83d\udd25 Top Stories\n\u2022 Iran tensions and Strait of Hormuz fears intensify \u2014 funeral ceremonies, revenge rhetoric, and warnings over shipping keep energy risk premium elevated  \n\u2022 U.S. labor data weakens Fed hike bets \u2014 soft jobs signals drove the dollar lower and lifted gold expectations  \n\u2022 Heatwave hits U.S. power grid and events \u2014 record electricity demand, outages, and parade cancellations underscore summer utility strain  \n\u2022 Ukraine-Russia conflict escalates around energy assets \u2014 strikes on oil/gas sites near St. Petersburg and Belgorod add supply risk  \n\u2022 AI trade gets mixed signal \u2014 public job-loss fears and exec warnings on AI progress contrast with continued infrastructure investment\n\n\u26fd Oil & Energy\n\u2022 Middle East shipping risk / Hormuz threat \u2014 OPEC+ region supply concerns keep crude and tanker flows in focus  \n\u2022 Ukraine hits Russian energy infrastructure \u2014 oil depot and gas production site strikes raise regional fuel disruption risk  \n\u2022 U.S. heat dome boosts power prices \u2014 extreme demand drives grid stress and higher electricity costs  \n\u2022 Con Edison outage in Queens \u2014 equipment failure amid heat cut power to 9,800 customers  \n\u2022 JPM sees gold at $4,500/ozt in Q4 \u2014 safe-haven demand supported by easier rate expectations\n\n\ud83d\udcca Markets & Macro\n\u2022 Global equities firmer, futures slightly higher \u2014 Europe closed strong and U.S. futures edged up ahead of the holiday  \n\u2022 Dollar and yields soften after NFP \u2014 weaker jobs print pushed back Fed hike expectations  \n\u2022 ECB says it is in a \u201cgood position\u201d \u2014 easing inflation and lower oil prices support a pause-friendly stance  \n\u2022 Japan wages rise over 5% for a 3rd year \u2014 sticky pay gains keep BoJ normalization in view  \n\u2022 China scraps EV tax breaks from 2027 \u2014 policy shift may pressure automakers and demand forecasts\n\n\ud83c\udf0d Geopolitical\n\u2022 Saudi-led coalition vows \u201cunprecedented force\u201d \u2014 sharper rhetoric against Houthis raises Red Sea / Gulf risk  \n\u2022 Russia claims gains in Ukraine; Kyiv denies \u2014 contested control of Kostiantynivka keeps front-line uncertainty high  \n\u2022 China coast guard patrols near Taiwan \u2014 continued pressure despite international pushback  \n\u2022 Mali insurgent attacks and DRC Ebola rise \u2014 security and health shocks add frontier-market risk  \n\u2022 Oman, UK and France coordinate navigation security \u2014 effort aims to protect maritime traffic\n\n\ud83e\ude99 Crypto & DeFi\n\u2022 Binance under EU regulatory pressure \u2014 major platform changes may affect a large user base  \n\u2022 Bitcoin shows bullish signals \u2014 crypto has outperformed gold and the S&P 500 over the week  \n\u2022 Binance reports $213M USDT inflows \u2014 fresh stablecoin inflows suggest renewed trading demand  \n\u2022 Korean firms dispute Open USD Alliance listing \u2014 another sign of governance friction in crypto initiatives\n\n\ud83c\udfdb\ufe0f Regulatory & Policy\n\u2022 Trump says Treasury will accept stock donations for \u201cTrump accounts\u201d \u2014 unusual policy move with tax and political questions  \n\u2022 Anthropic and OpenAI face scrutiny \u2014 export controls, finances, and possible government equity involvement cloud IPO paths  \n\u2022 U.S. intelligence shake-up \u2014 dozens of personnel reportedly removed, signaling internal upheaval  \n\u2022 Binance faces EU compliance challenges \u2014 regulatory tightening continues across the bloc\n\n\ud83c\udfe2 Corporate\n\u2022 Continental to sell ContiTech for $4.6B \u2014 portfolio reshaping and cash return potential  \n\u2022 Japan-UK-Italy award $6.14B fighter-jet contract \u2014 major defense win for the consortium  \n\u2022 Samsung/Hynix / Asian chip names in focus \u2014 AI demand, ADR chatter, and chip-cluster plans support sector attention  \n\u2022 Alibaba blocks Claude code use \u2014 enterprise AI rivalry and security fears deepen  \n\u2022 Meta, Musk and Zuckerberg flag AI limits \u2014 product progress concerns contrast with ongoing AI capex\n\nDigested by *MarketClaw* \ud83d\udc3e \u2014 173 messages scanned",
       "posted_at": "2026-07-04T11:00:18+00:00",
       "captured_at": "2026-07-04T11:00:18.826796+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6049,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990437,
-      "message_text": "GERMANY\u2019S MERZ TALKS WITH UKRAINIAN LEADER ZELENSKIY ON PHONE ABOUT RUSSIAN AIR STRIKES ON KYIV AND OTHER REGIONS OF UKRAINE, GERMAN STATEMENT SAYS ...",
-      "posted_at": "2026-07-04T10:54:01+00:00",
-      "captured_at": "2026-07-04T10:54:02.927974+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
