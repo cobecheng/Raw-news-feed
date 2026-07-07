@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T05:41:07.912671+00:00",
+  "generated_at": "2026-07-07T05:46:38.195091+00:00",
   "window_hours": 72,
-  "count": 820,
+  "count": 816,
   "news": [
     {
       "id": 7511,
@@ -10606,58 +10606,6 @@
       "message_text": "JAPAN FOOD DELIVERY FIRMS AT CROSSROADS AS INFLATION SQUEEZES PROFITS-KYODO ...",
       "posted_at": "2026-07-04T06:01:22+00:00",
       "captured_at": "2026-07-04T06:01:24.679495+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5879,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990352,
-      "message_text": "KOREAN FIRMS SAY THEY WERE LISTED IN OPEN USD ALLIANCE WITHOUT FORMAL TALKS-COIN EDITION ...",
-      "posted_at": "2026-07-04T05:45:49+00:00",
-      "captured_at": "2026-07-04T05:45:51.804553+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5877,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990351,
-      "message_text": "VIETNAM\u2019S GOLD MARKET BEGINS FINDING A NEW BALANCE ...",
-      "posted_at": "2026-07-04T05:44:19+00:00",
-      "captured_at": "2026-07-04T05:44:19.833837+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5875,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990350,
-      "message_text": "CRYPTOCURRENCIES BEAT GOLD AND S&P 500 OVER THE PAST WEEK ...",
-      "posted_at": "2026-07-04T05:43:49+00:00",
-      "captured_at": "2026-07-04T05:43:49.612840+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5873,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990349,
-      "message_text": "THOUSANDS GATHER IN IRAN AS KHAMENEI FUNERAL CEREMONIES BEGIN-SCMP ...",
-      "posted_at": "2026-07-04T05:43:19+00:00",
-      "captured_at": "2026-07-04T05:43:20.324783+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
