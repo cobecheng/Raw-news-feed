@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T10:27:22.814543+00:00",
+  "generated_at": "2026-07-07T10:32:53.105492+00:00",
   "window_hours": 72,
-  "count": 733,
+  "count": 732,
   "news": [
     {
       "id": 7511,
@@ -9514,19 +9514,6 @@
       "message_text": "GERMANY\u2019S MERZ TALKS WITH UKRAINIAN LEADER ZELENSKIY ON PHONE ABOUT RUSSIAN AIR STRIKES ON KYIV AND OTHER REGIONS OF UKRAINE, GERMAN STATEMENT SAYS ...",
       "posted_at": "2026-07-04T10:54:01+00:00",
       "captured_at": "2026-07-04T10:54:02.927974+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6047,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990436,
-      "message_text": "IRANIANS IN MILAN, ITALY, GATHERED OUTSIDE THE US CONSULATE ON SATURDAY IN RESPONSE TO A CALL BY PRINCE REZA PAHLAVI, PROTESTING AGAINST ANY AGREEMENT WITH THE ISLAMIC REPUBLIC AND CHANTING IN SUPPORT OF PAHLAVI. ...",
-      "posted_at": "2026-07-04T10:28:15+00:00",
-      "captured_at": "2026-07-04T10:28:15.613531+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
