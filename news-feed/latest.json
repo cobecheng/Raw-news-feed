@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T03:45:31.818925+00:00",
+  "generated_at": "2026-07-07T03:51:02.107656+00:00",
   "window_hours": 72,
-  "count": 833,
+  "count": 832,
   "news": [
     {
       "id": 7511,
@@ -10814,19 +10814,6 @@
       "message_text": "ANTHROPIC NAVIGATES AI EXPORT CONTROLS WITH A NEW SAFETY CLASSIFIER AND INDUSTRY FRAMEWORK, RESTORING ACCESS TO FABLE 5 AFTER A 19-DAY BAN ...",
       "posted_at": "2026-07-04T03:57:16+00:00",
       "captured_at": "2026-07-04T03:57:16.767216+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5847,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990336,
-      "message_text": "TRUMP PARDONS 11, MOST OF WHOM HAD VIOLATED VEHICLE EMISSIONS CONTROLS-NA ...",
-      "posted_at": "2026-07-04T03:46:45+00:00",
-      "captured_at": "2026-07-04T03:46:47.012891+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
