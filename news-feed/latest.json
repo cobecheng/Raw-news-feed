@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T04:46:05.011314+00:00",
+  "generated_at": "2026-07-07T04:51:35.315752+00:00",
   "window_hours": 72,
-  "count": 827,
+  "count": 824,
   "news": [
     {
       "id": 7511,
@@ -10711,45 +10711,6 @@
       "posted_at": "2026-07-04T05:00:02+00:00",
       "captured_at": "2026-07-04T05:00:04.872467+00:00",
       "has_media": 1,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5863,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990344,
-      "message_text": "HONG KONG CANCELS T1 SIGNAL BUT WARNS OF STRONG WINDS, SHOWERS INTO NEXT WEEK-SCMP ...",
-      "posted_at": "2026-07-04T04:51:02+00:00",
-      "captured_at": "2026-07-04T04:51:03.680677+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5861,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990343,
-      "message_text": "CHILDREN\u2019S MINISTER CALLS FOR \u2018MORAL OUTRAGE\u2019 AS HE VOWS TO END PROFIT-DRIVEN CARE-FT ...",
-      "posted_at": "2026-07-04T04:47:02+00:00",
-      "captured_at": "2026-07-04T04:47:03.256421+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5859,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990342,
-      "message_text": "TRUMP USES MOUNT RUSHMORE SPEECH TO WARN OF \u2018COMMUNIST MENACE\u2019 IN US-FT ...",
-      "posted_at": "2026-07-04T04:46:36+00:00",
-      "captured_at": "2026-07-04T04:46:37.937989+00:00",
-      "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
       "destination_topic_id": 127
