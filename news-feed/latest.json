@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T06:58:11.883574+00:00",
+  "generated_at": "2026-07-07T07:03:42.165068+00:00",
   "window_hours": 72,
-  "count": 808,
+  "count": 805,
   "news": [
     {
       "id": 7511,
@@ -10463,45 +10463,6 @@
       "message_text": "JAPAN'S DEFENSE, FOREIGN CHIEFS TO ATTEND NATO SUMMIT EVENTS NEXT WEEK-KYODO ...",
       "posted_at": "2026-07-04T07:13:09+00:00",
       "captured_at": "2026-07-04T07:13:11.366435+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5901,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990363,
-      "message_text": "UKRAINIAN MILITARY REFUTES RUSSIAN CLAIMS OF CONTROL OVER KOSTIANTYNIVKA ...",
-      "posted_at": "2026-07-04T07:03:23+00:00",
-      "captured_at": "2026-07-04T07:03:24.535119+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5899,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990362,
-      "message_text": "TRUMP ATTACKS SOCIALISTS AS HE SPEAKS FROM MOUNT RUSHMORE-WSJ ...",
-      "posted_at": "2026-07-04T07:02:54+00:00",
-      "captured_at": "2026-07-04T07:02:56.384244+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5897,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990361,
-      "message_text": "UKRAINE\u2019S GENERAL STAFF DENIES RUSSIAN FORCES SEIZED KOSTIANTYNIVKA IN EASTERN UKRAINE ...",
-      "posted_at": "2026-07-04T06:58:23+00:00",
-      "captured_at": "2026-07-04T06:58:25.884449+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
