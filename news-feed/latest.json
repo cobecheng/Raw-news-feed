@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T03:23:30.575989+00:00",
+  "generated_at": "2026-07-07T03:29:00.916683+00:00",
   "window_hours": 72,
-  "count": 840,
+  "count": 837,
   "news": [
     {
       "id": 7511,
@@ -10879,45 +10879,6 @@
       "message_text": "HONG KONG CANCELS T1 SIGNAL BUT WARNS OF STRONG WINDS, SHOWERS INTO NEXT WEEK-SCMP ...",
       "posted_at": "2026-07-04T03:29:17+00:00",
       "captured_at": "2026-07-04T03:29:19.495432+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5837,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990331,
-      "message_text": "UK FINDS LOST US DECLARATION OF INDEPENDENCE COPY AFTER 250 YEARS-FT ...",
-      "posted_at": "2026-07-04T03:28:45+00:00",
-      "captured_at": "2026-07-04T03:28:47.184317+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5835,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990330,
-      "message_text": "*SK HYNIX IS SAID TO WEIGH 0.5% FEE PAYOUT IN MEGA ADR OFFERING ...",
-      "posted_at": "2026-07-04T03:27:45+00:00",
-      "captured_at": "2026-07-04T03:27:47.816358+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5833,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990329,
-      "message_text": "I love gay blow jobs - Every person ever",
-      "posted_at": "2026-07-04T03:23:49+00:00",
-      "captured_at": "2026-07-04T03:23:51.011090+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
