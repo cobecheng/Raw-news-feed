@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T23:59:49.394367+00:00",
+  "generated_at": "2026-07-07T00:05:19.678370+00:00",
   "window_hours": 72,
-  "count": 899,
+  "count": 896,
   "news": [
     {
       "id": 7511,
@@ -11646,45 +11646,6 @@
       "message_text": "JUST IN: \ud83c\uddfa\ud83c\uddf8 PRESIDENT TRUMP SAYS THE US TREASURY WILL NOW ACCEPT DONATIONS OF PUBLICLY TRADED STOCKS TO HELP FUND 'TRUMP ACCOUNTS.' ...",
       "posted_at": "2026-07-04T00:07:16+00:00",
       "captured_at": "2026-07-04T00:07:18.093637+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5719,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990272,
-      "message_text": "CHECKS, BALANCES AND TRUST IN PERSONAL AGENCY MADE THE U.S. A HAVEN FOR ENTREPRENEURS AND WEALTH CREATION-WSJ ...",
-      "posted_at": "2026-07-04T00:04:01+00:00",
-      "captured_at": "2026-07-04T00:04:02.804140+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5717,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990271,
-      "message_text": "UKRAINIAN FLAMINGO MISSILES WERE SPOTTED FLYING IN ALATYR OVER 900-1000KM DEEP INTO RUSSIA-WSN ...",
-      "posted_at": "2026-07-04T00:02:46+00:00",
-      "captured_at": "2026-07-04T00:02:49.178844+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5715,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990270,
-      "message_text": "JAPAN'S NISEKO EYES 'GHOST OF YOTEI' VIDEO GAME TO ATTRACT SUMMER TOURISTS-NA ...",
-      "posted_at": "2026-07-04T00:01:02+00:00",
-      "captured_at": "2026-07-04T00:01:03.136981+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
