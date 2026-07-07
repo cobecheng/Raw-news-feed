@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T04:24:03.821097+00:00",
+  "generated_at": "2026-07-07T04:29:34.116286+00:00",
   "window_hours": 72,
-  "count": 828,
+  "count": 827,
   "news": [
     {
       "id": 7511,
@@ -10749,19 +10749,6 @@
       "message_text": "TRUMP USES MOUNT RUSHMORE SPEECH TO WARN OF \u2018COMMUNIST MENACE\u2019 IN US-FT ...",
       "posted_at": "2026-07-04T04:46:36+00:00",
       "captured_at": "2026-07-04T04:46:37.937989+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5857,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990341,
-      "message_text": "DOLLAR SET FOR BIGGEST WEEKLY DROP SINCE APRIL AFTER JOBS DATA LOWERS FED HIKE BETS-ET ...",
-      "posted_at": "2026-07-04T04:28:32+00:00",
-      "captured_at": "2026-07-04T04:28:32.793212+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
