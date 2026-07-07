@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T00:38:21.614197+00:00",
+  "generated_at": "2026-07-07T00:43:51.922214+00:00",
   "window_hours": 72,
-  "count": 878,
+  "count": 877,
   "news": [
     {
       "id": 7511,
@@ -11399,19 +11399,6 @@
       "message_text": "ACTING DIRECTOR OF NATIONAL INTELLIGENCE BILL PULTE REPORTEDLY REMOVES DOZENS OF INTELLIGENCE PERSONNEL FROM POSTS\n\nREPORTS SAY ACTING DIRECTOR OF NATIONAL INTELLIGENCE BILL PULTE HAS REMOVED DOZENS OF INTELLIGENCE PERSONNEL FROM THEIR POSITIONS. THE MOVE IS SEEN AS A SIGNIFICANT SHAKE-UP WITHIN THE INTELLIGENCE COMMUNITY. ...",
       "posted_at": "2026-07-04T00:44:33+00:00",
       "captured_at": "2026-07-04T00:44:35.768996+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5757,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990291,
-      "message_text": "50% OF AMERICANS FEAR AI COULD PUT THEM OR SOMEONE IN THEIR HOUSEHOLD OUT OF WORK: REUTERS\n\nA REUTERS REPORT SAYS ABOUT HALF OF AMERICANS WORRY THAT AI COULD THREATEN THEIR JOBS OR THOSE OF FAMILY MEMBERS.\nTHE FINDING HIGHLIGHTS GROWING PUBLIC CONCERN ABOUT AI-DRIVEN JOB DISPLACEMENT. ...",
-      "posted_at": "2026-07-04T00:42:02+00:00",
-      "captured_at": "2026-07-04T00:42:03.590137+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
