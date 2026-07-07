@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T08:31:46.731497+00:00",
+  "generated_at": "2026-07-07T08:37:16.998364+00:00",
   "window_hours": 72,
-  "count": 769,
+  "count": 768,
   "news": [
     {
       "id": 7511,
@@ -9982,19 +9982,6 @@
       "message_text": "LEE SAYS MEGA DEVELOPMENT PROJECTS ARE FOR FUTURE, NOT APPROVAL RATINGS-YONHAP ...",
       "posted_at": "2026-07-04T08:40:26+00:00",
       "captured_at": "2026-07-04T08:40:27.072438+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5975,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990400,
-      "message_text": "KYIV\u2019S SUBWAY MORPHS INTO AN UNDERGROUND TOWN AS MISSILES THUD ABOVE-WSJ ...",
-      "posted_at": "2026-07-04T08:32:57+00:00",
-      "captured_at": "2026-07-04T08:32:59.283335+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
