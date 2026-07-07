@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T12:00:57.668187+00:00",
+  "generated_at": "2026-07-07T12:06:27.954623+00:00",
   "window_hours": 72,
-  "count": 716,
+  "count": 715,
   "news": [
     {
       "id": 7511,
@@ -9293,19 +9293,6 @@
       "message_text": "IRAN MOURNERS DEMAND REVENGE AT AYATOLLAH\u2019S FUNERAL - FT ...",
       "posted_at": "2026-07-04T12:33:49+00:00",
       "captured_at": "2026-07-04T12:33:50.030392+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6081,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990454,
-      "message_text": "GERMANY\u2019S MERZ TALKS WITH UKRAINIAN LEADER ZELENSKIY ON PHONE ABOUT RUSSIAN AIR STRIKES ON KYIV AND OTHER REGIONS OF UKRAINE, GERMAN STATEMENT SAYS ...",
-      "posted_at": "2026-07-04T12:02:03+00:00",
-      "captured_at": "2026-07-04T12:02:05.366962+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
