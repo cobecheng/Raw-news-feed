@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T18:20:47.596490+00:00",
+  "generated_at": "2026-07-07T18:26:17.896217+00:00",
   "window_hours": 72,
-  "count": 656,
+  "count": 652,
   "news": [
     {
       "id": 7511,
@@ -8475,58 +8475,6 @@
       "posted_at": "2026-07-04T19:00:02+00:00",
       "captured_at": "2026-07-04T19:00:03.642490+00:00",
       "has_media": 1,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6205,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990516,
-      "message_text": "SYRIAN PRESIDENT: WE LOOK FORWARD TO RELATIONS BASED ON RESPECT AND COOPERATION WITH AMERICA ...",
-      "posted_at": "2026-07-04T18:25:55+00:00",
-      "captured_at": "2026-07-04T18:26:07.802479+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6207,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990517,
-      "message_text": "VENEZUELA: DEATH TOLL FROM EARTHQUAKE RISES TO 2954 ...",
-      "posted_at": "2026-07-04T18:25:55+00:00",
-      "captured_at": "2026-07-04T18:26:08.437933+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6201,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990514,
-      "message_text": "WEEKEND MARKETS UPDATE:   \n#DAX 25804 -0.05%   \n#DOW 52827 -0.01%   \n#NASDAQ 29675 +0.04%   \n#FTSE 10635 -0.01%   \n#HANGSENG 23214 -0.02%   \n#EURUSD 11436 0.00%   \n#GOLD 4177 +0.03%   \n#SILVER 6233 -0.09%  \n#USOIL 6882 +0.13%   \n#SPACEX 16098.6 -0.00%\n#IGWEEKENDMARKETS ...",
-      "posted_at": "2026-07-04T18:25:25+00:00",
-      "captured_at": "2026-07-04T18:25:34.290024+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6203,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990515,
-      "message_text": "ISRAELI ARMY: WE ELIMINATED AN ARMED INDIVIDUAL TODAY IN THE MAJDAL ZOUN AREA INSIDE THE SECURITY ZONE NEAR OUR FORCES IN SOUTHERN LEBANON ...",
-      "posted_at": "2026-07-04T18:25:25+00:00",
-      "captured_at": "2026-07-04T18:25:37.962921+00:00",
-      "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
       "destination_topic_id": 127
