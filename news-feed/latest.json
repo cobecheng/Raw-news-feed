@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T09:15:49.015210+00:00",
+  "generated_at": "2026-07-07T09:21:19.349962+00:00",
   "window_hours": 72,
-  "count": 758,
+  "count": 757,
   "news": [
     {
       "id": 7511,
@@ -9839,19 +9839,6 @@
       "message_text": "IRAQI PRESIDENT EMPHASIZES DIALOGUE AND SECURITY AGREEMENTS TO ADDRESS IRANIAN OPPOSITION DOSSIER \u2013 AL ARABIYA ...",
       "posted_at": "2026-07-04T09:31:58+00:00",
       "captured_at": "2026-07-04T09:31:59.129040+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5997,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990411,
-      "message_text": "IRANIANS HOLD MASS MOURNING FOR ALI KHAMENEI AMID TENSIONS WITH US AND ISRAEL-RTRS ...",
-      "posted_at": "2026-07-04T09:16:28+00:00",
-      "captured_at": "2026-07-04T09:16:29.397636+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
