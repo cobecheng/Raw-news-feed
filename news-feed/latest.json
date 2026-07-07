@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T04:07:32.969593+00:00",
+  "generated_at": "2026-07-07T04:13:03.260943+00:00",
   "window_hours": 72,
-  "count": 830,
+  "count": 829,
   "news": [
     {
       "id": 7511,
@@ -10775,19 +10775,6 @@
       "message_text": "LACK OF DATA PUTS ENGLAND\u2019S \u2018MANSION TAX\u2019 VALUATIONS AT RISK-FT ...",
       "posted_at": "2026-07-04T04:17:02+00:00",
       "captured_at": "2026-07-04T04:17:03.855805+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5853,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990339,
-      "message_text": "UK FARMERS EMBRACE REGENERATIVE METHODS AFTER HEATWAVE SHOCK-FT ...",
-      "posted_at": "2026-07-04T04:10:31+00:00",
-      "captured_at": "2026-07-04T04:10:31.983852+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
