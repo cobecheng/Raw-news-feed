@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T07:31:13.575666+00:00",
+  "generated_at": "2026-07-07T07:36:43.853820+00:00",
   "window_hours": 72,
-  "count": 803,
+  "count": 799,
   "news": [
     {
       "id": 7511,
@@ -10385,58 +10385,6 @@
       "message_text": "MORNING ALL! OUR WEEKEND MARKETS ARE OPEN:\n\n#NASDAQ 29647 -0.05%\n#DOW 52820 -0.03%\n#DAX 25798 -0.07%\n#FTSE 10634 -0.02%\n#EURUSD 11435 -0.01%\n#GOLD 4176 +0.01%\n#SILVER 6229 -0.16%\n#USOIL 6882 +0.12%\n#IGWEEKENDMARKETS ...",
       "posted_at": "2026-07-04T07:38:39+00:00",
       "captured_at": "2026-07-04T07:38:40.431089+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5913,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990369,
-      "message_text": "CHINA HAS TESTED A SATELLITE ENGINE WITH A RECORD-BREAKING OPERATING LIFE-SCMP ...",
-      "posted_at": "2026-07-04T07:36:09+00:00",
-      "captured_at": "2026-07-04T07:36:11.475814+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5911,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990368,
-      "message_text": "BILATERAL INVESTMENT AGREEMENT BETWEEN INDIA AND ISRAEL TAKES EFFECT ...",
-      "posted_at": "2026-07-04T07:35:40+00:00",
-      "captured_at": "2026-07-04T07:35:41.054187+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5909,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990367,
-      "message_text": "HONG KONG HETAO INNOVATION HUB FULLY LEASES 2 WET LAB BUILDINGS AMID STRONG DEMAND-SCMP ...",
-      "posted_at": "2026-07-04T07:33:25+00:00",
-      "captured_at": "2026-07-04T07:33:26.005775+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5907,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990366,
-      "message_text": "MUMBAI\u2019S GATEWAY OF INDIA DRAWS VISITORS AMID MONSOON SHOWERS ...",
-      "posted_at": "2026-07-04T07:32:54+00:00",
-      "captured_at": "2026-07-04T07:32:57.630359+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
