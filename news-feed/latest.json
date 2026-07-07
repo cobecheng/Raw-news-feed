@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T02:55:59.007545+00:00",
+  "generated_at": "2026-07-07T03:01:29.292632+00:00",
   "window_hours": 72,
-  "count": 844,
+  "count": 843,
   "news": [
     {
       "id": 7511,
@@ -10957,19 +10957,6 @@
       "message_text": "S. KOREA TO ESTABLISH LOW-EARTH ORBIT COMMUNICATIONS NETWORK BY 2035- YONHAP ...",
       "posted_at": "2026-07-04T03:07:00+00:00",
       "captured_at": "2026-07-04T03:07:00.543582+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5825,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990325,
-      "message_text": "GOLD PRICE CLIMBS AS WEAK NFP COOL FED HIKE BETS-FX ...",
-      "posted_at": "2026-07-04T03:00:59+00:00",
-      "captured_at": "2026-07-04T03:01:01.497705+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
