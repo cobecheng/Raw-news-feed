@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T00:21:50.647821+00:00",
+  "generated_at": "2026-07-07T00:27:21.003219+00:00",
   "window_hours": 72,
-  "count": 888,
+  "count": 885,
   "news": [
     {
       "id": 7511,
@@ -11503,45 +11503,6 @@
       "message_text": "FED'S WARSH VOWS TO 'DISAPPOINT' ANYONE WHO THINKS HE WILL TOLERATE INFLATION ABOVE 2%-RTRS ...",
       "posted_at": "2026-07-04T00:27:32+00:00",
       "captured_at": "2026-07-04T00:27:34.843084+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5741,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990283,
-      "message_text": "U.S. JOB GROWTH REMAINS HEAVILY CONCENTRATED IN HEALTHCARE, RAISING CONCERNS OVER BROADER ECONOMIC STRENGTH\n\nMOST NEW U.S. JOBS ARE BEING CREATED IN HEALTHCARE, WHILE OTHER SECTORS ARE GROWING SLOWLY.\nTHIS NARROW JOB GROWTH RAISES CONCERNS ABOUT WEAKER OVERALL ECONOMIC MOMENTUM. ...",
-      "posted_at": "2026-07-04T00:25:47+00:00",
-      "captured_at": "2026-07-04T00:25:49.199431+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5739,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990282,
-      "message_text": "UK, FRANCE AND OMAN AGREE TO COOPERATE ON PROTECTING SAFE NAVIGATION IN OMANI TERRITORIAL WATERS, DOWNING STREET SAYS ...",
-      "posted_at": "2026-07-04T00:22:48+00:00",
-      "captured_at": "2026-07-04T00:22:48.604449+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5737,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990281,
-      "message_text": "DEMOCRATIC REPUBLIC OF CONGO SAYS CONFIRMED EBOLA CASES RISE TO 1,502, DEATH TOLL REACHES 473 ...",
-      "posted_at": "2026-07-04T00:22:17+00:00",
-      "captured_at": "2026-07-04T00:22:18.981798+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
