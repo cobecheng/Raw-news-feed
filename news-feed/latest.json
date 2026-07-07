@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T00:54:52.517646+00:00",
+  "generated_at": "2026-07-07T01:00:22.798252+00:00",
   "window_hours": 72,
-  "count": 873,
+  "count": 871,
   "news": [
     {
       "id": 7511,
@@ -11321,32 +11321,6 @@
       "message_text": "SMALL COMPANIES ARE PUNCHING ABOVE THEIR WEIGHT ON WALL STREET-WSJ ...",
       "posted_at": "2026-07-04T01:02:03+00:00",
       "captured_at": "2026-07-04T01:02:06.203360+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5769,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990297,
-      "message_text": "U.K., ITALIAN, JAPANESE FIGHTER JET VENTURE WINS $6.14 BILLION CONTRACT-WSJ ...",
-      "posted_at": "2026-07-04T01:00:03+00:00",
-      "captured_at": "2026-07-04T01:00:05.584189+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5767,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990296,
-      "message_text": "CHINA\u2019S BYTEDANCE DISCOVERS NEW SCALING LAW THAT COULD SUSTAIN AI BOOM-SCMP ...",
-      "posted_at": "2026-07-04T00:57:19+00:00",
-      "captured_at": "2026-07-04T00:57:20.872092+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
