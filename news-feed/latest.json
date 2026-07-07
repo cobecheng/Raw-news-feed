@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T12:44:59.999055+00:00",
+  "generated_at": "2026-07-07T12:50:30.294127+00:00",
   "window_hours": 72,
-  "count": 712,
+  "count": 711,
   "news": [
     {
       "id": 7511,
@@ -9241,19 +9241,6 @@
       "message_text": "SUDANESE PRIME MINISTER: DARFUR AND KORDOFAN ARE A STONE'S THROW FROM COMPLETE LIBERATION ...",
       "posted_at": "2026-07-04T12:59:22+00:00",
       "captured_at": "2026-07-04T12:59:24.001360+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6089,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990458,
-      "message_text": "#OOTT\n\nAT LEAST EIGHT SHIPS U-TURNED IN HORMUZ BETWEEN FRIDAY AND SATURDAY, WITH SOME SWITCHING TO A ROUTE CLOSER TO IRAN.  - BLOOMBERG ...",
-      "posted_at": "2026-07-04T12:45:20+00:00",
-      "captured_at": "2026-07-04T12:45:22.315061+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
