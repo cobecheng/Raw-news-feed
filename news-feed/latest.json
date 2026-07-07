@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T03:06:59.576567+00:00",
+  "generated_at": "2026-07-07T03:12:29.916148+00:00",
   "window_hours": 72,
-  "count": 843,
+  "count": 842,
   "news": [
     {
       "id": 7511,
@@ -10944,19 +10944,6 @@
       "message_text": "DEEP FIELD YOUNGSTER FETCHES HK$9.2 MILLION TO TOP 2026 HONG KONG INTERNATIONAL SALE-SCMP ...",
       "posted_at": "2026-07-04T03:13:30+00:00",
       "captured_at": "2026-07-04T03:13:30.468677+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5827,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990326,
-      "message_text": "S. KOREA TO ESTABLISH LOW-EARTH ORBIT COMMUNICATIONS NETWORK BY 2035- YONHAP ...",
-      "posted_at": "2026-07-04T03:07:00+00:00",
-      "captured_at": "2026-07-04T03:07:00.543582+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
