@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T02:17:26.906840+00:00",
+  "generated_at": "2026-07-07T02:22:57.205940+00:00",
   "window_hours": 72,
-  "count": 852,
+  "count": 851,
   "news": [
     {
       "id": 7511,
@@ -11061,19 +11061,6 @@
       "message_text": "*US INDEPENDENCE DAY PARADE CANCELLED IN DC ON EXTREME HEAT ...",
       "posted_at": "2026-07-04T02:23:12+00:00",
       "captured_at": "2026-07-04T02:23:12.534434+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5809,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990317,
-      "message_text": "REPUBLIC TECHNOLOGIES HIT WITH CEASE TRADE ORDER, NAMES OFFICER CHANGE ...",
-      "posted_at": "2026-07-04T02:21:43+00:00",
-      "captured_at": "2026-07-04T02:21:46.026624+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
