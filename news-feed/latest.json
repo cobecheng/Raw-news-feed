@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T01:05:53.083494+00:00",
+  "generated_at": "2026-07-07T01:11:23.369253+00:00",
   "window_hours": 72,
-  "count": 869,
+  "count": 867,
   "news": [
     {
       "id": 7511,
@@ -11269,32 +11269,6 @@
       "message_text": "EUROPEAN MARKETS SURGED TO CLOSE OUT THEIR STRONGEST WEEK SINCE MAY, WITH U.S. STOCK FUTURES ADVANCING AS WELL. ...",
       "posted_at": "2026-07-04T01:15:19+00:00",
       "captured_at": "2026-07-04T01:15:19.715443+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5777,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990301,
-      "message_text": "FORMER NATIONAL SECURITY ADVISOR CALLS IRAN\u2019S $40 BILLION HORMUZ TOLL THREAT A \u201cBLACKMAIL SCHEME\u201d AGAINST THE FREE FLOW OF ENERGY-YAHOO ...",
-      "posted_at": "2026-07-04T01:10:19+00:00",
-      "captured_at": "2026-07-04T01:10:21.996277+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5775,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990300,
-      "message_text": "NEW ZEALAND BRACES FOR AN EXTENDED WINTER WEATHER SYSTEM FEATURING HEAVY SNOWFALL AND GALE-FORCE WINDS. ...",
-      "posted_at": "2026-07-04T01:06:34+00:00",
-      "captured_at": "2026-07-04T01:06:36.441115+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
