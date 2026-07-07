@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T17:31:15.028845+00:00",
+  "generated_at": "2026-07-07T17:36:45.313612+00:00",
   "window_hours": 72,
-  "count": 666,
+  "count": 665,
   "news": [
     {
       "id": 7511,
@@ -8643,19 +8643,6 @@
       "message_text": "TRUMP TO AXIOS: NETANYAHU KNOWS WHO THE LEADER IS AND OUR RELATIONSHIP IS VERY GOOD ...",
       "posted_at": "2026-07-04T17:41:54+00:00",
       "captured_at": "2026-07-04T17:41:56.237835+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6181,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990504,
-      "message_text": "JUST IN: BITCOIN RECLAIMS $63,000  ...",
-      "posted_at": "2026-07-04T17:34:53+00:00",
-      "captured_at": "2026-07-04T17:34:56.431924+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
