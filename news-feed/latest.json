@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T07:09:12.447371+00:00",
+  "generated_at": "2026-07-07T07:14:42.730931+00:00",
   "window_hours": 72,
-  "count": 805,
+  "count": 804,
   "news": [
     {
       "id": 7511,
@@ -10450,19 +10450,6 @@
       "message_text": "U.S. EMBASSY IN BEIRUT PLEDGES SUPPORT FOR LEBANESE PEOPLE IN PURSUIT OF PEACE ...",
       "posted_at": "2026-07-04T07:20:39+00:00",
       "captured_at": "2026-07-04T07:20:40.709005+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5903,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990364,
-      "message_text": "JAPAN'S DEFENSE, FOREIGN CHIEFS TO ATTEND NATO SUMMIT EVENTS NEXT WEEK-KYODO ...",
-      "posted_at": "2026-07-04T07:13:09+00:00",
-      "captured_at": "2026-07-04T07:13:11.366435+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
