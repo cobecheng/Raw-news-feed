@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T01:16:53.658369+00:00",
+  "generated_at": "2026-07-07T01:22:23.934300+00:00",
   "window_hours": 72,
-  "count": 866,
+  "count": 864,
   "news": [
     {
       "id": 7511,
@@ -11230,32 +11230,6 @@
       "message_text": "EUROPE HAS REPLACED MOST US CUTS WITHIN NATO, TOP COMMANDER SAYS-SCMP ...",
       "posted_at": "2026-07-04T01:25:19+00:00",
       "captured_at": "2026-07-04T01:25:20.187646+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5783,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990304,
-      "message_text": "RUSSIA REPORTED THAT IT CARRIED OUT STRIKES ON 55 MILITARY AND INDUSTRIAL INSTALLATIONS IN UKRAINE IN JUNE. ...",
-      "posted_at": "2026-07-04T01:21:03+00:00",
-      "captured_at": "2026-07-04T01:21:03.998677+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5781,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990303,
-      "message_text": "GOLD PRICES SET FOR FIRST WEEKLY RISE IN A MONTH AS INVESTORS SCALE BACK FED RATE HIKE BETS-CNBC ...",
-      "posted_at": "2026-07-04T01:18:49+00:00",
-      "captured_at": "2026-07-04T01:18:51.021804+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
