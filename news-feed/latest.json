@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T09:10:18.727342+00:00",
+  "generated_at": "2026-07-07T09:15:49.015210+00:00",
   "window_hours": 72,
-  "count": 759,
+  "count": 758,
   "news": [
     {
       "id": 7511,
@@ -9852,19 +9852,6 @@
       "message_text": "IRANIANS HOLD MASS MOURNING FOR ALI KHAMENEI AMID TENSIONS WITH US AND ISRAEL-RTRS ...",
       "posted_at": "2026-07-04T09:16:28+00:00",
       "captured_at": "2026-07-04T09:16:29.397636+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5995,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990410,
-      "message_text": "POPE VISITS AFRICA-EUROPE CROSSING AS ANTI-MIGRANT POLICIES RISE IN US, EU-SCMP ...",
-      "posted_at": "2026-07-04T09:15:27+00:00",
-      "captured_at": "2026-07-04T09:15:28.963800+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
