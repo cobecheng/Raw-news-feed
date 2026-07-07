@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T19:10:20.231425+00:00",
+  "generated_at": "2026-07-07T19:15:50.515082+00:00",
   "window_hours": 72,
-  "count": 651,
+  "count": 649,
   "news": [
     {
       "id": 7511,
@@ -8435,32 +8435,6 @@
       "message_text": "AXIOS REPORTER: IF NETANYAHU ARRIVES AT THE WHITE HOUSE, IT WILL BE HIS FIRST MEETING WITH TRUMP SINCE THEIR DRAMATIC ENCOUNTER IN THE SITUATION ROOM IN FEBRUARY, DURING WHICH NETANYAHU PRESENTED HIS PROPOSAL FOR A PLAN FOR WAR AGAINST IRAN ...",
       "posted_at": "2026-07-04T19:16:58+00:00",
       "captured_at": "2026-07-04T19:16:59.314318+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6213,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990520,
-      "message_text": "TRUMP ON TRUTH SOCIAL:\n\nEUROPE IS LEARNING THAT WHEN YOU TAKE IN THIRD WORLD CRIMINALS, YOU BECOME A THIRD WORLD COUNTRY. IT HAPPENS QUICKLY, IN JUST A BLINK OF THE EYE. I WAS ELECTED JUST IN TIME!!! PRESIDENT DJT ...",
-      "posted_at": "2026-07-04T19:12:28+00:00",
-      "captured_at": "2026-07-04T19:12:29.855628+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6211,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990519,
-      "message_text": "TRUMP ON TRUTH SOCIAL: \n\nDESPITE THE HEAT, WHICH ISN\u2019T AS BAD AS PREDICTED, THE CROWDS IN D.C. ARE INCREDIBLE! THE LOVE OF OUR COUNTRY HAS NEVER BEEN STRONGER! THE AIR SHOWS ARE AT A LEVEL NEVER SEEN BEFORE - WHAT GREAT PILOTS, WHAT GREAT EQUIPMENT!!! SEE YOU ALL LATER! SPEAKING AT AROUND 10:00 P.M. AT THE LINCOLN MEMORIAL. THE REFLECTING POOL LOOKS GREAT, DESPITE ALL IT WENT THROUGH WITH THE VANDAL THUGS. WILL QUICKLY DRAIN AND FIX THE DAMAGE DONE RIGHT AFTER THIS BIG WEEKEND. HAPPY INDEPENDENCE DAY. OUR COUNTRY IS STRONGER THAN EVER!!! PRESIDENT DONALD J. TRUMP ...",
-      "posted_at": "2026-07-04T19:12:27+00:00",
-      "captured_at": "2026-07-04T19:12:29.171912+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
