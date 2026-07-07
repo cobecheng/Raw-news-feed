@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T04:13:03.260943+00:00",
+  "generated_at": "2026-07-07T04:18:33.535519+00:00",
   "window_hours": 72,
-  "count": 829,
+  "count": 828,
   "news": [
     {
       "id": 7511,
@@ -10762,19 +10762,6 @@
       "message_text": "DOLLAR SET FOR BIGGEST WEEKLY DROP SINCE APRIL AFTER JOBS DATA LOWERS FED HIKE BETS-ET ...",
       "posted_at": "2026-07-04T04:28:32+00:00",
       "captured_at": "2026-07-04T04:28:32.793212+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5855,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990340,
-      "message_text": "LACK OF DATA PUTS ENGLAND\u2019S \u2018MANSION TAX\u2019 VALUATIONS AT RISK-FT ...",
-      "posted_at": "2026-07-04T04:17:02+00:00",
-      "captured_at": "2026-07-04T04:17:03.855805+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
