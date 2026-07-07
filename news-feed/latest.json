@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T13:40:02.872224+00:00",
+  "generated_at": "2026-07-07T13:45:33.133049+00:00",
   "window_hours": 72,
-  "count": 703,
+  "count": 700,
   "news": [
     {
       "id": 7511,
@@ -9098,45 +9098,6 @@
       "message_text": "RUSSIAN DEFENSE MINISTRY: CAPTURES FIVE SETTLEMENTS IN EASTERN UKRAINE - TASS ...",
       "posted_at": "2026-07-04T13:47:54+00:00",
       "captured_at": "2026-07-04T13:47:56.541559+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6111,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990469,
-      "message_text": "PUTIN SIGNS LAW AMENDING TAX CODE TO BOOST DOMESTIC FUEL MARKET: TASS ...",
-      "posted_at": "2026-07-04T13:44:54+00:00",
-      "captured_at": "2026-07-04T13:44:57.292869+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6109,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990468,
-      "message_text": "ISRAELI OCCUPYING ARMY BLOWS UP A NUMBER OF BUILDINGS INSIDE AREAS UNDER ITS CONTROL EAST OF KHAN YOUNIS CITY ...",
-      "posted_at": "2026-07-04T13:43:24+00:00",
-      "captured_at": "2026-07-04T13:43:26.837142+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6107,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990467,
-      "message_text": "BITCOIN PRICE ON 4TH OF JULY \n\n2010: $0.01  \n2011: $15  \n2012: $7  \n2013: $77  \n2014: $640  \n2015: $260  \n2016: $670  \n2017: $2,600  \n2018: $6,580  \n2019: $11,765  \n2020: $9,080  \n2021: $34,975  \n2022: $19,750  \n2023: $31,050  \n2024: $58,660  \n2025: $108,100\n2026: $62,500 ...",
-      "posted_at": "2026-07-04T13:41:24+00:00",
-      "captured_at": "2026-07-04T13:41:26.284728+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
