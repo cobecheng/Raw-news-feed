@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T14:29:35.407846+00:00",
+  "generated_at": "2026-07-07T14:35:05.708914+00:00",
   "window_hours": 72,
-  "count": 690,
+  "count": 687,
   "news": [
     {
       "id": 7511,
@@ -8929,45 +8929,6 @@
       "message_text": "AMERICA250 OFFICIALLY SEALED \u201cAMERICA\u2019S TIME CAPSULE\u201d AND REVEALED ITS FINAL CONTENTS BEFORE ITS JULY 4 BURIAL CEREMONY IN PHILADELPHIA. ...",
       "posted_at": "2026-07-04T14:35:26+00:00",
       "captured_at": "2026-07-04T14:35:27.869203+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6137,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990482,
-      "message_text": "TRUMP ACCOUNTS OFFICIALLY DEBUT FOR CHILDREN BORN BETWEEN 2025 & 2028- POLYMARKET ...",
-      "posted_at": "2026-07-04T14:33:56+00:00",
-      "captured_at": "2026-07-04T14:33:58.628046+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6135,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990481,
-      "message_text": "AMERICANS EXPERIENCING LONG-TERM UNEMPLOYMENT (27 WEEKS OR MORE) HAVE AVERAGED OVER 1.8 MILLION THIS YEAR, CNBC REPORTED. ...",
-      "posted_at": "2026-07-04T14:31:56+00:00",
-      "captured_at": "2026-07-04T14:31:56.907439+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6133,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990480,
-      "message_text": "TRANSPORT INFRASTRUCTURE IRELAND ESTIMATES THAT NEARLY \u20ac500 MILLION WILL BE SPENT ON PROPERTY ACQUISITIONS REQUIRED FOR THE METROLINK PROJECT. \n\n-IRISHTIMES ...",
-      "posted_at": "2026-07-04T14:29:56+00:00",
-      "captured_at": "2026-07-04T14:29:57.662011+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
