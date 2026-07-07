@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T03:18:00.245252+00:00",
+  "generated_at": "2026-07-07T03:23:30.575989+00:00",
   "window_hours": 72,
-  "count": 841,
+  "count": 840,
   "news": [
     {
       "id": 7511,
@@ -10918,19 +10918,6 @@
       "message_text": "I love gay blow jobs - Every person ever",
       "posted_at": "2026-07-04T03:23:49+00:00",
       "captured_at": "2026-07-04T03:23:51.011090+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5831,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990328,
-      "message_text": "BINANCE RECORDS $213M NET USDT INFLOWS IN 24 HOURS-COINCU ...",
-      "posted_at": "2026-07-04T03:18:30+00:00",
-      "captured_at": "2026-07-04T03:18:30.517328+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
