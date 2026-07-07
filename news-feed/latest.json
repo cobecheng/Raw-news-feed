@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T03:29:00.916683+00:00",
+  "generated_at": "2026-07-07T03:34:31.239231+00:00",
   "window_hours": 72,
-  "count": 837,
+  "count": 835,
   "news": [
     {
       "id": 7511,
@@ -10853,32 +10853,6 @@
       "message_text": "ASIA EQUITIES: FIRST-HALF 2026 BEST AND WORST PERFORMERS AMID GEOPOLITICAL AND AI-DRIVEN VOLATILITY\n\nASIAN STOCK MARKETS SAW STRONG SWINGS IN EARLY 2026, DRIVEN BY IRAN-RELATED TENSIONS AND SHIFTING AI INVESTMENT TRENDS.\nFED POLICY EXPECTATIONS AND ENERGY SUPPLY RECOVERY ALSO SHAPED WHICH MARKETS OUTPERFORMED OR LAGGED. ...",
       "posted_at": "2026-07-04T03:38:45+00:00",
       "captured_at": "2026-07-04T03:38:45.966446+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5841,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990333,
-      "message_text": "EUROPE HAS REPLACED MOST ASSETS CUT BY US FROM NATO WAR PLANS-BS ...",
-      "posted_at": "2026-07-04T03:33:45+00:00",
-      "captured_at": "2026-07-04T03:33:47.867428+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5839,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990332,
-      "message_text": "HONG KONG CANCELS T1 SIGNAL BUT WARNS OF STRONG WINDS, SHOWERS INTO NEXT WEEK-SCMP ...",
-      "posted_at": "2026-07-04T03:29:17+00:00",
-      "captured_at": "2026-07-04T03:29:19.495432+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
