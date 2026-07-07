@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T00:32:51.309700+00:00",
+  "generated_at": "2026-07-07T00:38:21.614197+00:00",
   "window_hours": 72,
-  "count": 881,
+  "count": 878,
   "news": [
     {
       "id": 7511,
@@ -11412,45 +11412,6 @@
       "message_text": "50% OF AMERICANS FEAR AI COULD PUT THEM OR SOMEONE IN THEIR HOUSEHOLD OUT OF WORK: REUTERS\n\nA REUTERS REPORT SAYS ABOUT HALF OF AMERICANS WORRY THAT AI COULD THREATEN THEIR JOBS OR THOSE OF FAMILY MEMBERS.\nTHE FINDING HIGHLIGHTS GROWING PUBLIC CONCERN ABOUT AI-DRIVEN JOB DISPLACEMENT. ...",
       "posted_at": "2026-07-04T00:42:02+00:00",
       "captured_at": "2026-07-04T00:42:03.590137+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5755,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990290,
-      "message_text": "INDONESIA'S SOCIAL MEDIA BAN TESTS FAMILIES' DIGITAL REALITY-NA ...",
-      "posted_at": "2026-07-04T00:37:18+00:00",
-      "captured_at": "2026-07-04T00:37:19.555441+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5753,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990289,
-      "message_text": "UKRAINIAN MISSILE STRIKE ON RUSSIA'S BELGOROD DISRUPTS POWER, WATER SUPPLY ACROSS CITY, OFFICIAL SAYS- KYIV INDEPENDENT ...",
-      "posted_at": "2026-07-04T00:36:32+00:00",
-      "captured_at": "2026-07-04T00:36:34.510424+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5751,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990288,
-      "message_text": "ELEVATED ERRORS ACROSS MULTIPLE MODELS UNDER REVIEW BY CLAUDE\n\nCLAUDE IS REVIEWING REPORTS OF HIGHER-THAN-NORMAL ERROR RATES ACROSS SEVERAL MODELS. THE INVESTIGATION AIMS TO IDENTIFY AND RESOLVE POTENTIAL SYSTEM-WIDE PERFORMANCE ISSUES. ...",
-      "posted_at": "2026-07-04T00:36:02+00:00",
-      "captured_at": "2026-07-04T00:36:03.402010+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
