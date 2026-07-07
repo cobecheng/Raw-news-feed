@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T06:41:41.041455+00:00",
+  "generated_at": "2026-07-07T06:47:11.320602+00:00",
   "window_hours": 72,
-  "count": 810,
+  "count": 809,
   "news": [
     {
       "id": 7511,
@@ -10515,19 +10515,6 @@
       "message_text": "RULING DP EXPRESSES 'STRONG REGRET' OVER RECENT U.S. HOUSE REPORT REGARDING COUPANG-YONHAP ...",
       "posted_at": "2026-07-04T06:54:23+00:00",
       "captured_at": "2026-07-04T06:54:26.608964+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5893,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990359,
-      "message_text": "INSIDE EUROPE'S MOST BRUTAL JUNE HEATWAVE YET: THOUSANDS DEAD AS HEAT SHATTERS CENTURY-OLD RECORDS-ET ...",
-      "posted_at": "2026-07-04T06:45:53+00:00",
-      "captured_at": "2026-07-04T06:45:55.438836+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
