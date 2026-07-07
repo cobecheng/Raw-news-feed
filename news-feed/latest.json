@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T07:42:14.112830+00:00",
+  "generated_at": "2026-07-07T07:47:44.416846+00:00",
   "window_hours": 72,
-  "count": 797,
+  "count": 793,
   "news": [
     {
       "id": 7511,
@@ -10307,58 +10307,6 @@
       "message_text": "MEDVEDEV SAID HE HAD DISCUSSED THE SITUATION WITH IRANIAN PRESIDENT MASOUD PEZESHKIAN AND THAT RUSSIA HAD PROPOSED WAYS TO RESOLVE THE ISSUE OF IRANIAN NUCLEAR MATERIALS THROUGH PEACEFUL MEANS. ...",
       "posted_at": "2026-07-04T07:47:55+00:00",
       "captured_at": "2026-07-04T07:47:57.018988+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5923,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990374,
-      "message_text": "RUSSIA: UKRAINIAN DRONES HIT AN OIL DEPOT IN ST. PETERSBURG ...",
-      "posted_at": "2026-07-04T07:46:55+00:00",
-      "captured_at": "2026-07-04T07:46:58.056973+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5925,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990375,
-      "message_text": "CONAIR IS RECALLING MORE THAN ONE MILLION CUISINART GRILL BRUSHES AFTER REPORTS OF LOOSE METAL BRISTLES BECOMING DETACHED DURING USE AND EVEN ACCIDENTALLY SWALLOWED IN SEVERAL CASES. ...",
-      "posted_at": "2026-07-04T07:46:55+00:00",
-      "captured_at": "2026-07-04T07:46:58.754186+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5921,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990373,
-      "message_text": "RUSSIA HITS GAS PRODUCTION SITE WITH DRONE IN UKRAINE'S CENTRAL POLTAVA REGION, CAUSING FIRE: STATE ENERGY COMPANY NAFTOGAZ ...",
-      "posted_at": "2026-07-04T07:44:40+00:00",
-      "captured_at": "2026-07-04T07:44:41.046863+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5919,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990372,
-      "message_text": "WALL STREET, ANALYSTS INCREASINGLY DON'T BELIEVE THE U.S. GOVERNMENT'S 'MISLEADING' JOB NUMBERS-FORTUNE ...",
-      "posted_at": "2026-07-04T07:44:10+00:00",
-      "captured_at": "2026-07-04T07:44:12.771385+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
