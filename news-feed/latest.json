@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T01:33:24.494715+00:00",
+  "generated_at": "2026-07-07T01:38:54.773686+00:00",
   "window_hours": 72,
-  "count": 860,
+  "count": 859,
   "news": [
     {
       "id": 7511,
@@ -11165,19 +11165,6 @@
       "message_text": "PAKISTAN APPROVES FINAL LINK IN 1,600-KM NATIONAL OIL PIPELINE  LAHORE-PESHAWAR PROJECT TO LOWER FUEL TRANSPORT COSTS AS TANKER DRIVERS FEAR FOR JOBS- NIKKEI ASIA ...",
       "posted_at": "2026-07-04T01:39:20+00:00",
       "captured_at": "2026-07-04T01:39:21.298490+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5793,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990309,
-      "message_text": "VIETNAM\u2019S GOVERNMENT CONDUCTED ITS ROUTINE MEETING ALONGSIDE A CONFERENCE WITH LOCALITIES. ...",
-      "posted_at": "2026-07-04T01:35:34+00:00",
-      "captured_at": "2026-07-04T01:35:35.057016+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
