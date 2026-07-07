@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T11:44:26.825992+00:00",
+  "generated_at": "2026-07-07T11:49:57.101065+00:00",
   "window_hours": 72,
-  "count": 722,
+  "count": 718,
   "news": [
     {
       "id": 7511,
@@ -9332,58 +9332,6 @@
       "message_text": "IRAQI PRIME MINISTER STRESSES NO LENIENCY TOWARD ANY CORRUPT INDIVIDUAL \"REGARDLESS OF HIS AFFILIATION\" ...",
       "posted_at": "2026-07-04T11:58:03+00:00",
       "captured_at": "2026-07-04T11:58:04.490770+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6075,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990451,
-      "message_text": "NYT: THE CENTRAL BANK GOVERNOR INFORMED MAJD TAB THAT FOOD AND MEDICINE WILL RUN OUT BY THE END OF AUGUST IF THE SIEGE CONTINUES ...",
-      "posted_at": "2026-07-04T11:48:03+00:00",
-      "captured_at": "2026-07-04T11:48:04.654792+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6073,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990450,
-      "message_text": "NEW YORK TIMES: PEZESHKIAN INFORMED MOJTABA KHAMENEI BEFORE SIGNING THE AGREEMENT THAT THE NAVAL BLOCKADE IS PARALYZING IRAN ...",
-      "posted_at": "2026-07-04T11:47:34+00:00",
-      "captured_at": "2026-07-04T11:47:36.206226+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6069,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990448,
-      "message_text": "NEW YORK TIMES: PEZESHKIAN INFORMED MOJTABA KHAMENEI THAT HE WILL STEP DOWN FROM HIS POSITION IF THE AGREEMENT WITH AMERICA IS REJECTED ...",
-      "posted_at": "2026-07-04T11:47:33+00:00",
-      "captured_at": "2026-07-04T11:47:34.647581+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6071,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990449,
-      "message_text": "NEW YORK TIMES: A MESSAGE FROM THE IRANIAN CENTRAL BANK GOVERNOR CONVINCED MOJTABA TO APPROVE THE MEMORANDUM OF UNDERSTANDING ...",
-      "posted_at": "2026-07-04T11:47:33+00:00",
-      "captured_at": "2026-07-04T11:47:35.502198+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
