@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T00:27:21.003219+00:00",
+  "generated_at": "2026-07-07T00:32:51.309700+00:00",
   "window_hours": 72,
-  "count": 885,
+  "count": 881,
   "news": [
     {
       "id": 7511,
@@ -11451,58 +11451,6 @@
       "message_text": "ELEVATED ERRORS ACROSS MULTIPLE MODELS UNDER REVIEW BY CLAUDE\n\nCLAUDE IS REVIEWING REPORTS OF HIGHER-THAN-NORMAL ERROR RATES ACROSS SEVERAL MODELS. THE INVESTIGATION AIMS TO IDENTIFY AND RESOLVE POTENTIAL SYSTEM-WIDE PERFORMANCE ISSUES. ...",
       "posted_at": "2026-07-04T00:36:02+00:00",
       "captured_at": "2026-07-04T00:36:03.402010+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5749,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990287,
-      "message_text": "NEW PIPELINE FROM ALBERTA TO THE B.C. COAST IS SET TO RUN THROUGH KAMLOOPS AND THE NORTH THOMPSON VALLEY-CBC ...",
-      "posted_at": "2026-07-04T00:32:47+00:00",
-      "captured_at": "2026-07-04T00:32:49.415077+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5747,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990286,
-      "message_text": "GOLD LIKELY TO STAY RANGE-BOUND IN NEAR TERM, THEN RISE TO $4,500/OZ IN Q4: JPMORGAN\n\nJPMORGAN EXPECTS GOLD PRICES TO MOVE SIDEWAYS IN THE SHORT TERM DUE TO MIXED MARKET SIGNALS.\nIT FORECASTS A STRONGER REBOUND LATER IN THE YEAR, WITH PRICES POTENTIALLY AVERAGING AROUND $4,500 PER OUNCE IN Q4. ...",
-      "posted_at": "2026-07-04T00:31:32+00:00",
-      "captured_at": "2026-07-04T00:31:33.177777+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5745,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990285,
-      "message_text": "BINANCE HAS ISSUED A MAJOR ANNOUNCEMENT THAT COULD AFFECT A SIGNIFICANT NUMBER OF ITS USERS, AS THE WORLD\u2019S LARGEST CRYPTOCURRENCY EXCHANGE NAVIGATES INTENSIFYING REGULATORY CHALLENGES ACROSS THE EUROPEAN UNION- COINLIVE ...",
-      "posted_at": "2026-07-04T00:29:02+00:00",
-      "captured_at": "2026-07-04T00:29:04.515477+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 5743,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990284,
-      "message_text": "FED'S WARSH VOWS TO 'DISAPPOINT' ANYONE WHO THINKS HE WILL TOLERATE INFLATION ABOVE 2%-RTRS ...",
-      "posted_at": "2026-07-04T00:27:32+00:00",
-      "captured_at": "2026-07-04T00:27:34.843084+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
