@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T14:35:05.708914+00:00",
+  "generated_at": "2026-07-07T14:40:36.002991+00:00",
   "window_hours": 72,
-  "count": 687,
+  "count": 684,
   "news": [
     {
       "id": 7511,
@@ -8890,45 +8890,6 @@
       "message_text": "LEBANON\u2019S PRESIDENT URGES US SOLIDARITY AS ISRAELI TROOPS OCCUPY SOUTH-SCMP ...",
       "posted_at": "2026-07-04T14:43:41+00:00",
       "captured_at": "2026-07-04T14:43:42.873127+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6143,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990485,
-      "message_text": "TRUMP: IF THE SAVE AMERICA ACT IS PASSED, WE WILL NOT LOSE AN ELECTION FOR 100 YEARS-LEADING REPORT ...",
-      "posted_at": "2026-07-04T14:38:26+00:00",
-      "captured_at": "2026-07-04T14:38:28.458188+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6141,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990484,
-      "message_text": "U.S.-IRAN LATEST: MOURNERS CHANT FOR REVENGE AS IRAN BEGINS DAYSLONG FUNERAL OF SLAIN SUPREME LEADER-CBS ...",
-      "posted_at": "2026-07-04T14:36:56+00:00",
-      "captured_at": "2026-07-04T14:36:57.998423+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6139,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990483,
-      "message_text": "AMERICA250 OFFICIALLY SEALED \u201cAMERICA\u2019S TIME CAPSULE\u201d AND REVEALED ITS FINAL CONTENTS BEFORE ITS JULY 4 BURIAL CEREMONY IN PHILADELPHIA. ...",
-      "posted_at": "2026-07-04T14:35:26+00:00",
-      "captured_at": "2026-07-04T14:35:27.869203+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
