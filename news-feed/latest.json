@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T12:28:29.163098+00:00",
+  "generated_at": "2026-07-07T12:33:59.444084+00:00",
   "window_hours": 72,
-  "count": 715,
+  "count": 714,
   "news": [
     {
       "id": 7511,
@@ -9280,19 +9280,6 @@
       "message_text": "JAPAN, UK AND ITALY AWARD $6BN CONTRACT TO ADVANCE NEXT-GEN FIGHTER JET - NIKKEI ...",
       "posted_at": "2026-07-04T12:34:50+00:00",
       "captured_at": "2026-07-04T12:34:50.458615+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6083,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990455,
-      "message_text": "IRAN MOURNERS DEMAND REVENGE AT AYATOLLAH\u2019S FUNERAL - FT ...",
-      "posted_at": "2026-07-04T12:33:49+00:00",
-      "captured_at": "2026-07-04T12:33:50.030392+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
