@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T10:35:07.838266+00:00",
+  "generated_at": "2026-07-08T10:40:38.115420+00:00",
   "window_hours": 72,
-  "count": 444,
+  "count": 442,
   "news": [
     {
       "id": 7511,
@@ -5744,32 +5744,6 @@
       "message_text": "IRAN'S IRNA: MARITIME TRADE RESTARTS BETWEEN QATAR'S AL RUWAIS PORT AND IRANIAN PORTS ...",
       "posted_at": "2026-07-05T10:40:40+00:00",
       "captured_at": "2026-07-05T10:40:41.819870+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6627,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990728,
-      "message_text": "GERMANY PLANS TO BOOST NET NEW BORROWING FOR 2027 TO \u20ac118 BILLION, ABOUT 7% HIGHER THAN APRIL FORECAST ...",
-      "posted_at": "2026-07-05T10:37:39+00:00",
-      "captured_at": "2026-07-05T10:37:41.249026+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6625,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990727,
-      "message_text": "GERMANY PLANS TO BOOST NET NEW BORROWING FOR 2027 TO \u20ac118 BILLION, ABOUT 7% HIGHER THAN APRIL FORECAST ...",
-      "posted_at": "2026-07-05T10:37:10+00:00",
-      "captured_at": "2026-07-05T10:37:11.448231+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
