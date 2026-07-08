@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T12:36:13.899537+00:00",
+  "generated_at": "2026-07-08T12:41:44.197875+00:00",
   "window_hours": 72,
-  "count": 416,
+  "count": 414,
   "news": [
     {
       "id": 7511,
@@ -5380,32 +5380,6 @@
       "message_text": "KEPLER DATA: 19 SHIPS CROSSED YESTERDAY THROUGH HORMUZ IN BOTH DIRECTIONS, ONLY ONE OF THEM OFF THE COAST OF OMAN ...",
       "posted_at": "2026-07-05T12:50:44+00:00",
       "captured_at": "2026-07-05T12:50:45.440229+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6683,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990757,
-      "message_text": "CRYPTO UPDATE:   \n#BITCOIN 62752.00 -0.77%   \n#ETHER 1765.30 -1.21%   \n#CARDANO 0.1872 -2.45%   \n#BITCOINCASH 241.33 +3.82%   \n#EOS 0.1295 +0%   \n#LITECOIN 44.94 -0.18%   \n#STELLAR 0.1996 -4.54%   \n#DOGECOIN 0.0763 -2.18%   \n#UNISWAP 3.1305 -3.22%   \n#CHAINLINK 7.9290 -1.5%   \n#POLKADOT 0.8742 -1.66%   \n#SOLANA 81.0300 -1.15%   \n#AVALANCHE 6.8900 -1.43%   \n#NEO 1.979 -1.88% ...",
-      "posted_at": "2026-07-05T12:41:14+00:00",
-      "captured_at": "2026-07-05T12:41:15.550984+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6681,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990756,
-      "message_text": "WEEKEND MARKETS UPDATE:   \n#DAX 25805 -0.05%   \n#DOW 52829 -0.01%   \n#NASDAQ 29672 +0.03%   \n#FTSE 10636 +0.00%   \n#HANGSENG 23215 -0.02%   \n#EURUSD 11436 0.00%   \n#GOLD 4176 +0.02%   \n#SILVER 6264 +0.41%   \n#USOIL 6925 +0.75%   \n#IGWEEKENDMARKETS ...",
-      "posted_at": "2026-07-05T12:38:13+00:00",
-      "captured_at": "2026-07-05T12:38:16.520476+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
