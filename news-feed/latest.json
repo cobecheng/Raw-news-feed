@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T03:36:46.419548+00:00",
+  "generated_at": "2026-07-08T03:42:16.697686+00:00",
   "window_hours": 72,
-  "count": 540,
+  "count": 539,
   "news": [
     {
       "id": 7511,
@@ -7005,19 +7005,6 @@
       "message_text": "ASIA\u2019S CPTPP AND RCEP TRADE PACTS HELP CUSHION THE IMPACT OF TRUMP TARIFFS, THOUGH BENEFITS VARY ACROSS INDUSTRIES AND COUNTRIES. ...",
       "posted_at": "2026-07-05T03:42:53+00:00",
       "captured_at": "2026-07-05T03:42:54.315570+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6433,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990631,
-      "message_text": "THUNDERBIRDS SHOWCASE ELITE PRECISION AS FIGHTER JETS SOAR INCHES APART ABOVE NATIONAL MALL ...",
-      "posted_at": "2026-07-05T03:41:53+00:00",
-      "captured_at": "2026-07-05T03:41:55.498089+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
