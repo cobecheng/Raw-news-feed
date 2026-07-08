@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T10:46:08.391991+00:00",
+  "generated_at": "2026-07-08T10:51:38.670777+00:00",
   "window_hours": 72,
-  "count": 441,
+  "count": 440,
   "news": [
     {
       "id": 7511,
@@ -5718,19 +5718,6 @@
       "message_text": "KREMLIN: THE WEST IS HELPING UKRAINE TARGET RUSSIAN FACILITIES ...",
       "posted_at": "2026-07-05T10:52:10+00:00",
       "captured_at": "2026-07-05T10:52:13.449729+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6631,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990730,
-      "message_text": "IRAN'S IRNA: MARITIME TRADE RESTARTS BETWEEN QATAR'S AL RUWAIS PORT AND IRANIAN PORTS ...",
-      "posted_at": "2026-07-05T10:46:10+00:00",
-      "captured_at": "2026-07-05T10:46:12.863681+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
