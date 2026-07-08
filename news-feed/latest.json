@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T08:17:30.823797+00:00",
+  "generated_at": "2026-07-08T08:23:01.112697+00:00",
   "window_hours": 72,
-  "count": 472,
+  "count": 471,
   "news": [
     {
       "id": 7511,
@@ -6121,19 +6121,6 @@
       "message_text": "EUROPE'S HEATWAVE HAS CAUSED A SURGE IN AIR CONDITIONER DEMAND, EXHAUSTING STOCKS IN COUNTRIES LIKE FRANCE AND GERMANY. ...",
       "posted_at": "2026-07-05T08:23:21+00:00",
       "captured_at": "2026-07-05T08:23:24.543942+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6569,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990699,
-      "message_text": "QATAR SAYS ALL MARITIME ACTIVITIES WILL RESUME IMMEDIATELY ...",
-      "posted_at": "2026-07-05T08:22:50+00:00",
-      "captured_at": "2026-07-05T08:22:51.512143+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
