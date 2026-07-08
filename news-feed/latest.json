@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T11:46:41.440921+00:00",
+  "generated_at": "2026-07-08T11:52:11.713808+00:00",
   "window_hours": 72,
-  "count": 425,
+  "count": 424,
   "news": [
     {
       "id": 7511,
@@ -5511,19 +5511,6 @@
       "posted_at": "2026-07-05T12:00:03+00:00",
       "captured_at": "2026-07-05T12:00:05.428582+00:00",
       "has_media": 1,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6663,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990747,
-      "message_text": "COMMANDER OF THE IRANIAN ARMY'S NAVY: THE RESISTANCE IS NO LONGER CONFINED TO A GEOGRAPHICAL SCOPE, AND THE ENEMY MUST KNOW THAT IT IS NOT FACING A SINGLE STATE. ...",
-      "posted_at": "2026-07-05T11:51:12+00:00",
-      "captured_at": "2026-07-05T11:51:12.971237+00:00",
-      "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
       "destination_topic_id": 127
