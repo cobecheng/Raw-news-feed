@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T15:37:53.175363+00:00",
+  "generated_at": "2026-07-08T15:43:23.450105+00:00",
   "window_hours": 72,
-  "count": 388,
+  "count": 386,
   "news": [
     {
       "id": 7511,
@@ -5016,32 +5016,6 @@
       "message_text": "ISRAELI BROADCASTING AUTHORITY ON OFFICIAL: NABATIEH AL-FAWQA AIRSTRIKES TARGETED HEZBOLLAH ELEMENTS OUTSIDE THE BLUE LINE WHO POSED A THREAT ...",
       "posted_at": "2026-07-05T16:11:07+00:00",
       "captured_at": "2026-07-05T16:11:07.955043+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6739,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990785,
-      "message_text": "LEBANESE MEDIA: ISRAELI AIRSTRIKE TARGETED \"AL-NABATIEH AL-FOUQA\" IN SOUTHERN LEBANON ...",
-      "posted_at": "2026-07-05T15:41:51+00:00",
-      "captured_at": "2026-07-05T15:41:52.676977+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6737,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990784,
-      "message_text": "ISRAELI CHANNEL 14 CITING SOURCES: THE ARMY CONDUCTED TWO RAIDS TO TARGET TWO HEZBOLLAH MEMBERS WHO POSED A THREAT TO THE FORCES IN SOUTHERN LEBANON ...",
-      "posted_at": "2026-07-05T15:40:21+00:00",
-      "captured_at": "2026-07-05T15:40:21.708995+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
