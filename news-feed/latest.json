@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T22:41:44.728054+00:00",
+  "generated_at": "2026-07-08T22:47:14.989262+00:00",
   "window_hours": 72,
-  "count": 313,
+  "count": 312,
   "news": [
     {
       "id": 7511,
@@ -4054,19 +4054,6 @@
       "message_text": "RUSSIA LAUNCHES MISSILE AND DRONE ATTACKS ACROSS EIGHT UKRAINIAN REGIONS; BLASTS HEARD IN KYIV AS AIR RAID SIRENS SOUND - TASNIM ...",
       "posted_at": "2026-07-05T23:15:39+00:00",
       "captured_at": "2026-07-05T23:15:42.092753+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6887,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990860,
-      "message_text": "*LUTNICK WAS INVOLVED IN TALKS W/ FIFA ON BALOGUN: POLITICO ...",
-      "posted_at": "2026-07-05T22:46:37+00:00",
-      "captured_at": "2026-07-05T22:46:38.425359+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
