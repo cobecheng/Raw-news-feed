@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T17:33:29.043724+00:00",
+  "generated_at": "2026-07-08T17:38:59.311046+00:00",
   "window_hours": 72,
-  "count": 355,
+  "count": 353,
   "news": [
     {
       "id": 7511,
@@ -4587,32 +4587,6 @@
       "message_text": "NORTH KOREA TEST-FIRES 12 LONG-RANGE NUCLEAR-CAPABLE CRUISE MISSILES IN RAPID SUCCESSION FROM NEW CHOE HYON-CLASS DESTROYER, MARKING FIRST LAUNCH FROM NORTH KOREA'S FIRST MODERN GUIDED-MISSILE DESTROYERS ...",
       "posted_at": "2026-07-05T17:40:55+00:00",
       "captured_at": "2026-07-05T17:40:56.333552+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6805,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990818,
-      "message_text": "GERMANY'S DEFENCE MINISTER PISTORIUS: UKRAINE NO LONGER REQUIRES TAURUS CRUISE MISSILES AS ITS OWN DRONES ARE ALREADY SUCCESSFULLY STRIKING RUSSIAN OIL REFINERIES AND MILITARY LOGISTICS DEEP INSIDE RUSSIA - SOURCES ...",
-      "posted_at": "2026-07-05T17:34:55+00:00",
-      "captured_at": "2026-07-05T17:34:55.928681+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6803,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990817,
-      "message_text": "FRANCE'S MACRON TO VISIT DAMASCUS IN THE NEAR FUTURE, BECOMING FIRST WESTERN HEAD OF STATE TO VISIT POST-ASSAD SYRIA; TO BRING DELEGATION OF INVESTORS AND COMPANIES SIGNALLING PARIS SEEKS SIGNIFICANT STAKE IN SYRIA'S RECONSTRUCTION - SOURCES ...",
-      "posted_at": "2026-07-05T17:33:55+00:00",
-      "captured_at": "2026-07-05T17:33:55.610539+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
