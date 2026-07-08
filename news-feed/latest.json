@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T03:14:45.295236+00:00",
+  "generated_at": "2026-07-08T03:20:15.567996+00:00",
   "window_hours": 72,
-  "count": 548,
+  "count": 545,
   "news": [
     {
       "id": 7511,
@@ -7083,45 +7083,6 @@
       "message_text": "EBOLA DEATHS IN THE DEMOCRATIC REPUBLIC OF CONGO HAVE NEARED 500 AS COMMUNITY TRANSMISSION CONTINUES. ...",
       "posted_at": "2026-07-05T03:20:38+00:00",
       "captured_at": "2026-07-05T03:20:40.700457+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6421,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990625,
-      "message_text": "CHINESE PRESIDENT XI JINPING SAID HE IS READY TO WORK WITH KIM JONG UN TO MAINTAIN \u201cSTABLE\u201d CHINA\u2013NORTH KOREA TIES, KCNA REPORTED. ...",
-      "posted_at": "2026-07-05T03:18:37+00:00",
-      "captured_at": "2026-07-05T03:18:38.559106+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6419,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990624,
-      "message_text": "MALAYSIA IS AIMING TO REACH RM932.3 MILLION IN DURIAN EXPORTS TO CHINA BY 2030. ...",
-      "posted_at": "2026-07-05T03:18:07+00:00",
-      "captured_at": "2026-07-05T03:18:08.541052+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6417,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990623,
-      "message_text": "OPEC+ TIPPED TO RAISE QUOTAS AGAIN AS MIDDLE EAST CALMS-ET ...",
-      "posted_at": "2026-07-05T03:16:08+00:00",
-      "captured_at": "2026-07-05T03:16:10.669870+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
