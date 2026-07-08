@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T20:02:06.539949+00:00",
+  "generated_at": "2026-07-08T20:07:36.869930+00:00",
   "window_hours": 72,
-  "count": 341,
+  "count": 337,
   "news": [
     {
       "id": 7511,
@@ -4379,58 +4379,6 @@
       "message_text": "OPEC+ RAISES AUGUST OUTPUT FOR FIFTH STRAIGHT MONTH DESPITE OIL PRICE SLUMP\n\n\u2022 OPEC+ AGREED TO INCREASE AUGUST OIL OUTPUT BY 188,000 BARRELS PER DAY, MARKING THE FIFTH CONSECUTIVE MONTH OF SUPPLY HIKES\n\n\u2022 THE GROUP SAID IT WILL CONTINUE TO MONITOR MARKET CONDITIONS AND RETAINS FLEXIBILITY TO INCREASE, PAUSE, OR REVERSE OUTPUT ADJUSTMENTS\n\n\u2022 OIL PRICES HAVE FALLEN BACK TO NEAR PRE-WAR LEVELS, WITH WTI DOWN ABOUT 22% AND BRENT DOWN ABOUT 20% OVER THE PAST MONTH\n\n\u2022 RECOVERING FLOWS THROUGH THE STRAIT OF HORMUZ HAVE EASED SUPPLY CONCERNS, THOUGH SHIPPING HAS NOT FULLY RETURNED TO PRE-WAR LEVELS\n\n\u2022 ANALYSTS SAY THE MARKET HAS NOT FULLY NORMALIZED AS INSURANCE COSTS REMAIN ELEVATED AND SOME ENERGY INFRASTRUCTURE IS STILL UNDER REPAIR\n\n\u2022 NEW SECURITY RISKS REMAIN AFTER A CARGO SHIP WAS ATTACKED OFF YEMEN, HIGHLIGHTING ONGOING THREATS TO REGIONAL SHIPPING ROUTES ...",
       "posted_at": "2026-07-05T20:21:33+00:00",
       "captured_at": "2026-07-05T20:21:35.732186+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6837,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990834,
-      "message_text": "OPEC: SEVEN PARTICIPATING COUNTRIES INCLUDING SAUDI ARABIA, RUSSIA, IRAQ, KUWAIT, KAZAKHSTAN, ALGERIA AND OMAN TO IMPLEMENT 188K BPD PRODUCTION ADJUSTMENT; REAFFIRM COMMITMENT TO MARKET STABILITY; NEXT MEETING SET FOR AUGUST 2 ...",
-      "posted_at": "2026-07-05T20:06:32+00:00",
-      "captured_at": "2026-07-05T20:06:33.597217+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6835,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990833,
-      "message_text": "MARITIME TRADE RESUMES BETWEEN QATAR'S AL RUWAIS PORT AND IRANIAN PORTS, EFFECTIVE IMMEDIATELY - IRAN'S IRNA ...",
-      "posted_at": "2026-07-05T20:05:47+00:00",
-      "captured_at": "2026-07-05T20:05:50.249044+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6831,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990831,
-      "message_text": "FOXCONN JUNE REVENUE SURGES 52.1% Y/Y; Q2 REVENUE ADVANCES 39.8% Y/Y; EXPECTS AI RACK SHIPMENTS TO MAINTAIN GROWTH IN Q3; SEES OVERALL OPERATIONS DELIVERING BOTH Q/Q AND Y/Y GROWTH ...",
-      "posted_at": "2026-07-05T20:05:32+00:00",
-      "captured_at": "2026-07-05T20:05:33.217742+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6833,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990832,
-      "message_text": "UKMTO: CARGO VESSEL TRIGGERS DISTRESS ALERT AND REPORTS ATTACK BY UNKNOWN ARMED ASSAILANTS 30NM SOUTHWEST OF YEMEN'S HODEIDAH ...",
-      "posted_at": "2026-07-05T20:05:32+00:00",
-      "captured_at": "2026-07-05T20:05:33.945724+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
