@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T04:53:50.297606+00:00",
+  "generated_at": "2026-07-08T04:59:20.612389+00:00",
   "window_hours": 72,
-  "count": 517,
+  "count": 516,
   "news": [
     {
       "id": 7511,
@@ -6707,19 +6707,6 @@
       "posted_at": "2026-07-05T05:00:02+00:00",
       "captured_at": "2026-07-05T05:00:03.531515+00:00",
       "has_media": 1,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6479,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990654,
-      "message_text": "CHINA RELEASES IMPRISONED PASTOR EZRA JIN AFTER U.S. PRESSURE - WSJ ...",
-      "posted_at": "2026-07-05T04:57:41+00:00",
-      "captured_at": "2026-07-05T04:57:42.093072+00:00",
-      "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
       "destination_topic_id": 127
