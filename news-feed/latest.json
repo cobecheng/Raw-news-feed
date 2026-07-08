@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T19:07:03.765594+00:00",
+  "generated_at": "2026-07-08T19:12:34.039954+00:00",
   "window_hours": 72,
-  "count": 347,
+  "count": 346,
   "news": [
     {
       "id": 7511,
@@ -4496,19 +4496,6 @@
       "message_text": "UKRAINE'S ZELENSKIY: INTELLIGENCE INDICATES RUSSIA PREPARING MAJOR NEW ASSAULT ...",
       "posted_at": "2026-07-05T19:12:59+00:00",
       "captured_at": "2026-07-05T19:13:02.524244+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6819,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990825,
-      "message_text": "POLL: 22 OF 28 ECONOMISTS EXPECT RBNZ TO RAISE CASH RATE 25 BPS TO 2.50% ON JULY 8; 14 OF 26 ECONOMISTS FORECAST ADDITIONAL 25 BPS HIKE TO 2.75% BY END-SEPTEMBER ...",
-      "posted_at": "2026-07-05T19:12:29+00:00",
-      "captured_at": "2026-07-05T19:12:30.442429+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
