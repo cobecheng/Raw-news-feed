@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T00:46:07.369036+00:00",
+  "generated_at": "2026-07-08T00:51:37.639303+00:00",
   "window_hours": 72,
-  "count": 608,
+  "count": 605,
   "news": [
     {
       "id": 7511,
@@ -7863,45 +7863,6 @@
       "message_text": "TWO INTERNATIONALLY RECOGNIZED INFECTIOUS DISEASE EXPERTS SAY AUSTRALIA\u2019S BEST APPROACH TO CONTROLLING THE DEADLY H5 BIRD FLU STRAIN LIES IN INTENSIVE TESTING AND SURVEILLANCE-ABC ...",
       "posted_at": "2026-07-05T00:52:12+00:00",
       "captured_at": "2026-07-05T00:52:13.534279+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6301,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990565,
-      "message_text": "HYDROGEN COMBUSTION ENGINES EMERGE AS A LOW-COST ALTERNATIVE TO FUEL CELLS AS KAWASAKI HEAVY AND TOYOTA DEVELOP GENERATORS AND SPORTS CARS-NA ...",
-      "posted_at": "2026-07-05T00:49:25+00:00",
-      "captured_at": "2026-07-05T00:49:27.239003+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6299,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990564,
-      "message_text": "TRUMP ADMIN HAS ROLLED OUT NEW DESIGNS FEATURING TRUMP\u2019S SIGNATURE ON NEWLY PRINTED U.S. PAPER CURRENCY-LEADINGREPORT ...",
-      "posted_at": "2026-07-05T00:48:54+00:00",
-      "captured_at": "2026-07-05T00:48:56.105246+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6297,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990563,
-      "message_text": "VIETNAM URGES SPECIAL ACTION PLAN FOR THE YEAR\u2019S FINAL SIX MONTHS. ...",
-      "posted_at": "2026-07-05T00:48:24+00:00",
-      "captured_at": "2026-07-05T00:48:24.928558+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
