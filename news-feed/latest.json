@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T01:41:10.156826+00:00",
+  "generated_at": "2026-07-08T01:46:40.436935+00:00",
   "window_hours": 72,
-  "count": 574,
+  "count": 572,
   "news": [
     {
       "id": 7511,
@@ -7434,32 +7434,6 @@
       "message_text": "NVIDIA CEO JENSEN HUANG: 1GW AI FACTORY ON NVIDIA ARCHITECTURE COULD COST NEARLY $100 BILLION ...",
       "posted_at": "2026-07-05T01:50:01+00:00",
       "captured_at": "2026-07-05T01:50:03.023238+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6367,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990598,
-      "message_text": "JAPANESE BEER IMPORTS TOP 100,000 TONS FOR 1ST TIME IN 2025 ON RISING DEMAND-YONHAP ...",
-      "posted_at": "2026-07-05T01:46:32+00:00",
-      "captured_at": "2026-07-05T01:46:33.727616+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6365,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990597,
-      "message_text": "LEE CONGRATULATES TRUMP, U.S. CITIZENS ON 250TH ANNIV. OF AMERICAN INDEPENDENCE-YONHAP ...",
-      "posted_at": "2026-07-05T01:44:14+00:00",
-      "captured_at": "2026-07-05T01:44:14.862797+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
