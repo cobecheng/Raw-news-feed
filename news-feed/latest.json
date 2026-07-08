@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T03:53:17.263472+00:00",
+  "generated_at": "2026-07-08T03:58:47.530955+00:00",
   "window_hours": 72,
-  "count": 536,
+  "count": 535,
   "news": [
     {
       "id": 7511,
@@ -6953,19 +6953,6 @@
       "message_text": "INDIA EYES OIL EXPLORATION EXPANSION AFTER MIDDLE EAST WAR SHORTAGES-ET ...",
       "posted_at": "2026-07-05T04:00:09+00:00",
       "captured_at": "2026-07-05T04:00:12.012837+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6441,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990635,
-      "message_text": "EV BATTERIES ARE DEFYING EXPECTATIONS AFTER HUNDREDS OF THOUSANDS OF MILES-WSJ ...",
-      "posted_at": "2026-07-05T03:54:24+00:00",
-      "captured_at": "2026-07-05T03:54:25.842490+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
