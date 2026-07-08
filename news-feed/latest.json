@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T23:36:47.519581+00:00",
+  "generated_at": "2026-07-08T23:42:17.791521+00:00",
   "window_hours": 72,
-  "count": 311,
+  "count": 310,
   "news": [
     {
       "id": 7511,
@@ -4028,19 +4028,6 @@
       "message_text": "BENCHMARK 10-YEAR JGB FUTURES DECLINE 0.11 POINT IN INITIAL TRADING ...",
       "posted_at": "2026-07-05T23:46:25+00:00",
       "captured_at": "2026-07-05T23:46:27.031186+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6891,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990862,
-      "message_text": "TRUMP WILL MEET UKRAINIAN PRESIDENT ZELENSKYY AT THE NATO SUMMIT IN TURKEY AS ALLIES PUSH FOR RENEWED EFFORTS TO END THE RUSSIA-UKRAINE WAR.\n\nTHE US IS PRESSING NATO MEMBERS TO RAISE DEFENSE SPENDING TO 5% OF GDP, WHILE TENSIONS PERSIST OVER EUROPEAN SECURITY, GREENLAND, AND THE IMPACT OF THE IRAN CONFLICT. ...",
-      "posted_at": "2026-07-05T23:37:39+00:00",
-      "captured_at": "2026-07-05T23:37:40.709297+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
