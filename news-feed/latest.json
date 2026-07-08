@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T07:22:27.984426+00:00",
+  "generated_at": "2026-07-08T07:27:58.252859+00:00",
   "window_hours": 72,
-  "count": 486,
+  "count": 485,
   "news": [
     {
       "id": 7511,
@@ -6303,19 +6303,6 @@
       "message_text": "QATAR: MARITIME OPERATIONS TO RESUME IMMEDIATELY - POST ON X ...",
       "posted_at": "2026-07-05T07:30:49+00:00",
       "captured_at": "2026-07-05T07:30:51.261038+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6541,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990685,
-      "message_text": "OPEC+ AGREES IN PRINCIPLE TO INCREASE OIL OUTPUT TARGETS BY 188,000 BPD FROM AUGUST, OPEC+ SOURCE ...",
-      "posted_at": "2026-07-05T07:25:04+00:00",
-      "captured_at": "2026-07-05T07:25:04.650098+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
