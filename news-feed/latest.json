@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T05:26:52.009343+00:00",
+  "generated_at": "2026-07-08T05:32:22.275213+00:00",
   "window_hours": 72,
-  "count": 509,
+  "count": 508,
   "news": [
     {
       "id": 7511,
@@ -6602,19 +6602,6 @@
       "message_text": "INDIA GOVT WITHDRAWS EMERGENCY GAS CURBS AS LNG SUPPLIES NORMALISE AFTER CRISIS -BS ...",
       "posted_at": "2026-07-05T05:36:43+00:00",
       "captured_at": "2026-07-05T05:36:44.930718+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6495,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990662,
-      "message_text": "LEBANESE PRESIDENT ASKS U.S. TO REMAIN A STEADFAST ALLY OF LEBANON ...",
-      "posted_at": "2026-07-05T05:30:43+00:00",
-      "captured_at": "2026-07-05T05:30:44.716187+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
