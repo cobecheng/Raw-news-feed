@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T22:03:12.753820+00:00",
+  "generated_at": "2026-07-08T22:08:43.034720+00:00",
   "window_hours": 72,
-  "count": 316,
+  "count": 315,
   "news": [
     {
       "id": 7511,
@@ -4093,19 +4093,6 @@
       "message_text": "*GENESIS MINERALS MAKES RIVAL BID TO BUY VAULT AT A$5.6B VALUE ...",
       "posted_at": "2026-07-05T22:25:37+00:00",
       "captured_at": "2026-07-05T22:25:39.816797+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6881,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990857,
-      "message_text": "NORWAY BEAT BRAZIL 2-1 IN WORLD CUP LAST 16 ...",
-      "posted_at": "2026-07-05T22:05:36+00:00",
-      "captured_at": "2026-07-05T22:05:38.545365+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
