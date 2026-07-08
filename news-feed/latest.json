@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T19:29:04.865582+00:00",
+  "generated_at": "2026-07-08T19:34:35.143211+00:00",
   "window_hours": 72,
-  "count": 344,
+  "count": 342,
   "news": [
     {
       "id": 7511,
@@ -4444,32 +4444,6 @@
       "message_text": "TRUMP CALLED FIFA PRESIDENT INFANTINO ON WEDNESDAY TO REVIEW BALOGUN'S SUSPENSION - NYT ...",
       "posted_at": "2026-07-05T19:57:16+00:00",
       "captured_at": "2026-07-05T19:57:17.238122+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6827,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990829,
-      "message_text": "TRUMP: JULY 4TH CROWD OF 422,000 WAS FORCED TO DEPART DUE TO LIGHTNING; OVERTURNED CANCELLATION DECISION WITH AT LEAST 150,000 RETURNING FOR AN EVEN MORE SPECTACULAR EVENING; CONGRATULATES SECRET SERVICE AND LAW ENFORCEMENT FOR SWIFTLY RESTORING CAPACITY; FIREWORKS CONCLUDED MOMENTS BEFORE HEAVY RAINS ARRIVED - TRUTH SOCIAL ...",
-      "posted_at": "2026-07-05T19:33:15+00:00",
-      "captured_at": "2026-07-05T19:33:18.884245+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6825,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990828,
-      "message_text": "TRUMP CONGRATULATES FREEDOM 250, WHITE HOUSE COMMISSION AND PYROTECNICO ON PRODUCING MOST SPECTACULAR FIREWORKS SHOW HE HAS EVER WITNESSED - TRUTH SOCIAL ...",
-      "posted_at": "2026-07-05T19:32:46+00:00",
-      "captured_at": "2026-07-05T19:32:46.889167+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
