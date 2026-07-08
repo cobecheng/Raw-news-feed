@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T17:38:59.311046+00:00",
+  "generated_at": "2026-07-08T17:44:29.584541+00:00",
   "window_hours": 72,
-  "count": 353,
+  "count": 351,
   "news": [
     {
       "id": 7511,
@@ -4562,32 +4562,6 @@
       "posted_at": "2026-07-05T19:00:04+00:00",
       "captured_at": "2026-07-05T19:00:06.406575+00:00",
       "has_media": 1,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6809,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990820,
-      "message_text": "TRUMP CALLS PUTIN AND ZELENSKY TO REVIVE STALLED PEACE TALKS; OFFERS TO HELP NEGOTIATE RUSSIA-UKRAINE SETTLEMENT AHEAD OF NATO SUMMIT IN TURKEY ...",
-      "posted_at": "2026-07-05T17:41:25+00:00",
-      "captured_at": "2026-07-05T17:41:28.015780+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6807,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990819,
-      "message_text": "NORTH KOREA TEST-FIRES 12 LONG-RANGE NUCLEAR-CAPABLE CRUISE MISSILES IN RAPID SUCCESSION FROM NEW CHOE HYON-CLASS DESTROYER, MARKING FIRST LAUNCH FROM NORTH KOREA'S FIRST MODERN GUIDED-MISSILE DESTROYERS ...",
-      "posted_at": "2026-07-05T17:40:55+00:00",
-      "captured_at": "2026-07-05T17:40:56.333552+00:00",
-      "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
       "destination_topic_id": 127
