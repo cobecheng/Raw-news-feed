@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T12:03:12.271846+00:00",
+  "generated_at": "2026-07-08T12:08:42.548936+00:00",
   "window_hours": 72,
-  "count": 423,
+  "count": 422,
   "news": [
     {
       "id": 7511,
@@ -5484,19 +5484,6 @@
       "message_text": "JUST IN: MICHAEL SAYLOR HINTS AT BUYING MORE BITCOIN. \n\n\"BITCOIN IS DIGITAL ENERGY.\"  ...",
       "posted_at": "2026-07-05T12:21:43+00:00",
       "captured_at": "2026-07-05T12:21:44.785350+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6667,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990749,
-      "message_text": "ISRAELI CHIEF OF STAFF: WE CONTROL THE MAIN SITES IN THE SHEBAA FARMS HEIGHTS ...",
-      "posted_at": "2026-07-05T12:05:12+00:00",
-      "captured_at": "2026-07-05T12:05:13.748380+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
