@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T02:41:43.579487+00:00",
+  "generated_at": "2026-07-08T02:47:13.861996+00:00",
   "window_hours": 72,
-  "count": 558,
+  "count": 554,
   "news": [
     {
       "id": 7511,
@@ -7200,58 +7200,6 @@
       "message_text": "ZELENSKIY SAYS HE SPOKE WITH TRUMP, URGES \u201cAMERICAN RESOLVE\u201d TO END WAR. ...",
       "posted_at": "2026-07-05T02:49:39+00:00",
       "captured_at": "2026-07-05T02:49:40.511001+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6403,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990616,
-      "message_text": "PRESIDENT TRUMP ANNOUNCES HE HAS ARRIVED AT THE NATIONAL MALL FOR THE SALUTE TO AMERICA CELEBRATION-FOX NEWS ...",
-      "posted_at": "2026-07-05T02:45:06+00:00",
-      "captured_at": "2026-07-05T02:45:07.624202+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6401,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990615,
-      "message_text": "TRUMP: NETANYAHU \u2018KNOWS WHO THE BOSS IS\u2019 AHEAD OF POSSIBLE WHITE HOUSE MEETING ...",
-      "posted_at": "2026-07-05T02:44:06+00:00",
-      "captured_at": "2026-07-05T02:44:09.252742+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6399,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990614,
-      "message_text": "MICHAEL BURRY WARNS \u2018THE END IS NIGH\u2019 FOR STOCK MARKET AS AI-DRIVEN RALLY INTENSIFIES\n\nMICHAEL BURRY HAS RENEWED HIS BEARISH STANCE ON U.S. EQUITIES, ARGUING THE AI-LED MARKET RALLY RESEMBLES PREVIOUS SPECULATIVE BUBBLES. HE BELIEVES CURRENT VALUATIONS ARE UNSUSTAINABLE AND HAS INCREASED SHORT POSITIONS AGAINST AI-RELATED STOCKS AND SEMICONDUCTOR NAMES, WARNING THE CURRENT MARKET EUPHORIA COULD END IN A SHARP CORRECTIO ...",
-      "posted_at": "2026-07-05T02:43:15+00:00",
-      "captured_at": "2026-07-05T02:43:15.566163+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6397,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990613,
-      "message_text": "GLOBAL ANTI-MONEY LAUNDERING WATCHDOG DECLINES PROBE INTO INDONESIAN LAW OVER DANANTARA BOND CONCERNS. ...",
-      "posted_at": "2026-07-05T02:41:51+00:00",
-      "captured_at": "2026-07-05T02:41:51.941662+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
