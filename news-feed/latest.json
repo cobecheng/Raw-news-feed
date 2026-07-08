@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T02:14:12.130669+00:00",
+  "generated_at": "2026-07-08T02:19:42.427293+00:00",
   "window_hours": 72,
-  "count": 564,
+  "count": 562,
   "news": [
     {
       "id": 7511,
@@ -7304,32 +7304,6 @@
       "message_text": "TOP GENERAL FIRED BY TRUMP ADMINISTRATION CRITICIZES USE OF MILITARY FOR POLITICAL MISSIONS-CNN ...",
       "posted_at": "2026-07-05T02:22:35+00:00",
       "captured_at": "2026-07-05T02:22:37.338761+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6387,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990608,
-      "message_text": "TOYOTA IS EXTENDING ITS FACTORY PRODUCTION EXPERTISE TO THE EMERGING FLYING TAXI SECTOR. ...",
-      "posted_at": "2026-07-05T02:18:47+00:00",
-      "captured_at": "2026-07-05T02:18:48.913642+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6385,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990607,
-      "message_text": "TRUMP SAYS IRANIAN OFFICIALS AT KHAMENEI\u2019S FUNERAL COULD HAVE BEEN TARGETED, BUT U.S. HELD BACK TO PRESERVE NUCLEAR TALKS: AXIOS\n\n U.S. PRESIDENT DONALD TRUMP REPORTEDLY SAID HE MONITORED THE FUNERAL OF ALI KHAMENEI AND CLAIMED SENIOR IRANIAN OFFICIALS GATHERED THERE COULD HAVE BEEN TARGETED, BUT THE U.S. CHOSE NOT TO BECAUSE IT WANTED COUNTERPARTS FOR NEGOTIATIONS. TRUMP ALSO SAID IRAN WAS \u201cBEGGING TO MAKE A DEAL\u201d AND THAT BOTH SIDES AGREED TO PAUSE TALKS FOR A WEEK DURING THE FUNERAL PERIOD BEFORE RESUMING DISCUSSIONS. ...",
-      "posted_at": "2026-07-05T02:16:17+00:00",
-      "captured_at": "2026-07-05T02:16:17.918962+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
