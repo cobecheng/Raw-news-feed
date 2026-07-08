@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T18:56:03.215010+00:00",
+  "generated_at": "2026-07-08T19:01:33.489584+00:00",
   "window_hours": 72,
-  "count": 351,
+  "count": 348,
   "news": [
     {
       "id": 7511,
@@ -4523,45 +4523,6 @@
       "posted_at": "2026-07-05T19:06:14+00:00",
       "captured_at": "2026-07-05T19:06:15.916912+00:00",
       "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6813,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990822,
-      "message_text": "POLL: RESERVE BANK OF NEW ZEALAND LIKELY TO RAISE CASH RATE 25 BASIS POINTS TO 2.50% ON JULY 8, SAY 22 OF 28 ECONOMISTS ...",
-      "posted_at": "2026-07-05T19:00:44+00:00",
-      "captured_at": "2026-07-05T19:00:44.782249+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6815,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990823,
-      "message_text": "POLL: 14 OF 26 ECONOMISTS EXPECT ONE MORE 25-BPS RBNZ INCREASE TO 2.75% BY END-SEPTEMBER AFTER JULY MEETING ...",
-      "posted_at": "2026-07-05T19:00:44+00:00",
-      "captured_at": "2026-07-05T19:00:48.548704+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6811,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990821,
-      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
-      "posted_at": "2026-07-05T19:00:04+00:00",
-      "captured_at": "2026-07-05T19:00:06.406575+00:00",
-      "has_media": 1,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
       "destination_topic_id": 127
