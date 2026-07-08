@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T16:10:54.840718+00:00",
+  "generated_at": "2026-07-08T16:16:25.116550+00:00",
   "window_hours": 72,
-  "count": 386,
+  "count": 383,
   "news": [
     {
       "id": 7511,
@@ -4977,45 +4977,6 @@
       "message_text": "*CASTLELAKE REACHES PACT TO BUY EASYJET FOR \u00a36.90/SHR IN CASH ...",
       "posted_at": "2026-07-05T16:17:07+00:00",
       "captured_at": "2026-07-05T16:17:08.941274+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6745,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990788,
-      "message_text": "NETANYAHU: IRAN WILL NOT GET A NUCLEAR WEAPON AS LONG AS I REMAIN PRIME MINISTER ...",
-      "posted_at": "2026-07-05T16:12:07+00:00",
-      "captured_at": "2026-07-05T16:12:09.365974+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6743,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990787,
-      "message_text": "NETANYAHU: OUR FORCES WILL REMAIN IN LEBANON ...",
-      "posted_at": "2026-07-05T16:11:37+00:00",
-      "captured_at": "2026-07-05T16:11:38.959839+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6741,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990786,
-      "message_text": "ISRAELI BROADCASTING AUTHORITY ON OFFICIAL: NABATIEH AL-FAWQA AIRSTRIKES TARGETED HEZBOLLAH ELEMENTS OUTSIDE THE BLUE LINE WHO POSED A THREAT ...",
-      "posted_at": "2026-07-05T16:11:07+00:00",
-      "captured_at": "2026-07-05T16:11:07.955043+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
