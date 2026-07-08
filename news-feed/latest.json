@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T07:33:28.525544+00:00",
+  "generated_at": "2026-07-08T07:38:58.801591+00:00",
   "window_hours": 72,
-  "count": 482,
+  "count": 481,
   "news": [
     {
       "id": 7511,
@@ -6251,19 +6251,6 @@
       "message_text": "WEEKEND MARKETS UPDATE:   \n#DAX 25804 -0.05%   \n#DOW 52829 -0.01%   \n#NASDAQ 29680 +0.06%   \n#FTSE 10636 +0.00%   \n#HANGSENG 23214 -0.02%   \n#SPACEX 16098 +0.00%\n#EURUSD 11436 0.00%   \n#GOLD 4177 +0.03%   \n#SILVER 6264 +0.40%   \n#USOIL 6924 +0.74%   \n#IGWEEKENDMARKETS ...",
       "posted_at": "2026-07-05T07:49:19+00:00",
       "captured_at": "2026-07-05T07:49:21.673776+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6549,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990689,
-      "message_text": "SOUTH KOREA PRESIDENTIAL CHIEF OF STAFF: FUND MUST TARGET FUTURE GROWTH DRIVERS, TACKLE K-SHAPED POLARIZATION - YONHAP ...",
-      "posted_at": "2026-07-05T07:33:49+00:00",
-      "captured_at": "2026-07-05T07:33:51.832072+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
