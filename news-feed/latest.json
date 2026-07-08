@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T06:38:25.758625+00:00",
+  "generated_at": "2026-07-08T06:43:56.038036+00:00",
   "window_hours": 72,
-  "count": 494,
+  "count": 492,
   "news": [
     {
       "id": 7511,
@@ -6394,32 +6394,6 @@
       "message_text": "AUSTRALIA'S NEW SOUTH WALES CONFIRMS H5N1 BIRD FLU CASE, THIRD STATE ...",
       "posted_at": "2026-07-05T06:44:33+00:00",
       "captured_at": "2026-07-05T06:44:33.481264+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6527,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990678,
-      "message_text": "STERN NOTICE HAS BEEN ISSUED TO META ON CHILD SEXUAL EXPLOITATIVE & ABUSE MATERIAL (CSEAM) IN PAID ADS ON INSTAGRAM ...",
-      "posted_at": "2026-07-05T06:42:16+00:00",
-      "captured_at": "2026-07-05T06:42:17.926399+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6525,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990677,
-      "message_text": "BANK OF KOREA WARNED THAT SINGLE-STOCK LEVERAGED EXCHANGE-TRADED FUNDS TIED TO SAMSUNG ELECTRONICS AND SK HYNIX COULD DEEPEN MARKET CONCENTRATION, AMPLIFY VOLATILITY AND INTENSIFY ONE-WAY TRADING FLOWS, ACCORDING TO A LOCAL REPORT ...",
-      "posted_at": "2026-07-05T06:41:15+00:00",
-      "captured_at": "2026-07-05T06:41:17.559219+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
