@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T02:36:13.300421+00:00",
+  "generated_at": "2026-07-08T02:41:43.579487+00:00",
   "window_hours": 72,
-  "count": 559,
+  "count": 558,
   "news": [
     {
       "id": 7511,
@@ -7252,19 +7252,6 @@
       "message_text": "GLOBAL ANTI-MONEY LAUNDERING WATCHDOG DECLINES PROBE INTO INDONESIAN LAW OVER DANANTARA BOND CONCERNS. ...",
       "posted_at": "2026-07-05T02:41:51+00:00",
       "captured_at": "2026-07-05T02:41:51.941662+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6395,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990612,
-      "message_text": "THAILAND IS SEEKING TO ESTABLISH ITSELF AS A GLOBAL FERRY HUB THROUGH INTERFERRY 2026. ...",
-      "posted_at": "2026-07-05T02:36:50+00:00",
-      "captured_at": "2026-07-05T02:36:52.399942+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
