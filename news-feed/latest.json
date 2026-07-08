@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T01:52:10.808713+00:00",
+  "generated_at": "2026-07-08T01:57:41.199370+00:00",
   "window_hours": 72,
-  "count": 570,
+  "count": 569,
   "news": [
     {
       "id": 7511,
@@ -7395,19 +7395,6 @@
       "message_text": "STARBUCKS BOOSTS CONSUMER STRATEGY AFTER GROWING CHINA COFFEE MARKET. ...",
       "posted_at": "2026-07-05T02:02:47+00:00",
       "captured_at": "2026-07-05T02:02:48.887383+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6373,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990601,
-      "message_text": "JAPAN\u2019S CHEAP HOMES ARE WINNING OVER FOREIGN BUYERS - SCMP ...",
-      "posted_at": "2026-07-05T01:56:48+00:00",
-      "captured_at": "2026-07-05T01:56:49.812030+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
