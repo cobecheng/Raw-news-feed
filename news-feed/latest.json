@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T09:07:03.355627+00:00",
+  "generated_at": "2026-07-08T09:12:33.633100+00:00",
   "window_hours": 72,
-  "count": 463,
+  "count": 460,
   "news": [
     {
       "id": 7511,
@@ -5978,45 +5978,6 @@
       "message_text": "AMAZON'S STARLINK RIVAL LEO SURPASSES 390 SATELLITES AFTER ATLAS V LAUNCH, EYES INITIAL SERVICE THIS YEAR. ...",
       "posted_at": "2026-07-05T09:12:52+00:00",
       "captured_at": "2026-07-05T09:12:52.737584+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6591,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990710,
-      "message_text": "ISRAELI ARTILLERY SHELLING ON THE OUTSKIRTS OF THE TOWN OF \"BRAYASHIT\" IN SOUTHERN LEBANON ...",
-      "posted_at": "2026-07-05T09:12:22+00:00",
-      "captured_at": "2026-07-05T09:12:22.798354+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6587,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990708,
-      "message_text": "JAPANESE THRIFT STORES SET TO OPEN DOZENS OF LOCATIONS FROM MALAYSIA TO HONG KONG\n\n'USED IN JAPAN' BECOMES SELLING POINT FOR CHAINS IN SOUTHEAST ASIA ...",
-      "posted_at": "2026-07-05T09:11:52+00:00",
-      "captured_at": "2026-07-05T09:11:53.509972+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6589,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990709,
-      "message_text": "UKRAINE IS STRIKING RUSSIAN ENERGY INFRASTRUCTURE AT AN UNPRECEDENTED RATE.\n\nAN FT ANALYSIS FOUND KYIV'S INTENSIFIED DRONE CAMPAIGN IS PUTTING PRESSURE ON RUSSIA'S FUEL SUPPLIES AND AIR DEFENCES, BRINGING THE WAR CLOSER TO HOME THAN EVER BEFORE. ...",
-      "posted_at": "2026-07-05T09:11:52+00:00",
-      "captured_at": "2026-07-05T09:11:54.213065+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
