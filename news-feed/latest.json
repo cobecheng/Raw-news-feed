@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T12:58:15.050795+00:00",
+  "generated_at": "2026-07-08T13:03:45.331523+00:00",
   "window_hours": 72,
-  "count": 413,
+  "count": 412,
   "news": [
     {
       "id": 7511,
@@ -5354,19 +5354,6 @@
       "message_text": "QATARI FOREIGN MINISTRY: PRIME MINISTER AND FOREIGN MINISTER RECEIVED A CALL FROM THE FOREIGN MINISTER OF TURKEY AND DISCUSSED EFFORTS TO ENHANCE SECURITY IN THE REGION ...",
       "posted_at": "2026-07-05T13:21:47+00:00",
       "captured_at": "2026-07-05T13:21:47.610173+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6687,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990759,
-      "message_text": "KEPLER DATA: ONLY ONE SHIP CROSSED PARALLEL TO OMAN ON SATURDAY VERSUS 13 ON FRIDAY ...",
-      "posted_at": "2026-07-05T13:00:01+00:00",
-      "captured_at": "2026-07-05T13:00:03.909428+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
