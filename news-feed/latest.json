@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T00:35:06.801896+00:00",
+  "generated_at": "2026-07-08T00:40:37.088663+00:00",
   "window_hours": 72,
-  "count": 611,
+  "count": 610,
   "news": [
     {
       "id": 7511,
@@ -7928,19 +7928,6 @@
       "message_text": "VENEZUELANS IN IRELAND ARE RALLYING TO DEMAND HUMANITARIAN ASSISTANCE IN THE AFTERMATH OF DEVASTATING EARTHQUAKES. ...",
       "posted_at": "2026-07-05T00:41:10+00:00",
       "captured_at": "2026-07-05T00:41:10.834451+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6291,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990560,
-      "message_text": "RESEARCHERS SAY \u2019S MOST ADVANCED LLM CAN SERIOUSLY CHALLENGE LEADING U.S. SYSTEMS IN SPECIALISED CODING AND CYBERSECURITY TASKS-THE HINDU ...",
-      "posted_at": "2026-07-05T00:38:15+00:00",
-      "captured_at": "2026-07-05T00:38:16.875651+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
