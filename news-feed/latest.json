@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T03:47:46.981208+00:00",
+  "generated_at": "2026-07-08T03:53:17.263472+00:00",
   "window_hours": 72,
-  "count": 537,
+  "count": 536,
   "news": [
     {
       "id": 7511,
@@ -6966,19 +6966,6 @@
       "message_text": "EV BATTERIES ARE DEFYING EXPECTATIONS AFTER HUNDREDS OF THOUSANDS OF MILES-WSJ ...",
       "posted_at": "2026-07-05T03:54:24+00:00",
       "captured_at": "2026-07-05T03:54:25.842490+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6439,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990634,
-      "message_text": "39% OF BUSINESS LEADERS CUT STAFF DUE TO AI DEPLOYMENT, ORGVUE REPORT FINDS\n\n A REPORT BY ORGVUE SAYS 39% OF BUSINESS LEADERS HAVE MADE EMPLOYEES REDUNDANT AS A RESULT OF ADOPTING AI TECHNOLOGIES. ...",
-      "posted_at": "2026-07-05T03:47:54+00:00",
-      "captured_at": "2026-07-05T03:47:56.606799+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
