@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T17:16:58.195496+00:00",
+  "generated_at": "2026-07-08T17:22:28.478996+00:00",
   "window_hours": 72,
-  "count": 367,
+  "count": 364,
   "news": [
     {
       "id": 7511,
@@ -4730,45 +4730,6 @@
       "message_text": "SENIOR U.S. OFFICIAL: TRUMP TO DELIBERATE ON CONCLUDING THE WAR WITH ZELENSKIY; CONFIDENT TRUMP WILL SUBSEQUENTLY ENGAGE WITH PUTIN ...",
       "posted_at": "2026-07-05T17:23:25+00:00",
       "captured_at": "2026-07-05T17:23:26.722057+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6783,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990807,
-      "message_text": "SENIOR U.S. OFFICIAL: CONFIDENT TRUMP WILL ENGAGE WITH RUSSIA'S PUTIN ...",
-      "posted_at": "2026-07-05T17:19:39+00:00",
-      "captured_at": "2026-07-05T17:19:41.095579+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6781,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990806,
-      "message_text": "SENIOR U.S. OFFICIAL: TRUMP TO TALK WITH UKRAINE\u2019S ZELENSKIY ON ENDING WAR ...",
-      "posted_at": "2026-07-05T17:17:40+00:00",
-      "captured_at": "2026-07-05T17:17:42.381686+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6779,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990805,
-      "message_text": "IRAQ'S JUNE OIL EXPORTS TOTAL APPROXIMATELY 24.5 MLN BARRELS - TWO OIL OFFICIALS ...",
-      "posted_at": "2026-07-05T17:17:09+00:00",
-      "captured_at": "2026-07-05T17:17:09.882810+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
