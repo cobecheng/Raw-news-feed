@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T12:47:14.484186+00:00",
+  "generated_at": "2026-07-08T12:52:44.758822+00:00",
   "window_hours": 72,
-  "count": 414,
+  "count": 413,
   "news": [
     {
       "id": 7511,
@@ -5367,19 +5367,6 @@
       "message_text": "KEPLER DATA: ONLY ONE SHIP CROSSED PARALLEL TO OMAN ON SATURDAY VERSUS 13 ON FRIDAY ...",
       "posted_at": "2026-07-05T13:00:01+00:00",
       "captured_at": "2026-07-05T13:00:03.909428+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6685,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990758,
-      "message_text": "KEPLER DATA: 19 SHIPS CROSSED YESTERDAY THROUGH HORMUZ IN BOTH DIRECTIONS, ONLY ONE OF THEM OFF THE COAST OF OMAN ...",
-      "posted_at": "2026-07-05T12:50:44+00:00",
-      "captured_at": "2026-07-05T12:50:45.440229+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
