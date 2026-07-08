@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T02:47:13.861996+00:00",
+  "generated_at": "2026-07-08T02:52:44.142938+00:00",
   "window_hours": 72,
-  "count": 554,
+  "count": 553,
   "news": [
     {
       "id": 7511,
@@ -7187,19 +7187,6 @@
       "message_text": "GLOBAL STOCK MARKETS FINISHED HIGHER ON FRIDAY, AFTER U.S. EQUITIES CLOSED MIXED ON WALL STREET IN NEW YORK\u2019S FINAL TRADING SESSION OF THE WEEK-CNBC ...",
       "posted_at": "2026-07-05T02:55:07+00:00",
       "captured_at": "2026-07-05T02:55:09.472316+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6405,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990617,
-      "message_text": "ZELENSKIY SAYS HE SPOKE WITH TRUMP, URGES \u201cAMERICAN RESOLVE\u201d TO END WAR. ...",
-      "posted_at": "2026-07-05T02:49:39+00:00",
-      "captured_at": "2026-07-05T02:49:40.511001+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
