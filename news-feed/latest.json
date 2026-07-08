@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T19:56:36.243203+00:00",
+  "generated_at": "2026-07-08T20:02:06.539949+00:00",
   "window_hours": 72,
-  "count": 342,
+  "count": 341,
   "news": [
     {
       "id": 7511,
@@ -4431,19 +4431,6 @@
       "message_text": "UKMTO: CARGO VESSEL TRIGGERS DISTRESS ALERT AND REPORTS ATTACK BY UNKNOWN ARMED ASSAILANTS 30NM SOUTHWEST OF YEMEN'S HODEIDAH ...",
       "posted_at": "2026-07-05T20:05:32+00:00",
       "captured_at": "2026-07-05T20:05:33.945724+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6829,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990830,
-      "message_text": "TRUMP CALLED FIFA PRESIDENT INFANTINO ON WEDNESDAY TO REVIEW BALOGUN'S SUSPENSION - NYT ...",
-      "posted_at": "2026-07-05T19:57:16+00:00",
-      "captured_at": "2026-07-05T19:57:17.238122+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
