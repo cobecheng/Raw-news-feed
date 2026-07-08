@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T14:26:19.566370+00:00",
+  "generated_at": "2026-07-08T14:31:49.837783+00:00",
   "window_hours": 72,
-  "count": 398,
+  "count": 394,
   "news": [
     {
       "id": 7511,
@@ -5120,58 +5120,6 @@
       "message_text": "ISRAELI AIRSTRIKE ON THE TOWN OF NABATIEH AL-FAWQA IN SOUTHERN LEBANON ...",
       "posted_at": "2026-07-05T14:53:19+00:00",
       "captured_at": "2026-07-05T14:53:21.868699+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6721,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990776,
-      "message_text": "IRANIAN PARLIAMENT SPEAKER: IMPLEMENTING THE AGREEMENT WITH THE UNITED STATES IS DIFFICULT BUT POSSIBLE ...",
-      "posted_at": "2026-07-05T14:29:20+00:00",
-      "captured_at": "2026-07-05T14:29:23.254032+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6723,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990777,
-      "message_text": "QALIBAF: WE AFFIRMED TO WASHINGTON THE NECESSITY THAT PRESERVING THE UNITY OF THE TERRITORIES OF THE REGION'S COUNTRIES AND ENDING THE WAR WITH OUR ALLIES BE PART OF THE UNDERSTANDING. ...",
-      "posted_at": "2026-07-05T14:29:20+00:00",
-      "captured_at": "2026-07-05T14:29:23.893062+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6719,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990775,
-      "message_text": "IRANIAN PARLIAMENT SPEAKER: THE DIPLOMATIC TRACK MUST BE CAPABLE OF CONSOLIDATING AND STRENGTHENING THE ACHIEVEMENTS OF THE FIELD ...",
-      "posted_at": "2026-07-05T14:29:19+00:00",
-      "captured_at": "2026-07-05T14:29:19.780645+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6717,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990774,
-      "message_text": "IRANIAN PARLIAMENT SPEAKER: NO PEACE BETWEEN US AND THE UNITED STATES, AND WE WILL NOT RECOGNIZE ISRAEL ...",
-      "posted_at": "2026-07-05T14:28:49+00:00",
-      "captured_at": "2026-07-05T14:28:51.723848+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
