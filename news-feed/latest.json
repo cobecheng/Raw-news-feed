@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T08:12:00.541687+00:00",
+  "generated_at": "2026-07-08T08:17:30.823797+00:00",
   "window_hours": 72,
-  "count": 473,
+  "count": 472,
   "news": [
     {
       "id": 7511,
@@ -6134,19 +6134,6 @@
       "message_text": "QATAR SAYS ALL MARITIME ACTIVITIES WILL RESUME IMMEDIATELY ...",
       "posted_at": "2026-07-05T08:22:50+00:00",
       "captured_at": "2026-07-05T08:22:51.512143+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6567,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990698,
-      "message_text": "SHOT, INCLUDING FOUR CHILDREN, IN CONEY ISLAND: NYPD - ABC NEWS ...",
-      "posted_at": "2026-07-05T08:16:20+00:00",
-      "captured_at": "2026-07-05T08:16:22.164595+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
