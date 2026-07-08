@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T14:48:20.676288+00:00",
+  "generated_at": "2026-07-08T14:53:50.961587+00:00",
   "window_hours": 72,
-  "count": 394,
+  "count": 393,
   "news": [
     {
       "id": 7511,
@@ -5107,19 +5107,6 @@
       "message_text": "ISRAELI CHANNEL 12: THE REGIONAL COUNCIL OF UPPER GALILEE INFORMED RESIDENTS THAT THEY WILL HEAR EXPLOSIONS DUE TO ATTACKS IN SOUTHERN LEBANON ...",
       "posted_at": "2026-07-05T15:18:35+00:00",
       "captured_at": "2026-07-05T15:18:38.386460+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6725,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990778,
-      "message_text": "ISRAELI AIRSTRIKE ON THE TOWN OF NABATIEH AL-FAWQA IN SOUTHERN LEBANON ...",
-      "posted_at": "2026-07-05T14:53:19+00:00",
-      "captured_at": "2026-07-05T14:53:21.868699+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
