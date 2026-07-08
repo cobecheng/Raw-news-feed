@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T01:30:09.595593+00:00",
+  "generated_at": "2026-07-08T01:35:39.874622+00:00",
   "window_hours": 72,
-  "count": 582,
+  "count": 581,
   "news": [
     {
       "id": 7511,
@@ -7551,19 +7551,6 @@
       "message_text": "TOKYO WARDS TIGHTEN SCREWS ON \"MINPAKU\" HOME-SHARING AMID COMPLAINTS-KYODO ...",
       "posted_at": "2026-07-05T01:37:16+00:00",
       "captured_at": "2026-07-05T01:37:18.928190+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6349,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990589,
-      "message_text": "THE U.S. COAST GUARD SAID A VESSEL DISPLAYING \u201cPOLITICALLY CHARGED\u201d MESSAGES WAS REMOVED FROM THE TALL SHIPS PARADE THROUGH NEW YORK HARBOR. ...",
-      "posted_at": "2026-07-05T01:32:44+00:00",
-      "captured_at": "2026-07-05T01:32:46.129047+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
