@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T03:31:16.141110+00:00",
+  "generated_at": "2026-07-08T03:36:46.419548+00:00",
   "window_hours": 72,
-  "count": 542,
+  "count": 540,
   "news": [
     {
       "id": 7511,
@@ -7018,32 +7018,6 @@
       "message_text": "THUNDERBIRDS SHOWCASE ELITE PRECISION AS FIGHTER JETS SOAR INCHES APART ABOVE NATIONAL MALL ...",
       "posted_at": "2026-07-05T03:41:53+00:00",
       "captured_at": "2026-07-05T03:41:55.498089+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6431,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990630,
-      "message_text": "CHINAAID WELCOMES PASTOR EZRA JIN\u2019S RELEASE, URGES FREEDOM FOR PRISONERS OF FAITH. ...",
-      "posted_at": "2026-07-05T03:31:54+00:00",
-      "captured_at": "2026-07-05T03:31:57.590188+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6429,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990629,
-      "message_text": "CHINAAID WELCOMES RELEASE OF PASTOR EZRA JIN TO US, URGES FREEDOM FOR ALL FAITH PRISONERS ...",
-      "posted_at": "2026-07-05T03:31:53+00:00",
-      "captured_at": "2026-07-05T03:31:54.206317+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
