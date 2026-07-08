@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T21:24:40.768567+00:00",
+  "generated_at": "2026-07-08T21:30:11.036086+00:00",
   "window_hours": 72,
-  "count": 321,
+  "count": 320,
   "news": [
     {
       "id": 7511,
@@ -4158,19 +4158,6 @@
       "message_text": "JAPAN DEFENCE MINISTRY TO ESTABLISH NEW OVERSEAS BUREAU - YOMIURI ...",
       "posted_at": "2026-07-05T21:53:06+00:00",
       "captured_at": "2026-07-05T21:53:08.761032+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6871,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990852,
-      "message_text": "KENYA AIRWAYS FLIGHT KQ 002D FROM NAIROBI TO NEW YORK EXPERIENCED FLIGHT CONTROLS SPOILER MALFUNCTION OVER CHAD ON JULY 5; CREW ELECTED TO RETURN TO NAIROBI FOR TECHNICAL EVALUATION FOLLOWING PRECAUTIONARY SAFETY CHECKS ...",
-      "posted_at": "2026-07-05T21:29:51+00:00",
-      "captured_at": "2026-07-05T21:29:52.901417+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
