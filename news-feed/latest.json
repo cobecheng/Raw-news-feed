@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T04:20:48.636826+00:00",
+  "generated_at": "2026-07-08T04:26:18.910378+00:00",
   "window_hours": 72,
-  "count": 527,
+  "count": 525,
   "news": [
     {
       "id": 7511,
@@ -6823,32 +6823,6 @@
       "message_text": "FRANCE\u2019S ATTEMPT TO EXCLUDE UK FROM EU DEFENCE SPENDING BACKFIRES: FT. ...",
       "posted_at": "2026-07-05T04:33:55+00:00",
       "captured_at": "2026-07-05T04:33:58.501677+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6461,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990645,
-      "message_text": "INDIA CATCHING UP ON CHINA'S ARSENAL WITH FOCUS ON LONGER-RANGE WEAPONS-NA ...",
-      "posted_at": "2026-07-05T04:26:12+00:00",
-      "captured_at": "2026-07-05T04:26:13.357040+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6459,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990644,
-      "message_text": "UBER PAUSES EUROPEAN FOOD DELIVERY PUSH AMID DELIVERY HERO TAKEOVER BID: FT. ...",
-      "posted_at": "2026-07-05T04:25:40+00:00",
-      "captured_at": "2026-07-05T04:25:40.696260+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
