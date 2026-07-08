@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T00:07:35.324014+00:00",
+  "generated_at": "2026-07-08T00:13:05.604994+00:00",
   "window_hours": 72,
-  "count": 630,
+  "count": 627,
   "news": [
     {
       "id": 7511,
@@ -8149,45 +8149,6 @@
       "message_text": "U.S. PRESIDENT DONALD TRUMP SPOKE BY PHONE WITH RUSSIAN LEADER VLADIMIR PUTIN FOR NEARLY 90 MINUTES, OFFERING TO HELP BROKER A SOLUTION TO THE UKRAINE WAR, KREMLIN AIDE YURI USHAKOV SAID IN COMMENTS MADE PUBLIC EARLY SUNDAY-RTRS ...",
       "posted_at": "2026-07-05T00:13:53+00:00",
       "captured_at": "2026-07-05T00:13:56.256965+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6257,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990543,
-      "message_text": "PUTIN AND TRUMP DISCUSS UKRAINE, IRAN IN US INDEPENDENCE DAY CALL-SCMP ...",
-      "posted_at": "2026-07-05T00:12:08+00:00",
-      "captured_at": "2026-07-05T00:12:10.166330+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6255,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990542,
-      "message_text": "NORTH KOREA'S KIM OBSERVED NAVAL DESTROYER CRUISE MISSILE LAUNCH-NA ...",
-      "posted_at": "2026-07-05T00:11:08+00:00",
-      "captured_at": "2026-07-05T00:11:08.639315+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6253,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990541,
-      "message_text": "VISITORS TO THE FREEDOM 250 FOURTH OF JULY EVENT IN D.C. ARE BEING EVACUATED TEMPORARILY DUE TO SEVERE WEATHER-CBS ...",
-      "posted_at": "2026-07-05T00:08:55+00:00",
-      "captured_at": "2026-07-05T00:08:56.518184+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
