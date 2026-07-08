@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T11:13:39.792243+00:00",
+  "generated_at": "2026-07-08T11:19:10.069110+00:00",
   "window_hours": 72,
-  "count": 432,
+  "count": 429,
   "news": [
     {
       "id": 7511,
@@ -5575,45 +5575,6 @@
       "message_text": "CHINESE CHIP SLASHES BRAIN MODELING LATENCY TO MILLISECONDS\n\nRESEARCHERS IN CHINA HAVE DEVELOPED A CHIP THAT REDUCES BRAIN-MODELING LATENCY FROM MUCH LONGER PROCESSING TIMES TO THE MILLISECOND RANGE, ENABLING SIGNIFICANTLY FASTER NEURAL SIMULATIONS AND ADVANCING APPLICATIONS IN NEUROSCIENCE, BRAIN-COMPUTER INTERFACES, AND AI RESEARCH. IF VALIDATED AT SCALE, THE TECHNOLOGY COULD ACCELERATE REAL-TIME BRAIN MODELING AND NEUROMORPHIC COMPUTING. ...",
       "posted_at": "2026-07-05T11:27:41+00:00",
       "captured_at": "2026-07-05T11:27:42.168145+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6651,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990741,
-      "message_text": "NETANYAHU: TRUMP DID NOT ASK US NOT TO MOVE AGAINST HEZBOLLAH TUNNELS ...",
-      "posted_at": "2026-07-05T11:15:41+00:00",
-      "captured_at": "2026-07-05T11:15:43.705953+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6653,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990742,
-      "message_text": "NETANYAHU: WE HAVE OBTAINED LEGITIMACY TO REMAIN ALONG THE ENTIRE \"YELLOW LINE\" IN SOUTHERN LEBANON ...",
-      "posted_at": "2026-07-05T11:15:41+00:00",
-      "captured_at": "2026-07-05T11:15:44.341245+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6649,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990740,
-      "message_text": "NETANYAHU: GAZA RESIDENTS MUST BE ALLOWED THE FREEDOM TO CHOOSE BETWEEN STAYING OR LEAVING THE SECTOR ...",
-      "posted_at": "2026-07-05T11:15:11+00:00",
-      "captured_at": "2026-07-05T11:15:12.340648+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
