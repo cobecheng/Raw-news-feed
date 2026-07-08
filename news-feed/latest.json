@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T04:15:18.356940+00:00",
+  "generated_at": "2026-07-08T04:20:48.636826+00:00",
   "window_hours": 72,
-  "count": 530,
+  "count": 527,
   "news": [
     {
       "id": 7511,
@@ -6849,45 +6849,6 @@
       "message_text": "UBER PAUSES EUROPEAN FOOD DELIVERY PUSH AMID DELIVERY HERO TAKEOVER BID: FT. ...",
       "posted_at": "2026-07-05T04:25:40+00:00",
       "captured_at": "2026-07-05T04:25:40.696260+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6457,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990643,
-      "message_text": "SAUDI ARABIA\u2019S S&P GLOBAL COMPOSITE PMI INCREASED TO 53.3 IN JUNE, UP FROM 52.8 IN MAY. ...",
-      "posted_at": "2026-07-05T04:19:39+00:00",
-      "captured_at": "2026-07-05T04:19:41.216016+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6453,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990641,
-      "message_text": "SAUDI ARABIA S&P GLOBAL JUNE COMPOSITE PMI RISES TO 53.3 FROM 52.8 IN MAY ...",
-      "posted_at": "2026-07-05T04:15:42+00:00",
-      "captured_at": "2026-07-05T04:15:42.435176+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6455,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990642,
-      "message_text": "UBER DROPS EXPANSION PLANS IN FIVE OF SEVEN TARGETED COUNTRIES, INCLUDING AUSTRIA, NORWAY AND GREECE: FT. ...",
-      "posted_at": "2026-07-05T04:15:42+00:00",
-      "captured_at": "2026-07-05T04:15:45.560243+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
