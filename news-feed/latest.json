@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T21:19:10.498753+00:00",
+  "generated_at": "2026-07-08T21:24:40.768567+00:00",
   "window_hours": 72,
-  "count": 323,
+  "count": 321,
   "news": [
     {
       "id": 7511,
@@ -4171,32 +4171,6 @@
       "message_text": "KENYA AIRWAYS FLIGHT KQ 002D FROM NAIROBI TO NEW YORK EXPERIENCED FLIGHT CONTROLS SPOILER MALFUNCTION OVER CHAD ON JULY 5; CREW ELECTED TO RETURN TO NAIROBI FOR TECHNICAL EVALUATION FOLLOWING PRECAUTIONARY SAFETY CHECKS ...",
       "posted_at": "2026-07-05T21:29:51+00:00",
       "captured_at": "2026-07-05T21:29:52.901417+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6869,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990851,
-      "message_text": "UK'S FCA CALLS FOR GREATER POWERS TO OVERSEE AI RISKS, STATES REGULATORS MUST COLLABORATE TO TACKLE AI THREATS - FT ...",
-      "posted_at": "2026-07-05T21:24:35+00:00",
-      "captured_at": "2026-07-05T21:24:35.897043+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6867,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990850,
-      "message_text": "JAPAN MAY PARTICIPATE IN IRAN'S POST-WAR RECONSTRUCTION, WITH EXPERTS URGING DIVERSIFICATION OF ENERGY SUPPLIES.\n\nIRAN HIGHLIGHTS ITS HISTORIC TIES WITH JAPAN, SAYING THE IDEMITSU MARU'S STRAIT TRANSIT REFLECTS THEIR FRIENDSHIP, WHILE EXPERTS SAY TEHRAN SOUGHT TO DRIVE A WEDGE BETWEEN JAPAN AND THE U.S. ...",
-      "posted_at": "2026-07-05T21:20:35+00:00",
-      "captured_at": "2026-07-05T21:20:36.639383+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
