@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T13:20:16.158540+00:00",
+  "generated_at": "2026-07-08T13:25:46.444623+00:00",
   "window_hours": 72,
-  "count": 412,
+  "count": 410,
   "news": [
     {
       "id": 7511,
@@ -5328,32 +5328,6 @@
       "message_text": "INTERNATIONAL MIGRATION IN SUDAN: THE WHITE NEEDS URGENT INTERNATIONAL ACTION TO PROTECT CIVILIANS ...",
       "posted_at": "2026-07-05T14:00:18+00:00",
       "captured_at": "2026-07-05T14:00:21.156194+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6691,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990761,
-      "message_text": "QATARI FOREIGN MINISTRY: THE PRIME MINISTER AND FOREIGN MINISTER RECEIVED A CALL FROM THE FRENCH FOREIGN MINISTER AND DISCUSSED REGIONAL DEVELOPMENTS, PARTICULARLY LEBANON ...",
-      "posted_at": "2026-07-05T13:22:17+00:00",
-      "captured_at": "2026-07-05T13:22:19.863660+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6689,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990760,
-      "message_text": "QATARI FOREIGN MINISTRY: PRIME MINISTER AND FOREIGN MINISTER RECEIVED A CALL FROM THE FOREIGN MINISTER OF TURKEY AND DISCUSSED EFFORTS TO ENHANCE SECURITY IN THE REGION ...",
-      "posted_at": "2026-07-05T13:21:47+00:00",
-      "captured_at": "2026-07-05T13:21:47.610173+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
