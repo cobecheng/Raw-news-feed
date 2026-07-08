@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T23:47:48.066363+00:00",
+  "generated_at": "2026-07-08T23:53:18.356267+00:00",
   "window_hours": 72,
-  "count": 308,
+  "count": 306,
   "news": [
     {
       "id": 7511,
@@ -3976,32 +3976,6 @@
       "message_text": "BITCOIN, GOLD, AND SILVER RISE AS MARKETS BET FED RATE HIKES WILL BE DELAYED FOLLOWING WARSH\u2019S COMMENTS ON EASING INFLATION RISKS. || THE U.S. DOLLAR REMAINS STABLE FOR NOW, WITH TRADERS EXPECTING IT TO HOLD FIRM UNTIL THE FOMC MINUTES PROVIDE FURTHER DIRECTION ON FED POLICY. ...",
       "posted_at": "2026-07-05T23:54:54+00:00",
       "captured_at": "2026-07-05T23:54:55.730034+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6899,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990866,
-      "message_text": "GOLD HOLDS NEAR RECORD HIGHS AS WEAKER U.S. JOBS DATA AND LOWER OIL PRICES REDUCE EXPECTATIONS OF FED RATE HIKES. || TRUMP ALLIES RENEW EFFORTS TO RESHAPE THE FED, WITH MARKETS VIEWING CENTRAL BANK INDEPENDENCE AS A KEY DRIVER SUPPORTING GOLD PRICES. ...",
-      "posted_at": "2026-07-05T23:52:57+00:00",
-      "captured_at": "2026-07-05T23:53:00.239227+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6897,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990865,
-      "message_text": "UKRAINE HAS STRUCK RUSSIAN OIL REFINERIES AT LEAST 194 TIMES SINCE START OF 2026, AN 11-FOLD INCREASE OVER SAME PERIOD IN 2025, WITH U.S. INTELLIGENCE ASSISTING IN AIR DEFENSE MAPPING AND ROUTE PLANNING; MAY 2026 SAW RECORD 16 SUCCESSFUL REFINERY STRIKES IN A SINGLE MONTH - FT ...",
-      "posted_at": "2026-07-05T23:49:09+00:00",
-      "captured_at": "2026-07-05T23:49:10.246003+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
