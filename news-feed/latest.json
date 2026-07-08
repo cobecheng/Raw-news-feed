@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T04:37:19.467111+00:00",
+  "generated_at": "2026-07-08T04:42:49.735414+00:00",
   "window_hours": 72,
-  "count": 523,
+  "count": 522,
   "news": [
     {
       "id": 7511,
@@ -6784,19 +6784,6 @@
       "message_text": "CHINA COOLS ON OVERSEAS PUBLICATION OF SCIENTIFIC RESEARCH-FT ...",
       "posted_at": "2026-07-05T04:44:41+00:00",
       "captured_at": "2026-07-05T04:44:42.553111+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6467,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990648,
-      "message_text": "UKRAINE LAUNCHES OVERNIGHT STRIKES ON CRIMEA SUBSTATIONS, LEAVING OCCUPIED PENINSULA WITHOUT POWER ...",
-      "posted_at": "2026-07-05T04:40:25+00:00",
-      "captured_at": "2026-07-05T04:40:26.414131+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
