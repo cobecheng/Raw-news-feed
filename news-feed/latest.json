@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T16:43:56.509977+00:00",
+  "generated_at": "2026-07-08T16:49:26.777132+00:00",
   "window_hours": 72,
-  "count": 381,
+  "count": 380,
   "news": [
     {
       "id": 7511,
@@ -4938,19 +4938,6 @@
       "message_text": "IRANIAN PARLIAMENT SPEAKER: THE UNITED STATES IS AN UNRELIABLE PARTY, AND THEREFORE WE HAVE SET CLEAR LINES IN THE NEGOTIATIONS AND MAINTAINED THEM. ...",
       "posted_at": "2026-07-05T16:54:38+00:00",
       "captured_at": "2026-07-05T16:54:40.109146+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6751,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990791,
-      "message_text": "NETANYAHU TO \"FOX NEWS\": SOME LEBANESE CHRISTIAN VILLAGES REQUESTED THAT ISRAEL ANNEX THEM. ...",
-      "posted_at": "2026-07-05T16:47:08+00:00",
-      "captured_at": "2026-07-05T16:47:09.281578+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
