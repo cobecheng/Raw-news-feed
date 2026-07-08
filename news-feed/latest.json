@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T13:58:48.159094+00:00",
+  "generated_at": "2026-07-08T14:04:18.458212+00:00",
   "window_hours": 72,
-  "count": 410,
+  "count": 407,
   "news": [
     {
       "id": 7511,
@@ -5289,45 +5289,6 @@
       "message_text": "FRENCH PRESIDENT MACRON TO VISIT SYRIA, SYRIAN PRESIDENCY SAYS - RTRS ...",
       "posted_at": "2026-07-05T14:05:18+00:00",
       "captured_at": "2026-07-05T14:05:20.587906+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6697,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990764,
-      "message_text": "ALIBABA HAS REPORTEDLY BARRED STAFF FROM USING CLAUDE CODE, TECHCRUNCH REPORTS. ...",
-      "posted_at": "2026-07-05T14:03:18+00:00",
-      "captured_at": "2026-07-05T14:03:18.647924+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6693,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990762,
-      "message_text": "INTERNATIONAL MIGRATION IN SUDAN: DARFUR MASSACRES MAY REPEAT IN AL-UBAYYID ...",
-      "posted_at": "2026-07-05T14:00:18+00:00",
-      "captured_at": "2026-07-05T14:00:20.522223+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6695,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990763,
-      "message_text": "INTERNATIONAL MIGRATION IN SUDAN: THE WHITE NEEDS URGENT INTERNATIONAL ACTION TO PROTECT CIVILIANS ...",
-      "posted_at": "2026-07-05T14:00:18+00:00",
-      "captured_at": "2026-07-05T14:00:21.156194+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
