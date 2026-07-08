@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T12:19:43.078544+00:00",
+  "generated_at": "2026-07-08T12:25:13.351667+00:00",
   "window_hours": 72,
-  "count": 422,
+  "count": 421,
   "news": [
     {
       "id": 7511,
@@ -5471,19 +5471,6 @@
       "message_text": "CHIEF OF STAFF OF THE ISRAELI ARMY: THE LEBANESE ARMY MUST PURGE THE AREA OF HEZBOLLAH ELEMENTS UNDER THE SIGNED HISTORIC AGREEMENT ...",
       "posted_at": "2026-07-05T12:27:13+00:00",
       "captured_at": "2026-07-05T12:27:15.126507+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6669,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990750,
-      "message_text": "JUST IN: MICHAEL SAYLOR HINTS AT BUYING MORE BITCOIN. \n\n\"BITCOIN IS DIGITAL ENERGY.\"  ...",
-      "posted_at": "2026-07-05T12:21:43+00:00",
-      "captured_at": "2026-07-05T12:21:44.785350+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
