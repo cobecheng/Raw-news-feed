@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T00:57:07.923447+00:00",
+  "generated_at": "2026-07-08T01:02:38.207382+00:00",
   "window_hours": 72,
-  "count": 602,
+  "count": 601,
   "news": [
     {
       "id": 7511,
@@ -7811,19 +7811,6 @@
       "message_text": "SOUTH KOREAN RETAIL INVESTORS BORROWED A RECORD AMOUNT FROM SECURITIES FIRMS IN THE SECOND QUARTER OF THIS YEAR AS THE LOCAL STOCK MARKET EXTENDED ITS STRONG RALLY, INDUSTRY DATA SHOWED SUNDAY-YONHAP ...",
       "posted_at": "2026-07-05T01:06:27+00:00",
       "captured_at": "2026-07-05T01:06:29.227710+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6309,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990569,
-      "message_text": "APTOS FIXES CRITICAL VULNERABILITY AS ATTACK COST WAS ESTIMATED AT A FEW HUNDRED DOLLARS-COINCU ...",
-      "posted_at": "2026-07-05T01:00:27+00:00",
-      "captured_at": "2026-07-05T01:00:28.351163+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
