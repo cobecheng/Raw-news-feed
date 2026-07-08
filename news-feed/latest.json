@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T03:25:45.857141+00:00",
+  "generated_at": "2026-07-08T03:31:16.141110+00:00",
   "window_hours": 72,
-  "count": 544,
+  "count": 542,
   "news": [
     {
       "id": 7511,
@@ -7044,32 +7044,6 @@
       "message_text": "CHINAAID WELCOMES RELEASE OF PASTOR EZRA JIN TO US, URGES FREEDOM FOR ALL FAITH PRISONERS ...",
       "posted_at": "2026-07-05T03:31:53+00:00",
       "captured_at": "2026-07-05T03:31:54.206317+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6427,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990628,
-      "message_text": "TRUMP SAYS THE UNITED STATES WILL NOT BE ALLOWED TO FALL. ...",
-      "posted_at": "2026-07-05T03:27:23+00:00",
-      "captured_at": "2026-07-05T03:27:23.907787+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6425,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990627,
-      "message_text": "EGYPT\u2019S REGULATOR WILL OVERHAUL INSURANCE PRODUCT APPROVALS IN AN EFFORT TO BOOST PENETRATION RATES. ...",
-      "posted_at": "2026-07-05T03:26:53+00:00",
-      "captured_at": "2026-07-05T03:26:56.158157+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
