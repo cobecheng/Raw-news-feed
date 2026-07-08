@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T11:24:40.349377+00:00",
+  "generated_at": "2026-07-08T11:30:10.637218+00:00",
   "window_hours": 72,
-  "count": 429,
+  "count": 427,
   "news": [
     {
       "id": 7511,
@@ -5549,32 +5549,6 @@
       "message_text": "SYRIAN PRESIDENCY: MACRON TO MAKE HIGHLY ANTICIPATED VISIT TO DAMASCUS ...",
       "posted_at": "2026-07-05T11:45:11+00:00",
       "captured_at": "2026-07-05T11:45:12.820942+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6657,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990744,
-      "message_text": "US MARGIN DEBT NEARS DOT-COM ERA RECORD, FLASHING MARKET WARNING\n\nUS MARGIN DEBT HAS CLIMBED TO A RECORD $1.4 TRILLION, WITH MARGIN DEBT EQUAL TO 6.2% OF M2 MONEY SUPPLY, JUST BELOW THE 6.3% PEAK SEEN DURING THE 2000 DOT-COM BUBBLE. HISTORICALLY, SIMILAR PEAKS IN 2000, 2007, AND 2021 PRECEDED MAJOR STOCK MARKET CORRECTIONS. WHILE ELEVATED LEVERAGE IS A CAUTIONARY SIGNAL, IT DOES NOT BY ITSELF PREDICT THE TIMING OR CERTAINTY OF A MARKET DOWNTURN. ...",
-      "posted_at": "2026-07-05T11:28:41+00:00",
-      "captured_at": "2026-07-05T11:28:42.077090+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6655,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990743,
-      "message_text": "CHINESE CHIP SLASHES BRAIN MODELING LATENCY TO MILLISECONDS\n\nRESEARCHERS IN CHINA HAVE DEVELOPED A CHIP THAT REDUCES BRAIN-MODELING LATENCY FROM MUCH LONGER PROCESSING TIMES TO THE MILLISECOND RANGE, ENABLING SIGNIFICANTLY FASTER NEURAL SIMULATIONS AND ADVANCING APPLICATIONS IN NEUROSCIENCE, BRAIN-COMPUTER INTERFACES, AND AI RESEARCH. IF VALIDATED AT SCALE, THE TECHNOLOGY COULD ACCELERATE REAL-TIME BRAIN MODELING AND NEUROMORPHIC COMPUTING. ...",
-      "posted_at": "2026-07-05T11:27:41+00:00",
-      "captured_at": "2026-07-05T11:27:42.168145+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
