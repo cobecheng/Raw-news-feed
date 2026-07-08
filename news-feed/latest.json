@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T14:09:48.739244+00:00",
+  "generated_at": "2026-07-08T14:15:19.013105+00:00",
   "window_hours": 72,
-  "count": 401,
+  "count": 399,
   "news": [
     {
       "id": 7511,
@@ -5185,32 +5185,6 @@
       "message_text": "U.S. FIFTH FLEET: WE HALTED ACTIVE SEARCH OPERATIONS FOR A MISSING SAILOR SINCE WEDNESDAY FOLLOWING A HELICOPTER CRASH IN THE ARABIAN SEA ...",
       "posted_at": "2026-07-05T14:17:18+00:00",
       "captured_at": "2026-07-05T14:17:20.956193+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6713,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990772,
-      "message_text": "BERKSHIRE HATHAWAY\u2019S MULTIBILLION-DOLLAR BUY OF TAYLOR MORRISON TO BOOST US HOUSING MARKET\nWHILE CHINESE INVESTORS ARE TURNING AWAY FROM AMERICA, THE CONGLOMERATE\u2019S US$6.8 BILLION CASH ACQUISITION COULD ENCOURAGE MORE HOME SALES-SCMP ...",
-      "posted_at": "2026-07-05T14:12:35+00:00",
-      "captured_at": "2026-07-05T14:12:37.481850+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6711,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990771,
-      "message_text": "GERMAN GOVT MAY WITHHOLD CLASSIFIED INFO FROM STATES IF FAR-RIGHT START WINNING-SCMP ...",
-      "posted_at": "2026-07-05T14:11:48+00:00",
-      "captured_at": "2026-07-05T14:11:49.716686+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
