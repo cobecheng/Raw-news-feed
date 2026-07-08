@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T00:40:37.088663+00:00",
+  "generated_at": "2026-07-08T00:46:07.369036+00:00",
   "window_hours": 72,
-  "count": 610,
+  "count": 608,
   "news": [
     {
       "id": 7511,
@@ -7902,32 +7902,6 @@
       "message_text": "VIETNAM URGES SPECIAL ACTION PLAN FOR THE YEAR\u2019S FINAL SIX MONTHS. ...",
       "posted_at": "2026-07-05T00:48:24+00:00",
       "captured_at": "2026-07-05T00:48:24.928558+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6295,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990562,
-      "message_text": "TRUMP SPOKE WITH ZELENSKY AND PUTIN ON INDEPENDENCE DAY AS LEADERS EXCHANGED CONGRATULATIONS AND DISCUSSED THE WAR. ...",
-      "posted_at": "2026-07-05T00:43:54+00:00",
-      "captured_at": "2026-07-05T00:43:56.709152+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6293,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990561,
-      "message_text": "VENEZUELANS IN IRELAND ARE RALLYING TO DEMAND HUMANITARIAN ASSISTANCE IN THE AFTERMATH OF DEVASTATING EARTHQUAKES. ...",
-      "posted_at": "2026-07-05T00:41:10+00:00",
-      "captured_at": "2026-07-05T00:41:10.834451+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
