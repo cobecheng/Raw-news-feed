@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T05:21:21.737520+00:00",
+  "generated_at": "2026-07-08T05:26:52.009343+00:00",
   "window_hours": 72,
-  "count": 511,
+  "count": 509,
   "news": [
     {
       "id": 7511,
@@ -6615,32 +6615,6 @@
       "message_text": "LEBANESE PRESIDENT ASKS U.S. TO REMAIN A STEADFAST ALLY OF LEBANON ...",
       "posted_at": "2026-07-05T05:30:43+00:00",
       "captured_at": "2026-07-05T05:30:44.716187+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6493,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990661,
-      "message_text": "RUSSIAN FOREIGN MINISTRY CLAIMS EUROPE HAS FAILED TO OFFER VIABLE IDEAS FOR UKRAINE PEACE ...",
-      "posted_at": "2026-07-05T05:23:57+00:00",
-      "captured_at": "2026-07-05T05:23:58.197253+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6491,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990660,
-      "message_text": "ICE ARRESTS 10,000 IN 5 DAYS, A SHARP LATE-JUNE SURGE IN TRUMP'S DEPORTATION PUSH - AP ...",
-      "posted_at": "2026-07-05T05:22:57+00:00",
-      "captured_at": "2026-07-05T05:22:57.899230+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
