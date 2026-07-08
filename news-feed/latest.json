@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T06:16:24.568299+00:00",
+  "generated_at": "2026-07-08T06:21:54.849316+00:00",
   "window_hours": 72,
-  "count": 495,
+  "count": 494,
   "news": [
     {
       "id": 7511,
@@ -6420,19 +6420,6 @@
       "message_text": "BANK OF KOREA WARNED THAT SINGLE-STOCK LEVERAGED EXCHANGE-TRADED FUNDS TIED TO SAMSUNG ELECTRONICS AND SK HYNIX COULD DEEPEN MARKET CONCENTRATION, AMPLIFY VOLATILITY AND INTENSIFY ONE-WAY TRADING FLOWS, ACCORDING TO A LOCAL REPORT ...",
       "posted_at": "2026-07-05T06:41:15+00:00",
       "captured_at": "2026-07-05T06:41:17.559219+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6523,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990676,
-      "message_text": "AMERICA250 HAS UNVEILED THE CONTENTS OF AMERICA\u2019S TIME CAPSULE, WHICH FEATURES LETTERS, ARTIFACTS, AND OBJECTS FROM ACROSS THE COUNTRY TO HELP TELL THE STORY OF THE UNITED STATES AT ITS 250TH ANNIVERSARY. ...",
-      "posted_at": "2026-07-05T06:21:15+00:00",
-      "captured_at": "2026-07-05T06:21:17.555671+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
