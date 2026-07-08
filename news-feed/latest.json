@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T11:41:11.166085+00:00",
+  "generated_at": "2026-07-08T11:46:41.440921+00:00",
   "window_hours": 72,
-  "count": 427,
+  "count": 425,
   "news": [
     {
       "id": 7511,
@@ -5523,32 +5523,6 @@
       "message_text": "COMMANDER OF THE IRANIAN ARMY'S NAVY: THE RESISTANCE IS NO LONGER CONFINED TO A GEOGRAPHICAL SCOPE, AND THE ENEMY MUST KNOW THAT IT IS NOT FACING A SINGLE STATE. ...",
       "posted_at": "2026-07-05T11:51:12+00:00",
       "captured_at": "2026-07-05T11:51:12.971237+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6661,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990746,
-      "message_text": "SYRIAN PRESIDENCY: A DELEGATION OF FRENCH INVESTORS WILL ACCOMPANY MACRON DURING HIS VISIT TO DAMASCUS ...",
-      "posted_at": "2026-07-05T11:45:12+00:00",
-      "captured_at": "2026-07-05T11:45:13.507432+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6659,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990745,
-      "message_text": "SYRIAN PRESIDENCY: MACRON TO MAKE HIGHLY ANTICIPATED VISIT TO DAMASCUS ...",
-      "posted_at": "2026-07-05T11:45:11+00:00",
-      "captured_at": "2026-07-05T11:45:12.820942+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
