@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T01:02:38.207382+00:00",
+  "generated_at": "2026-07-08T01:08:08.491022+00:00",
   "window_hours": 72,
-  "count": 601,
+  "count": 598,
   "news": [
     {
       "id": 7511,
@@ -7772,45 +7772,6 @@
       "message_text": "DONALD TRUMP SAID HE WILL PROCEED WITH HIS SPEECH \u201cNO MATTER WHAT.\u201d ...",
       "posted_at": "2026-07-05T01:09:12+00:00",
       "captured_at": "2026-07-05T01:09:14.096545+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6315,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990572,
-      "message_text": "TRUMP: WILL DELIVER ADDRESS REGARDLESS ...",
-      "posted_at": "2026-07-05T01:07:27+00:00",
-      "captured_at": "2026-07-05T01:07:28.171081+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6313,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990571,
-      "message_text": "CHINA'S XI VOWS 'LONG-TERM, STABLE' DEVELOPMENT OF TIES WITH N. KOREA - YONHAP ...",
-      "posted_at": "2026-07-05T01:06:57+00:00",
-      "captured_at": "2026-07-05T01:06:58.676042+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6311,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990570,
-      "message_text": "SOUTH KOREAN RETAIL INVESTORS BORROWED A RECORD AMOUNT FROM SECURITIES FIRMS IN THE SECOND QUARTER OF THIS YEAR AS THE LOCAL STOCK MARKET EXTENDED ITS STRONG RALLY, INDUSTRY DATA SHOWED SUNDAY-YONHAP ...",
-      "posted_at": "2026-07-05T01:06:27+00:00",
-      "captured_at": "2026-07-05T01:06:29.227710+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
