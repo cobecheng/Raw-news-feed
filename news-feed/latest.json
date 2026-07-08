@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T21:02:39.668781+00:00",
+  "generated_at": "2026-07-08T21:08:09.958096+00:00",
   "window_hours": 72,
-  "count": 325,
+  "count": 323,
   "news": [
     {
       "id": 7511,
@@ -4197,32 +4197,6 @@
       "message_text": "JAPAN MAY PARTICIPATE IN IRAN'S POST-WAR RECONSTRUCTION, WITH EXPERTS URGING DIVERSIFICATION OF ENERGY SUPPLIES.\n\nIRAN HIGHLIGHTS ITS HISTORIC TIES WITH JAPAN, SAYING THE IDEMITSU MARU'S STRAIT TRANSIT REFLECTS THEIR FRIENDSHIP, WHILE EXPERTS SAY TEHRAN SOUGHT TO DRIVE A WEDGE BETWEEN JAPAN AND THE U.S. ...",
       "posted_at": "2026-07-05T21:20:35+00:00",
       "captured_at": "2026-07-05T21:20:36.639383+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6865,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990849,
-      "message_text": "KOREAN WON EDGES 0.2% HIGHER AS 24-HOUR TRADING COMMENCES ...",
-      "posted_at": "2026-07-05T21:06:35+00:00",
-      "captured_at": "2026-07-05T21:06:37.138644+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6863,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990848,
-      "message_text": "RUSSIAN HACKERS INFILTRATE EMAILS OF UK GOVERNMENT AND OVERSEAS FOREIGN OFFICE OFFICIALS IN ONGOING CYBERATTACK - TELEGRAPH ...",
-      "posted_at": "2026-07-05T21:06:04+00:00",
-      "captured_at": "2026-07-05T21:06:05.016664+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
