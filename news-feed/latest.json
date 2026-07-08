@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T03:09:15.014648+00:00",
+  "generated_at": "2026-07-08T03:14:45.295236+00:00",
   "window_hours": 72,
-  "count": 549,
+  "count": 548,
   "news": [
     {
       "id": 7511,
@@ -7122,19 +7122,6 @@
       "message_text": "OPEC+ TIPPED TO RAISE QUOTAS AGAIN AS MIDDLE EAST CALMS-ET ...",
       "posted_at": "2026-07-05T03:16:08+00:00",
       "captured_at": "2026-07-05T03:16:10.669870+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6415,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990622,
-      "message_text": "THE VIETNAMESE GOVERNMENT HAS ISSUED NEW REGULATIONS GOVERNING SPECIAL FLIGHTS. ...",
-      "posted_at": "2026-07-05T03:11:40+00:00",
-      "captured_at": "2026-07-05T03:11:42.534546+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
