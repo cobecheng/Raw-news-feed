@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T04:04:17.806408+00:00",
+  "generated_at": "2026-07-08T04:09:48.081889+00:00",
   "window_hours": 72,
-  "count": 534,
+  "count": 532,
   "news": [
     {
       "id": 7511,
@@ -6914,32 +6914,6 @@
       "message_text": "EUROPEAN SPACEX RIVAL DEAL FACES ANTITRUST CLAIMS.- AIRBUS ...",
       "posted_at": "2026-07-05T04:14:39+00:00",
       "captured_at": "2026-07-05T04:14:41.338918+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6447,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990638,
-      "message_text": "FRENCH EFFORT TO BLOCK UK FROM EU DEFENCE SPENDING BACKFIRES: FT ...",
-      "posted_at": "2026-07-05T04:06:09+00:00",
-      "captured_at": "2026-07-05T04:06:11.426606+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6445,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990637,
-      "message_text": "CHINA'S MILITARY ADDS 2 GENERALS AFTER ANTI-CORRUPTION PURGE THINS RANKS-NA ...",
-      "posted_at": "2026-07-05T04:05:39+00:00",
-      "captured_at": "2026-07-05T04:05:42.654300+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
