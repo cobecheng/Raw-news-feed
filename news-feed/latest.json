@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T05:32:22.275213+00:00",
+  "generated_at": "2026-07-08T05:37:52.565548+00:00",
   "window_hours": 72,
-  "count": 508,
+  "count": 507,
   "news": [
     {
       "id": 7511,
@@ -6589,19 +6589,6 @@
       "message_text": "PRESIDENT TRUMP ADDRESSED THE NATION ON ITS 250TH ANNIVERSARY TO A SCATTERED CROWD IN WASHINGTON LATE ON SATURDAY, FOLLOWING A STORMY FORECAST THAT LED OFFICIALS TO EVACUATE THE NATIONAL MALL FOR MORE THAN TWO HOURS. ...",
       "posted_at": "2026-07-05T05:45:58+00:00",
       "captured_at": "2026-07-05T05:46:00.976679+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6497,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990663,
-      "message_text": "INDIA GOVT WITHDRAWS EMERGENCY GAS CURBS AS LNG SUPPLIES NORMALISE AFTER CRISIS -BS ...",
-      "posted_at": "2026-07-05T05:36:43+00:00",
-      "captured_at": "2026-07-05T05:36:44.930718+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
