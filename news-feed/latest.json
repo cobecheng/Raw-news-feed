@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T06:43:56.038036+00:00",
+  "generated_at": "2026-07-08T06:49:26.311202+00:00",
   "window_hours": 72,
-  "count": 492,
+  "count": 491,
   "news": [
     {
       "id": 7511,
@@ -6381,19 +6381,6 @@
       "message_text": "UKRAINIAN EMERGENCY SERVICES HAVE COMPLETED RESCUE OPERATIONS AT A 16-STORY RESIDENTIAL BUILDING IN KYIV\u2019S DARNYTSKYI DISTRICT FOLLOWING A MASSIVE RUSSIAN AERIAL ASSAULT. ...",
       "posted_at": "2026-07-05T07:12:02+00:00",
       "captured_at": "2026-07-05T07:12:04.977226+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6529,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990679,
-      "message_text": "AUSTRALIA'S NEW SOUTH WALES CONFIRMS H5N1 BIRD FLU CASE, THIRD STATE ...",
-      "posted_at": "2026-07-05T06:44:33+00:00",
-      "captured_at": "2026-07-05T06:44:33.481264+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
