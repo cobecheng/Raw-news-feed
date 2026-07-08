@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T10:18:37.005719+00:00",
+  "generated_at": "2026-07-08T10:24:07.282969+00:00",
   "window_hours": 72,
-  "count": 446,
+  "count": 444,
   "news": [
     {
       "id": 7511,
@@ -5770,32 +5770,6 @@
       "message_text": "GERMANY PLANS TO BOOST NET NEW BORROWING FOR 2027 TO \u20ac118 BILLION, ABOUT 7% HIGHER THAN APRIL FORECAST ...",
       "posted_at": "2026-07-05T10:37:10+00:00",
       "captured_at": "2026-07-05T10:37:11.448231+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6623,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990726,
-      "message_text": "7 COUNTRIES IN OPEC+ DECIDE TO INCREASE OIL PRODUCTION BY 188,000 BARRELS DAILY IN AUGUST ...",
-      "posted_at": "2026-07-05T10:21:09+00:00",
-      "captured_at": "2026-07-05T10:21:10.209917+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6621,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990725,
-      "message_text": "FARS NEWS AGENCY: IRGC BOATS DIVERTED 6 SHIPS FROM THE OMANI PASSAGE ...",
-      "posted_at": "2026-07-05T10:20:39+00:00",
-      "captured_at": "2026-07-05T10:20:39.899334+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
