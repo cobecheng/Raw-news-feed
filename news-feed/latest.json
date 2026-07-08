@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T00:51:37.639303+00:00",
+  "generated_at": "2026-07-08T00:57:07.923447+00:00",
   "window_hours": 72,
-  "count": 605,
+  "count": 602,
   "news": [
     {
       "id": 7511,
@@ -7824,45 +7824,6 @@
       "message_text": "APTOS FIXES CRITICAL VULNERABILITY AS ATTACK COST WAS ESTIMATED AT A FEW HUNDRED DOLLARS-COINCU ...",
       "posted_at": "2026-07-05T01:00:27+00:00",
       "captured_at": "2026-07-05T01:00:28.351163+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6307,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990568,
-      "message_text": "TRUMP ADMINISTRATION RELEASES PLAN TO ELIMINATE 702 EXISTING FEDERAL RULES-LEADING REPORT ...",
-      "posted_at": "2026-07-05T00:55:56+00:00",
-      "captured_at": "2026-07-05T00:55:56.144452+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6305,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990567,
-      "message_text": "SOUTHWEST AIRLINES HAS LEFT COMPETITORS FLAT-FOOTED AS A BANKRUPT CARRIER EXITS THE MARKET-YAHOO ...",
-      "posted_at": "2026-07-05T00:54:10+00:00",
-      "captured_at": "2026-07-05T00:54:11.540897+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6303,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990566,
-      "message_text": "TWO INTERNATIONALLY RECOGNIZED INFECTIOUS DISEASE EXPERTS SAY AUSTRALIA\u2019S BEST APPROACH TO CONTROLLING THE DEADLY H5 BIRD FLU STRAIN LIES IN INTENSIVE TESTING AND SURVEILLANCE-ABC ...",
-      "posted_at": "2026-07-05T00:52:12+00:00",
-      "captured_at": "2026-07-05T00:52:13.534279+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
