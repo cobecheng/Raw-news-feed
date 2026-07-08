@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T16:16:25.116550+00:00",
+  "generated_at": "2026-07-08T16:21:55.390608+00:00",
   "window_hours": 72,
-  "count": 383,
+  "count": 381,
   "news": [
     {
       "id": 7511,
@@ -4951,32 +4951,6 @@
       "message_text": "NETANYAHU TO \"FOX NEWS\": SOME LEBANESE CHRISTIAN VILLAGES REQUESTED THAT ISRAEL ANNEX THEM. ...",
       "posted_at": "2026-07-05T16:47:08+00:00",
       "captured_at": "2026-07-05T16:47:09.281578+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6749,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990790,
-      "message_text": "NOTIFICATIONS FROM ALERTS ...",
-      "posted_at": "2026-07-05T16:17:08+00:00",
-      "captured_at": "2026-07-05T16:17:09.658470+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6747,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990789,
-      "message_text": "*CASTLELAKE REACHES PACT TO BUY EASYJET FOR \u00a36.90/SHR IN CASH ...",
-      "posted_at": "2026-07-05T16:17:07+00:00",
-      "captured_at": "2026-07-05T16:17:08.941274+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
