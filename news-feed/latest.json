@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T01:57:41.199370+00:00",
+  "generated_at": "2026-07-08T02:03:11.529828+00:00",
   "window_hours": 72,
-  "count": 569,
+  "count": 568,
   "news": [
     {
       "id": 7511,
@@ -7382,19 +7382,6 @@
       "message_text": "META PAID HUNDREDS OF CONTRACTORS TO PRETEND TO BE TEENAGERS WHILE BARRAGING ITS COMPETITORS\u2019 AI WITH DISTURBING CONTENT-YAHOO ...",
       "posted_at": "2026-07-05T02:05:17+00:00",
       "captured_at": "2026-07-05T02:05:19.204755+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6375,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990602,
-      "message_text": "STARBUCKS BOOSTS CONSUMER STRATEGY AFTER GROWING CHINA COFFEE MARKET. ...",
-      "posted_at": "2026-07-05T02:02:47+00:00",
-      "captured_at": "2026-07-05T02:02:48.887383+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
