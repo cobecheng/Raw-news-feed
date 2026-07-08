@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T04:59:20.612389+00:00",
+  "generated_at": "2026-07-08T05:04:50.902598+00:00",
   "window_hours": 72,
-  "count": 516,
+  "count": 514,
   "news": [
     {
       "id": 7511,
@@ -6681,32 +6681,6 @@
       "posted_at": "2026-07-05T05:05:41+00:00",
       "captured_at": "2026-07-05T05:05:43.774465+00:00",
       "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6483,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990656,
-      "message_text": "S. KOREA'S YEARLY WORKING HOURS FALL BY 32 HOURS LAST YEAR BUT REMAIN LONGER THAN OECD AVERAGE - YONHAP ...",
-      "posted_at": "2026-07-05T05:00:11+00:00",
-      "captured_at": "2026-07-05T05:00:14.071974+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6481,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990655,
-      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
-      "posted_at": "2026-07-05T05:00:02+00:00",
-      "captured_at": "2026-07-05T05:00:03.531515+00:00",
-      "has_media": 1,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
       "destination_topic_id": 127
