@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T17:27:58.748214+00:00",
+  "generated_at": "2026-07-08T17:33:29.043724+00:00",
   "window_hours": 72,
-  "count": 359,
+  "count": 355,
   "news": [
     {
       "id": 7511,
@@ -4613,58 +4613,6 @@
       "message_text": "FRANCE'S MACRON TO VISIT DAMASCUS IN THE NEAR FUTURE, BECOMING FIRST WESTERN HEAD OF STATE TO VISIT POST-ASSAD SYRIA; TO BRING DELEGATION OF INVESTORS AND COMPANIES SIGNALLING PARIS SEEKS SIGNIFICANT STAKE IN SYRIA'S RECONSTRUCTION - SOURCES ...",
       "posted_at": "2026-07-05T17:33:55+00:00",
       "captured_at": "2026-07-05T17:33:55.610539+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6801,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990816,
-      "message_text": "EGYPT'S SISI DECLARES PARLIAMENT, CABINET AND DEFENSE MINISTRY WILL NEVER AGAIN BE VULNERABLE TO SUCH THREATS; VOWS SCENARIO OF INSTITUTIONAL SIEGES WILL NEVER BE REPEATED IN EGYPT - SOURCES ...",
-      "posted_at": "2026-07-05T17:33:25+00:00",
-      "captured_at": "2026-07-05T17:33:27.334513+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6799,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990815,
-      "message_text": "EGYPT'S SISI AT NEW CAPITAL INAUGURATION: CITES PAST SIEGES OF CONSTITUTIONAL COURT, COUNCIL OF MINISTERS, MINISTRY OF DEFENSE AND MEDIA PRODUCTION CITY AS JUSTIFICATION FOR RELOCATING ALL STATE INSTITUTIONS TO NEW CAPITAL - SOURCES ...",
-      "posted_at": "2026-07-05T17:32:55+00:00",
-      "captured_at": "2026-07-05T17:32:56.555564+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6797,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990814,
-      "message_text": "NETANYAHU CABINET UNANIMOUSLY VOTES TO DEFY HIGH COURT IN HISTORIC FIRST FOR ISRAEL; GOVERNMENT REFUSES TO RECOGNISE DECISIONS BY SECOND AUTHORITY FOR TELEVISION AND RADIO, DIRECTLY CONTRAVENING COURT ORDER TO KEEP BROADCAST REGULATOR OPERATIONAL FOLLOWING WAVE OF RESIGNATIONS ALLEGEDLY ORCHESTRATED BY COMMUNICATIONS MINISTER'S OFFICE - SOURCES ...",
-      "posted_at": "2026-07-05T17:31:54+00:00",
-      "captured_at": "2026-07-05T17:31:57.791408+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6795,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990813,
-      "message_text": "58% OF VOTERS SAY IRAN WAR NOT WORTH THE COST AS TRUMP APPROVAL DROPS TO 36%; WHITE HOUSE SEEKING $67B IN NEW MILITARY FUNDING AMID GROWING REPUBLICAN MIDTERM CONCERNS - SOURCES ...",
-      "posted_at": "2026-07-05T17:30:54+00:00",
-      "captured_at": "2026-07-05T17:30:56.516902+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
