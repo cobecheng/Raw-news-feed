@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T04:42:49.735414+00:00",
+  "generated_at": "2026-07-08T04:48:20.019831+00:00",
   "window_hours": 72,
-  "count": 522,
+  "count": 520,
   "news": [
     {
       "id": 7511,
@@ -6758,32 +6758,6 @@
       "message_text": "WALL STREET BANKS RECOVER IN CHINA AMID TRADING BOOM-FT ...",
       "posted_at": "2026-07-05T04:49:41+00:00",
       "captured_at": "2026-07-05T04:49:41.991366+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6471,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990650,
-      "message_text": "OCTOPUS ENERGY SET FOR SHOWDOWN WITH WORKERS OVER UNION RECOGNITION -FT ...",
-      "posted_at": "2026-07-05T04:47:41+00:00",
-      "captured_at": "2026-07-05T04:47:43.693678+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6469,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990649,
-      "message_text": "CHINA COOLS ON OVERSEAS PUBLICATION OF SCIENTIFIC RESEARCH-FT ...",
-      "posted_at": "2026-07-05T04:44:41+00:00",
-      "captured_at": "2026-07-05T04:44:42.553111+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
