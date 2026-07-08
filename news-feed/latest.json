@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T20:51:39.117863+00:00",
+  "generated_at": "2026-07-08T20:57:09.392333+00:00",
   "window_hours": 72,
-  "count": 328,
+  "count": 325,
   "news": [
     {
       "id": 7511,
@@ -4223,45 +4223,6 @@
       "message_text": "RUSSIAN HACKERS INFILTRATE EMAILS OF UK GOVERNMENT AND OVERSEAS FOREIGN OFFICE OFFICIALS IN ONGOING CYBERATTACK - TELEGRAPH ...",
       "posted_at": "2026-07-05T21:06:04+00:00",
       "captured_at": "2026-07-05T21:06:05.016664+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6861,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990847,
-      "message_text": "CANADA PM\u00a0TO CHOOSE BETWEEN GERMANY, SK ON MON FOR SUBMARINE CONTRACT\u00a0- GLOBE\n\n ...",
-      "posted_at": "2026-07-05T20:55:34+00:00",
-      "captured_at": "2026-07-05T20:55:36.131997+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6859,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990846,
-      "message_text": "TRUMP HEADS TO NATO SUMMIT TO MEET ZELENSKYY, FACE WARY ALLIES \u2013 BBG\n\n ...",
-      "posted_at": "2026-07-05T20:54:34+00:00",
-      "captured_at": "2026-07-05T20:54:36.913901+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6857,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990845,
-      "message_text": "TRUMP CALLED FIFA PRESIDENT INFANTINO TO REQUEST REVIEW OF BALOGUN RED CARD - SOURCE ...",
-      "posted_at": "2026-07-05T20:52:34+00:00",
-      "captured_at": "2026-07-05T20:52:35.023486+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
