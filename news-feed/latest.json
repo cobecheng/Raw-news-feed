@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T03:58:47.530955+00:00",
+  "generated_at": "2026-07-08T04:04:17.806408+00:00",
   "window_hours": 72,
-  "count": 535,
+  "count": 534,
   "news": [
     {
       "id": 7511,
@@ -6940,19 +6940,6 @@
       "message_text": "CHINA'S MILITARY ADDS 2 GENERALS AFTER ANTI-CORRUPTION PURGE THINS RANKS-NA ...",
       "posted_at": "2026-07-05T04:05:39+00:00",
       "captured_at": "2026-07-05T04:05:42.654300+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6443,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990636,
-      "message_text": "INDIA EYES OIL EXPLORATION EXPANSION AFTER MIDDLE EAST WAR SHORTAGES-ET ...",
-      "posted_at": "2026-07-05T04:00:09+00:00",
-      "captured_at": "2026-07-05T04:00:12.012837+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
