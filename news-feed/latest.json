@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T01:13:38.766144+00:00",
+  "generated_at": "2026-07-08T01:19:09.041740+00:00",
   "window_hours": 72,
-  "count": 587,
+  "count": 585,
   "news": [
     {
       "id": 7511,
@@ -7603,32 +7603,6 @@
       "message_text": "IFLYTEK HAS OFFICIALLY LAUNCHED AN OPEN PLATFORM IN CENTRAL ASIA, POSITIONING UZBEKISTAN AS A NEW REGIONAL AI HUB. ...",
       "posted_at": "2026-07-05T01:24:13+00:00",
       "captured_at": "2026-07-05T01:24:14.062092+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6341,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990585,
-      "message_text": "TECH STOCKS DECLINED FOLLOWING A WEAK JOBS REPORT, WITH ANALYSTS POINTING TO PALANTIR, CHEVRON AND MORGAN STANLEY. ...",
-      "posted_at": "2026-07-05T01:18:12+00:00",
-      "captured_at": "2026-07-05T01:18:14.138779+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6339,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990584,
-      "message_text": "UKRAINIAN PRESIDENT VOLODYMYR ZELENSKIY SAID HE AGREED TO CONTINUE HIS CONVERSATION WITH DONALD TRUMP AT A NATO SUMMIT IN TURKEY. ...",
-      "posted_at": "2026-07-05T01:13:42+00:00",
-      "captured_at": "2026-07-05T01:13:43.158811+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
