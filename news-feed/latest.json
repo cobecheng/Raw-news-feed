@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T03:03:44.721182+00:00",
+  "generated_at": "2026-07-08T03:09:15.014648+00:00",
   "window_hours": 72,
-  "count": 552,
+  "count": 549,
   "news": [
     {
       "id": 7511,
@@ -7135,45 +7135,6 @@
       "message_text": "THE VIETNAMESE GOVERNMENT HAS ISSUED NEW REGULATIONS GOVERNING SPECIAL FLIGHTS. ...",
       "posted_at": "2026-07-05T03:11:40+00:00",
       "captured_at": "2026-07-05T03:11:42.534546+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6413,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990621,
-      "message_text": "WASHINGTON MONUMENT DISPLAYS \u201cFREEDOM\u201d AHEAD OF TRUMP SPEECH. ...",
-      "posted_at": "2026-07-05T03:07:07+00:00",
-      "captured_at": "2026-07-05T03:07:08.351864+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6411,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990620,
-      "message_text": "AMERICA\u2019S JULY 4 CELEBRATIONS HAVE TURNED CHAOTIC AS FLAMES ERUPTED ON THE BROOKLYN BRIDGE IN NEW YORK, WHILE THOUSANDS WERE EVACUATED FROM WASHINGTON DC\u2019S NATIONAL MALL DUE TO WEATHER WARNINGS - TELEGRAPH ...",
-      "posted_at": "2026-07-05T03:06:37+00:00",
-      "captured_at": "2026-07-05T03:06:38.441729+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6409,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990619,
-      "message_text": "LEBANON\u2019S PRESIDENT URGES US SOLIDARITY AS ISRAELI TROOPS OCCUPY SOUTH-SCMP ...",
-      "posted_at": "2026-07-05T03:04:07+00:00",
-      "captured_at": "2026-07-05T03:04:09.235841+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
