@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T23:42:17.791521+00:00",
+  "generated_at": "2026-07-08T23:47:48.066363+00:00",
   "window_hours": 72,
-  "count": 310,
+  "count": 308,
   "news": [
     {
       "id": 7511,
@@ -4002,32 +4002,6 @@
       "message_text": "UKRAINE HAS STRUCK RUSSIAN OIL REFINERIES AT LEAST 194 TIMES SINCE START OF 2026, AN 11-FOLD INCREASE OVER SAME PERIOD IN 2025, WITH U.S. INTELLIGENCE ASSISTING IN AIR DEFENSE MAPPING AND ROUTE PLANNING; MAY 2026 SAW RECORD 16 SUCCESSFUL REFINERY STRIKES IN A SINGLE MONTH - FT ...",
       "posted_at": "2026-07-05T23:49:09+00:00",
       "captured_at": "2026-07-05T23:49:10.246003+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6893,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990863,
-      "message_text": "JAPAN'S NIKKEI AVERAGE FUTURES EASE 0.2% IN INITIAL TRADING ...",
-      "posted_at": "2026-07-05T23:46:25+00:00",
-      "captured_at": "2026-07-05T23:46:26.330804+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6895,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990864,
-      "message_text": "BENCHMARK 10-YEAR JGB FUTURES DECLINE 0.11 POINT IN INITIAL TRADING ...",
-      "posted_at": "2026-07-05T23:46:25+00:00",
-      "captured_at": "2026-07-05T23:46:27.031186+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
