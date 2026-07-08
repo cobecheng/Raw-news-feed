@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T05:48:53.132539+00:00",
+  "generated_at": "2026-07-08T05:54:23.440881+00:00",
   "window_hours": 72,
-  "count": 499,
+  "count": 498,
   "news": [
     {
       "id": 7511,
@@ -6472,19 +6472,6 @@
       "message_text": "JAPAN'S STARTUP AMBITIONS LIE AT THE HEART OF ITS $2.3 TRILLION TECH PLANS ...",
       "posted_at": "2026-07-05T05:55:28+00:00",
       "captured_at": "2026-07-05T05:55:31.511832+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6515,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990672,
-      "message_text": "THREE OF ALI KHAMENEI'S SONS\u2014MOSTAFA, MASOUD AND MEYSAM HOSSEINI KHAMENEI\u2014APPEARED ON SUNDAY TO SAY PRAYERS OVER THEIR FATHER'S BODY. MOJTABA KHAMENEI, WHO BECAME IRAN'S THIRD SUPREME LEADER AFTER HIS FATHER'S DEATH, WAS STILL ABSENT. IT WAS THE FIRST PUBLIC APPEARANCE BY KHAMENEI'S SONS SINCE HE WAS KILLED IN LATE FEBRUARY. ...",
-      "posted_at": "2026-07-05T05:48:58+00:00",
-      "captured_at": "2026-07-05T05:49:00.957386+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
