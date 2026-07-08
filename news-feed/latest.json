@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T10:40:38.115420+00:00",
+  "generated_at": "2026-07-08T10:46:08.391991+00:00",
   "window_hours": 72,
-  "count": 442,
+  "count": 441,
   "news": [
     {
       "id": 7511,
@@ -5731,19 +5731,6 @@
       "message_text": "IRAN'S IRNA: MARITIME TRADE RESTARTS BETWEEN QATAR'S AL RUWAIS PORT AND IRANIAN PORTS ...",
       "posted_at": "2026-07-05T10:46:10+00:00",
       "captured_at": "2026-07-05T10:46:12.863681+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6629,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990729,
-      "message_text": "IRAN'S IRNA: MARITIME TRADE RESTARTS BETWEEN QATAR'S AL RUWAIS PORT AND IRANIAN PORTS ...",
-      "posted_at": "2026-07-05T10:40:40+00:00",
-      "captured_at": "2026-07-05T10:40:41.819870+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
