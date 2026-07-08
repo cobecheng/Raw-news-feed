@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T10:13:06.727129+00:00",
+  "generated_at": "2026-07-08T10:18:37.005719+00:00",
   "window_hours": 72,
-  "count": 447,
+  "count": 446,
   "news": [
     {
       "id": 7511,
@@ -5796,19 +5796,6 @@
       "message_text": "FARS NEWS AGENCY: IRGC BOATS DIVERTED 6 SHIPS FROM THE OMANI PASSAGE ...",
       "posted_at": "2026-07-05T10:20:39+00:00",
       "captured_at": "2026-07-05T10:20:39.899334+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6619,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990724,
-      "message_text": "SEVEN OPEC+ NATIONS TO BOOST OIL OUTPUT QUOTAS BY 188,000 BPD IN AUGUST: STATEMENT ...",
-      "posted_at": "2026-07-05T10:13:54+00:00",
-      "captured_at": "2026-07-05T10:13:55.448755+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
