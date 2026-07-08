@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T00:29:36.510718+00:00",
+  "generated_at": "2026-07-08T00:35:06.801896+00:00",
   "window_hours": 72,
-  "count": 615,
+  "count": 611,
   "news": [
     {
       "id": 7511,
@@ -7941,58 +7941,6 @@
       "message_text": "RESEARCHERS SAY \u2019S MOST ADVANCED LLM CAN SERIOUSLY CHALLENGE LEADING U.S. SYSTEMS IN SPECIALISED CODING AND CYBERSECURITY TASKS-THE HINDU ...",
       "posted_at": "2026-07-05T00:38:15+00:00",
       "captured_at": "2026-07-05T00:38:16.875651+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6289,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990559,
-      "message_text": "NORTH KOREAN LEADER KIM JONG UN OBSERVED THE TEST LAUNCH OF A STRATEGIC CRUISE MISSILE FROM A NAVAL DESTROYER, KCNA REPORTED. ...",
-      "posted_at": "2026-07-05T00:32:24+00:00",
-      "captured_at": "2026-07-05T00:32:26.095196+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6285,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990557,
-      "message_text": "OPENAI CONFIRMED A CONFIDENTIAL IPO FILING IN JUNE AND IS REPORTEDLY LEANING TOWARD A 2027 LISTING AT A $1 TRILLION VALUATION-FOOL ...",
-      "posted_at": "2026-07-05T00:31:09+00:00",
-      "captured_at": "2026-07-05T00:31:09.859168+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6287,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990558,
-      "message_text": "MICROSOFT TRADES NEARLY 30% BELOW ITS 52-WEEK HIGH DESPITE GROWING REVENUE 18% LAST QUARTER-FOOL ...",
-      "posted_at": "2026-07-05T00:31:09+00:00",
-      "captured_at": "2026-07-05T00:31:10.537955+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6283,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990556,
-      "message_text": "MICROSOFT HOLDS A ROUGHLY 27% STAKE IN OPENAI, VALUED AT ABOUT $135 BILLION WHEN THE DEAL WAS STRUCK-FOOL ...",
-      "posted_at": "2026-07-05T00:30:39+00:00",
-      "captured_at": "2026-07-05T00:30:41.136658+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
