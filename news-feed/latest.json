@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T21:57:42.463519+00:00",
+  "generated_at": "2026-07-08T22:03:12.753820+00:00",
   "window_hours": 72,
-  "count": 319,
+  "count": 316,
   "news": [
     {
       "id": 7511,
@@ -4107,45 +4107,6 @@
       "posted_at": "2026-07-05T22:05:36+00:00",
       "captured_at": "2026-07-05T22:05:38.545365+00:00",
       "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6879,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990856,
-      "message_text": "S&P 500 FUTURES ADVANCE 0.4%, NASDAQ FUTURES SURGE 1.2% ...",
-      "posted_at": "2026-07-05T22:02:36+00:00",
-      "captured_at": "2026-07-05T22:02:37.249663+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6877,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990855,
-      "message_text": "BRENT OIL SLIPS BELOW $72/BBL ON RESUMING HORMUZ TRAFFIC AND OPEC+ OUTPUT HIKE ...",
-      "posted_at": "2026-07-05T22:01:36+00:00",
-      "captured_at": "2026-07-05T22:01:37.490956+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6875,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990854,
-      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
-      "posted_at": "2026-07-05T22:00:02+00:00",
-      "captured_at": "2026-07-05T22:00:03.283079+00:00",
-      "has_media": 1,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
       "destination_topic_id": 127
