@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T08:50:32.512676+00:00",
+  "generated_at": "2026-07-08T08:56:02.793993+00:00",
   "window_hours": 72,
-  "count": 465,
+  "count": 463,
   "news": [
     {
       "id": 7511,
@@ -6017,32 +6017,6 @@
       "message_text": "UKRAINE IS STRIKING RUSSIAN ENERGY INFRASTRUCTURE AT AN UNPRECEDENTED RATE.\n\nAN FT ANALYSIS FOUND KYIV'S INTENSIFIED DRONE CAMPAIGN IS PUTTING PRESSURE ON RUSSIA'S FUEL SUPPLIES AND AIR DEFENCES, BRINGING THE WAR CLOSER TO HOME THAN EVER BEFORE. ...",
       "posted_at": "2026-07-05T09:11:52+00:00",
       "captured_at": "2026-07-05T09:11:54.213065+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6585,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990707,
-      "message_text": "UKMTO REPORTS CARGO VESSEL TRIGGERED DISTRESS ALERT CLAIMING ATTACK BY UNIDENTIFIED ARMED ASSAILANTS ...",
-      "posted_at": "2026-07-05T08:55:06+00:00",
-      "captured_at": "2026-07-05T08:55:08.058895+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6583,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990706,
-      "message_text": "UKMTO REPORTS INCIDENT 30NM SOUTHWEST OF YEMEN'S HODEIDAH ...",
-      "posted_at": "2026-07-05T08:54:36+00:00",
-      "captured_at": "2026-07-05T08:54:39.854429+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
