@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T03:42:16.697686+00:00",
+  "generated_at": "2026-07-08T03:47:46.981208+00:00",
   "window_hours": 72,
-  "count": 539,
+  "count": 537,
   "news": [
     {
       "id": 7511,
@@ -6979,32 +6979,6 @@
       "message_text": "39% OF BUSINESS LEADERS CUT STAFF DUE TO AI DEPLOYMENT, ORGVUE REPORT FINDS\n\n A REPORT BY ORGVUE SAYS 39% OF BUSINESS LEADERS HAVE MADE EMPLOYEES REDUNDANT AS A RESULT OF ADOPTING AI TECHNOLOGIES. ...",
       "posted_at": "2026-07-05T03:47:54+00:00",
       "captured_at": "2026-07-05T03:47:56.606799+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6437,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990633,
-      "message_text": "TRUMP: AMERICA HAS CRUSHED THE HAMMER AND SICKLE BEFORE, CAN DO IT AGAIN IF NECESSARY ...",
-      "posted_at": "2026-07-05T03:43:53+00:00",
-      "captured_at": "2026-07-05T03:43:55.150188+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6435,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990632,
-      "message_text": "ASIA\u2019S CPTPP AND RCEP TRADE PACTS HELP CUSHION THE IMPACT OF TRUMP TARIFFS, THOUGH BENEFITS VARY ACROSS INDUSTRIES AND COUNTRIES. ...",
-      "posted_at": "2026-07-05T03:42:53+00:00",
-      "captured_at": "2026-07-05T03:42:54.315570+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
