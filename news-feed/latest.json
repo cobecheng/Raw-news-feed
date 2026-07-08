@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T20:24:07.723633+00:00",
+  "generated_at": "2026-07-08T20:29:38.004130+00:00",
   "window_hours": 72,
-  "count": 336,
+  "count": 335,
   "news": [
     {
       "id": 7511,
@@ -4353,19 +4353,6 @@
       "message_text": "\ud83c\udf06 Market News Digest\nJul 5, 2026 (EST)\n\n\ud83d\udd25 Top Stories\n\u2022 OPEC+ lifts August output by 188k bpd \u2014 fifth straight hike, a bearish cap on crude despite supply tightness  \n\u2022 Trump to meet Zelenskyy and Syria\u2019s leadership at NATO sidelines \u2014 peace-talk optics plus fresh billions in expected deals  \n\u2022 Israel expands Lebanon strikes / keeps forces on the ground \u2014 Netanyahu says threats from Gaza removed, Iran nuclear red line remains  \n\u2022 US margin debt hits $1.4T near dot-com extremes \u2014 leverage warning for risk assets if momentum cracks  \n\n\u26fd Oil & Energy\n\u2022 Iraq June exports ~24.5m barrels; Qatar-Iran maritime trade resumes; cargo vessel attacked off Yemen  \n\u2022 Ukraine intensifies strikes on Russian energy infrastructure \u2014 raising disruption risk for refined-product flows  \n\n\ud83d\udcca Markets & Macro\n\u2022 Weekend markets mixed; crude up, equities flat, metals steady \u2014 DAX/Dow/Nasdaq little changed, USOIL +0.75%, gold ~$4,176  \n\u2022 RBNZ seen hiking 25 bps to 2.50% on Jul 8 \u2014 economists also see one more move to 2.75% by Sep  \n\u2022 Foxconn revenue surges 52% in June \u2014 strong AI server demand keeps Taiwan hardware cycle hot  \n\n\ud83c\udf0d Geopolitical\n\u2022 Israel-Hezbollah tensions escalate \u2014 airstrikes in southern Lebanon and warnings of swift escalation if ceasefire breaks  \n\u2022 Macron headed to Damascus with investors \u2014 major signal that Europe wants a stake in post-Assad Syria rebuild  \n\u2022 North Korea test-fires 12 nuclear-capable cruise missiles \u2014 sharp escalation in regional military pressure  \n\u2022 Sudan aid groups warn of repeat massacres in Darfur/Al-Ubayyid \u2014 urgent civilian-protection risk  \n\n\ud83e\ude99 Crypto & DeFi\n\u2022 Bitcoin slips to ~$62.8k; Ether and majors weaker \u2014 broad altcoin selloff while MSTR\u2019s Saylor hints at more BTC buys  \n\u2022 Trump memecoin fallout resurfaces \u2014 reports say $636m raised while retail investors lost $3.81b  \n\n\ud83c\udfdb\ufe0f Regulatory & Policy\n\u2022 Trump admin targets Medicare drug markups \u2014 reported rule could save patients $1.1b next year  \n\u2022 US judge pauses Pentagon restrictions on Alibaba lobbying access \u2014 temporary relief pending constitutional review  \n\u2022 Netanyahu cabinet defies Israel\u2019s high court \u2014 institutional showdown over broadcast regulator control  \n\n\ud83c\udfe2 Corporate\n\u2022 Castlelake to buy easyJet at \u00a36.90/share cash \u2014 takeover bid for the UK airline  \n\u2022 Berkshire\u2019s $6.8b Taylor Morrison deal supports US housing sentiment \u2014 large-cap capital backing homebuilders  \n\u2022 Alibaba bans Claude Code internally \u2014 another sign of AI-tooling restrictions inside China tech  \n\nDigested by *MarketClaw* \ud83d\udc3e \u2014 99 messages scanned",
       "posted_at": "2026-07-05T20:30:15+00:00",
       "captured_at": "2026-07-05T20:30:16.461191+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6841,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990836,
-      "message_text": "ALIBABA GETS TEMPORARY RELIEF FROM US LOBBYING BAN AS FEDERAL JUDGE PAUSES PENTAGON RESTRICTIONS PENDING CONSTITUTIONAL REVIEW. || RULING ALLOWS ALIBABA TO RETAIN FEDERAL LOBBYING ACCESS TEMPORARILY AFTER COMPANY ARGUED DOD BLACKLIST-RELATED BAN VIOLATES FREE SPEECH RIGHTS. ...",
-      "posted_at": "2026-07-05T20:27:03+00:00",
-      "captured_at": "2026-07-05T20:27:04.889564+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
