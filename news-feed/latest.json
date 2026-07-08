@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T04:09:48.081889+00:00",
+  "generated_at": "2026-07-08T04:15:18.356940+00:00",
   "window_hours": 72,
-  "count": 532,
+  "count": 530,
   "news": [
     {
       "id": 7511,
@@ -6888,32 +6888,6 @@
       "message_text": "UBER DROPS EXPANSION PLANS IN FIVE OF SEVEN TARGETED COUNTRIES, INCLUDING AUSTRIA, NORWAY AND GREECE: FT. ...",
       "posted_at": "2026-07-05T04:15:42+00:00",
       "captured_at": "2026-07-05T04:15:45.560243+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6451,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990640,
-      "message_text": "CHINESE AI CHIP START-UP EMERGES FROM STEALTH, USES 3D STACKING TO SIDESTEP U.S. CONTROLS. ...",
-      "posted_at": "2026-07-05T04:14:40+00:00",
-      "captured_at": "2026-07-05T04:14:41.969128+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6449,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990639,
-      "message_text": "EUROPEAN SPACEX RIVAL DEAL FACES ANTITRUST CLAIMS.- AIRBUS ...",
-      "posted_at": "2026-07-05T04:14:39+00:00",
-      "captured_at": "2026-07-05T04:14:41.338918+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
