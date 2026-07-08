@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T05:15:51.459896+00:00",
+  "generated_at": "2026-07-08T05:21:21.737520+00:00",
   "window_hours": 72,
-  "count": 512,
+  "count": 511,
   "news": [
     {
       "id": 7511,
@@ -6641,19 +6641,6 @@
       "message_text": "ICE ARRESTS 10,000 IN 5 DAYS, A SHARP LATE-JUNE SURGE IN TRUMP'S DEPORTATION PUSH - AP ...",
       "posted_at": "2026-07-05T05:22:57+00:00",
       "captured_at": "2026-07-05T05:22:57.899230+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6489,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990659,
-      "message_text": "TRUMP ADMINISTRATION\u2019S $46 BILLION 'SMART WALL' RACES AHEAD ON THE US-MEXICO BORDER - AP ...",
-      "posted_at": "2026-07-05T05:20:27+00:00",
-      "captured_at": "2026-07-05T05:20:29.696061+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
