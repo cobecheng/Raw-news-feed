@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T20:35:08.297983+00:00",
+  "generated_at": "2026-07-08T20:40:38.569916+00:00",
   "window_hours": 72,
-  "count": 331,
+  "count": 330,
   "news": [
     {
       "id": 7511,
@@ -4288,19 +4288,6 @@
       "message_text": "TAIKO CRITICAL MINERALS UNDERTAKING CAPITAL RAISING OF UP TO NZ$5 MLN VIA PLACEMENT TO WHOLESALE INVESTORS AND NZ$3 MLN SHARE PURCHASE PLAN AT NZ$0.25 PER SHARE ...",
       "posted_at": "2026-07-05T20:42:03+00:00",
       "captured_at": "2026-07-05T20:42:04.305242+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6851,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990842,
-      "message_text": "GERMANY PLANS TO RAISE 2027 NET NEW BORROWING TO \u20ac118 BILLION, CITING WEAKER TAX REVENUE, HIGHER DEBT-SERVICING COSTS, AND ADDITIONAL LABOR MARKET FUNDING NEEDS. ...",
-      "posted_at": "2026-07-05T20:37:04+00:00",
-      "captured_at": "2026-07-05T20:37:05.395750+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
