@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T19:12:34.039954+00:00",
+  "generated_at": "2026-07-08T19:18:04.308855+00:00",
   "window_hours": 72,
-  "count": 346,
+  "count": 344,
   "news": [
     {
       "id": 7511,
@@ -4470,32 +4470,6 @@
       "message_text": "TRUMP CONGRATULATES FREEDOM 250, WHITE HOUSE COMMISSION AND PYROTECNICO ON PRODUCING MOST SPECTACULAR FIREWORKS SHOW HE HAS EVER WITNESSED - TRUTH SOCIAL ...",
       "posted_at": "2026-07-05T19:32:46+00:00",
       "captured_at": "2026-07-05T19:32:46.889167+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6823,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990827,
-      "message_text": "ZELENSKY: INTELLIGENCE CONFIRMS RUSSIA PREPARING ANOTHER MASSIVE STRIKE; URGES UKRAINIANS TO HEED AIR RAID ALERTS; STATES RUSSIA WANTS TO INFLICT MORE EVIL AND KILL PEOPLE ...",
-      "posted_at": "2026-07-05T19:14:44+00:00",
-      "captured_at": "2026-07-05T19:14:47.649856+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6821,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990826,
-      "message_text": "UKRAINE'S ZELENSKIY: INTELLIGENCE INDICATES RUSSIA PREPARING MAJOR NEW ASSAULT ...",
-      "posted_at": "2026-07-05T19:12:59+00:00",
-      "captured_at": "2026-07-05T19:13:02.524244+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
