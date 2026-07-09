@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T23:58:48.620615+00:00",
+  "generated_at": "2026-07-09T00:04:18.887611+00:00",
   "window_hours": 72,
-  "count": 304,
+  "count": 301,
   "news": [
     {
       "id": 7511,
@@ -3911,45 +3911,6 @@
       "message_text": "AUSTRALIA'S BENCHMARK ASX 200 DECLINES 0.2% TO 8,827.70 IN EARLY TRADE. ...",
       "posted_at": "2026-07-06T00:07:25+00:00",
       "captured_at": "2026-07-06T00:07:28.109817+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6909,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990871,
-      "message_text": "RUSSIAN DRONE STRIKE AT THE \"WARSAW\" RESIDENTIAL COMPLEX IN KYIV-WSN ...",
-      "posted_at": "2026-07-06T00:03:40+00:00",
-      "captured_at": "2026-07-06T00:03:41.669794+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6907,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990870,
-      "message_text": "ISRAELI AIR FORCE LAUNCHES STRIKE ON RESIDENTIAL APARTMENT NEAR JORDAN HOSPITAL IN TEL AL-HAWA, SOUTHWEST OF GAZA CITY, ACCORDING TO PALESTINIAN MEDIA. ...",
-      "posted_at": "2026-07-06T00:03:12+00:00",
-      "captured_at": "2026-07-06T00:03:15.252463+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 6905,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 990869,
-      "message_text": "CHINA\u2019S CARMAKERS ARE REWRITING EUROPE\u2019S AUTO HIERARCHY-SCMP ...",
-      "posted_at": "2026-07-06T00:00:54+00:00",
-      "captured_at": "2026-07-06T00:00:55.875539+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
