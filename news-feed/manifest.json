@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-09T03:17:18.361768+00:00",
+  "generated_at": "2026-07-09T04:19:06.265572+00:00",
   "db_path": "/Users/eve/Library/Application Support/telegram-autoforwarder-service/app/state/news.db",
   "window_hours": 72,
-  "news_count": 357,
+  "news_count": 373,
   "sources_count": 2,
   "files": [
     "latest.json",
