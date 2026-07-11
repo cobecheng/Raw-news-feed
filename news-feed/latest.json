@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-07-10T23:12:30.810605+00:00",
+  "generated_at": "2026-07-11T00:03:03.031530+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 10253,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 994758,
+      "message_text": "TEXAS STOCK EXCHANGE STARTED TRADING ITS FIRST REAL STOCK SYMBOLS, LAUNCHING A DIRECT CHALLENGE TO THE DECADES-LONG LISTING DUOPOLY OF THE NYSE AND NASDAQ - WSJ ...",
+      "posted_at": "2026-07-11T00:03:00+00:00",
+      "captured_at": "2026-07-11T00:03:02.376557+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 10251,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "NOTIFICATIONS FROM ALERTS ...",
       "posted_at": "2026-07-09T11:50:33+00:00",
       "captured_at": "2026-07-09T11:50:34.798148+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 8253,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 993755,
-      "message_text": "IRAN'S REVOLUTIONARY GUARDS NAVY SAYS FOREIGNERS HAVE NO STAKE IN THE STRAIT OF HORMUZ - STATEMENT ...",
-      "posted_at": "2026-07-09T11:50:03+00:00",
-      "captured_at": "2026-07-09T11:50:05.818709+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
