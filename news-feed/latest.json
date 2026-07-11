@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-07-11T20:30:13.849049+00:00",
+  "generated_at": "2026-07-11T22:00:04.588949+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 10861,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 995064,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-07-11T22:00:03+00:00",
+      "captured_at": "2026-07-11T22:00:03.823894+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 10859,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "FED CHAIR WARSH: FED\u2019S DEDICATION TO PRICE STABILITY AND MAXIMUM EMPLOYMENT MANDATES 'UNWAVERING; WILL PURSUE WITH RIGOR' ...",
       "posted_at": "2026-07-09T19:01:05+00:00",
       "captured_at": "2026-07-09T19:01:09.136410+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 8863,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 994060,
-      "message_text": "TASK FORCES TO OPERATE INDEPENDENTLY, FOLLOW EVIDENCE, PRESENT FINDINGS FOR FOMC: FED STATEMENT ...",
-      "posted_at": "2026-07-09T19:01:05+00:00",
-      "captured_at": "2026-07-09T19:01:09.814050+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
