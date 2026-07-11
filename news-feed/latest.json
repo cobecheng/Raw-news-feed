@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-07-11T17:13:31.278259+00:00",
+  "generated_at": "2026-07-11T18:04:31.871971+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 10815,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 995040,
+      "message_text": "ZELENSKIY URGES UKRAINE\u2019S DIPLOMACY TO PRIORITIZE SPEEDING UP ALLIES\u2019 ARMS DELIVERY AGREEMENTS ...",
+      "posted_at": "2026-07-11T18:04:30+00:00",
+      "captured_at": "2026-07-11T18:04:31.183536+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 10813,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 995039,
+      "message_text": "LEBANESE OFFICIAL SOURCE: THE ARMY INFORMED THE US MILITARY DELEGATION OF ITS READINESS TO DEPLOY IN ANY AREA FROM WHICH ISRAEL WITHDRAWS ...",
+      "posted_at": "2026-07-11T17:13:59+00:00",
+      "captured_at": "2026-07-11T17:13:59.475076+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 10811,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "SIX EXPLOSIONS HEARD IN IRAN'S BUSHEHR AND CHOGHADAK - MEHR NEWS AGENCY ...",
       "posted_at": "2026-07-09T18:30:02+00:00",
       "captured_at": "2026-07-09T18:30:03.953601+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 8815,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 994036,
-      "message_text": "6 EXPLOSIONS HEARD IN IRAN'S BUSHEHR AND CHOGHADAK - MEHR NEWS AGENCY ...",
-      "posted_at": "2026-07-09T18:25:32+00:00",
-      "captured_at": "2026-07-09T18:25:34.459486+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 8813,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 994035,
-      "message_text": "EXPLOSIONS HEARD NEAR BUSHEHR PROVINCE - IRAN'S MEHR ...",
-      "posted_at": "2026-07-09T18:25:02+00:00",
-      "captured_at": "2026-07-09T18:25:03.446749+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
