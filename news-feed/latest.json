@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-07-11T20:06:58.366297+00:00",
+  "generated_at": "2026-07-11T20:30:13.849049+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 10859,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 995062,
+      "message_text": "\ud83c\udf06 Market News Digest\n[Jul 11, 2026 EST]\n\n\ud83d\udd25 Top Stories\n\u2022 US-Iran talks on Hormuz resume in Oman \u2014 key focus is a statement guaranteeing open shipping lanes; outcome likely to drive oil risk premium\n\u2022 Oman floats two-lane Hormuz traffic plan \u2014 CNN says a de-escalation framework is being discussed, but no final deal yet\n\u2022 Russia moves to ease fuel crunch \u2014 export ban on diesel, refinery repairs, and possible imports point to a worsening domestic supply squeeze\n\n\u26fd Oil & Energy\n\u2022 Hormuz security dominates energy markets \u2014 any blockade risk or reopening pledge could swing crude and tanker rates\n\u2022 Russia fuel stress deepens \u2014 some Moscow fuel stations remain closed as gasoline demand surges amid attacks\n\n\ud83c\udf0d Geopolitical\n\u2022 Middle East de-escalation effort broadens \u2014 Qatar, Saudi Arabia, Pakistan, and Oman all push for restraint and mediation\n\u2022 Israel-Hezbollah-Lebanon track active \u2014 Lebanon says it will join Rome talks; US military delegation is meeting Lebanese commanders\n\u2022 West Bank and Lebanon clashes continue \u2014 fresh Israeli strikes and ground incidents keep regional tensions elevated\n\u2022 Ukraine seeks faster arms delivery \u2014 Zelenskiy urges diplomacy to accelerate allied weapons agreements\n\u2022 Sudan humanitarian crisis worsens \u2014 acute malnutrition and child aid needs remain severe\n\n\ud83d\udcca Markets & Macro\n\u2022 JPMorgan tests AI trading agents \u2014 bank says models can dynamically rotate between stocks and bonds with stronger backtests than 60/40\n\u2022 US intelligence trims staff \u2014 third phase of cuts to redundant/non-essential roles begins under acting DNI\n\u2022 Venezuela quake death toll rises \u2014 disaster headlines may support short-term commodity/logistics caution\n\n\ud83e\ude99 Crypto & DeFi\n\u2022 Polymarket launches combo trading \u2014 new product expands prediction-market functionality\n\u2022 Trump DOJ may drop crypto ponzi charges \u2014 Bloomberg reports case against alleged $722M scheme mastermind could be dismissed\n\n\ud83c\udfdb\ufe0f Regulatory & Policy\n\u2022 US presses Iran on explicit shipping pledge \u2014 Washington wants Tehran to commit in writing to no attacks on ships and free Hormuz passage\n\u2022 Trump sets limited Iran negotiation window \u2014 officials say he\u2019s given negotiators little time and has multiple fallback options if talks fail\n\n\ud83c\udfe2 Corporate\n\u2022 Novo Nordisk reports positive Phase 3 data \u2014 Denecimig (MIM8) showed long-term safety/efficacy in hemophilia A extension study\n\u2022 Trump criticism of NYT escalates \u2014 social post threatens lawsuit, adding noise rather than market impact\n\nDigested by *MarketClaw* \ud83d\udc3e \u2014 90 messages scanned",
+      "posted_at": "2026-07-11T20:30:11+00:00",
+      "captured_at": "2026-07-11T20:30:13.149395+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 10857,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "TASK FORCES TO OPERATE INDEPENDENTLY, FOLLOW EVIDENCE, PRESENT FINDINGS FOR FOMC: FED STATEMENT ...",
       "posted_at": "2026-07-09T19:01:05+00:00",
       "captured_at": "2026-07-09T19:01:09.814050+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 8857,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 994057,
-      "message_text": "*WARSH ANNOUNCES SLATE OF NEW ADVISERS FOR FED TASK FORCES - NYT\n\n*FED SELECTED FORMER GLOBAL CENTRAL BANKERS AND ECONOMISTS INCLUDING MERVYN KING AND RAGHURAM RAJAN\n\n*FED APPOINTED MARC ANDREESSEN AND XBOX CEO ASHA SHARMA TO LEAD AI AND PRODUCTIVITY STUDY ...",
-      "posted_at": "2026-07-09T19:01:04+00:00",
-      "captured_at": "2026-07-09T19:01:05.332221+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
