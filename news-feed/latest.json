@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-07-12T19:26:16.814930+00:00",
+  "generated_at": "2026-07-12T20:30:33.524315+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 11583,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 995426,
+      "message_text": "\ud83c\udf06 Market News Digest\n[Jul 12, 2026 EST]\n\n\ud83d\udd25 Top Stories\n\u2022 Hormuz flashpoint deepens \u2014 Iran says the strait is closed, while U.S./CENTCOM says it remains open and navigation is being protected\n\u2022 U.S. strikes escalate on Iran \u2014 Axios/NYT say U.S. hit missile, air-defense and IRGC boat targets near Hormuz to curb attacks on shipping\n\u2022 Mideast spillover widens \u2014 Drone/missile attacks reported in Kuwait, Oman and Iraq as regional governments condemn the violence\n\u2022 Oil prices jump \u2014 USOIL +3.29% as traders price in disruption risk to the world\u2019s key crude shipping lane\n\n\u26fd Oil & Energy\n\u2022 Hormuz traffic at risk \u2014 Iran\u2019s closure threat and attacks on tankers/ships raise immediate supply-shock fears\n\u2022 Kuwait energy assets hit \u2014 drilling platform attack injured a worker; border centers also reported damaged\n\u2022 Bandar Abbas/Qeshm blasts \u2014 fresh explosions and strikes reported in southern Iran near vital maritime infrastructure\n\n\ud83d\udcca Markets & Macro\n\u2022 Risk-off tone globally \u2014 DAX, Dow, Nasdaq, FTSE and Hang Seng mostly lower; gold and silver also weaker in weekend pricing\n\u2022 Trump says Hormuz open \u2014 U.S. president reiterated commercial traffic can continue despite conflict\n\u2022 Australia pension model eyed \u2014 Trump wants officials to study Australia\u2019s $3.1T retirement system as a possible U.S. reform template\n\n\ud83c\udf0d Geopolitical\n\u2022 Ukraine cabinet shake-up \u2014 Zelenskyy removed PM Svyrydenko in a broader reshuffle\n\u2022 Gulf states condemn Iran \u2014 UAE, Qatar, Oman, Bahrain, Jordan and others called for de-escalation and sovereignty respect\n\u2022 Qatar mourns former emir \u2014 regional leaders issued condolences and declared mourning after Sheikh Hamad bin Khalifa Al Thani\u2019s death\n\u2022 Iraq/Kurdish, Gaza fronts simmer \u2014 separate drone strike on Iraqi Kurdish opposition site; Israel says it killed two Hamas operatives in northern Gaza\n\n\ud83e\ude99 Crypto & DeFi\n\u2022 Saylor hints at more BTC buys \u2014 MicroStrategy\u2019s Michael Saylor signaled possible additional bitcoin accumulation\n\u2022 Kalshi tax angle \u2014 prediction-market World Cup bets may get more favorable tax treatment than sportsbook wagers\n\n\ud83c\udfdb\ufe0f Regulatory & Policy\n\u2022 Hormuz jurisdiction battle \u2014 Iran says passage is not possible without stability; U.S. says Iran does not control the strait\n\u2022 U.S. vows freedom of navigation \u2014 CENTCOM says forces are positioned to keep the waterway open\n\u2022 DOJ probe at UAW \u2014 U.S. Justice Department is investigating allegations against UAW president Shawn Fain\n\u2022 U.S.-Turkey ties in focus \u2014 NATO envoy Whitaker said Turkey could be a key partner and a potential F-35 deal remains possible\n\n\ud83c\udfe2 Corporate\n\u2022 Japanese sports maker pushes esports \u2014 the company is extending its athlete-collab model into gaming\n\u2022 India-Afghanistan agri ties deepen \u2014 Kabul visit highlights continued regional trade/food-security cooperation\n\nDigested by *MarketClaw* \ud83d\udc3e \u2014 113 messages scanned",
+      "posted_at": "2026-07-12T20:30:31+00:00",
+      "captured_at": "2026-07-12T20:30:32.812396+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 11581,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "UK'S PM STARMER TO TRAVEL TO PARIS FOR COALITION OF THE WILLING MEETING ON MONDAY ...",
       "posted_at": "2026-07-10T09:21:55+00:00",
       "captured_at": "2026-07-10T09:21:57.102557+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 9583,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 994421,
-      "message_text": "UK'S PM STARMER TO TRAVEL TO PARIS FOR COALITION OF THE WILLING MEETING ON MONDAY ...",
-      "posted_at": "2026-07-10T09:19:54+00:00",
-      "captured_at": "2026-07-10T09:19:57.249876+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
