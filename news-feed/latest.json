@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-07-15T22:00:06.460967+00:00",
+  "generated_at": "2026-07-15T22:41:17.371576+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 17193,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 998230,
+      "message_text": "BHP Q4: COPPER PRODUCTION 491.9 KT; IRON ORE WAIO PRODUCTION 74.8 MT; FY26 UNIT COSTS AT BOTTOM END OF GUIDANCE FOR ALL COPPER ASSETS, WITHIN RANGE FOR WAIO AND TOWARDS TOP END FOR BMA; FY27 PRODUCTION GUIDANCE REMAINS STRONG ...",
+      "posted_at": "2026-07-15T22:41:15+00:00",
+      "captured_at": "2026-07-15T22:41:16.658305+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 17191,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "COREWEAVE EXPLORING USE OF FINANCIAL DERIVATIVES TO HEDGE AGAINST FUTURE DROP IN MEMORY AND STORAGE CHIP PRICES - SOURCES ...",
       "posted_at": "2026-07-14T23:57:02+00:00",
       "captured_at": "2026-07-14T23:57:03.941796+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 15193,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 997228,
-      "message_text": "JAPAN MAY CORE MACHINERY ORDERS PLUNGE 12.4% M/M, FAR BELOW FORECAST OF -4.2% AND REVERSING PRIOR +8.7%; FALL 1.9% Y/Y, SHARPLY MISSING FORECAST OF +12.3% AND PRIOR +15.6% ...",
-      "posted_at": "2026-07-14T23:51:20+00:00",
-      "captured_at": "2026-07-14T23:51:22.693279+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
