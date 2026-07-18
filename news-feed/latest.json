@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-07-18T19:00:05.634726+00:00",
+  "generated_at": "2026-07-18T19:44:44.841803+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 21193,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1000232,
+      "message_text": "EU, GULF STATES REJECT ILLEGITIMATE SOVEREIGNTY CLAIMS IN JOINT STATEMENT ON STRAIT OF HORMUZ AND NAVIGATION FREEDOM - SAUDI STATE TV ...",
+      "posted_at": "2026-07-18T19:44:42+00:00",
+      "captured_at": "2026-07-18T19:44:44.156786+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 21191,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "CHINA\u2019S FX AUTHORITY SAYS THE FOREIGN EXCHANGE MARKET REMAINS STEADY AND TRANSACTIONS HAVE BEEN ACTIVE IN 2025. ...",
       "posted_at": "2026-07-17T02:06:36+00:00",
       "captured_at": "2026-07-17T02:06:37.874410+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 19195,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 999231,
-      "message_text": "CHINA\u2019S FOREIGN EXCHANGE REGULATOR REPORTS THE YUAN\u2019S SHARE OF CROSS-BORDER PAYMENTS AND RECEIPTS HAS CLIMBED TO 52.9%. ...",
-      "posted_at": "2026-07-17T02:06:36+00:00",
-      "captured_at": "2026-07-17T02:06:38.751602+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
