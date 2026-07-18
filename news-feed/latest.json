@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-07-18T21:16:17.417890+00:00",
+  "generated_at": "2026-07-18T22:00:05.960156+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 21215,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1000244,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-07-18T22:00:02+00:00",
+      "captured_at": "2026-07-18T22:00:04.923175+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 21213,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1000243,
+      "message_text": "ENGLAND 2 - 0 FRANCE\n\n\ud83c\uddeb\ud83c\uddf7 FRANCE OR ENGLAND \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f ?\n\nKICKOFF IS IN JUST 40 MINUTES\n\nTHE MARKET IS BACKING FRANCE AT 69%, WHILE ENGLAND SITS AT 31% AHEAD OF THE FIFA WORLD CUP THIRD-PLACE PLAYOFF. MORE THAN $57M HAS BEEN TRADED ON THE OUTCOME.\n\nWHO ARE YOU BACKING? \ud83d\udc47\n\n  - *WALTER BLOOMBERG ...",
+      "posted_at": "2026-07-18T21:19:00+00:00",
+      "captured_at": "2026-07-18T21:19:01.671493+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 21211,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "CHINA\u2019S FX AUTHORITY REPORTS THAT THE CURRENCY MARKET REMAINS RESILIENT AMID EXTERNAL CHALLENGES. ...",
       "posted_at": "2026-07-17T02:09:35+00:00",
       "captured_at": "2026-07-17T02:09:38.433737+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 19215,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 999241,
-      "message_text": "CHINA'S PRESIDENT XI: GRASP UNIQUE HISTORIC CHANCE TO PROMOTE OPEN-SOURCE AI ...",
-      "posted_at": "2026-07-17T02:09:06+00:00",
-      "captured_at": "2026-07-17T02:09:10.027763+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 19213,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 999240,
-      "message_text": "CHINA FX REGULATOR: TO KEEP EASING RISKS FROM EXTERNAL SHOCKS, BOLSTER ECONOMIC GROWTH ...",
-      "posted_at": "2026-07-17T02:09:05+00:00",
-      "captured_at": "2026-07-17T02:09:06.136785+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
