@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-07-19T01:21:25.191455+00:00",
+  "generated_at": "2026-07-19T02:01:12.235771+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 21277,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1000275,
+      "message_text": "KYIV MAYOR VITALI KLITSCHKO: SEVEN PEOPLE WERE INJURED, INCLUDING SIX TAKEN TO HOSPITAL AND ONE TREATED ON-SITE, WHILE FIVE PEOPLE WERE RESCUED FROM DAMAGED BUILDINGS. ...",
+      "posted_at": "2026-07-19T02:01:09+00:00",
+      "captured_at": "2026-07-19T02:01:11.551793+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 21275,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "CHINA'S XI, AT WORLD AI CONFERENCE: WE SHOULD IMPROVE RISK MANAGEMENT AWARENESS AND ENSURE AI DEVELOPMENT REMAINS SAFE AND MANAGEABLE. ...",
       "posted_at": "2026-07-17T02:18:06+00:00",
       "captured_at": "2026-07-17T02:18:08.820058+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 19277,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 999272,
-      "message_text": "CHINA FX REGULATOR: THE GLOBAL EXTERNAL LANDSCAPE REMAINS CHALLENGING, REQUIRING CLOSE OBSERVATION OF GEOPOLITICAL SHIFTS, INFLATION PRESSURES, AND MONETARY POLICY CHANGES ACROSS MAJOR ECONOMIES. ...",
-      "posted_at": "2026-07-17T02:17:41+00:00",
-      "captured_at": "2026-07-17T02:17:44.151102+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
