@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-07-19T20:03:40.813576+00:00",
+  "generated_at": "2026-07-19T21:08:11.901779+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 21835,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1000556,
+      "message_text": "SIRENS SOUNDED IN BAHRAIN: INTERIOR MINISTRY ...",
+      "posted_at": "2026-07-19T21:08:10+00:00",
+      "captured_at": "2026-07-19T21:08:11.022323+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 21833,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1000554,
+      "message_text": "\ud83c\udf06 Market News Digest\n[Jul 19, 2026 07:00-16:00 EST]\n\n\ud83d\udd25 Top Stories\n\u2022 Middle East conflict escalates \u2014 Iran-linked strikes hit Jordan, Kuwait and near Israel; U.S./Israel/Jordan intercept missiles and brace for more.\n\u2022 U.S. to bolster regional air power \u2014 F-16/F-35s and refuelers deploying to Middle East as Washington signals possible further Iran strikes.\n\u2022 Oil jumps on Hormuz risk \u2014 Strait security remains in focus as diplomats warn of spillover; U.S. seeks to keep crude flows open.\n\n\u26fd Oil & Energy\n\u2022 Kuwait energy facilities hit again \u2014 power/desalination plant targeted twice in 2 days; Kuwait blames Iran for civilian infrastructure attack.\n\u2022 Hormuz shipping risk persists \u2014 Iranian outlets warn Strait could remain blocked, lifting supply-risk premiums.\n\n\ud83d\udcca Markets & Macro\n\u2022 Risk sentiment softens \u2014 major indexes slipped modestly; gold eased, while U.S. oil rose ~2% on geopolitics.\n\u2022 Crypto mixed \u2014 Bitcoin edged lower; Ether and several altcoins slightly firmer.\n\u2022 Saylor hints at more BTC buying \u2014 MicroStrategy founder teased another accumulation.\n\n\ud83c\udf0d Geopolitical\n\u2022 Jordan on high alert \u2014 air defenses intercepted Iranian missiles; Amman summoned Iran\u2019s envoy and called sovereignty a red line.\n\u2022 Israel warns of escalation \u2014 military says further Iranian launches could trigger strikes on missile platforms and broader response.\n\u2022 Diplomatic push continues \u2014 Qatar, Oman, Iraq and UAE press dialogue/de-escalation amid widening regional tensions.\n\u2022 Iraq to send PM to Tehran \u2014 latest sign of regional shuttle diplomacy as war risks rise.\n\u2022 Ukraine war persists \u2014 Kharkiv region reports 4 killed in Russian shelling; Russia claims strikes on Odesa fuel/cargo targets.\n\n\ud83c\udfdb\ufe0f Regulatory & Policy\n\u2022 Trump pushes Iran sanctions \u2014 urges Republicans to add Iran to Russia sanctions legislation.\n\u2022 IAEA probes Iranian nuclear site strike \u2014 agency says Darquwin/Darkhovin site was early-stage and held no nuclear material.\n\u2022 U.S. energy line: diplomacy or force \u2014 officials say Washington wants agreement, but will ensure freedom of navigation.\n\n\ud83c\udfe2 Corporate\n\u2022 Earnings watch ahead \u2014 $GOOGL and $INTC highlighted for next week as AI spending and margins stay under scrutiny.\n\u2022 National debt climbs \u2014 U.S. debt data topped $39.5T, underscoring fiscal pressure.\n\nDigested by *MarketClaw* \ud83d\udc3e \u2014 93 messages scanned",
+      "posted_at": "2026-07-19T20:30:25+00:00",
+      "captured_at": "2026-07-19T20:30:25.706939+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 21831,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "BURNHAM COMMITTS TO OPERATE AS A SINGLE LABOUR TEAM, AVOIDING INFIGHTING. ...",
       "posted_at": "2026-07-17T11:23:21+00:00",
       "captured_at": "2026-07-17T11:23:22.405380+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 19835,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 999552,
-      "message_text": "BURNHAM SAYS THIS IS A PROUD MOMENT AND IS PREPARED FOR IT. ...",
-      "posted_at": "2026-07-17T11:17:37+00:00",
-      "captured_at": "2026-07-17T11:17:39.053381+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 19833,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 999551,
-      "message_text": "ZELENSKIY PROPOSED THE JOB OF SECRETARY OF NATIONAL SECURITY AND DEFENSE COUNCIL TO FORMER INTERIOR MINISTER KLYMENKO. ...",
-      "posted_at": "2026-07-17T11:17:36+00:00",
-      "captured_at": "2026-07-17T11:17:38.401205+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
