@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-07-18T23:04:06.342402+00:00",
+  "generated_at": "2026-07-19T00:18:54.615944+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 21235,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1000254,
+      "message_text": "NUMEROUS EXPLOSIONS WERE HEARD IN QESHM ISLAND, HORMOZGAN PROVINCE, IRAN. - WSN ...",
+      "posted_at": "2026-07-19T00:18:53+00:00",
+      "captured_at": "2026-07-19T00:18:53.922033+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 21233,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1000253,
+      "message_text": "IRANIAN MEDIA: U.S. FORCES STRUCK AREA NEAR HAJIABAD ...",
+      "posted_at": "2026-07-18T23:06:48+00:00",
+      "captured_at": "2026-07-18T23:06:49.995406+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 21231,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "CHINA FX REGULATOR: FOREIGN INVESTMENTS INTO CHINA REGISTER NET INFLOWS IN H1, OUTBOUND INVESTMENTS MAINTAIN STEADY GROWTH ...",
       "posted_at": "2026-07-17T02:11:35+00:00",
       "captured_at": "2026-07-17T02:11:37.442579+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 19235,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 999251,
-      "message_text": "CHINA'S PRESIDENT XI: JOINTLY OPPOSE EXPANDING NATIONAL SECURITY IN AI SECTOR ...",
-      "posted_at": "2026-07-17T02:11:05+00:00",
-      "captured_at": "2026-07-17T02:11:06.870722+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 19231,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 999249,
-      "message_text": "CHINA'S PRESIDENT XI: DEPLOY TECHNOLOGY SURVEILLANCE, EARLY ALERT AND REACTION SYSTEMS FOR AI ...",
-      "posted_at": "2026-07-17T02:10:36+00:00",
-      "captured_at": "2026-07-17T02:10:37.476296+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
