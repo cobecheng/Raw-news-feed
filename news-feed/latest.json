@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-07-25T19:14:46.981592+00:00",
+  "generated_at": "2026-07-25T20:22:07.114527+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 30779,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1005030,
+      "message_text": "WEEKEND MARKETS UPDATE: \n#DAX 25128 +0.26%   \n#DOW 51940 +0.07%   \n#NASDAQ 28257 +0.40%   \n#FTSE 10718 +0.00%   \n#HANGSENG 24990 +0.03%   \n#EURUSD 11372 +0.01%   \n#GOLD 4063 +0.23%   \n#SILVER 5844 +0.46%   \n#USOIL 8659 -3.49%   \n#IGWEEKENDMARKETS ...",
+      "posted_at": "2026-07-25T20:22:04+00:00",
+      "captured_at": "2026-07-25T20:22:06.409365+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 30777,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "JPMORGAN RAISED ITS PRICE TARGET ON EDWARDS LIFESCIENCES CORP. TO $105, UP FROM THE PREVIOUS TARGET OF $100. ...",
       "posted_at": "2026-07-24T02:39:49+00:00",
       "captured_at": "2026-07-24T02:39:51.315168+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 28779,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1004028,
-      "message_text": "SHARES OF SAMSUNG ELECTRONICS DROPPED 6.5% AMID SELLING PRESSURE IN THE TECHNOLOGY SECTOR. ...",
-      "posted_at": "2026-07-24T02:38:19+00:00",
-      "captured_at": "2026-07-24T02:38:22.297600+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
