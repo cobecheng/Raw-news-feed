@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-07-25T23:37:48.131597+00:00",
+  "generated_at": "2026-07-26T00:02:00.201513+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 30813,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1005048,
+      "message_text": "SAUDI ARABIA STRIKES HOUTHIS AFTER IRAN-BACKED REBELS TARGET ENERGY SITES - FT ...",
+      "posted_at": "2026-07-26T00:01:58+00:00",
+      "captured_at": "2026-07-26T00:01:59.534218+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 30811,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "STRAIT OF HORMUZ STAYS OPEN AS U.S. ARMY REPORTS CONTINUED IRGC ATTACKS ...",
       "posted_at": "2026-07-24T03:33:12+00:00",
       "captured_at": "2026-07-24T03:33:13.819948+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 28813,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1004045,
-      "message_text": "US HITS 60 COUNTRIES WITH NEW DUTIES AS TRUMP REBUILDS TARIFF WALL-FT ...",
-      "posted_at": "2026-07-24T03:32:28+00:00",
-      "captured_at": "2026-07-24T03:32:29.609797+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
