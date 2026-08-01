@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-08-01T21:04:59.491143+00:00",
+  "generated_at": "2026-08-01T21:49:48.078429+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 41379,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1010341,
+      "message_text": "*HUNGARY TO SHUT SOLE NUCLEAR PLANT SUNDAY, PM MAGYAR SAYS ...",
+      "posted_at": "2026-08-01T21:49:45+00:00",
+      "captured_at": "2026-08-01T21:49:46.770289+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 41381,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1010342,
+      "message_text": "NOTIFICATIONS FROM ALERTS ...",
+      "posted_at": "2026-08-01T21:49:45+00:00",
+      "captured_at": "2026-08-01T21:49:47.397275+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 41377,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "BANK OF JAPAN SAYS THE MEDIAN FORECAST FOR CORE-CORE CPI IN FISCAL 2028 REMAINS AT 2.2%, UNCHANGED FROM THE APRIL PROJECTION. ...",
       "posted_at": "2026-07-31T03:25:02+00:00",
       "captured_at": "2026-07-31T03:25:05.848065+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 39381,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1009338,
-      "message_text": "BANK OF JAPAN SAYS UNDERLYING INFLATION IS EXPECTED TO REACH LEVELS CONSISTENT WITH THE PRICE STABILITY TARGET BETWEEN THE SECOND HALF OF FISCAL 2026 AND FISCAL 2027. ...",
-      "posted_at": "2026-07-31T03:24:59+00:00",
-      "captured_at": "2026-07-31T03:25:02.660825+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 39377,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1009336,
-      "message_text": "BANK OF JAPAN SAYS THE MEDIAN CORE-CORE CPI FORECAST FOR FISCAL 2027 REMAINS AT 2.6%, UNCHANGED FROM APRIL. ...",
-      "posted_at": "2026-07-31T03:24:58+00:00",
-      "captured_at": "2026-07-31T03:25:01.427907+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
