@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-08-01T21:49:48.078429+00:00",
+  "generated_at": "2026-08-01T23:52:47.231159+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 41385,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1010344,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-08-01T22:00:03+00:00",
+      "captured_at": "2026-08-01T22:00:05.850498+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 41383,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1010343,
+      "message_text": "HUNGARY TO SHUT ITS ONLY NUCLEAR PLANT FOR FIRST TIME ON DROUGHT ...",
+      "posted_at": "2026-08-01T21:55:45+00:00",
+      "captured_at": "2026-08-01T21:55:46.048258+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 41379,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "BANK OF JAPAN SAYS FUTURE RATE DECISIONS WILL DEPEND ON ECONOMIC AND PRICE TRENDS, WHILE CONSIDERING THE BASELINE OUTLOOK AND SURROUNDING RISKS. ...",
       "posted_at": "2026-07-31T03:25:03+00:00",
       "captured_at": "2026-07-31T03:25:06.471646+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 39387,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1009341,
-      "message_text": "BANK OF JAPAN SAYS BOARD MEMBER TAKATA PROPOSED INCREASING THE SHORT-TERM POLICY RATE TARGET TO 1.25%. ...",
-      "posted_at": "2026-07-31T03:25:03+00:00",
-      "captured_at": "2026-07-31T03:25:07.110145+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 39383,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1009339,
-      "message_text": "BANK OF JAPAN SAYS THE MEDIAN FORECAST FOR CORE-CORE CPI IN FISCAL 2028 REMAINS AT 2.2%, UNCHANGED FROM THE APRIL PROJECTION. ...",
-      "posted_at": "2026-07-31T03:25:02+00:00",
-      "captured_at": "2026-07-31T03:25:05.848065+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
