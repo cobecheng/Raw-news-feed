@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-08-01T23:52:47.231159+00:00",
+  "generated_at": "2026-08-02T00:06:06.598957+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 41387,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1010345,
+      "message_text": "HOMEOWNERS ASSOCIATIONS ARE GETTING MORE AGGRESSIVE ABOUT PURSUING PEOPLE WHO RACK UP UNPAID DUES - WSJ ...",
+      "posted_at": "2026-08-02T00:06:04+00:00",
+      "captured_at": "2026-08-02T00:06:05.925426+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 41385,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "BANK OF JAPAN SAYS MONETARY POLICY WILL BE MANAGED APPROPRIATELY TO ACHIEVE THE INFLATION TARGET IN A SUSTAINABLE AND STABLE MANNER. ...",
       "posted_at": "2026-07-31T03:25:04+00:00",
       "captured_at": "2026-07-31T03:25:08.363939+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 39385,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1009340,
-      "message_text": "BANK OF JAPAN SAYS FUTURE RATE DECISIONS WILL DEPEND ON ECONOMIC AND PRICE TRENDS, WHILE CONSIDERING THE BASELINE OUTLOOK AND SURROUNDING RISKS. ...",
-      "posted_at": "2026-07-31T03:25:03+00:00",
-      "captured_at": "2026-07-31T03:25:06.471646+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
