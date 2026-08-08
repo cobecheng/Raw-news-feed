@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-08-08T07:32:06.588655+00:00",
+  "generated_at": "2026-08-08T07:38:20.300852+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 50465,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1014895,
+      "message_text": "RUSSIA: DRONE HITS SHIP CARRYING WEAPONS FOR UKRAINIAN FORCES EAST OF ODESA - INTERFAX ...",
+      "posted_at": "2026-08-08T07:38:17+00:00",
+      "captured_at": "2026-08-08T07:38:19.579370+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 50463,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "RING-SHAPED OPENAI DEVICE WILL BE PORTABLE AROUND THE HOUSE ...",
       "posted_at": "2026-08-06T20:01:00+00:00",
       "captured_at": "2026-08-06T20:01:01.815511+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 48463,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1013892,
-      "message_text": "OPENAI\u2019S GADGET TO RESEMBLE SMALL DOUGHNUT WITH PRICE EXCEEDING $300 ...",
-      "posted_at": "2026-08-06T20:00:30+00:00",
-      "captured_at": "2026-08-06T20:00:31.331509+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
