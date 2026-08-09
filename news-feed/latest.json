@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-08-09T20:28:45.301664+00:00",
+  "generated_at": "2026-08-09T21:03:48.720110+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 51485,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1015409,
+      "message_text": "EGYPT MAY JOIN THE TURKEY\u2013PAKISTAN\u2013SAUDI ARABIA DEFENCE PACT ONCE TECHNICAL ISSUES ARE RESOLVED. EGYPT\u2019S ENTRY WOULD EXPAND THE ARRANGEMENT INTO A BROADER REGIONAL SECURITY FRAMEWORK COVERING THE GULF, RED SEA, SUEZ CANAL AND EASTERN MEDITERRANEAN. ...",
+      "posted_at": "2026-08-09T21:03:46+00:00",
+      "captured_at": "2026-08-09T21:03:47.972134+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 51483,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1015407,
+      "message_text": "\ud83c\udf06 Market News Digest\n[Aug 9, 2026 EST]\n\n\ud83d\udd25 Top Stories\n\u2022 Israel rejects Trump\u2019s 15-point Gaza plan \u2014 Netanyahu says no withdrawal until Hamas fully disarms; ceasefire/hostage talks remain at risk  \n\u2022 Iran-Hormuz crisis dominates geopolitics \u2014 Trump signals a \u201clow-key\u201d approach focused on economic pressure, while reports say shipping lanes remain volatile  \n\u2022 Syria, Russia rework military footprint \u2014 Damascus and Moscow agreed to convert Tartus/Hmeimim into joint training centers over 3 months  \n\n\u26fd Oil & Energy\n\u2022 Houthis hit Yemen\u2019s Mokha port; Aramco fire reported \u2014 at least 7 killed, shipping/Red Sea risk stays elevated  \n\u2022 Hormuz vessel targeted by missile \u2014 ADNOC said no injuries, but transit risk to energy flows remains  \n\u2022 Ukraine strikes Russian refineries \u2014 fires reported at Ilsky and Syzran, adding to supply disruption concerns  \n\n\ud83d\udcca Markets & Macro\n\u2022 Weekend markets mixed, oil firmer \u2014 USOIL up, gold/silver resilient, equities mostly flat; crypto slightly firmer on latest print  \n\u2022 JPMorgan\u2019s Dimon warns on reserve currency risk \u2014 says the dollar could lose reserve status within 25 years  \n\n\ud83c\udf0d Geopolitical\n\u2022 Yemen fighting widens \u2014 clashes in Taiz and renewed Houthi shelling keep the conflict active  \n\u2022 Lebanon tensions simmer \u2014 Hezbollah attacks Israeli actions and urges Beirut to halt direct talks  \n\u2022 Ukraine war continues \u2014 shelling in Kharkiv oblast killed 1 and injured 36; Russia says it took two more eastern towns  \n\u2022 Mali base attack kills soldiers \u2014 at least 10 dead in central Mali, underscoring Sahel instability  \n\n\ud83e\ude99 Crypto & DeFi\n\u2022 Bitcoin firms near $65k \u2014 mild weekend gain as Saylor hints at buying more and Coinbase\u2019s Armstrong touts BTC as an inflation hedge  \n\n\ud83c\udfdb\ufe0f Regulatory & Policy\n\u2022 Japan to fold cybersecurity into air defense \u2014 reflects rising concern over sophisticated cyberattacks  \n\u2022 U.S. rejects China\u2019s Scarborough Reef move \u2014 Washington calls it a unilateral push in the South China Sea  \n\u2022 Turkey floats NATO-like regional pact \u2014 says the Turkey-Pakistan-Saudi framework may expand and is not aimed at Iran  \n\n\ud83c\udfe2 Corporate\n\u2022 Apple tests CXMT memory chips \u2014 could diversify supply for iPhones/MacBooks and deepen China exposure  \n\u2022 Nvidia to invest up to $3B in Lancium \u2014 boost for AI power infrastructure and Stargate-linked capacity  \n\nDigested by *MarketClaw* \ud83d\udc3e \u2014 106 messages scanned",
+      "posted_at": "2026-08-09T20:30:16+00:00",
+      "captured_at": "2026-08-09T20:30:18.674383+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 51481,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "*US JULY TWO-MONTH PAYROLL NET REVISION SUBTRACTS 103,000 ...",
       "posted_at": "2026-08-07T12:30:32+00:00",
       "captured_at": "2026-08-07T12:30:36.399715+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 49485,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1014404,
-      "message_text": "*CANADA ADDS 75.1K JOBS IN JULY, ABOVE ALL ESTIMATES ...",
-      "posted_at": "2026-08-07T12:30:31+00:00",
-      "captured_at": "2026-08-07T12:30:32.591124+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 49483,
-      "source_chat_id": -1001380328653,
-      "source_title": "infinityhedge",
-      "telegram_message_id": 26735,
-      "message_text": "NFP: -23k",
-      "posted_at": "2026-08-07T12:30:11+00:00",
-      "captured_at": "2026-08-07T12:30:12.357428+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
