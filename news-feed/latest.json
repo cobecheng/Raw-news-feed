@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-08-09T00:02:37.325083+00:00",
+  "generated_at": "2026-08-09T00:03:09.993570+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 50867,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1015098,
+      "message_text": "MICROSTRATEGY\u2019S $MSTR MICHAEL SAYLOR CLAIMS HE MADE $15 BILLION LAST YEAR WITH THE HELP OF CHATGPT - UNUSUAL WHALES ...",
+      "posted_at": "2026-08-09T00:03:08+00:00",
+      "captured_at": "2026-08-09T00:03:09.310761+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 50865,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "JAPAN SEEKS 3.7 TRILLION YEN IN LATEST TREASURY DISCOUNT BILL OFFERING ...",
       "posted_at": "2026-08-07T01:20:59+00:00",
       "captured_at": "2026-08-07T01:21:01.176977+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 48869,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1014096,
-      "message_text": "CHINA CENTRAL BANK ADDS GOLD IN HONG KONG TO SUPPORT TRADING HUB \u2013 BBG\n\n ...",
-      "posted_at": "2026-08-07T01:20:59+00:00",
-      "captured_at": "2026-08-07T01:21:01.906235+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
