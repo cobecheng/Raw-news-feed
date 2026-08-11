@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-08-11T22:18:21.971593+00:00",
+  "generated_at": "2026-08-11T22:51:08.698948+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 54043,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1016692,
+      "message_text": "S. KOREA PRESIDENTIAL OFFICE HOLDS MEETING ON N. KOREA MISSILE LAUNCH, URGES HALT TO PROVOCATIONS - MEDIA ...",
+      "posted_at": "2026-08-11T22:51:06+00:00",
+      "captured_at": "2026-08-11T22:51:08.014188+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 54041,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1016691,
+      "message_text": "OPENAI AND AWS SAY THEY WILL EXPAND THEIR AGREEMENT TO INCLUDE FRONTIER CYBER MODELS, WITH OPENAI BRINGING DAYBREAK ACCESS TO AMAZON BEDROCK ...",
+      "posted_at": "2026-08-11T22:19:35+00:00",
+      "captured_at": "2026-08-11T22:19:36.173544+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 54039,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "WH SR. ADVISER HASSETT: ME REPLACING LISA COOK ON THE FED BOARD IS 'NOT GONNA HAPPEN\u2019 ...",
       "posted_at": "2026-08-10T11:46:08+00:00",
       "captured_at": "2026-08-10T11:46:10.985865+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 52043,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1015689,
-      "message_text": "ARGUS RESEARCH RAISES SANDISK TO BUY FROM RATING ...",
-      "posted_at": "2026-08-10T11:46:07+00:00",
-      "captured_at": "2026-08-10T11:46:10.360558+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 52041,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1015688,
-      "message_text": "WH SR. ADVISER HASSETT: ADMINISTRATION CAREFULLY STUDYING AI SECURITY ISSUES ...",
-      "posted_at": "2026-08-10T11:44:39+00:00",
-      "captured_at": "2026-08-10T11:44:42.573933+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
