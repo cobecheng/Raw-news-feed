@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-08-14T09:57:21.032710+00:00",
+  "generated_at": "2026-08-14T10:38:52.410210+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 57653,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1018499,
+      "message_text": "U.S. OIL OUTPUT EXPECTED TO BE 13.83 MLN BPD IN AUGUST, SLIGHTLY UP FROM 13.82 MLN BPD IN JULY; FORECASTED AT 13.77 MLN BPD IN SEPTEMBER. U.S. NATURAL GAS PRODUCTION PROJECTED AT 122.6 BCF/DAY IN AUGUST, UP FROM 122 BCF/DAY IN JULY; EXPECTED TO RISE TO 123.2 BCF/DAY IN SEPTEMBER. ...",
+      "posted_at": "2026-08-14T10:38:51+00:00",
+      "captured_at": "2026-08-14T10:38:51.666814+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 57651,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1018498,
+      "message_text": "MAERSK: CONTINUE TO OPERATE CAUTIOUSLY IN THE MIDDLE EAST ...",
+      "posted_at": "2026-08-14T10:05:18+00:00",
+      "captured_at": "2026-08-14T10:05:19.576365+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 57649,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "NEW ZEALAND 2Y INFLATION EXPECTATION Q3: 2.34% (PREV 2.53%) ...",
       "posted_at": "2026-08-13T03:04:41+00:00",
       "captured_at": "2026-08-13T03:04:43.633798+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 55653,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1017498,
-      "message_text": "INDONESIAN EQUITIES EXPERIENCED SIGNIFICANT SELLING PRESSURE, WITH THE BENCHMARK STOCK INDEX DECLINING BY UP TO 1.5% TO TRADE AT 6,281.572. ...",
-      "posted_at": "2026-08-13T03:04:11+00:00",
-      "captured_at": "2026-08-13T03:04:12.892090+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 55651,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1017497,
-      "message_text": "THE RESERVE BANK OF NEW ZEALAND'S SURVEY SHOWED THAT AVERAGE TWO-YEAR INFLATION EXPECTATIONS FOR THE THIRD QUARTER CAME IN AT 2.34%. ...",
-      "posted_at": "2026-08-13T03:02:40+00:00",
-      "captured_at": "2026-08-13T03:02:41.240361+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
