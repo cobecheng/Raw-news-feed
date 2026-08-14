@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-08-14T22:56:46.978312+00:00",
+  "generated_at": "2026-08-14T23:30:34.816177+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 58125,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1018737,
+      "message_text": "THIRD POINT LLC: CHANGE IN HOLDINGS AS OF JUNE 30, 2026, COMPARED WITH PREVIOUS QUARTER ENDED MARCH 31, 2026 ...",
+      "posted_at": "2026-08-14T23:30:31+00:00",
+      "captured_at": "2026-08-14T23:30:33.394772+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 58127,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1018738,
+      "message_text": "NVIDIA SCALES BACK $250 BILLION COMMITMENT FOR OPENAI DATA CENTER - WSJ ...",
+      "posted_at": "2026-08-14T23:30:31+00:00",
+      "captured_at": "2026-08-14T23:30:34.040839+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 58123,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "BRENT AND US CRUDE FUTURES DROP MORE THAN 2% DUE TO INCREASED US CRUDE INVENTORIES AND LOWER DEMAND PROJECTIONS FROM IEA AND OPEC. ...",
       "posted_at": "2026-08-13T10:41:12+00:00",
       "captured_at": "2026-08-13T10:41:17.915545+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 56127,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1017735,
-      "message_text": "*ACCELERANT TO BE TAKEN PRIVATE BY THOMA BRAVO FOR $20.25/SHR ...",
-      "posted_at": "2026-08-13T10:33:18+00:00",
-      "captured_at": "2026-08-13T10:33:19.229179+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 56125,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1017734,
-      "message_text": "INDIA'S JULY PETROLEUM, CRUDE AND PRODUCTS IMPORTS AT $ 18.31 BLN - TRADE MINISTRY ...",
-      "posted_at": "2026-08-13T10:30:31+00:00",
-      "captured_at": "2026-08-13T10:30:32.373470+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
