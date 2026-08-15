@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-08-15T23:32:33.285088+00:00",
+  "generated_at": "2026-08-15T23:50:35.796318+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 58781,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1019067,
+      "message_text": "JUST IN: ELON MUSK SAYS \"I HOPE AI IS NICE TO US.\" ...",
+      "posted_at": "2026-08-15T23:50:33+00:00",
+      "captured_at": "2026-08-15T23:50:35.115488+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 58779,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "*SILVER LAKE IN TALKS TO BUY WORKDAY: REUTERS ...",
       "posted_at": "2026-08-13T18:37:50+00:00",
       "captured_at": "2026-08-13T18:37:52.119385+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 56781,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1018062,
-      "message_text": "APPLE HAS OPENED AN ADVANCED MANUFACTURING CENTER IN HOUSTON, INVESTING HUNDREDS OF MILLIONS OF DOLLARS IN THE FACILITY AND SHIPPING ITS FIRST ADVANCED AI SERVERS FROM IT, WITH MAC MINI MANUFACTURING SET TO BEGIN IN HOUSTON THIS YEAR ...",
-      "posted_at": "2026-08-13T18:35:50+00:00",
-      "captured_at": "2026-08-13T18:35:51.227130+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
