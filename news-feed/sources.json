@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-15T15:35:04.612535+00:00",
+  "generated_at": "2026-08-15T16:55:23.127998+00:00",
   "count": 2,
   "sources": [
     {
       "source_chat_id": -1001263412188,
       "source_title": "Market News Feed",
-      "message_count": 20158,
-      "newest_posted_at": "2026-08-15T15:35:01+00:00"
+      "message_count": 20120,
+      "newest_posted_at": "2026-08-15T16:55:21+00:00"
     },
     {
       "source_chat_id": -1001380328653,
       "source_title": "infinityhedge",
-      "message_count": 16,
+      "message_count": 15,
       "newest_posted_at": "2026-08-13T15:28:45+00:00"
     }
   ]
