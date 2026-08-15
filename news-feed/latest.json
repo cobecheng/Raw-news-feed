@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-08-15T21:32:18.101730+00:00",
+  "generated_at": "2026-08-15T23:32:33.285088+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 58779,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1019066,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-08-15T22:00:09+00:00",
+      "captured_at": "2026-08-15T22:00:11.974337+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 58777,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "APPLE HAS OPENED AN ADVANCED MANUFACTURING CENTER IN HOUSTON, INVESTING HUNDREDS OF MILLIONS OF DOLLARS IN THE FACILITY AND SHIPPING ITS FIRST ADVANCED AI SERVERS FROM IT, WITH MAC MINI MANUFACTURING SET TO BEGIN IN HOUSTON THIS YEAR ...",
       "posted_at": "2026-08-13T18:35:50+00:00",
       "captured_at": "2026-08-13T18:35:51.227130+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 56779,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1018061,
-      "message_text": "U.S. CRUDE OIL FUTURES SETTLE AT $81.25/BBL, DOWN $2.02, OR 2.43% ...",
-      "posted_at": "2026-08-13T18:34:20+00:00",
-      "captured_at": "2026-08-13T18:34:22.448586+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
