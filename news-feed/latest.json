@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-08-22T21:22:47.766204+00:00",
+  "generated_at": "2026-08-22T21:58:19.214711+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 66901,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1023141,
+      "message_text": "*IRANIAN HACKERS SHUT DOWN UK POWER PLANT LAST MONTH: TELEGRAPH ...",
+      "posted_at": "2026-08-22T21:58:17+00:00",
+      "captured_at": "2026-08-22T21:58:18.481484+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 66899,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "BROADCOM DISCUSSES GUARANTEEING PART OF SENIOR-SECURED TRANCHE. $AVGO\n\nBLACKSTONE AND APOLLO IN TALKS TO PARTICIPATE IN CHIP FINANCING. $AVGO - FINANCIALJUICE ...",
       "posted_at": "2026-08-20T20:11:19+00:00",
       "captured_at": "2026-08-20T20:11:20.639090+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 64901,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1022136,
-      "message_text": "BLACKSTONE AND APOLLO IN TALKS TO PARTICIPATE IN CHIP FINANCING. $AVGO\n\n\ud83d\udd34 BROADCOM SEEKING MORE THAN $60 BILLION IN LATEST AI DEBT DEAL. $AVGO - FINANCIALJUICE ...",
-      "posted_at": "2026-08-20T20:10:49+00:00",
-      "captured_at": "2026-08-20T20:10:51.864550+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
