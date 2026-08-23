@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-08-22T21:58:19.214711+00:00",
+  "generated_at": "2026-08-23T00:02:39.679389+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 66905,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1023143,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-08-22T22:00:02+00:00",
+      "captured_at": "2026-08-22T22:00:03.474047+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 66903,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1023142,
+      "message_text": "\n ...",
+      "posted_at": "2026-08-22T21:59:18+00:00",
+      "captured_at": "2026-08-22T21:59:18.955527+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 66901,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "BONDS AND STOCKS DROP AS BESSENT PUT\u00a0RELIEF DIMINISHES  \u2013 US MARKET WRAP  ...",
       "posted_at": "2026-08-20T20:14:45+00:00",
       "captured_at": "2026-08-20T20:14:48.001748+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 64905,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1022138,
-      "message_text": "BROADCOM IS SEEKING MORE THAN $60 BLN IN ITS LATEST AI DEBT DEAL, WITH THE FINANCING PLAN POSSIBLY INCLUDING A $30 BLN JUNIOR DEBT TRANCHE, AS IT DISCUSSES GUARANTEEING PART OF THE SENIOR-SECURED TRANCHE ...",
-      "posted_at": "2026-08-20T20:13:19+00:00",
-      "captured_at": "2026-08-20T20:13:21.310481+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 64903,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1022137,
-      "message_text": "BROADCOM DISCUSSES GUARANTEEING PART OF SENIOR-SECURED TRANCHE. $AVGO\n\nBLACKSTONE AND APOLLO IN TALKS TO PARTICIPATE IN CHIP FINANCING. $AVGO - FINANCIALJUICE ...",
-      "posted_at": "2026-08-20T20:11:19+00:00",
-      "captured_at": "2026-08-20T20:11:20.639090+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
