@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-08-23T15:14:37.974263+00:00",
+  "generated_at": "2026-08-23T15:49:23.101911+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 67313,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1023348,
+      "message_text": "\"AXIOS\" REPORTS, CITING TWO SOURCES: THE SYRIAN FOREIGN MINISTER AND THE ISRAELI \"MOSSAD\" DIRECTOR MET TODAY, SUNDAY, IN AN ATTEMPT TO DE-ESCALATE TENSIONS BETWEEN THE TWO COUNTRIES FOLLOWING ISRAEL'S RECENT BOMBING OF A SYRIAN AIRBASE. ...",
+      "posted_at": "2026-08-23T15:49:22+00:00",
+      "captured_at": "2026-08-23T15:49:22.282218+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 67311,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "INDONESIA\u2019S CURRENT ACCOUNT DEFICIT WIDENED TO 3.3% OF GDP IN Q2, ACCORDING TO THE CENTRAL BANK. ...",
       "posted_at": "2026-08-21T03:38:55+00:00",
       "captured_at": "2026-08-21T03:38:56.869217+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 65313,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1022343,
-      "message_text": "INDONESIA\u2019S BALANCE OF PAYMENTS POSTED A $0.9 BILLION DEFICIT IN Q2, ACCORDING TO BANK INDONESIA. ...",
-      "posted_at": "2026-08-21T03:38:10+00:00",
-      "captured_at": "2026-08-21T03:38:12.640244+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
