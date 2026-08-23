@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-08-23T00:02:39.679389+00:00",
+  "generated_at": "2026-08-23T01:39:09.725863+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 66907,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1023144,
+      "message_text": "STRAITS_TIMES - TRUMP STOCK DISCLOSURE SHOWS MORE THAN 1,000 TRADES IN JUNE ...",
+      "posted_at": "2026-08-23T01:39:08+00:00",
+      "captured_at": "2026-08-23T01:39:09.009969+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 66905,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "BROADCOM SEEKS MORE THAN $60B IN LATEST AI DEBT DEAL \u2013 BBG\n\n ...",
       "posted_at": "2026-08-20T20:19:17+00:00",
       "captured_at": "2026-08-20T20:19:18.580950+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 64907,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1022139,
-      "message_text": "BONDS AND STOCKS DROP AS BESSENT PUT\u00a0RELIEF DIMINISHES  \u2013 US MARKET WRAP  ...",
-      "posted_at": "2026-08-20T20:14:45+00:00",
-      "captured_at": "2026-08-20T20:14:48.001748+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
