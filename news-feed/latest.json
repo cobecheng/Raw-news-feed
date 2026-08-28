@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-08-28T21:46:04.894284+00:00",
+  "generated_at": "2026-08-28T22:48:07.271533+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 75089,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1027245,
+      "message_text": "*TRUMP: ENTERED AGREEMENT WITH VENEZUELA ON BIGGEST OIL DEAL IN WORLD HISTORY\n\n*TRUMP: SECURED MAJORITY US CONTROL OVER 65 BILLION BARRELS OF PROVEN VENEZUELAN OIL RESERVES\n\n*TRUMP: HISTORIC TRANSACTION MORE THAN DOUBLES AMERICAN OIL RESERVES AND LOWERS GAS PRICES ...",
+      "posted_at": "2026-08-28T22:48:04+00:00",
+      "captured_at": "2026-08-28T22:48:06.540785+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 75087,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1027244,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-08-28T22:00:02+00:00",
+      "captured_at": "2026-08-28T22:00:04.276617+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 75085,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "FED'S HAMMACK: TREASURY HAS ITS OWN OBJECTIVES, FED OPERATES INDEPENDENTLY FOR ITS OWN GOALS. ...",
       "posted_at": "2026-08-27T14:30:31+00:00",
       "captured_at": "2026-08-27T14:30:33.448163+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 73091,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1026245,
-      "message_text": "FED'S HAMMACK INTERVIEW ON CNBC CONCLUDES ...",
-      "posted_at": "2026-08-27T14:30:31+00:00",
-      "captured_at": "2026-08-27T14:30:34.078788+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 73085,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1026242,
-      "message_text": "FED'S HAMMACK: MARKETS ARE GOOD COMPLEMENT, BUT NOT A SUBSTITUTE, FOR FED. ...",
-      "posted_at": "2026-08-27T14:30:14+00:00",
-      "captured_at": "2026-08-27T14:30:15.455747+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
