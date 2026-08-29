@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-08-29T20:30:22.160696+00:00",
+  "generated_at": "2026-08-29T22:00:05.217685+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 75641,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1027523,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-08-29T22:00:03+00:00",
+      "captured_at": "2026-08-29T22:00:04.509883+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 75639,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "VENEZUELA CONSIDERS OPEC EXIT AFTER DECADES AS IT STRENGTHENS US TIES ...",
       "posted_at": "2026-08-27T22:36:00+00:00",
       "captured_at": "2026-08-27T22:36:02.113503+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 73639,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1026520,
-      "message_text": "E-HOUSE (CHINA) ENTERPRISE SAYS 374 SCHEME CREDITORS WITH CLAIMS OF $662.10 MLN VOTED AT ITS SCHEME MEETINGS, WITH 357 CREDITORS HOLDING CLAIMS OF $647.50 MLN \u2014 97.8% BY VALUE \u2014 VOTING IN FAVOUR, AND BOTH THE HK SCHEME AND CAYMAN SCHEME APPROVED BY THE REQUISITE MAJORITIES. ...",
-      "posted_at": "2026-08-27T22:22:15+00:00",
-      "captured_at": "2026-08-27T22:22:16.506307+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
