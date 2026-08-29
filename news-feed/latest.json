@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-08-29T05:55:47.807374+00:00",
+  "generated_at": "2026-08-29T06:42:47.207161+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 75365,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1027383,
+      "message_text": "UKRAINIAN STRIKES HIT RUSSIA\u2019S ROSTOV REGION, REPORTEDLY SETTING DNS AND OZON WAREHOUSES ON FIRE. ...",
+      "posted_at": "2026-08-29T06:42:46+00:00",
+      "captured_at": "2026-08-29T06:42:46.501860+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 75363,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1027382,
+      "message_text": "TSMC EMERGES AS THE MARKET\u2019S MOST ACTIVELY TRADED STOCK, RECORDING $3.75 BLN IN TURNOVER DESPITE MOODY\u2019S UPGRADE ...",
+      "posted_at": "2026-08-29T06:04:44+00:00",
+      "captured_at": "2026-08-29T06:04:46.242294+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 75361,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "*ANTHROPIC PLANS TO LET EXISTING SHAREHOLDERS SELL STOCK IN ITS UPCOMING IPO\n\n*ANTHROPIC PLANS TO PUBLICLY UNVEIL ITS IPO PROSPECTUS AFTER LABOR DAY ...",
       "posted_at": "2026-08-27T18:12:36+00:00",
       "captured_at": "2026-08-27T18:12:38.651299+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 73365,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1026382,
-      "message_text": "FED\u2019S COLLINS SAYS RATE INCREASE WARRANTED IF INFLATION DISAPPOINTS - WSJ  ...",
-      "posted_at": "2026-08-27T18:07:36+00:00",
-      "captured_at": "2026-08-27T18:07:38.747838+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 73363,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1026381,
-      "message_text": "FED\u2019S COLLINS SAYS RATE INCREASE WARRANTED IF INFLATION DISAPPOINTS \u2013 \n ...",
-      "posted_at": "2026-08-27T18:07:20+00:00",
-      "captured_at": "2026-08-27T18:07:21.576481+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
