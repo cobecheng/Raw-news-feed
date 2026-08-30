@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-08-29T22:00:05.217685+00:00",
+  "generated_at": "2026-08-30T00:01:37.006476+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 75645,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1027525,
+      "message_text": "AXIOS REPORTS, CITING SOURCES, THAT THE CIA DIRECTOR SUGGESTED HOLDING A SUMMIT BETWEEN U.S. PRESIDENT TRUMP, RUSSIAN PRESIDENT PUTIN, AND UKRAINIAN PRESIDENT ZELENSKYY DURING HIS RECENT TRIP TO MOSCOW. ...",
+      "posted_at": "2026-08-30T00:01:35+00:00",
+      "captured_at": "2026-08-30T00:01:36.318150+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 75643,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1027524,
+      "message_text": "XAL: GROK BOT NOW COMPATIBLE WITH X ...",
+      "posted_at": "2026-08-29T22:02:32+00:00",
+      "captured_at": "2026-08-29T22:02:33.106983+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 75641,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "#OOTT | VENEZUELA WEIGHS OPEC EXIT AFTER DECADES AS IT DEEPENS US TIES - BBG\n\n ...",
       "posted_at": "2026-08-27T22:55:32+00:00",
       "captured_at": "2026-08-27T22:55:34.243986+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 73645,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1026523,
-      "message_text": "NEW ZEALAND FILLED JOBS SA (M/M) JUL: 0.3% (PREV 0.1%) ...",
-      "posted_at": "2026-08-27T22:45:32+00:00",
-      "captured_at": "2026-08-27T22:45:34.418186+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 73643,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1026522,
-      "message_text": "VENEZUELA CONSIDERS OPEC EXIT AFTER DECADES AS IT STRENGTHENS US TIES ...",
-      "posted_at": "2026-08-27T22:36:00+00:00",
-      "captured_at": "2026-08-27T22:36:02.113503+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
