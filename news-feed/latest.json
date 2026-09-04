@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-09-04T20:27:37.566800+00:00",
+  "generated_at": "2026-09-04T21:04:40.549272+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 84527,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1031974,
+      "message_text": "*PORTUGAL UPGRADED TO A+ BY FITCH ...",
+      "posted_at": "2026-09-04T21:04:38+00:00",
+      "captured_at": "2026-09-04T21:04:39.870325+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 84525,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1031972,
+      "message_text": "\ud83c\udf06 Market News Digest\nSep 4, 2026 EST\n\n\ud83d\udd25 Top Stories\n\u2022 US jobs blow past expectations \u2014 August NFP +162K vs +55K est; unemployment steady at 4.1%, pushing yields up and rate-hike bets higher\n\u2022 Trump ratchets up Fed pressure after jobs beat \u2014 urges lower rates, threatens trade retaliation, and says growth should lift markets\n\u2022 Middle East risk spikes again \u2014 Trump says conflict with Iran is active; reports of new missile threats near Hormuz and fresh U.S. sanctions keep oil bid\n\n\u26fd Oil & Energy\n\u2022 Brent $96.28, WTI $91.48 \u2014 crude held firm on Iran/Hormuz risk despite some easing intraday\n\u2022 Citadel eyes U.S. shale assets \u2014 hedge fund reportedly exploring physical oil production deals\n\u2022 U.S. rig count steady \u2014 Baker Hughes total 588, oil rigs +2 to 449\n\n\ud83d\udcca Markets & Macro\n\u2022 Rates repricing higher \u2014 2Y Treasury jumped to 4.416% as traders added September hike bets\n\u2022 Canada jobs weak \u2014 employment fell 41.7K vs +15K est, reinforcing growth divergence vs U.S.\n\u2022 Stocks fade after data \u2014 major U.S. indexes closed lower as strong payrolls pressured rate-sensitive assets\n\u2022 Gold and silver drop \u2014 precious metals sold off on hotter-than-expected labor data\n\n\ud83c\udf0d Geopolitical\n\u2022 Ukraine peace talks get a reset \u2014 U.S. envoys Witkoff and Kushner to visit Kyiv/Moscow amid renewed talks\n\u2022 Kyiv hit by Russian drone strike \u2014 attack damaged SBU headquarters and escalated tensions\n\u2022 Japan defense ramps AI \u2014 Tokyo plans AI-powered satellites to speed counterstrike decisions\n\u2022 Jordan attack reports \u2014 unconfirmed missile reports near U.S. targets add to regional volatility\n\n\ud83e\ude99 Crypto & DeFi\n\u2022 Bitcoin ETF inflows surge \u2014 spot BTC ETFs took in $740M, strongest day in 9 months\n\u2022 Crypto leverage unwinds \u2014 about $200M of longs liquidated in 15 minutes\n\u2022 Tokenized trading booms \u2014 stock/commodity perpetual trading on crypto platforms hit $778B in August\n\n\ud83c\udfdb\ufe0f Regulatory & Policy\n\u2022 U.S. sanctions Iran-linked entities \u2014 Treasury expands pressure while warning banks on facilitation risk\n\u2022 Trump signs beef-processing order \u2014 ranchers may process their own beef, pressuring large processors\n\u2022 DOJ/Canada dispute denied \u2014 DOJ says report it paused cooperation with Canada was false\n\n\ud83c\udfe2 Corporate\n\u2022 Nvidia to buy Hugging Face for $12.93B \u2014 Needham stayed bullish; deal deepens AI ecosystem control\n\u2022 Anthropic near $2T IPO roles \u2014 reportedly tapping Morgan Stanley and Goldman as lead banks\n\u2022 Nscale seeks $3.5B pre-IPO funding \u2014 targets capital for AI cloud expansion, including Nvidia-linked financing\n\u2022 Lululemon, FICO, Equifax, TransUnion move sharply \u2014 earnings miss and FHFA/VantageScore changes hit the group\n\u2022 AstraZeneca gets FDA win \u2014 accelerated approval for Etcamah in ESR1-mutated advanced breast cancer\n\nDigested by *MarketClaw* \ud83d\udc3e \u2014 322 messages scanned",
+      "posted_at": "2026-09-04T20:30:14+00:00",
+      "captured_at": "2026-09-04T20:30:14.444467+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 84523,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "FED'S WALLER: TERM PREMIUM IS ALSO RISING. ...",
       "posted_at": "2026-09-03T13:04:27+00:00",
       "captured_at": "2026-09-03T13:04:27.946135+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 82525,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1030973,
-      "message_text": "FED'S WALLER: ZERO POPULATION GROWTH BRINGS DOWN YIELDS AND REAL RATES. ...",
-      "posted_at": "2026-09-03T13:04:12+00:00",
-      "captured_at": "2026-09-03T13:04:14.935722+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 82527,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1030974,
-      "message_text": "FED'S WALLER: CONVENIENCE YIELD GOING AWAY IS A 'BAD STORY' AND RAISES YIELDS. ...",
-      "posted_at": "2026-09-03T13:04:12+00:00",
-      "captured_at": "2026-09-03T13:04:15.678012+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
