@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-09-07T21:43:04.214498+00:00",
+  "generated_at": "2026-09-07T22:45:35.891164+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 86859,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1033146,
+      "message_text": "NEW ZEALAND MANUFACTURING SALES ACTUAL 0.8% (FORECAST -, PREVIOUS 3.6%) $MACRO ...",
+      "posted_at": "2026-09-07T22:45:33+00:00",
+      "captured_at": "2026-09-07T22:45:35.224353+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 86857,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1033145,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-09-07T22:00:04+00:00",
+      "captured_at": "2026-09-07T22:00:05.582232+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 86855,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "DOLLAR-YEN HAS GROUND FROM NORTH OF 160 TO WITHIN SPITTING DISTANCE OF 155 THIS WEEK. NO INTERVENTION, JUST A SLOW, STEADY MOVE. BOJ TERMINAL RATE PRICING HAS MOVED 20 BASIS POINTS HIGHER. SHORT YEN IS A VERY CROWDED TRADE. EVERY BIG FIGURE LOWER MAKES THOSE SHORTS MORE NERVOUS.  ...",
       "posted_at": "2026-09-05T09:00:39+00:00",
       "captured_at": "2026-09-05T09:00:40.447909+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 84859,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1032140,
-      "message_text": "RUSSIA STRIKES AIRPORTS IN KYIV AND BORYSPIL AHEAD OF US ENVOYS' VISIT, ZELENSKIY SAYS ...",
-      "posted_at": "2026-09-05T08:58:54+00:00",
-      "captured_at": "2026-09-05T08:58:56.578326+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 84855,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1032138,
-      "message_text": "HOUSING MARKETS DIVERGE AS AUSTIN RENTS FALL 8% DUE TO OVERSUPPLY, CONTRASTING WITH NYC AND CHICAGO HIKES. AZIZ SUNDERJI'S STUDY HIGHLIGHTS MIGRATION AND MARKET RESPONSE DYNAMICS. ...",
-      "posted_at": "2026-09-05T08:41:55+00:00",
-      "captured_at": "2026-09-05T08:41:56.141808+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
