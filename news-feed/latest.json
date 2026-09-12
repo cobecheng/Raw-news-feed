@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-09-12T21:50:01.298877+00:00",
+  "generated_at": "2026-09-12T23:02:49.940314+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 94135,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1036810,
+      "message_text": "JUST IN: \ud83c\uddf7\ud83c\uddfa RUSSIA SAYS IT IS 'IMPOSSIBLE' TO SLOW DOWN DEVELOPMENT OF AI. ...",
+      "posted_at": "2026-09-12T23:02:47+00:00",
+      "captured_at": "2026-09-12T23:02:49.267365+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 94133,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1036809,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-09-12T22:00:03+00:00",
+      "captured_at": "2026-09-12T22:00:04.713850+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 94131,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "TAIWAN STOCKS FALL OVER 2% ...",
       "posted_at": "2026-09-11T01:48:04+00:00",
       "captured_at": "2026-09-11T01:48:06.479963+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 92135,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1035810,
-      "message_text": "10-YEAR JGB YIELD JUMPS 7.5 BASIS POINTS, REACHING 2.985%. ...",
-      "posted_at": "2026-09-11T01:41:18+00:00",
-      "captured_at": "2026-09-11T01:41:19.359112+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 92133,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1035809,
-      "message_text": "OZON REPORTS A FIRE AT ITS SARATOV LOGISTICS HUB AFTER UKRAINIAN DRONES STRUCK THE FACILITY. ...",
-      "posted_at": "2026-09-11T01:39:18+00:00",
-      "captured_at": "2026-09-11T01:39:20.730505+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
