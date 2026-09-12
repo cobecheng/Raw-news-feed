@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-09-12T20:06:14.172057+00:00",
+  "generated_at": "2026-09-12T21:50:01.298877+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 94131,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1036808,
+      "message_text": "JUST IN: OPENAI WILL NOT IPO THIS YEAR, CEO SAM ALTMAN SAYS.  ...",
+      "posted_at": "2026-09-12T21:49:59+00:00",
+      "captured_at": "2026-09-12T21:50:00.574791+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 94129,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "OZON REPORTS A FIRE AT ITS SARATOV LOGISTICS HUB AFTER UKRAINIAN DRONES STRUCK THE FACILITY. ...",
       "posted_at": "2026-09-11T01:39:18+00:00",
       "captured_at": "2026-09-11T01:39:20.730505+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 92131,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1035808,
-      "message_text": "UKRAINE DRONES STRIKE OZON LOGISTICS CENTER IN RUSSIA'S SARATOV, TRIGGER FIRE: OZON ...",
-      "posted_at": "2026-09-11T01:39:03+00:00",
-      "captured_at": "2026-09-11T01:39:03.398054+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
