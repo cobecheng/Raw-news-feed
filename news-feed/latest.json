@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-09-12T07:42:04.818501+00:00",
+  "generated_at": "2026-09-12T08:36:54.570891+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 93637,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1036560,
+      "message_text": "UKRAINE STRIKES RUSSIA'S TOP SYNTHETIC RUBBER MAKER IN TOGLIATTI IN SAMARA REGION: UKRAINIAN MILITARY ...",
+      "posted_at": "2026-09-12T08:36:51+00:00",
+      "captured_at": "2026-09-12T08:36:53.771498+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 93635,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "US 30-YEAR BOND BID-TO-COVER ACTUAL 2.610 (FORECAST -, PREVIOUS 2.390) $MACRO ...",
       "posted_at": "2026-09-10T17:02:52+00:00",
       "captured_at": "2026-09-10T17:02:54.811661+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 91639,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1035561,
-      "message_text": "US 30-YEAR BOND SALE:\n- HIGH YIELD RATE: 5.308% (PREV 5.216%)\n- BID-COVER RATIO: 2.61 (PREV 2.39)\n- DIRECT ACCEPTED: 18.3% (PREV 21.6%)\n- INDIRECT ACCEPTED: 79.5% (PREV 66.8%)\n- WI: 5.335% ...",
-      "posted_at": "2026-09-10T17:02:52+00:00",
-      "captured_at": "2026-09-10T17:02:55.527595+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
