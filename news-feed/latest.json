@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-09-12T07:00:33.643764+00:00",
+  "generated_at": "2026-09-12T07:42:04.818501+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 93635,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1036559,
+      "message_text": "IRAN RULES OUT U.S. TALKS WITHOUT CONDITIONS\n\nIRANIAN LAWMAKER EBRAHIM AZIZI SAYS TEHRAN WILL NOT NEGOTIATE WITH WASHINGTON UNTIL IRAN\u2019S CONDITIONS ARE MET, DECLARING THAT TALKS WOULD OTHERWISE BE \u201cFUTILE.\u201d\n\nTHE STATEMENT COMES AMID REPORTS THAT THE U.S. AND EU ARE PUSHING FOR NEGOTIATIONS WITHOUT PRECONDITIONS, WHILE SPECULATION GROWS OVER A POTENTIAL DIPLOMATIC REOPENING BETWEEN WASHINGTON AND TEHRAN. ...",
+      "posted_at": "2026-09-12T07:42:03+00:00",
+      "captured_at": "2026-09-12T07:42:04.105307+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 93633,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "US 30-YEAR BOND SALE:\n- HIGH YIELD RATE: 5.308% (PREV 5.216%)\n- BID-COVER RATIO: 2.61 (PREV 2.39)\n- DIRECT ACCEPTED: 18.3% (PREV 21.6%)\n- INDIRECT ACCEPTED: 79.5% (PREV 66.8%)\n- WI: 5.335% ...",
       "posted_at": "2026-09-10T17:02:52+00:00",
       "captured_at": "2026-09-10T17:02:55.527595+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 91635,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1035559,
-      "message_text": "*US 30Y BONDS DRAW 5.308% VS 5.335% PRE-SALE WHEN-ISSUED YIELD ...",
-      "posted_at": "2026-09-10T17:02:51+00:00",
-      "captured_at": "2026-09-10T17:02:54.102377+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
