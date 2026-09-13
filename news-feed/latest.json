@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-09-12T23:02:49.940314+00:00",
+  "generated_at": "2026-09-13T00:35:39.721724+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 94137,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1036811,
+      "message_text": "SONY\u2019S MOVE TO DISCONTINUE PHYSICAL PLAYSTATION GAME RELEASES TRIGGERS BACKLASH OVER DIGITAL OWNERSHIP. CONSUMER RIGHTS GROUPS IN THE UK AND MEXICO WARN THAT THE DECISION COULD UNDERMINE BUYER CHOICE. ...",
+      "posted_at": "2026-09-13T00:35:36+00:00",
+      "captured_at": "2026-09-13T00:35:38.960355+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 94135,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "TAIWANESE SHARES DECLINE SHARPLY, FALLING OVER 2%. ...",
       "posted_at": "2026-09-11T01:48:18+00:00",
       "captured_at": "2026-09-11T01:48:18.522554+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 92137,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1035811,
-      "message_text": "TAIWAN STOCKS FALL OVER 2% ...",
-      "posted_at": "2026-09-11T01:48:04+00:00",
-      "captured_at": "2026-09-11T01:48:06.479963+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
