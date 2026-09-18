@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-09-18T22:55:02.780250+00:00",
+  "generated_at": "2026-09-18T23:44:04.328365+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 103239,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1041364,
+      "message_text": "NVIDIA CEO JENSEN HUANG: AGREES WITH TRUMP ON AI, DOESN\u2019T THINK IT WILL END WORLD BY 2030 - CBS NEWS ...",
+      "posted_at": "2026-09-18T23:44:01+00:00",
+      "captured_at": "2026-09-18T23:44:03.608913+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 103237,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1041363,
+      "message_text": "JUST IN: NVIDIA $NVDA CEO JENSEN HUANG SAYS AI WILL NOT \"END THE WORLD\" BY 2030. ...",
+      "posted_at": "2026-09-18T23:02:29+00:00",
+      "captured_at": "2026-09-18T23:02:30.653011+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 103235,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "#OOTT | THREE PUMPING STATIONS ALONG SAUDI EAST-WEST OIL PIPELINE WERE DAMAGED IN LAST WEEK\u2019S ATTACK - RTRS SOURCES ...",
       "posted_at": "2026-09-17T15:57:20+00:00",
       "captured_at": "2026-09-17T15:57:21.549989+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 101239,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1040361,
-      "message_text": "*GLENCORE IRON ORE HEAD HILL SUSPENDED AMID RADIANT WORLD REVIEW ...",
-      "posted_at": "2026-09-17T15:57:05+00:00",
-      "captured_at": "2026-09-17T15:57:06.672663+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 101237,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1040360,
-      "message_text": "JUST IN: SPACEX $SPCX PLANS TO BUY DATA FROM FAILED STARTUPS FOR AI TRAINING. ...",
-      "posted_at": "2026-09-17T15:55:35+00:00",
-      "captured_at": "2026-09-17T15:55:37.379653+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
