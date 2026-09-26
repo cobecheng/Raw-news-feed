@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-09-25T23:28:36.126072+00:00",
+  "generated_at": "2026-09-26T00:14:40.568152+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 112545,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1046027,
+      "message_text": "OPENAI\u2019S MODELS ACCESSED PUBLIC US CENSUS, SEC INFORMATION ...",
+      "posted_at": "2026-09-26T00:14:38+00:00",
+      "captured_at": "2026-09-26T00:14:39.406350+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 112543,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "US EIA WEEKLY NATURAL GAS STORAGE REPORT  ...",
       "posted_at": "2026-09-24T14:30:47+00:00",
       "captured_at": "2026-09-24T14:30:48.566065+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 110545,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1045025,
-      "message_text": "EIA NATURAL GAS CHANGE BCF ACTUAL 53B (FORECAST 51B, PREVIOUS 44B) $MACRO ...",
-      "posted_at": "2026-09-24T14:30:31+00:00",
-      "captured_at": "2026-09-24T14:30:32.136027+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
