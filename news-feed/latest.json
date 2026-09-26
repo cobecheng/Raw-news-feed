@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-09-26T17:10:02.976412+00:00",
+  "generated_at": "2026-09-26T17:46:20.005082+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 113231,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1046371,
+      "message_text": "UKRAINE INTERCEPTING 55% OF RUSSIAN JET-POWERED DRONES: ZELENSKIY ...",
+      "posted_at": "2026-09-26T17:46:17+00:00",
+      "captured_at": "2026-09-26T17:46:19.218073+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 113229,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1046370,
+      "message_text": "NORTHERN IRELAND HIGH COURT INJUNCTION PROVIDES BRIEF INTERIM RELIEF UNTIL JUDICIAL REVIEW ON ROUTE DECIDED ...",
+      "posted_at": "2026-09-26T17:11:45+00:00",
+      "captured_at": "2026-09-26T17:11:47.042509+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 113227,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "IRANIAN PRESIDENT MASOUD PEZESHKIAN SAYS 'WE DID REACH AN AGREEMENT WITH TRUMP', WHICH 'WAS SIGNED', AND THAT IRAN IS 'STILL WISH TO MOVE FORWARD' ON THE AGREED FRAMEWORK, ARGUING IRAN 'HAD NOT CLOSED THE STRAIT OF HORMUZ' AND THAT 'WITHOUT ANY LEGAL JUSTIFICATION OR FRAMEWORK, THEY ATTACKED US'. ...",
       "posted_at": "2026-09-25T00:25:39+00:00",
       "captured_at": "2026-09-25T00:25:42.041551+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 111233,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1045370,
-      "message_text": "IRANIAN PRESIDENT MASOUD PEZESHKIAN SAYS 'WE DID NOT CHOOSE WAR. THE WAR WAS IMPOSED ON US', ADDING THAT IRAN IS 'FORCED TO DEFEND OURSELVES' WHENEVER ATTACKED AND THAT 'WE NEVER STARTED A WAR, BUT IF THEY WISH TO KEEP FIGHTING US, WE WILL RESPOND STRONGLY'. ...",
-      "posted_at": "2026-09-25T00:25:39+00:00",
-      "captured_at": "2026-09-25T00:25:42.817615+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 111229,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1045368,
-      "message_text": "IRANIAN PRESIDENT MASOUD PEZESHKIAN SAYS 'ONE OF THE PROBLEMS THAT WE FACE IS THAT OUR MONEY IN CHINA IS BLOCKED', ADDING THAT 'WE CAN'T EVEN GET OUR OWN MONEY OUT OF A COUNTRY TO WHICH WE HAVE SUPPLIED GOODS, LET ALONE USE THOSE FUNDS TO PAY SOMEONE ELSE'. ...",
-      "posted_at": "2026-09-25T00:25:23+00:00",
-      "captured_at": "2026-09-25T00:25:24.119350+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
