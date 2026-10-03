@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-10-03T11:55:26.308835+00:00",
+  "generated_at": "2026-10-03T12:30:25.627081+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 123285,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1051411,
+      "message_text": "HAMAS: THE MASSACRE AT THE AL-ASALA BUILDING IS A BRUTAL CRIME THAT CONFIRMS THE OCCUPATION'S DETERMINATION TO CONTINUE ITS WAR OF EXTERMINATION IN GAZA. ...",
+      "posted_at": "2026-10-03T12:30:24+00:00",
+      "captured_at": "2026-10-03T12:30:24.731807+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 123283,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1051410,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-10-03T12:00:02+00:00",
+      "captured_at": "2026-10-03T12:00:03.425082+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 123281,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "US TREASURY SECRETARY BESSENT: EUROPE SHOULD MAKE ADDITIONAL SUPPLIES AVAILABLE. ...",
       "posted_at": "2026-10-01T19:26:58+00:00",
       "captured_at": "2026-10-01T19:26:59.824124+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 121285,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1050407,
-      "message_text": "US TREASURY SECRETARY BESSENT: EUROPE SHOULD ACCELERATE DELIVERY ON COMMITMENTS. ...",
-      "posted_at": "2026-10-01T19:26:43+00:00",
-      "captured_at": "2026-10-01T19:26:44.776232+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 121283,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1050406,
-      "message_text": "USTR GREER: G20 TRADE MINISTERS DISCUSSED 'WEAPONIZATION' OF AGRICULTURE AND FARM\u00a0INPUTS\n- G20 MINISTERS REACHED CONSENSUS ON DENOUNCING WEAPONIZATION OF FOOD\u00a0AND FARM INPUTS ...",
-      "posted_at": "2026-10-01T19:26:12+00:00",
-      "captured_at": "2026-10-01T19:26:15.718970+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
