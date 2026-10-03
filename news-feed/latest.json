@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-03T20:30:15.873595+00:00",
+  "generated_at": "2026-10-03T21:09:32.020710+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 123509,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1051524,
+      "message_text": "NORTH KOREA CONDUCTS INTERMEDIATE-RANGE STRATEGIC MISSILE LAUNCH DRILL ON OCT. 3: KCNA ...",
+      "posted_at": "2026-10-03T21:09:30+00:00",
+      "captured_at": "2026-10-03T21:09:31.173592+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 123507,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "JAPAN AUG JOBS-APPLICANTS RATIO STEADY AT 1.18 IN JULY: GOVT ...",
       "posted_at": "2026-10-01T23:30:52+00:00",
       "captured_at": "2026-10-01T23:30:55.657586+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 121511,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1050521,
-      "message_text": "TOKYO AREA SEPTEMBER CORE CPI RISES 2.7% YEAR/YEAR: GOVERNMENT POLL 2.4% ...",
-      "posted_at": "2026-10-01T23:30:52+00:00",
-      "captured_at": "2026-10-01T23:30:56.499106+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
