@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-03T20:25:27.450797+00:00",
+  "generated_at": "2026-10-03T20:30:15.873595+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 123507,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1051522,
+      "message_text": "\ud83c\udf06 Market News Digest\n[Oct 3, 2026 07:00\u201315:00 EST]\n\n\ud83d\udd25 Top Stories\n\u2022 Israel/Hamas/Gaza escalation persists \u2014 fresh airstrikes, casualties, and failed/attempted strikes keep ceasefire risk elevated  \n\u2022 Russia intensifies Ukraine war \u2014 Kyiv/Odesa strikes hit civilians, ports, bridges and energy assets; Moscow vows more retaliatory attacks  \n\u2022 Middle East oil risk rises \u2014 Houthi claims on Riyadh/Aramco, Iran tensions, and U.S. military buildup keep crude geopolitics hot\n\n\u26fd Oil & Energy\n\u2022 Saudi Aramco site reported smoking \u2014 witnesses saw fire/smoke near Riyadh; no official confirmation yet  \n\u2022 Iran refinery trading halted \u2014 Tehran suspended six listed refiners through Oct. 14, signaling sector stress and tighter oil-market pressure  \n\u2022 Iraq boosts crude export flexibility \u2014 first major VLCC shipment past Hormuz in decades, with tanker fleet expansion planned\n\n\ud83d\udcca Markets & Macro\n\u2022 Ukraine steel output warning \u2014 output could fall sharply in 2026 and to zero by 2027 if mills stay offline; trade balance risk grows  \n\u2022 South Korea banks hit by cyber/data leaks \u2014 emergency FSC meeting after breaches at multiple lenders and capital finance firms  \n\u2022 Venezuela inflation stays hot \u2014 September CPI rose 8.4%, underscoring persistent macro stress  \n\u2022 Spain housing protests \u2014 tens of thousands marched over affordability, highlighting broader Europe housing pressure\n\n\ud83c\udf0d Geopolitical\n\u2022 Iran/UK security tensions widen \u2014 UK probing alleged RAF Fairford plot; German and UK officials warn on hybrid threats  \n\u2022 North Korea missile test \u2014 intermediate-range launch with claimed AI guidance raises regional defense concerns  \n\u2022 India-Pakistan border tensions flare \u2014 summons/denials follow reported incident in Ferozpur sector  \n\u2022 Africa conflict risk \u2014 Ethiopian federal forces entered Tigray capital, suggesting renewed instability\n\n\ud83e\ude99 Crypto & DeFi\n\u2022 No major crypto catalyst \u2014 headlines were light aside from a Bitcoin nostalgia note\n\n\ud83c\udfdb\ufe0f Regulatory & Policy\n\u2022 U.S. politics turns fiscal \u2014 Trump \u05e9\u05d5\u05d1 promised $5,000 payments if Republicans win the midterms, a huge implied stimulus  \n\u2022 Trump pushes daylight-saving repeal \u2014 renewed call for the Sunshine Protection Act adds policy noise  \n\u2022 China trade pressure on Europe \u2014 anti-dumping probe into European chemical exports raises tariff risk  \n\u2022 OpenAI safety concerns \u2014 senior safety leader resigned, warning AI firms need stronger controls\n\n\ud83c\udfe2 Corporate\n\u2022 Renault doubles down on France \u2014 over \u20ac10B planned investment in EVs and cheaper cars, with 2026 French output seen up 25%+  \n\u2022 Airbnb cautious on AI bookings \u2014 CEO said the platform is unlikely to let AI agents make reservations  \n\u2022 Temu UK sales surge \u2014 UK revenue more than doubled, showing continued e-commerce momentum  \n\u2022 ShinyHunters member detained \u2014 reported arrest in Jordan may help disrupt high-profile cybercrime activity\n\nDigested by *MarketClaw* \ud83d\udc3e \u2014 124 messages scanned",
+      "posted_at": "2026-10-03T20:30:12+00:00",
+      "captured_at": "2026-10-03T20:30:14.993754+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 123505,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "TOKYO AREA SEPTEMBER CORE CPI RISES 2.7% YEAR/YEAR: GOVERNMENT POLL 2.4% ...",
       "posted_at": "2026-10-01T23:30:52+00:00",
       "captured_at": "2026-10-01T23:30:56.499106+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 121505,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1050518,
-      "message_text": "\ud83d\udd34 TOKYO CORE CPI YOY ACTUAL 2.7% (FORECAST 2.3%, PREVIOUS 1.8%) $MACRO ...",
-      "posted_at": "2026-10-01T23:30:51+00:00",
-      "captured_at": "2026-10-01T23:30:53.840593+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
