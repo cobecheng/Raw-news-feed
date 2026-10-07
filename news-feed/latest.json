@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-07T16:59:20.441865+00:00",
+  "generated_at": "2026-10-07T16:59:34.562281+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 128309,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1053931,
+      "message_text": "EUROPEAN COMMISSION NOW HOPES TO GET BEIJING TO ACCEPT UNILATERAL EU CAP ON HYBRID IMPORTS INSTEAD - FT ...",
+      "posted_at": "2026-10-07T16:59:31+00:00",
+      "captured_at": "2026-10-07T16:59:33.862829+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 128307,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "MARCO RUBIO ON UKRAINE: NATO MEMBERSHIP IS NOT ON THE TABLE AS WE SPEAK. RIGHT NOW, WE'RE SIMPLY FOCUSED ON THE ENDING OF THIS CONFLICT. ...",
       "posted_at": "2026-10-06T11:45:35+00:00",
       "captured_at": "2026-10-06T11:45:37.483689+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 126309,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1052929,
-      "message_text": "FRANCE DROUGHT PUTS DRINKING WATER UNDER STRAIN FOR 1 MILLION PEOPLE\n\nFRANCE\u2019S HISTORIC DROUGHT HAS LEFT DRINKING-WATER SUPPLIES UNDER STRAIN FOR ROUGHLY 1 MILLION PEOPLE, WITH MORE THAN 83,000 RELYING ON EMERGENCY MEASURES INCLUDING BOTTLED WATER AND TANKER DELIVERIES.\n\nSEPTEMBER RAINFALL WAS 70% BELOW NORMAL, WHILE EXTREME DRYNESS HAS ALREADY FORCED RECORD NUCLEAR-POWER CURTAILMENTS AND REDUCED CROP YIELDS.\n\nWATER STRESS COULD NOW PERSIST INTO 2027. ...",
-      "posted_at": "2026-10-06T11:44:05+00:00",
-      "captured_at": "2026-10-06T11:44:05.703508+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
