@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-07T16:58:49.545373+00:00",
+  "generated_at": "2026-10-07T16:59:20.441865+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 128307,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1053930,
+      "message_text": "CHINA SLAPS DOWN EU REQUEST FOR VOLUNTARY CURBS ON HYBRID CAR EXPORTS - \n ...",
+      "posted_at": "2026-10-07T16:59:17+00:00",
+      "captured_at": "2026-10-07T16:59:19.763202+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 128305,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "FRANCE DROUGHT PUTS DRINKING WATER UNDER STRAIN FOR 1 MILLION PEOPLE\n\nFRANCE\u2019S HISTORIC DROUGHT HAS LEFT DRINKING-WATER SUPPLIES UNDER STRAIN FOR ROUGHLY 1 MILLION PEOPLE, WITH MORE THAN 83,000 RELYING ON EMERGENCY MEASURES INCLUDING BOTTLED WATER AND TANKER DELIVERIES.\n\nSEPTEMBER RAINFALL WAS 70% BELOW NORMAL, WHILE EXTREME DRYNESS HAS ALREADY FORCED RECORD NUCLEAR-POWER CURTAILMENTS AND REDUCED CROP YIELDS.\n\nWATER STRESS COULD NOW PERSIST INTO 2027. ...",
       "posted_at": "2026-10-06T11:44:05+00:00",
       "captured_at": "2026-10-06T11:44:05.703508+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 126307,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1052928,
-      "message_text": "*CHINA SEEKS TALKS WITH EU TO ADDRESS CONCERNS ...",
-      "posted_at": "2026-10-06T11:43:21+00:00",
-      "captured_at": "2026-10-06T11:43:22.416801+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
