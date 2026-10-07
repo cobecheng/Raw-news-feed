@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-07T16:54:19.465834+00:00",
+  "generated_at": "2026-10-07T16:56:53.801378+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 128295,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1053924,
+      "message_text": "WATCH LIVE: TRUMP TO DISCUSS AUTOMATIC ENROLLMENT FOR TRUMP ACCOUNTS FOR AMERICAN CHILDREN 1 PM ET  ...",
+      "posted_at": "2026-10-07T16:56:52+00:00",
+      "captured_at": "2026-10-07T16:56:53.091176+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 128293,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "S&P 500 NEARS RECORDS DESPITE BROAD MARKET WEAKNESS\n\nSINCE THE S&P 500\u2019S LAST ALL-TIME CLOSING HIGH IN MID-AUGUST, ONLY TWO OF ITS 11 SECTORS \u2014 TECH AND ENERGY \u2014 HAVE GAINED GROUND.\n\nYET NVIDIA, APPLE AND MICROSOFT ARE NOW SO LARGE THEY CAN PULL THE ENTIRE INDEX HIGHER ON THEIR OWN, PUSHING THE S&P 500 BACK NEAR RECORD HIGHS DESPITE BROAD WEAKNESS UNDERNEATH.\n\nREAL ESTATE HAS BEEN THE WORST-PERFORMING SECTOR, PRESSURED BY SURGING INTEREST RATES. ...",
       "posted_at": "2026-10-06T11:24:18+00:00",
       "captured_at": "2026-10-06T11:24:21.407349+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 126295,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1052922,
-      "message_text": "IRAQ HAS SET THE OIL PRICE AT $58 PER BARREL IN ITS 2027 DRAFT BUDGET, ACCORDING TO LAWMAKERS. ...",
-      "posted_at": "2026-10-06T11:20:34+00:00",
-      "captured_at": "2026-10-06T11:20:37.076763+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
