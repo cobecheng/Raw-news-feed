@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-07T16:58:32.702553+00:00",
+  "generated_at": "2026-10-07T16:58:49.545373+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 128305,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1053929,
+      "message_text": "CHINA REJECTS EU REQUEST FOR VOLUNTARY CURBS ON HYBRID CAR EXPORTS - FT  ...",
+      "posted_at": "2026-10-07T16:58:47+00:00",
+      "captured_at": "2026-10-07T16:58:48.844965+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 128303,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "*CHINA SEEKS TALKS WITH EU TO ADDRESS CONCERNS ...",
       "posted_at": "2026-10-06T11:43:21+00:00",
       "captured_at": "2026-10-06T11:43:22.416801+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 126305,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1052927,
-      "message_text": "CHINA SEEKS TALKS WITH EU TO ADDRESS CONCERNS ...",
-      "posted_at": "2026-10-06T11:41:07+00:00",
-      "captured_at": "2026-10-06T11:41:09.926603+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
