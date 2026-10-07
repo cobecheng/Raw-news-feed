@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-07T16:59:34.562281+00:00",
+  "generated_at": "2026-10-07T17:01:18.760202+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 128311,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1053932,
+      "message_text": "TREASURY WI 10 YR YIELD 5.317% BEFORE $39 BILLION AUCTION ...",
+      "posted_at": "2026-10-07T17:01:17+00:00",
+      "captured_at": "2026-10-07T17:01:18.072390+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 128309,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "SPACEX STOCK IS TAKING OFF AGAIN, BUT WITH ONE KEY DIFFERENCE THIS TIME ...",
       "posted_at": "2026-10-06T11:53:21+00:00",
       "captured_at": "2026-10-06T11:53:23.464262+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 126311,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1052930,
-      "message_text": "MARCO RUBIO ON UKRAINE: NATO MEMBERSHIP IS NOT ON THE TABLE AS WE SPEAK. RIGHT NOW, WE'RE SIMPLY FOCUSED ON THE ENDING OF THIS CONFLICT. ...",
-      "posted_at": "2026-10-06T11:45:35+00:00",
-      "captured_at": "2026-10-06T11:45:37.483689+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
