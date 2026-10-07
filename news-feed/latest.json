@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-07T16:53:03.803172+00:00",
+  "generated_at": "2026-10-07T16:54:19.465834+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 128293,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1053923,
+      "message_text": "IRAN\u2019S FOREIGN MINISTER ARAGHCHI: WHILE STEADFAST AND DETERMINED IN DEFENDING ITSELF, IS ALSO SERIOUS ABOUT UTILIZING DIPLOMATIC TOOLS TO ENSURE ITS NATIONAL INTERESTS AND SECURITY. ...",
+      "posted_at": "2026-10-07T16:54:16+00:00",
+      "captured_at": "2026-10-07T16:54:18.787061+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 128291,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "IRAQ HAS SET THE OIL PRICE AT $58 PER BARREL IN ITS 2027 DRAFT BUDGET, ACCORDING TO LAWMAKERS. ...",
       "posted_at": "2026-10-06T11:20:34+00:00",
       "captured_at": "2026-10-06T11:20:37.076763+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 126293,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1052921,
-      "message_text": "IRAQ SETS OIL PRICE AT $58/BBL IN 2027 DRAFT BUDGET - LAWMAKERS ...",
-      "posted_at": "2026-10-06T11:20:33+00:00",
-      "captured_at": "2026-10-06T11:20:33.921312+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
