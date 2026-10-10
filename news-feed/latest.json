@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-10-10T01:13:58.610874+00:00",
+  "generated_at": "2026-10-10T02:55:01.773622+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 131505,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1055532,
+      "message_text": "TAIWAN PRESIDENT: TAIWAN MAY BE SMALL, BUT WE PROTECT FREEDOM, DEMOCRACY, HUMAN RIGHTS, AND THE RULE OF LAW ...",
+      "posted_at": "2026-10-10T02:54:59+00:00",
+      "captured_at": "2026-10-10T02:55:01.046889+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 131503,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1055531,
+      "message_text": "CHINA  CONDUCTS NO 7-DAY REVERSE REPOS: STATEMENT ...",
+      "posted_at": "2026-10-10T01:23:47+00:00",
+      "captured_at": "2026-10-10T01:23:48.808856+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 131501,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "GOOGLE CLOUD: GEMINI AGENT CAN BE ACCESSED FROM ANY DEVICE ...",
       "posted_at": "2026-10-08T12:22:42+00:00",
       "captured_at": "2026-10-08T12:22:44.072576+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 129503,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1054530,
-      "message_text": "BANK OF ENGLAND'S BAILEY: WE MUST STRENGTHEN THE RESILIENCE OF CORE MARKETS ...",
-      "posted_at": "2026-10-08T12:21:57+00:00",
-      "captured_at": "2026-10-08T12:21:57.579778+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 129505,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1054531,
-      "message_text": "BANK OF ENGLAND'S BAILEY: MONETARY POLICY NEEDS AN UNWAVERING COMMITMENT TO RETURNING INFLATION TO TARGET ...",
-      "posted_at": "2026-10-08T12:21:57+00:00",
-      "captured_at": "2026-10-08T12:22:00.755851+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
