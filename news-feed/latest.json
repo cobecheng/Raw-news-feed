@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-10T20:56:26.424882+00:00",
+  "generated_at": "2026-10-10T21:50:00.162746+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 131851,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1055705,
+      "message_text": "AT LEAST 12 KILLED AND 309 INJURED IN SATURDAY STRIKE ON KING KHALID INTERNATIONAL AIRPORT IN RIYADH, SAUDI CIVIL AVIATION AUTHORITY ...",
+      "posted_at": "2026-10-10T21:49:57+00:00",
+      "captured_at": "2026-10-10T21:49:59.270427+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 131849,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "US PUBLISHES DIESEL EXECUTIVE ORDER IN FEDERAL REGISTER ...",
       "posted_at": "2026-10-08T15:22:04+00:00",
       "captured_at": "2026-10-08T15:22:05.142659+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 129851,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1054704,
-      "message_text": "IN TRUMP\u2019S RUSSIAN OIL DEAL, MIDDLE EAST FUNDS ARE THE BIGGEST OWNERS \u2013  \n ...",
-      "posted_at": "2026-10-08T15:21:04+00:00",
-      "captured_at": "2026-10-08T15:21:06.325527+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
