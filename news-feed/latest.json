@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-10T20:42:53.620574+00:00",
+  "generated_at": "2026-10-10T20:56:26.424882+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 131849,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1055704,
+      "message_text": "SAUDI-LED COALITION: PROJECTILE LANDED NEAR KING FAHD INTERNATIONAL AIRPORT IN DAMMAM ...",
+      "posted_at": "2026-10-10T20:56:25+00:00",
+      "captured_at": "2026-10-10T20:56:25.582713+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 131847,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "IN TRUMP\u2019S RUSSIAN OIL DEAL, MIDDLE EAST FUNDS ARE THE BIGGEST OWNERS \u2013  \n ...",
       "posted_at": "2026-10-08T15:21:04+00:00",
       "captured_at": "2026-10-08T15:21:06.325527+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 129849,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1054703,
-      "message_text": "MOST OWNERSHIP IN US-RUSSIA OIL DEAL TO GO TO MIDDLE EAST FUNDS - NYT  ...",
-      "posted_at": "2026-10-08T15:19:34+00:00",
-      "captured_at": "2026-10-08T15:19:34.779437+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
