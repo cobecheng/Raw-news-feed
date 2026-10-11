@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-11T09:53:43.187022+00:00",
+  "generated_at": "2026-10-11T10:35:13.767367+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 132001,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1055836,
+      "message_text": "ASIAN GOLD PRODUCERS BEGIN HOARDING DOMESTIC SUPPLIES AFTER PRICE RISES - NIKKEI ...",
+      "posted_at": "2026-10-11T10:35:12+00:00",
+      "captured_at": "2026-10-11T10:35:12.992631+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 131999,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "OPENAI ANNUALISED REVENUE $20B LESS THAN PREVIOUSLY SIGNALLED - FT. ...",
       "posted_at": "2026-10-08T16:44:52+00:00",
       "captured_at": "2026-10-08T16:44:53.478818+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 130001,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1054779,
-      "message_text": "OPENAI ANNUALISED REV. $20B LESS THAN PREVIOUSLY SIGNALLED: FT\n\nOPENAI ANNUALISED REVENUES $20BN LESS THAN PREVIOUSLY SIGNALLED - *WALTER BLOOMBERG ...",
-      "posted_at": "2026-10-08T16:44:37+00:00",
-      "captured_at": "2026-10-08T16:44:37.909143+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
