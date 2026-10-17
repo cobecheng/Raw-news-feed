@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-10-17T05:25:14.336573+00:00",
+  "generated_at": "2026-10-17T07:24:15.723332+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 140065,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1059874,
+      "message_text": "JUST IN: ELON MUSK SAYS THE NEW TESLA $TSLA ROADSTER \"WILL BE SENTIENT.\"\n\n\"YOU WILL BE ABLE TO ASK THE ROADSTER TO PERFORM ANY OF THE TRICKS SHOWN AUTONOMOUSLY.\"  ...",
+      "posted_at": "2026-10-17T07:24:14+00:00",
+      "captured_at": "2026-10-17T07:24:14.534594+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 140063,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1059873,
+      "message_text": "UK DIVIDEND PAYMENTS JUMP 14% IN A YEAR- FT ...",
+      "posted_at": "2026-10-17T05:35:25+00:00",
+      "captured_at": "2026-10-17T05:35:27.000275+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 140061,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "FRANCE AND GERMANY TO ALLOW UK IN EU CAR POLICY IF IT ALIGNS ON CHINA TARIFFS - FT ...",
       "posted_at": "2026-10-15T14:12:42+00:00",
       "captured_at": "2026-10-15T14:12:45.630182+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 138065,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1058871,
-      "message_text": "YEMEN'S HOUTHIS RENEW WARNING TO AIRLINES THAT SAUDI AIRSPACE, AIRPORTS ARE UNSAFE ...",
-      "posted_at": "2026-10-15T14:09:44+00:00",
-      "captured_at": "2026-10-15T14:09:44.776661+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 138063,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1058870,
-      "message_text": "TRUMP SAYS FORT HOOD ATTACKER WILL BE EXECUTED BY FIRING SQUAD \u2014 NO LIVESTREAM\n\nPRESIDENT DONALD TRUMP SAYS NIDAL MALIK HASAN, THE FORMER U.S. ARMY MAJOR CONVICTED OF KILLING 13 PEOPLE AND WOUNDING 32 OTHERS IN THE 2009 FORT HOOD SHOOTING, WILL BE EXECUTED BY FIRING SQUAD.\n\nTRUMP SAID HE CONSIDERED LIVESTREAMING THE EXECUTION AS A DETERRENT BUT DECIDED AGAINST IT.\n\nIMMEDIATE FAMILY MEMBERS OF THE VICTIMS WILL BE PERMITTED TO WITNESS THE EXECUTION IN PERSON, ACCORDING TO TRUMP.\n\nTRUMP: EXECUTION EVENT WILL NOT BE STREAMED - *WALTER BLOOMBERG ...",
-      "posted_at": "2026-10-15T14:09:27+00:00",
-      "captured_at": "2026-10-15T14:09:28.921015+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
