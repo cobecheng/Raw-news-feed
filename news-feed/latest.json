@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-17T09:28:51.490245+00:00",
+  "generated_at": "2026-10-17T09:41:37.022039+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 140069,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1059876,
+      "message_text": "ANTHROPIC'S CLARK: WE ARE IN CONTROL OF AI NOW, BUT IT IS GETTING MUCH MORE CAPABLE MUCH MORE QUICKLY THAN OUR INTUITIONS ...",
+      "posted_at": "2026-10-17T09:41:35+00:00",
+      "captured_at": "2026-10-17T09:41:36.132816+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 140067,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "FEAR AND GREED INDEX: 23/100 = EXTREME FEAR  ...",
       "posted_at": "2026-10-15T14:17:57+00:00",
       "captured_at": "2026-10-15T14:17:58.713356+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 138069,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1058873,
-      "message_text": "FRANCE AND GERMANY TO ALLOW UK IN EU CAR POLICY IF IT ALIGNS ON CHINA TARIFFS -  \n ...",
-      "posted_at": "2026-10-15T14:14:27+00:00",
-      "captured_at": "2026-10-15T14:14:28.391405+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
