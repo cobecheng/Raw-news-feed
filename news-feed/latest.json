@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-18T03:11:16.845523+00:00",
+  "generated_at": "2026-10-18T04:03:03.653145+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 140335,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1060011,
+      "message_text": "AI RACE AND US-CHINA COMPETITION TEST THE RESILIENCE OF UNIVERSITIES, VANDERBILT HEAD SAYS ...",
+      "posted_at": "2026-10-18T04:03:01+00:00",
+      "captured_at": "2026-10-18T04:03:02.586308+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 140333,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "FRANCE SOCIAL SECURITY COMMITTEE DEPUTIES REJECT REVENUE PART OF SOCIAL SECURITY BUDGET \u2014 LE MONDE ...",
       "posted_at": "2026-10-15T17:49:35+00:00",
       "captured_at": "2026-10-15T17:49:37.872902+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 138335,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1059006,
-      "message_text": "UNICREDIT SAYS IT HAS BEEN ALLOWED TO INCREASE ITS COMMERZBANK STAKE WITHOUT MAXIMUM LIMITS, AND IS EXPECTED TO HOLD ABOUT 50% OF VOTING RIGHTS BY YEAR-END ...",
-      "posted_at": "2026-10-15T17:48:36+00:00",
-      "captured_at": "2026-10-15T17:48:39.528492+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
