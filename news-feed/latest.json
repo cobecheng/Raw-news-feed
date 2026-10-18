@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-18T20:30:09.002912+00:00",
+  "generated_at": "2026-10-18T22:00:06.257341+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 140543,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1060117,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-10-18T22:00:02+00:00",
+      "captured_at": "2026-10-18T22:00:04.780734+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 140541,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "US CENTRAL COMMAND CONFIRMED AN IRANIAN REVOLUTIONARY GUARD CORPS PROJECTILE SANK THE SINGAPORE-FLAGGED GFS PRIDE IN THE STRAIT OF HORMUZ, WITH ALL 21 CREW MEMBERS RESCUED SAFELY. MORE THAN 40 VESSELS TRANSITED THE WATERWAY IN THE PREVIOUS 24 HOURS. ...",
       "posted_at": "2026-10-15T22:09:12+00:00",
       "captured_at": "2026-10-15T22:09:13.116033+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 138543,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1059111,
-      "message_text": "REBECA GRYNSPAN, THE FRONTRUNNER IN THE RACE FOR UN CHIEF, SAYS SHE WOULDN\u2019T BE SURPRISED TO ENCOUNTER VETO-POWER RESISTANCE ON FRIDAY, BUT THAT THE OPPOSITION OF PERMANENT SECURITY COUNCIL MEMBERS \u2018HAS BEEN OVERCOME BEFORE\u2019. ...",
-      "posted_at": "2026-10-15T22:06:58+00:00",
-      "captured_at": "2026-10-15T22:06:59.066954+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
