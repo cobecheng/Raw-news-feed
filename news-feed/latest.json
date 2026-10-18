@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-18T09:00:36.962885+00:00",
+  "generated_at": "2026-10-18T11:00:17.374903+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 140535,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1060111,
+      "message_text": "\ud83c\udf05 Market News Digest\n[Oct 17-18, 2026 EST]\n\n\ud83d\udd25 Top Stories\n\u2022 Ukraine escalates drone strikes on St. Petersburg \u2014 fire at Ozon logistics hub, damage to oil/power assets, 1 killed and outages reported\n\u2022 Saudi air defenses intercept missiles and drones \u2014 repeated Houthi-linked threats around Riyadh, Najran and Eastern Province; one helicopter crash also reported\n\u2022 Lithuania/Latvia trigger air raid alerts over suspected drone incursion \u2014 NATO air police scrambled, airports briefly shut, alerts later canceled\n\u2022 US-Russia sanctions stance shifts again \u2014 Trump says sanctions decisions are in US interest; Rubio says White House is reviewing broader economic impact\n\u2022 West Bank tensions deepen \u2014 Rubio condemns settler violence after diplomats were attacked and a French mayor was beaten\n\n\u26fd Oil & Energy\n\u2022 UKMTO reports multiple maritime security incidents near UAE/Yemen \u2014 tug and tanker interactions raise Red Sea/Gulf shipping risk\n\u2022 St. Petersburg strikes hit energy infrastructure \u2014 Russian oil terminal and power substation targeted, adding supply-risk headlines\n\u2022 Gas/oil geopolitics stay front and center \u2014 Vance says US Navy keeps energy flows moving through Hormuz\n\n\ud83d\udcca Markets & Macro\n\u2022 Weekend markets softer \u2014 US and Europe drift lower; gold flat, oil slightly lower, EURUSD little changed\n\u2022 South Korea/Asia AI boom supports growth \u2014 IMF officials say AI spending and exports are lifting the economy and the won\n\u2022 Australia housing weakens \u2014 home prices slide as higher rates and tax reforms curb investment and construction demand\n\u2022 New Zealand trade balance wider than forecast \u2014 deficit came in at -$5.44B\n\u2022 France sees protests over cost of living \u2014 more than 160 detained as unrest spreads\n\n\ud83c\udf0d Geopolitical\n\u2022 Middle East tensions broaden \u2014 Lebanon seeks US talks on Israeli escalation; Iran warns of new operational plans if attacked\n\u2022 Poland probes unidentified airspace object \u2014 another drone/security scare in Eastern Europe\n\u2022 Russia-Ukraine war remains volatile \u2014 Turkish/European concerns rise as diplomatic options and battlefield strikes evolve\n\u2022 Canada military base fire/injury incident \u2014 Wainwright disaster prompts troop support and investigation\n\u2022 India festival stampede kills 19 \u2014 major domestic tragedy with 25 injured\n\n\ud83e\ude99 Crypto & DeFi\n\u2022 Crypto mostly flat to lower \u2014 bitcoin holds around $81.6K; ether slips; altcoins like LINK and DOT underperform\n\u2022 No major crypto catalyst \u2014 price action remains tied to macro risk sentiment\n\n\ud83c\udfdb\ufe0f Regulatory & Policy\n\u2022 South Korea urges renewed North dialogue \u2014 PM Han says groundwork for talks with Pyongyang is being laid\n\u2022 Japan moves to block unverifiable gold exports \u2014 anti-tax-evasion measure could tighten bullion trade flows\n\u2022 Vietnam weighs foreign home-buying limits \u2014 policy response to soaring property prices\n\u2022 Bank of England/Canada central bankers flag inflation risks \u2014 energy costs and geopolitics remain key watchpoints\n\u2022 Iran approves new defense minister \u2014 Tehran signals hardening security posture\n\n\ud83c\udfe2 Corporate\n\u2022 Antofagasta ends Centinela strike \u2014 union deal removes a copper supply overhang\n\u2022 AI capex story intensifies \u2014 FT says US AI infrastructure faces pressure while Anthropic explores lawyers for AI-agent deals\n\u2022 Southeast Asia IPO market heats up \u2014 $1B listing and rising issuance point to stronger deal flow\n\u2022 Ozon/VK caught in Ukraine drone fallout \u2014 Russian corporate assets impacted by overnight strikes\n\nDigested by *MarketClaw* \ud83d\udc3e \u2014 122 messages scanned",
+      "posted_at": "2026-10-18T11:00:15+00:00",
+      "captured_at": "2026-10-18T11:00:16.315742+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 140533,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "GRYNSPAN: OPPOSITION OF PERMANENT SECURITY COUNCIL MEMBERS HAS BEEN OVERCOME BEFORE ...",
       "posted_at": "2026-10-15T22:05:43+00:00",
       "captured_at": "2026-10-15T22:05:45.504974+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 138533,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1059106,
-      "message_text": "GRYNSPAN: UN MUST ENFORCE DISCIPLINE TO PREVENT AGENCY OVERLAP, REDUCE SENIOR POSITIONS ...",
-      "posted_at": "2026-10-15T22:05:42+00:00",
-      "captured_at": "2026-10-15T22:05:44.159739+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
