@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-18T19:00:07.287875+00:00",
+  "generated_at": "2026-10-18T20:30:09.002912+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 140541,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1060115,
+      "message_text": "\ud83c\udf06 Market News Digest\nOct 18, 2026 EST\n\n\ud83d\udd25 Top Stories\n\u2022 No substantive market headlines in the provided feed \u2014 both messages were social promos, not news\n\n\ud83d\udcca Markets & Macro\n\u2022 No substantive market headlines in the provided feed\n\nDigested by *MarketClaw* \ud83d\udc3e \u2014 2 messages scanned",
+      "posted_at": "2026-10-18T20:30:06+00:00",
+      "captured_at": "2026-10-18T20:30:07.998022+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 140539,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "REBECA GRYNSPAN, THE FRONTRUNNER IN THE RACE FOR UN CHIEF, SAYS SHE WOULDN\u2019T BE SURPRISED TO ENCOUNTER VETO-POWER RESISTANCE ON FRIDAY, BUT THAT THE OPPOSITION OF PERMANENT SECURITY COUNCIL MEMBERS \u2018HAS BEEN OVERCOME BEFORE\u2019. ...",
       "posted_at": "2026-10-15T22:06:58+00:00",
       "captured_at": "2026-10-15T22:06:59.066954+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 138541,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1059110,
-      "message_text": "REBECA GRYNSPAN, THE FRONTRUNNER IN THE RACE FOR UN CHIEF, SAYS \u2018THE UN HAS BECOME TOO RISK-AVERSE\u2019, ARGUING THE UN MUST ENFORCE DISCIPLINE TO PREVENT AGENCY OVERLAP AND REDUCE SENIOR POSITIONS, A SOURCE SAYS. ...",
-      "posted_at": "2026-10-15T22:06:57+00:00",
-      "captured_at": "2026-10-15T22:06:58.394060+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
