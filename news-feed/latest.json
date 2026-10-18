@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-18T11:00:17.374903+00:00",
+  "generated_at": "2026-10-18T12:00:06.897332+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 140537,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1060113,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-10-18T12:00:04+00:00",
+      "captured_at": "2026-10-18T12:00:05.691692+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 140535,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "DRONES STRIKE INDUSTRIAL SITES IN RUSSIA\u2019S ROSTOV REGION \u2014 GOVERNOR ...",
       "posted_at": "2026-10-15T22:06:12+00:00",
       "captured_at": "2026-10-15T22:06:13.956793+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 138537,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1059108,
-      "message_text": "GRYNSPAN: OPPOSITION OF PERMANENT SECURITY COUNCIL MEMBERS HAS BEEN OVERCOME BEFORE ...",
-      "posted_at": "2026-10-15T22:05:43+00:00",
-      "captured_at": "2026-10-15T22:05:45.504974+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
