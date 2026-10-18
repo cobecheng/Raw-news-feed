@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-18T00:13:34.009107+00:00",
+  "generated_at": "2026-10-18T02:08:24.954149+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 140317,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1060002,
+      "message_text": "CANADA PM CARNEY: A SERIOUS INCIDENT HAS OCCURRED AT CFB WAINWRIGHT IN ALBERTA, RESULTING IN A MAJOR FIRE. ...",
+      "posted_at": "2026-10-18T02:08:21+00:00",
+      "captured_at": "2026-10-18T02:08:23.752590+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 140315,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "EU READY TO FAST-TRACK SATELLITE RIVAL TO SPACEX ...",
       "posted_at": "2026-10-15T17:40:52+00:00",
       "captured_at": "2026-10-15T17:40:53.130084+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 138317,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1058997,
-      "message_text": "U.S. SAYS THE CIVILIAN SHIP M/V GFS PRIDE WAS HIT BY AN IRGC PROJECTILE, WITH THE CIVILIAN CONTAINER SHIP SINKING WHILE BEING TOWED TO SHORE ...",
-      "posted_at": "2026-10-15T17:40:05+00:00",
-      "captured_at": "2026-10-15T17:40:08.278641+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
