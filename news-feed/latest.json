@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-10-23T21:38:21.199744+00:00",
+  "generated_at": "2026-10-23T22:59:56.337868+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 147073,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1063413,
+      "message_text": "OPENAI: RED-TEAMING EXERCISE UNCOVERS VULNERABILITY ENABLING UNAUTHENTICATED REMOTE CODE EXECUTION IN BROTLI COMPRESSION LIBRARY ...",
+      "posted_at": "2026-10-23T22:59:54+00:00",
+      "captured_at": "2026-10-23T22:59:55.650174+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 147071,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1063412,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-10-23T22:00:05+00:00",
+      "captured_at": "2026-10-23T22:00:06.587835+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 147069,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "FRANCE (OCT) PRODUCTION OUTLOOK INDICATOR ACTUAL: -8 VS -9 PREVIOUS ...",
       "posted_at": "2026-10-22T06:46:19+00:00",
       "captured_at": "2026-10-22T06:46:21.830279+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 145073,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1062409,
-      "message_text": "FRENCH BUSINESS CLIMATE OCTOBER 2026 REPORT  ...",
-      "posted_at": "2026-10-22T06:46:07+00:00",
-      "captured_at": "2026-10-22T06:46:09.358900+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 145071,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1062408,
-      "message_text": "FRANCE MANUFACTURING CONFIDENCE OCT: 105 (EST 101; PREV 101)\n- BUSINESS CONFIDENCE: 97 (EST 96; PREV 96)\n- PRODUCTION OUTLOOK INDICATOR: -8 (PREV -9)\n- OWN-COMPANY PRODUCTION OUTLOOK: 19 (PREV 15; PREVR 14) ...",
-      "posted_at": "2026-10-22T06:46:04+00:00",
-      "captured_at": "2026-10-22T06:46:06.216432+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
