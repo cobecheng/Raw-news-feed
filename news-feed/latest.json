@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-23T22:59:56.337868+00:00",
+  "generated_at": "2026-10-24T00:02:31.836246+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 147075,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1063414,
+      "message_text": "US PENTAGON IDENTIFIES CONFUCIUS INSTITUTES AS A THREAT TO NATIONAL SECURITY - RTRS ...",
+      "posted_at": "2026-10-24T00:02:28+00:00",
+      "captured_at": "2026-10-24T00:02:30.871697+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 147073,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "FRANCE (OCT) OWN-COMPANY PRODUCTION OUTLOOK ACTUAL: 19 VS 15 PREVIOUS ...",
       "posted_at": "2026-10-22T06:46:20+00:00",
       "captured_at": "2026-10-22T06:46:22.490574+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 145075,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1062410,
-      "message_text": "FRANCE (OCT) PRODUCTION OUTLOOK INDICATOR ACTUAL: -8 VS -9 PREVIOUS ...",
-      "posted_at": "2026-10-22T06:46:19+00:00",
-      "captured_at": "2026-10-22T06:46:21.830279+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
