@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-24T23:17:34.494649+00:00",
+  "generated_at": "2026-10-25T00:09:01.207726+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 147611,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1063684,
+      "message_text": "NYP: GOLD-DIGGERS ARE HEADING TO SILICON VALLEY, HOPING TO LAND WEALTHY HUSBANDS IN THE AI INDUSTRY. ...",
+      "posted_at": "2026-10-25T00:08:57+00:00",
+      "captured_at": "2026-10-25T00:08:59.780478+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 147609,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "QATAR PM AND US SECRETARY OF STATE RUBIO DISCUSS DIPLOMATIC EFFORTS TO REDUCE TENSIONS ...",
       "posted_at": "2026-10-22T15:54:56+00:00",
       "captured_at": "2026-10-22T15:54:57.422420+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 145611,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1062679,
-      "message_text": "KERING Q3 2026 EARNINGS:\n\n- REVENUE: EUR3.35B (EST EUR3.35B)\n\n- COMPARABLE REVENUE: -1% (EST +0.6%)\n\n- FASHION & LEATHER GOODS COMPARABLE REVENUE: -3% (EST -2.82%)\n\n- GUCCI REVENUE: EUR1.29B (EST EUR1.3B)\n\n- GUCCI COMPARABLE REVENUE: -6% (EST -3.29%)\n\n- STILL AIMS TO IMPROVE FY RECURRING OPERATING MARGIN ...",
-      "posted_at": "2026-10-22T15:54:10+00:00",
-      "captured_at": "2026-10-22T15:54:12.060631+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
