@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-25T23:00:03.722692+00:00",
+  "generated_at": "2026-10-25T23:35:59.566470+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 148091,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1063926,
+      "message_text": "ISRAELI PM PRESSES TRUMP FOR MORE SUPPORT AHEAD OF TIGHT TUESDAY ELECTION \u2013 AXIOS ...",
+      "posted_at": "2026-10-25T23:35:57+00:00",
+      "captured_at": "2026-10-25T23:35:58.348864+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 148089,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "EUROPEAN STOCK FUTURES MIXED: EUROSTOXX 50 +0.1%, DAX FLAT, FTSE +0.1% ...",
       "posted_at": "2026-10-23T00:17:34+00:00",
       "captured_at": "2026-10-23T00:17:35.980412+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 146091,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1062920,
-      "message_text": "SAUDI ARABIA ISSUES EARLY WARNING ALERT IN RIYADH ...",
-      "posted_at": "2026-10-23T00:15:03+00:00",
-      "captured_at": "2026-10-23T00:15:05.574573+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
