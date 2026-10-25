@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-10-25T03:14:06.501999+00:00",
+  "generated_at": "2026-10-25T04:05:02.618296+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 147691,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1063724,
+      "message_text": "SAMSUNG IN FOCUS AS VIETNAM POLICE PURSUE AI-POWERED SECURITY TECHNOLOGY ...",
+      "posted_at": "2026-10-25T04:05:01+00:00",
+      "captured_at": "2026-10-25T04:05:01.906108+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 147689,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1063723,
+      "message_text": "SAUDI-LED COALITION: INTERCEPTED AND DESTROYED BALLISTIC MISSILE LAUNCHED BY HOUTHIS TOWARDS RIYADH ...",
+      "posted_at": "2026-10-25T03:25:29+00:00",
+      "captured_at": "2026-10-25T03:25:30.178757+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 147687,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "US STATE DEPARTMENT: RUBIO REAFFIRMED THE UNITED STATES' COMMITMENT TO QATAR'S SECURITY AND FREEDOM OF NAVIGATION THROUGH THE STRAIT OF HORMUZ. ...",
       "posted_at": "2026-10-22T17:18:29+00:00",
       "captured_at": "2026-10-22T17:18:31.369415+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 145691,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1062719,
-      "message_text": "US RENEWS PUSH FOR EU TO SOFTEN BIG TECH RULES \u2013  \n ...",
-      "posted_at": "2026-10-22T17:16:44+00:00",
-      "captured_at": "2026-10-22T17:16:46.141506+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 145689,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1062718,
-      "message_text": "US 5-YEAR TIPS AUCTION\n\nHIGH YIELD 2.367% [TAIL 0.7 BPS]\nBID-TO-COVER 2.41\nSELLS $26 BLN\nAWARDS 68.33% OF BIDS AT HIGH\nPRIMARY DEALERS TAKE 5.5%\nDIRECT 32.4%\nINDIRECT 62.0% ...",
-      "posted_at": "2026-10-22T17:04:27+00:00",
-      "captured_at": "2026-10-22T17:04:29.944299+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
