@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T09:56:41.256380+00:00",
+  "generated_at": "2026-10-29T10:02:11.710532+00:00",
   "window_hours": 72,
-  "count": 909,
+  "count": 906,
   "news": [
     {
       "id": 150291,
@@ -11776,45 +11776,6 @@
       "message_text": "BERGERON: GLASS LEWIS SUPPORTS ALL FIVE ETD NOMINEES ...",
       "posted_at": "2026-10-26T10:02:26+00:00",
       "captured_at": "2026-10-26T10:02:29.134094+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148479,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064120,
-      "message_text": "DOLLAR GENERAL INCLUDED IN ANALYST WATCH LIST AT JPMORGAN ...",
-      "posted_at": "2026-10-26T10:00:13+00:00",
-      "captured_at": "2026-10-26T10:00:14.900978+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148477,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064119,
-      "message_text": "KUWAIT SEPT BANK LENDING TO PRIVATE SECTOR RISES 6.21% Y/Y:  ...",
-      "posted_at": "2026-10-26T09:59:30+00:00",
-      "captured_at": "2026-10-26T09:59:32.227045+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148475,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064118,
-      "message_text": "KUWAIT SEPT M2 MONEY SUPPLY RISES 1.60% Y/Y: CENTRAL BANK ...",
-      "posted_at": "2026-10-26T09:58:11+00:00",
-      "captured_at": "2026-10-26T09:58:12.479112+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
