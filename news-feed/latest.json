@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T06:43:57.718971+00:00",
+  "generated_at": "2026-10-29T06:49:28.088817+00:00",
   "window_hours": 72,
-  "count": 992,
+  "count": 990,
   "news": [
     {
       "id": 150291,
@@ -12868,32 +12868,6 @@
       "message_text": "VOLKSWAGEN CHINA ADVANCES AUTONOMOUS DRIVING PLANS WITH LEVEL 3 ROAD-TEST APPROVAL IN HEFEI ...",
       "posted_at": "2026-10-26T06:51:31+00:00",
       "captured_at": "2026-10-26T06:51:33.754816+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148311,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064036,
-      "message_text": "RUSSIAN FORCES THWART UKRAINIAN DRONE STRIKES TARGETING ENERGY INFRASTRUCTURE ...",
-      "posted_at": "2026-10-26T06:49:16+00:00",
-      "captured_at": "2026-10-26T06:49:16.662409+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148309,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064035,
-      "message_text": "RUSSIA THWARTS UKRAINIAN DRONE ATTACKS ON ENERGY FACILITIES - IFX. ...",
-      "posted_at": "2026-10-26T06:47:00+00:00",
-      "captured_at": "2026-10-26T06:47:03.112539+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
