@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T09:12:38.033951+00:00",
+  "generated_at": "2026-10-29T09:18:08.469782+00:00",
   "window_hours": 72,
-  "count": 929,
+  "count": 928,
   "news": [
     {
       "id": 150291,
@@ -12062,19 +12062,6 @@
       "message_text": "JAPAN PM TAKAICHI SAYSJAPAN GOV PLANS TO COMPILE EMERGENCY PACKAGE AGAINST CYBERATTACKS NEXT WEEK ...",
       "posted_at": "2026-10-26T09:24:26+00:00",
       "captured_at": "2026-10-26T09:24:29.019957+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148435,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064098,
-      "message_text": "ING WARNS EURO COULD FALL FURTHER ON FRENCH DEBT CONCERNS\n\nING SAYS THE EURO REMAINS VULNERABLE DESPITE MOODY'S MAINTAINING FRANCE'S AA3 CREDIT RATING.\n\nWITH LITTLE PROGRESS EXPECTED ON FRANCE'S BUDGET AND ENERGY PRICES ELEVATED, PRESSURE ON THE CURRENCY COULD PERSIST.\n\n\ud83d\udd38 EUR/USD: $1.1206\n\ud83d\udd38 RESISTANCE: $1.1250\u2013$1.1270\n\ud83d\udd38 KEY SUPPORT: $1.1180\n\nTHE KEY TAKEAWAY: ING SEES LIMITED UPSIDE FOR THE EURO AND WARNS OF A POTENTIAL BREAK BELOW $1.1180. ...",
-      "posted_at": "2026-10-26T09:17:10+00:00",
-      "captured_at": "2026-10-26T09:17:11.086721+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
