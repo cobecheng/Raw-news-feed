@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T21:30:33.806814+00:00",
+  "generated_at": "2026-10-29T21:36:04.169248+00:00",
   "window_hours": 72,
-  "count": 490,
+  "count": 488,
   "news": [
     {
       "id": 150291,
@@ -6342,32 +6342,6 @@
       "message_text": "OPENAI: ANNOUNCING THREE NEW FINDINGS IN MATHEMATICS, COMPUTER SCIENCE, PHYSICS ON HARMONIC ANALYSIS, COMPLEXITY THEORY, QUANTUM FIELD THEORY ...",
       "posted_at": "2026-10-26T21:37:58+00:00",
       "captured_at": "2026-10-26T21:38:00.082881+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149315,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064533,
-      "message_text": "GOLD ROSE AS MUCH AS 0.8% TO RECLAIM THE $4,000-AN-OUNCE LEVEL, RECOVERING AFTER A MORE THAN 4% DECLINE LAST WEEK AS INVESTORS REASSESSED THE FEDERAL RESERVE\u2019S RATE OUTLOOK. SPOT GOLD GAINED 0.4% TO $4,012.51, WHILE SILVER WAS LITTLE CHANGED AT $53.86, WITH EASING OIL PRICES AND REBOUNDING EQUITIES SUPPORTING SENTIMENT. ...",
-      "posted_at": "2026-10-26T21:34:15+00:00",
-      "captured_at": "2026-10-26T21:34:17.211798+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149313,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064532,
-      "message_text": "UKRAINE\u2019S ZELENSKIY SAYS THERE ARE \u201cCASUALTIES AND WOUNDED\u201d IN AN ATTACK ON AN EDUCATIONAL INSTITUTION IN KYIV, ADDING THAT \u201cARTIFICIAL DELAYS\u201d IN SUPPLYING UKRAINE WITH AIR DEFENCES ARE \u201cHELPING TERRORISM\u201d ...",
-      "posted_at": "2026-10-26T21:32:28+00:00",
-      "captured_at": "2026-10-26T21:32:30.492115+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
