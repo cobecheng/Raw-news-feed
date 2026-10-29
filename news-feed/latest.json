@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T14:26:32.337288+00:00",
+  "generated_at": "2026-10-29T14:32:02.731076+00:00",
   "window_hours": 72,
-  "count": 715,
+  "count": 712,
   "news": [
     {
       "id": 150291,
@@ -9254,45 +9254,6 @@
       "message_text": "DALLAS FED MANUFACTURING BUSINESS INDEX OCTOBER REPORT   ...",
       "posted_at": "2026-10-26T14:34:06+00:00",
       "captured_at": "2026-10-26T14:34:08.526603+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148867,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064314,
-      "message_text": "US DALLAS FED MANUFACTURING ACTIVITY OCT: 13.4 (EST 8.8; PREV 9.8) ...",
-      "posted_at": "2026-10-26T14:31:36+00:00",
-      "captured_at": "2026-10-26T14:31:36.764946+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148865,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064313,
-      "message_text": "US DALLAS FED MANUFACTURING ACTIVITY OCT: 13.4 (EST 8.8; PREV 9.8) ...",
-      "posted_at": "2026-10-26T14:31:21+00:00",
-      "captured_at": "2026-10-26T14:31:23.139630+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148863,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064312,
-      "message_text": "DALLAS FED MFG. BUS. INDEX ACTUAL 13.40 (FORECAST 8.8, PREVIOUS 9.80) $MACRO ...",
-      "posted_at": "2026-10-26T14:30:51+00:00",
-      "captured_at": "2026-10-26T14:30:52.274902+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
