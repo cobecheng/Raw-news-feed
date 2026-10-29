@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T15:54:38.948029+00:00",
+  "generated_at": "2026-10-29T16:00:09.295578+00:00",
   "window_hours": 72,
-  "count": 657,
+  "count": 655,
   "news": [
     {
       "id": 150291,
@@ -8513,32 +8513,6 @@
       "message_text": "SOURCE TELLS  WHY REPORT OF RIFT BETWEEN NETANYAHU AND HIS ARMY CHIEF OVER IRAN SEEMS CREDIBLE\n ...",
       "posted_at": "2026-10-26T16:00:26+00:00",
       "captured_at": "2026-10-26T16:00:26.821531+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148981,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064365,
-      "message_text": "BRENT OIL REVERSES LOSSES TO TRADE NEAR $117/BBL ...",
-      "posted_at": "2026-10-26T15:55:56+00:00",
-      "captured_at": "2026-10-26T15:55:58.179628+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148979,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064364,
-      "message_text": "JUST IN: MICROSOFT $MSFT OFFERS BUYOUTS TO 60,000 EMPLOYEES AS IT CUTS COSTS AMID AI ADOPTION. ...",
-      "posted_at": "2026-10-26T15:55:12+00:00",
-      "captured_at": "2026-10-26T15:55:13.023206+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
