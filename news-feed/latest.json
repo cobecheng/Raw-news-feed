@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T08:12:03.733255+00:00",
+  "generated_at": "2026-10-29T08:17:34.074432+00:00",
   "window_hours": 72,
-  "count": 953,
+  "count": 952,
   "news": [
     {
       "id": 150291,
@@ -12374,19 +12374,6 @@
       "message_text": "EU ALSO CONSIDERING CAPS OR QUOTAS ON CHINESE FURNITURE. ...",
       "posted_at": "2026-10-26T08:31:53+00:00",
       "captured_at": "2026-10-26T08:31:55.098491+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148387,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064074,
-      "message_text": "IRAN SAYS QATAR OFFICIAL VISITED TEHRAN SUNDAY AS PART OF MEDIATION. ...",
-      "posted_at": "2026-10-26T08:12:35+00:00",
-      "captured_at": "2026-10-26T08:12:36.458816+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
