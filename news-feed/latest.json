@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T05:59:53.996873+00:00",
+  "generated_at": "2026-10-29T06:05:24.447799+00:00",
   "window_hours": 72,
-  "count": 1000,
+  "count": 996,
   "news": [
     {
       "id": 150291,
@@ -12946,58 +12946,6 @@
       "message_text": "EU LEADERS SEEK TO FINALISE \u20ac45 BILLION UKRAINE LOAN GUARANTEED BY EU BUDGET BEFORE YEAR-END ...",
       "posted_at": "2026-10-26T06:09:00+00:00",
       "captured_at": "2026-10-26T06:09:00.987296+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148299,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064030,
-      "message_text": "FIRE ERUPTS AT MULTIPLE INDUSTRIAL SITES IN RUSSIA'S VORONEZH REGION: GOVERNOR ...",
-      "posted_at": "2026-10-26T06:05:14+00:00",
-      "captured_at": "2026-10-26T06:05:15.299834+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148297,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064029,
-      "message_text": "TWO DEAD, 17 WOUNDED IN UKRAINIAN DRONE STRIKE ON RUSSIA'S VORONEZH REGION: GOVERNOR ...",
-      "posted_at": "2026-10-26T06:04:29+00:00",
-      "captured_at": "2026-10-26T06:04:29.279410+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148295,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064028,
-      "message_text": "EUR/USD STAYS ABOVE 1.1200 DESPITE BEARISH PRESSURE BELOW 100-DAY SMA ...",
-      "posted_at": "2026-10-26T06:03:29+00:00",
-      "captured_at": "2026-10-26T06:03:28.450068+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148293,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064027,
-      "message_text": "SIDEWAYS MOVEMENT IS LIKELY FOR THIS MONTH'S HEADLINE GERMAN BUSINESS CONFIDENCE INDICATOR DESPITE SURGING ENERGY PRICES. $EUR\nEUROPEAN EDITOR  PREVIEWS MONDAY'S REPORT HERE:   ...",
-      "posted_at": "2026-10-26T06:00:14+00:00",
-      "captured_at": "2026-10-26T06:00:14.506557+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
