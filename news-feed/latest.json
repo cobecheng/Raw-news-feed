@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T12:58:26.317390+00:00",
+  "generated_at": "2026-10-29T13:03:56.685493+00:00",
   "window_hours": 72,
-  "count": 796,
+  "count": 791,
   "news": [
     {
       "id": 150291,
@@ -10282,71 +10282,6 @@
       "posted_at": "2026-10-26T13:04:03+00:00",
       "captured_at": "2026-10-26T13:04:04.996658+00:00",
       "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148709,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064235,
-      "message_text": "ANTHROPIC FILES FOR IPO ...",
-      "posted_at": "2026-10-26T13:03:33+00:00",
-      "captured_at": "2026-10-26T13:03:35.819412+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148707,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064234,
-      "message_text": "IRAN PRESIDENT TO HOLD BILATERAL MEETING WITH RUSSIA'S PUTIN - MEHR ...",
-      "posted_at": "2026-10-26T13:03:18+00:00",
-      "captured_at": "2026-10-26T13:03:19.475351+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148705,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064233,
-      "message_text": "VERIZON: EXPECT TO RETURN TO WIRELESS SERVICE REVENUE GROWTH IN Q4 ...",
-      "posted_at": "2026-10-26T13:01:33+00:00",
-      "captured_at": "2026-10-26T13:01:34.593044+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148703,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064232,
-      "message_text": "EFFECTIVE FED FUNDS RATE 3.88% OCTOBER 23 VS 3.88% OCTOBER 22. ...",
-      "posted_at": "2026-10-26T13:00:48+00:00",
-      "captured_at": "2026-10-26T13:00:50.165537+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148701,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064231,
-      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
-      "posted_at": "2026-10-26T13:00:01+00:00",
-      "captured_at": "2026-10-26T13:00:03.458377+00:00",
-      "has_media": 1,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
       "destination_topic_id": 127
