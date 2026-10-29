@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T07:39:01.461953+00:00",
+  "generated_at": "2026-10-29T07:44:31.815423+00:00",
   "window_hours": 72,
-  "count": 967,
+  "count": 963,
   "news": [
     {
       "id": 150291,
@@ -12517,58 +12517,6 @@
       "message_text": "FRENCH INTERIOR MINISTER NUNEZ SAYS WILL BE AN \"EXTREMELY ROBUST\" DEPLOYMENT OF SECURITY FORCES FOR NEXT WEEKEND ...",
       "posted_at": "2026-10-26T07:45:02+00:00",
       "captured_at": "2026-10-26T07:45:02.937481+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148365,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064063,
-      "message_text": "FRENCH INTERIOR MINISTER NUNEZ SAYS  CLEARLY EXPECTING RISK OF MORE TROUBLE IN CASE OF FURTHER DEMONSTRATIONS ON OCTOBER 31 ...",
-      "posted_at": "2026-10-26T07:44:17+00:00",
-      "captured_at": "2026-10-26T07:44:18.320916+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148363,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064062,
-      "message_text": "IRAN PRESIDENT TO GO TO RUSSIA MONDAY FOR GAS SUMMIT - TASNIM ...",
-      "posted_at": "2026-10-26T07:42:47+00:00",
-      "captured_at": "2026-10-26T07:42:49.005516+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148361,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064061,
-      "message_text": "IRAN PRESIDENT TO GO TO RUSSIA MONDAY FOR GAS SUMMIT - TASNIM. ...",
-      "posted_at": "2026-10-26T07:42:17+00:00",
-      "captured_at": "2026-10-26T07:42:18.675277+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148359,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064060,
-      "message_text": "FRANCE'S 10-YR BOND YIELD DOWN 5.3 BPS TO 4.9685% AFTER MOODY'S MAINTAINS SOVEREIGN RATING ON FRIDAY ...",
-      "posted_at": "2026-10-26T07:39:33+00:00",
-      "captured_at": "2026-10-26T07:39:35.125702+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
