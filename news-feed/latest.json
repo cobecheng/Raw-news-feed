@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T16:05:39.679682+00:00",
+  "generated_at": "2026-10-29T16:11:10.145498+00:00",
   "window_hours": 72,
-  "count": 654,
+  "count": 653,
   "news": [
     {
       "id": 150291,
@@ -8487,19 +8487,6 @@
       "message_text": "FHFA\u2019S PULTE: ABUSIVE MONOPOLIES WILL NOT BE ALLOWED TO TAKE ADVANTAGE OF CONSUMERS ANYWHERE IN THE MORTGAGE MARKET ...",
       "posted_at": "2026-10-26T16:14:43+00:00",
       "captured_at": "2026-10-26T16:14:43.578319+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148985,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064367,
-      "message_text": "COREWEAVE IS BEING CALLED THE WEWORK OF DATA CENTER OPERATORS. NEOCLOUDS LEASE RATHER THAN OWN, AND NOBODY KNOWS HOW PROFITABLE THESE DATA CENTERS WILL EVENTUALLY BE. BOND YIELDS NEAR 15% SHOW REAL CONCERN ABOUT THE AI BORROWING BINGE. ELICE, ANOTHER NEOCLOUD, PLUNGED 30% AFTER ITS SOUTH KOREAN IPO. ...",
-      "posted_at": "2026-10-26T16:07:56+00:00",
-      "captured_at": "2026-10-26T16:07:57.102095+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
