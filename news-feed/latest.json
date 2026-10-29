@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T06:21:55.616254+00:00",
+  "generated_at": "2026-10-29T06:27:26.116113+00:00",
   "window_hours": 72,
-  "count": 995,
+  "count": 994,
   "news": [
     {
       "id": 150291,
@@ -12920,19 +12920,6 @@
       "message_text": "CRUDE OIL DECLINES AMID QATAR\u2019S MEDIATION EFFORTS-FT ...",
       "posted_at": "2026-10-26T06:29:45+00:00",
       "captured_at": "2026-10-26T06:29:46.765821+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148303,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064032,
-      "message_text": "GOLD STAYS ABOVE $4,000 AFTER REBOUND AS RATE HIKE BETS WEIGH ON PRICES ...",
-      "posted_at": "2026-10-26T06:23:15+00:00",
-      "captured_at": "2026-10-26T06:23:14.818598+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
