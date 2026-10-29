@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T09:23:38.807690+00:00",
+  "generated_at": "2026-10-29T09:29:09.189183+00:00",
   "window_hours": 72,
-  "count": 928,
+  "count": 924,
   "news": [
     {
       "id": 150291,
@@ -12010,58 +12010,6 @@
       "message_text": "HSBC CUTS GLOBAL EQUITIES TO NEUTRAL FROM MAX OVERWEIGHT ...",
       "posted_at": "2026-10-26T09:30:57+00:00",
       "captured_at": "2026-10-26T09:30:59.152439+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148443,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064102,
-      "message_text": "OIL SPILL OFF UAE COAST WIDENS, SATELLITE IMAGES SHOW ...",
-      "posted_at": "2026-10-26T09:27:41+00:00",
-      "captured_at": "2026-10-26T09:27:44.087140+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148441,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064101,
-      "message_text": "MAJOR OIL SPILL SPREADS OFF UAE COAST AMID IRAN WAR\n\nSATELLITE IMAGES SHOW AN EXPANDING OIL SPILL OFF THE UAE COAST, THREATENING BEACHES AND MARINE ECOSYSTEMS.\n\nAUTHORITIES HAVE CLOSED COASTAL AREAS IN UMM AL QUWAIN, SHARJAH AND RAS AL KHAIMAH AS CONTAINMENT EFFORTS CONTINUE.\n\nEXPERTS LINK THE SPILL TO A TANKER REPORTEDLY STRUCK BY A PROJECTILE LAST MONTH, THOUGH THE CAUSE REMAINS UNCONFIRMED. ...",
-      "posted_at": "2026-10-26T09:27:10+00:00",
-      "captured_at": "2026-10-26T09:27:11.606260+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148439,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064100,
-      "message_text": "JAPAN PM TAKAICHI: JAPAN GOV PLANS TO COMPILE EMERGENCY PACKAGE AGAINST CYBERATTACKS NEXT WEEK ...",
-      "posted_at": "2026-10-26T09:25:26+00:00",
-      "captured_at": "2026-10-26T09:25:27.080033+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148437,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064099,
-      "message_text": "JAPAN PM TAKAICHI SAYSJAPAN GOV PLANS TO COMPILE EMERGENCY PACKAGE AGAINST CYBERATTACKS NEXT WEEK ...",
-      "posted_at": "2026-10-26T09:24:26+00:00",
-      "captured_at": "2026-10-26T09:24:29.019957+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
