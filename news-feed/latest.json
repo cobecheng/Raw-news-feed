@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T14:10:01.235878+00:00",
+  "generated_at": "2026-10-29T14:15:31.598617+00:00",
   "window_hours": 72,
-  "count": 724,
+  "count": 722,
   "news": [
     {
       "id": 150291,
@@ -9384,32 +9384,6 @@
       "message_text": "$ANT - LEVERAGED ANTHROPIC ETFS FILED AHEAD OF IPO\n\nANTHROPIC COULD SEE LEVERAGED ETFS LAUNCH SHORTLY AFTER ITS NASDAQ DEBUT.\n\n\ud83d\udd38 $ANTT: 2X LONG ANTHROPIC ETF\n\ud83d\udd38 $ANTZ: 2X SHORT ANTHROPIC ETF\n\nBOTH PRODUCTS AIM TO DELIVER TWICE THE DAILY PERFORMANCE, IN OPPOSITE DIRECTIONS.\n\nTHE KEY TAKEAWAY: TRADERS ARE PREPARING FOR SIGNIFICANT VOLATILITY AROUND ANTHROPIC'S IPO. THESE ETFS ARE DESIGNED FOR SHORT-TERM TRADING, NOT LONG-TERM HOLDING. ...",
       "posted_at": "2026-10-26T14:15:35+00:00",
       "captured_at": "2026-10-26T14:15:37.053310+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148847,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064304,
-      "message_text": "IRAN PRESIDENT TELLS PAKISTAN, SAUDI, TURKEY OFFICIALS - IRIB ...",
-      "posted_at": "2026-10-26T14:11:35+00:00",
-      "captured_at": "2026-10-26T14:11:36.610319+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148845,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064303,
-      "message_text": "IRAN IS READY TO BACK 'ANY UNDERSTANDING\u2019 FOR REGIONAL UNITY - IRIB. ...",
-      "posted_at": "2026-10-26T14:11:05+00:00",
-      "captured_at": "2026-10-26T14:11:07.218530+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
