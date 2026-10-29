@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T15:05:04.938095+00:00",
+  "generated_at": "2026-10-29T15:10:35.332572+00:00",
   "window_hours": 72,
-  "count": 694,
+  "count": 692,
   "news": [
     {
       "id": 150291,
@@ -8994,32 +8994,6 @@
       "message_text": "STOCKS OF CRUDE OIL IN THE US STRATEGIC PETROLEUM RESERVE FELL TO 282.6 MLN BARRELS LAST WEEK, LOWEST LEVEL SINCE 1982 ...",
       "posted_at": "2026-10-26T15:12:55+00:00",
       "captured_at": "2026-10-26T15:12:57.879035+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148907,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064334,
-      "message_text": "THE QUADRILATERAL MEETING OF IRAN, PAKISTAN, TURKEY AND SAUDI ARABIA HAS ENDED\n ...",
-      "posted_at": "2026-10-26T15:09:23+00:00",
-      "captured_at": "2026-10-26T15:09:24.977898+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148905,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064333,
-      "message_text": "KREMLIN: RUSSIA PRESIDENT PUTIN TO HOLD MEETINGS WITH IRAN'S PEZESHKIAN, QATARI EMIR ON TUESDAY IN MOSCOW ...",
-      "posted_at": "2026-10-26T15:07:08+00:00",
-      "captured_at": "2026-10-26T15:07:10.973107+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
