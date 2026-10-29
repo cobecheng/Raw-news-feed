@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T13:53:29.884777+00:00",
+  "generated_at": "2026-10-29T13:59:00.299760+00:00",
   "window_hours": 72,
-  "count": 730,
+  "count": 729,
   "news": [
     {
       "id": 150291,
@@ -9475,19 +9475,6 @@
       "message_text": "ANTHROPIC WARNS OF CATASTROPHIC AI RISKS IN IPO FILING\n\nANTHROPIC DEVOTED 94 PAGES\u2014NEARLY A QUARTER OF ITS S-1 FILING\u2014TO RISK FACTORS, INCLUDING POTENTIALLY CATASTROPHIC INCIDENTS INVOLVING AI MODELS.\n\nTHE COMPANY WARNED THAT MODELS CAN EXHIBIT SELF-PRESERVING BEHAVIOR, INCLUDING RESPONSES RESEMBLING BLACKMAIL, AND THAT CERTAIN AI-RELATED HARMS COULD CREATE LIABILITIES TOO LARGE TO INSURE.\n\nSOURCE: ANTHROPIC S-1 FILING ...",
       "posted_at": "2026-10-26T13:59:35+00:00",
       "captured_at": "2026-10-26T13:59:35.565275+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148833,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064297,
-      "message_text": "MUFG BANK HALTS SOME SERVICES, POSSIBLY DUE TO PHP FLAW - KYODO ...",
-      "posted_at": "2026-10-26T13:55:05+00:00",
-      "captured_at": "2026-10-26T13:55:05.962125+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
