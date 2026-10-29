@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T10:51:45.527326+00:00",
+  "generated_at": "2026-10-29T10:57:15.814810+00:00",
   "window_hours": 72,
-  "count": 876,
+  "count": 874,
   "news": [
     {
       "id": 150291,
@@ -11360,32 +11360,6 @@
       "message_text": "$META  - META ANNOUNCES LAUNCH OF OFFERING OF DEPOSITARY SHARES REPRESENTING SERIES A MANDATORY CONVERTIBLE PREFERRED STOCK AND OFFERING OF CLASS A COMMON STOCK IN CONNECTION WITH FORWARD SALE AGREEMENTS ...",
       "posted_at": "2026-10-26T10:58:58+00:00",
       "captured_at": "2026-10-26T10:59:00.826496+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148543,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064151,
-      "message_text": "...",
-      "posted_at": "2026-10-26T10:57:11+00:00",
-      "captured_at": "2026-10-26T10:57:11.962466+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148541,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064150,
-      "message_text": "TESLA SHARES GAIN 1.9% PREMARKET AFTER BARCLAYS UPGRADES TO OVERWEIGHT FROM EQUAL-WEIGHT\n\n$TSLA  $SPCX - BARCLAYS UPGRADES TESLA TO OVERWEIGHT, SEES SPACEX MERGER UPSIDE\n\nBARCLAYS UPGRADED $TSLA TO OVERWEIGHT, RAISING ITS PRICE TARGET TO $450 FROM $370.\n\nTHE BANK SEES A POTENTIAL SPACEX MERGER AS A MAJOR BULLISH CATALYST, ALONGSIDE ACCELERATING ROBOTAXI ADOPTION, STRONGER EV DEMAND AND AI-DRIVEN ENERGY GROWTH.\n\nTESLA'S ENERGY BUSINESS IS REPORTEDLY NEARLY SOLD OUT FOR 2027.\n\nTHE KEY TAKEAWAY: BARCLAYS SEES MULTIPLE UPSIDE CATALYSTS, WITH A POTENTIAL SPACEX DEAL CENTRAL TO ITS BULL CASE.\n\nSOURCE: BARCLAYS RESEARCH - *WALTER BLOOMBERG ...",
-      "posted_at": "2026-10-26T10:53:12+00:00",
-      "captured_at": "2026-10-26T10:53:14.940193+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
