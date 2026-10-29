@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T20:46:29.398791+00:00",
+  "generated_at": "2026-10-29T20:52:00.092384+00:00",
   "window_hours": 72,
-  "count": 508,
+  "count": 507,
   "news": [
     {
       "id": 150291,
@@ -6589,19 +6589,6 @@
       "message_text": "FREDDIE MAC SAYS ITS TOTAL MORTGAGE PORTFOLIO INCREASED AT AN ANNUALIZED RATE OF 1.4% IN SEPTEMBER, WITH SINGLE-FAMILY REFINANCE-LOAN PURCHASE VOLUME OF $5 BLN, REPRESENTING 18% OF TOTAL SINGLE-FAMILY MORTGAGE PURCHASES ...",
       "posted_at": "2026-10-26T20:53:42+00:00",
       "captured_at": "2026-10-26T20:53:43.368315+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149277,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064513,
-      "message_text": "CANADIAN PM CARNEY SAYS THAT TO THE EXTENT ANY PROGRESS HAS BEEN MADE IN U.S. TRADE TALKS, IT IS BECAUSE THE U.S. IS COMING CLOSER TO CANADA\u2019S POSITION, ADDING THAT THERE HAS BEEN A SLIGHT INTENSIFICATION IN THE TALKS BUT THAT CANADA HAS NOT CHANGED ITS POSITION ...",
-      "posted_at": "2026-10-26T20:50:11+00:00",
-      "captured_at": "2026-10-26T20:50:13.341725+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
