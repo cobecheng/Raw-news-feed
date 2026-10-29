@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T07:33:31.100077+00:00",
+  "generated_at": "2026-10-29T07:39:01.461953+00:00",
   "window_hours": 72,
-  "count": 970,
+  "count": 967,
   "news": [
     {
       "id": 150291,
@@ -12569,45 +12569,6 @@
       "message_text": "FRANCE'S 10-YR BOND YIELD DOWN 5.3 BPS TO 4.9685% AFTER MOODY'S MAINTAINS SOVEREIGN RATING ON FRIDAY ...",
       "posted_at": "2026-10-26T07:39:33+00:00",
       "captured_at": "2026-10-26T07:39:35.125702+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148357,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064059,
-      "message_text": "IRAN SAYS REGIONAL SECURITY IMPOSSIBLE WITHOUT REGIONAL COOPERATION ...",
-      "posted_at": "2026-10-26T07:38:47+00:00",
-      "captured_at": "2026-10-26T07:38:49.834150+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148355,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064058,
-      "message_text": "IRAN'S FOREIGN MINISTRY SPOKESPERSON BAGHAEI: REGIONAL SECURITY IMPOSSIBLE WITHOUT REGIONAL COOPERATION. ...",
-      "posted_at": "2026-10-26T07:37:48+00:00",
-      "captured_at": "2026-10-26T07:37:48.466332+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148353,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064057,
-      "message_text": "UK PM BURNHAM SAYS WE STAND BY THE PRINCIPLES OF WHAT HOME SECRETARY HAS SET OUT ON INDEFINITE LEAVE TO REMAIN ...",
-      "posted_at": "2026-10-26T07:35:32+00:00",
-      "captured_at": "2026-10-26T07:35:34.067232+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
