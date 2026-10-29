@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T18:01:18.132221+00:00",
+  "generated_at": "2026-10-29T18:06:48.514314+00:00",
   "window_hours": 72,
-  "count": 610,
+  "count": 606,
   "news": [
     {
       "id": 150291,
@@ -7876,58 +7876,6 @@
       "message_text": "ANTHROPIC FOUNDERS COULD RETAIN VOTING CONTROL FOR DECADES\n\nANTHROPIC'S FOUNDERS COULD RETAIN 50.1% OF SHAREHOLDER VOTING POWER LONG AFTER ITS IPO, EVEN IF THEY SELL NEARLY ALL THEIR SHARES.\n\nA SPECIAL CLASS F SHARE, CONTROLLED BY ANTHROPIC FOUNDERS LLC, GRANTS MAJORITY VOTING RIGHTS AS LONG AS AT LEAST THREE FOUNDERS REMAIN.\n\nTHE STRUCTURE ALSO ALLOWS DEPARTING FOUNDERS TO BE REPLACED WITH MEMBERS SERVING 10-YEAR TERMS, POTENTIALLY EXTENDING CONTROL FOR DECADES.\n\nTHE KEY TAKEAWAY: ANTHROPIC'S IPO COULD OFFER INVESTORS ECONOMIC EXPOSURE WITHOUT MEANINGFUL CONTROL OVER CORPORATE DECISIONS, RAISING IMPORTANT GOVERNANCE CONSIDERATIONS. ...",
       "posted_at": "2026-10-26T18:07:14+00:00",
       "captured_at": "2026-10-26T18:07:14.445629+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149079,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064414,
-      "message_text": "US PROPOSES MONTH-LONG SUDAN HUMANITARIAN TRUCE - ASHARQ CITES SOURCES ...",
-      "posted_at": "2026-10-26T18:05:14+00:00",
-      "captured_at": "2026-10-26T18:05:16.238995+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149077,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064413,
-      "message_text": "ANTHROPIC EXECS DEMANDED BY FTC TO TESTIFY IN PROBE - AXIOS ...",
-      "posted_at": "2026-10-26T18:04:00+00:00",
-      "captured_at": "2026-10-26T18:04:03.051260+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149075,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064412,
-      "message_text": "SKYDANCE IS ALSO INTRODUCING A MANDATORY FIVE-DAY IN-OFFICE POLICY - CNBC ...",
-      "posted_at": "2026-10-26T18:03:15+00:00",
-      "captured_at": "2026-10-26T18:03:18.488664+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149073,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064411,
-      "message_text": "OIL OPTIONS SIGNAL RISING MIDDLE EAST SUPPLY RISKS\n\nWTI CRUDE OIL OPTIONS SKEW TOWARD CALLS HAS CLIMBED TO +7.2%, ITS HIGHEST SINCE SEPTEMBER 10, REFLECTING GROWING DEMAND FOR UPSIDE PRICE PROTECTION AMID MIDDLE EAST TENSIONS.\n\nHOUTHI ATTACKS ON SAUDI OIL INFRASTRUCTURE AND REGIONAL SHIPPING HAVE INCREASED SUPPLY DISRUPTION CONCERNS.\n\nMEANWHILE, WTI'S 1\u20132 MONTH SPREAD NARROWED TO $2.30/BARREL FROM $5.40, SIGNALING WEAKER NEAR-TERM BACKWARDATION.\n\nTHE KEY TAKEAWAY: OPTIONS TRADERS ARE PRICING IN GREATER UPSIDE OIL RISK, EVEN AS NEAR-TERM PHYSICAL MARKET TIGHTNESS EASES.\n\nRELATED ASSETS: $USO $XLE $XOM $OXY ...",
-      "posted_at": "2026-10-26T18:03:14+00:00",
-      "captured_at": "2026-10-26T18:03:15.368663+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
