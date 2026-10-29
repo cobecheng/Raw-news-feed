@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T11:13:47.363997+00:00",
+  "generated_at": "2026-10-29T11:19:17.770508+00:00",
   "window_hours": 72,
-  "count": 851,
+  "count": 850,
   "news": [
     {
       "id": 150291,
@@ -11048,19 +11048,6 @@
       "message_text": "EU: ACCEPTS TEMU'S ACTION PLAN TO REMEDY BREACH OF DSA ...",
       "posted_at": "2026-10-26T11:19:43+00:00",
       "captured_at": "2026-10-26T11:19:45.868164+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148591,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064175,
-      "message_text": "META SAYS  NVIDIA, ADVANCED MICRO DEVICES, & BROADCOM INDICATED INTEREST IN PURCHASING UP TO AGGREGATE OF $5.0 BLN OF SHARES OF CLASS A COMMON STOCK ...",
-      "posted_at": "2026-10-26T11:16:14+00:00",
-      "captured_at": "2026-10-26T11:16:14.975182+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
