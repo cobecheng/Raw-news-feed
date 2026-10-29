@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T15:49:08.640657+00:00",
+  "generated_at": "2026-10-29T15:54:38.948029+00:00",
   "window_hours": 72,
-  "count": 658,
+  "count": 657,
   "news": [
     {
       "id": 150291,
@@ -8539,19 +8539,6 @@
       "message_text": "JUST IN: MICROSOFT $MSFT OFFERS BUYOUTS TO 60,000 EMPLOYEES AS IT CUTS COSTS AMID AI ADOPTION. ...",
       "posted_at": "2026-10-26T15:55:12+00:00",
       "captured_at": "2026-10-26T15:55:13.023206+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148977,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064363,
-      "message_text": "PARTICIPANTS AT IRAN, PAKISTAN, TURKEY AND SAUDI QUADRILATERAL MEETING AGREED TO CONTINUE THE TALKS ...",
-      "posted_at": "2026-10-26T15:52:27+00:00",
-      "captured_at": "2026-10-26T15:52:29.770005+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
