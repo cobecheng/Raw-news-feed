@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T21:36:04.169248+00:00",
+  "generated_at": "2026-10-29T21:41:34.510796+00:00",
   "window_hours": 72,
-  "count": 488,
+  "count": 487,
   "news": [
     {
       "id": 150291,
@@ -6329,19 +6329,6 @@
       "message_text": "A SPOKESPERSON FOR THE MAGNUM ICE CREAM COMPANY SAYS BEN & JERRY\u2019S IS NOT FOR SALE, ADDING THAT TAKING BEN & JERRY\u2019S OUT OF TMICC WOULD DRIVE SIGNIFICANT DIS-SYNERGIES AND INFLATE SELLING PRICES PER UNIT ...",
       "posted_at": "2026-10-26T21:41:43+00:00",
       "captured_at": "2026-10-26T21:41:45.422052+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149317,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064534,
-      "message_text": "OPENAI: ANNOUNCING THREE NEW FINDINGS IN MATHEMATICS, COMPUTER SCIENCE, PHYSICS ON HARMONIC ANALYSIS, COMPLEXITY THEORY, QUANTUM FIELD THEORY ...",
-      "posted_at": "2026-10-26T21:37:58+00:00",
-      "captured_at": "2026-10-26T21:38:00.082881+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
