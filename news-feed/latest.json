@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T19:07:22.881682+00:00",
+  "generated_at": "2026-10-29T19:12:53.221777+00:00",
   "window_hours": 72,
-  "count": 572,
+  "count": 570,
   "news": [
     {
       "id": 150291,
@@ -7408,32 +7408,6 @@
       "message_text": "SENIOR U.S. STATE DEPARTMENT OFFICIAL SAYS THE U.S. SEES A NEED FOR REVAMPED ELECTORAL INFRASTRUCTURE FOR VENEZUELA BEFORE ELECTIONS CAN BE HELD, AND EXPECTS A NEW SUPREME JUDICIAL COUNCIL BY YEAR-END AND A NEW ELECTORAL COUNCIL SHORTLY THEREAFTER ...",
       "posted_at": "2026-10-26T19:21:34+00:00",
       "captured_at": "2026-10-26T19:21:37.012839+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149151,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064450,
-      "message_text": "US HIGH-GRADE BOND SALES LOOK SET TO HIT RECORD AT $1.76 TLN ...",
-      "posted_at": "2026-10-26T19:08:18+00:00",
-      "captured_at": "2026-10-26T19:08:19.601180+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149149,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064449,
-      "message_text": "US HIGH-GRADE BOND SALES SET TO HIT A RECORD AT $1.76 TRILLION ...",
-      "posted_at": "2026-10-26T19:07:31+00:00",
-      "captured_at": "2026-10-26T19:07:31.662217+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
