@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T14:37:33.081117+00:00",
+  "generated_at": "2026-10-29T14:43:03.425202+00:00",
   "window_hours": 72,
-  "count": 711,
+  "count": 708,
   "news": [
     {
       "id": 150291,
@@ -9202,45 +9202,6 @@
       "message_text": "$ANT - ANTHROPIC PLANS EARLY SHARE SALES AFTER IPO\n\nANTHROPIC IS PREPARING AN UNCONVENTIONAL LOCK-UP STRUCTURE, ALLOWING SOME EARLY INVESTORS AND EMPLOYEES TO SELL SHARES BEFORE THE TRADITIONAL 180-DAY RESTRICTION EXPIRES.\n\nPLANNED RELEASE DATES INCLUDE:\n\n\ud83d\udd38 DAY 1: SOME SHARES ELIGIBLE FOR SALE\n\ud83d\udd38 DAY 27: ADDITIONAL SHARES UNLOCKED\n\ud83d\udd38 DAY 48: FURTHER SHARES RELEASED\n\nTHE NUMBER OF SHARES ELIGIBLE FOR SALE HAS NOT YET BEEN DISCLOSED.\n\nTHE KEY TAKEAWAY: STAGGERED LOCK-UPS COULD CREATE SELLING PRESSURE AND VOLATILITY SHORTLY AFTER ANTHROPIC'S IPO.\n\nSOURCE: ANTHROPIC S-1 FILING ...",
       "posted_at": "2026-10-26T14:43:23+00:00",
       "captured_at": "2026-10-26T14:43:24.107445+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148875,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064318,
-      "message_text": "LAWMAKERS QUERY MUSK ON SHUTDOWN OF STARLINK. $SPCX ...",
-      "posted_at": "2026-10-26T14:42:22+00:00",
-      "captured_at": "2026-10-26T14:42:24.927442+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148873,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064317,
-      "message_text": "IRAN'S PRESIDENT PEZESHKIAN HEADS TO MOSCOW TO PARTICIPATE IN THE MEETING OF GAS EXPORTERS - IRNA ...",
-      "posted_at": "2026-10-26T14:40:22+00:00",
-      "captured_at": "2026-10-26T14:40:23.632379+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148871,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064316,
-      "message_text": "US INTEREST RATE PREP (26TH OCTOBER)\n  ...",
-      "posted_at": "2026-10-26T14:39:21+00:00",
-      "captured_at": "2026-10-26T14:39:23.085461+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
