@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T16:27:41.203410+00:00",
+  "generated_at": "2026-10-29T16:33:11.649157+00:00",
   "window_hours": 72,
-  "count": 648,
+  "count": 647,
   "news": [
     {
       "id": 150291,
@@ -8409,19 +8409,6 @@
       "message_text": "US FDA: APPROVES TALAZOPARIB WITH ENZALUTAMIDE FOR METASTATIC HRR-MUTATED PROSTATE CANCER ...",
       "posted_at": "2026-10-26T16:44:58+00:00",
       "captured_at": "2026-10-26T16:45:01.125487+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148997,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064373,
-      "message_text": "KLM FLIGHTS TO RIYADH, DAMMAM HAVE BEEN CANCELLED THROUGH 27TH NOVEMBER ...",
-      "posted_at": "2026-10-26T16:30:41+00:00",
-      "captured_at": "2026-10-26T16:30:42.810885+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
