@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T06:49:28.088817+00:00",
+  "generated_at": "2026-10-29T06:54:58.475753+00:00",
   "window_hours": 72,
-  "count": 990,
+  "count": 987,
   "news": [
     {
       "id": 150291,
@@ -12829,45 +12829,6 @@
       "message_text": "SWEDISH PPI YOY ACTUAL 11.2% (FORECAST -, PREVIOUS 6.8%) $MACRO ...",
       "posted_at": "2026-10-26T07:00:47+00:00",
       "captured_at": "2026-10-26T07:00:49.496244+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148317,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064039,
-      "message_text": "MORNING ALL!\n\n- US PRESIDENT TRUMP SAID IT WAS \u201cGETTING TO BE DECISION TIME\u201d ON WHETHER TO STRIKE A DEAL WITH TEHRAN OR RESUME ATTACKS.\n\n- AN IRANIAN SOURCE POSTED ON TELEGRAM THAT AN IRGC LAUNCHER IN SIRIK WAS HIT BY A MISSILE FROM AN UNKNOWN FIGHTER JET MINUTES AFTER FIRING A MISSILE TOWARDS THE STRAIT OF HORMUZ.\n\n- SEVERAL UK BUDGET MEASURES WERE REPORTED OVER THE WEEKEND, AHEAD OF WEDNESDAY'S ANNOUNCEMENT.\n\n- APAC STOCKS WERE MIXED WITH A MOSTLY NEGATIVE BIAS FOLLOWING LAST WEEK'S SURGE IN OIL; EUROPEAN EQUITY FUTURES (EX-FTSE 100) INDICATE A POSITIVE CASH OPEN.\n\n- EUR/USD GAINED SLIGHTLY, WITH THE SINGLE CURRENCY BACK ABOVE THE 1.1200 LEVEL AFTER FRANCE WAS SPARED FROM A RATINGS DOWNGRADE BY MOODY'S.\n\n- LOOKING AHEAD, HIGHLIGHTS INCLUDE SWEDISH PPI (SEP), GERMAN IFO (OCT), CHINESE FIFTH PLENUM. SPEAKERS INCLUDE ECB\u2019S ELDERSON. SUPPLY FROM EZ & US, US TREASURY BUYBACK (LIQUIDITY SUPPORT; 20Y-30Y). EARNINGS FROM VERIZON.\n\n- NOTE: UK CLOCKS MOVED BACK ONE HOUR ON SUNDAY AND REVERTED TO GMT, WHICH MEANS THE TIME DIFFERENCE BETWEEN LONDON AND NEW YORK WILL BE FOUR HOURS FOR THE WEEK AHEAD. ...",
-      "posted_at": "2026-10-26T06:54:02+00:00",
-      "captured_at": "2026-10-26T06:54:03.961804+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148315,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064038,
-      "message_text": "JAPAN\u2019S 5-YEAR JGB YIELD RISES 1 BASIS POINT TO 2.230% ...",
-      "posted_at": "2026-10-26T06:51:46+00:00",
-      "captured_at": "2026-10-26T06:51:46.946441+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148313,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064037,
-      "message_text": "VOLKSWAGEN CHINA ADVANCES AUTONOMOUS DRIVING PLANS WITH LEVEL 3 ROAD-TEST APPROVAL IN HEFEI ...",
-      "posted_at": "2026-10-26T06:51:31+00:00",
-      "captured_at": "2026-10-26T06:51:33.754816+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
