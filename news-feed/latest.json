@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T18:45:21.240233+00:00",
+  "generated_at": "2026-10-29T18:50:51.760115+00:00",
   "window_hours": 72,
-  "count": 580,
+  "count": 578,
   "news": [
     {
       "id": 150291,
@@ -7512,32 +7512,6 @@
       "message_text": "IRGC\u2019S REZAEI: QUADRILATERAL MEETING SHOWED THAT THE US THREATS HAVE NOT HAD AN IMPACT ON THE WORLD\n ...",
       "posted_at": "2026-10-26T18:57:30+00:00",
       "captured_at": "2026-10-26T18:57:32.463673+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149135,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064442,
-      "message_text": "*\"IRAN WARNS ISRAEL IT WILL RESPOND IN KIND TO ANY THREAT\": FARS ...",
-      "posted_at": "2026-10-26T18:49:15+00:00",
-      "captured_at": "2026-10-26T18:49:16.542068+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149133,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064441,
-      "message_text": "BRENT CRUDE FUTURES SETTLE 0.78% LOWER AT $115.81/BBL, DOWN 91 CENTS ...",
-      "posted_at": "2026-10-26T18:46:15+00:00",
-      "captured_at": "2026-10-26T18:46:16.862948+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
