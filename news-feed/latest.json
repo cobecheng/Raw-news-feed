@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T20:52:00.092384+00:00",
+  "generated_at": "2026-10-29T20:57:30.774588+00:00",
   "window_hours": 72,
-  "count": 507,
+  "count": 503,
   "news": [
     {
       "id": 150291,
@@ -6537,58 +6537,6 @@
       "message_text": "ANTHROPIC REMAINS MUM ON INVESTMENT GRADE AS IT FLAGS MORE DEBT - BBG\n\n ...",
       "posted_at": "2026-10-26T21:08:57+00:00",
       "captured_at": "2026-10-26T21:08:59.593451+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149283,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064516,
-      "message_text": "US PRESIDENT TRUMP'S PUBLIC APPROVAL RISES TO 32% FROM RECORD LOW A WEEK EARLIER, REUTERS/IPSOS POLL FINDS ...",
-      "posted_at": "2026-10-26T20:56:28+00:00",
-      "captured_at": "2026-10-26T20:56:29.191300+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149285,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064517,
-      "message_text": "REGISTERED US VOTERS FAVOR DEMOCRATS OVER REPUBLICANS BY 47% TO 36% ON GENERIC CONGRESSIONAL BALLOT, REUTERS/IPSOS POLL FINDS ...",
-      "posted_at": "2026-10-26T20:56:28+00:00",
-      "captured_at": "2026-10-26T20:56:29.862397+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149281,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064515,
-      "message_text": "FREDDIE MAC SAYS ITS SINGLE-FAMILY DELINQUENCY RATE ROSE TO 0.61% IN SEPTEMBER FROM 0.60% IN AUGUST, WHILE ITS MULTIFAMILY DELINQUENCY RATE FELL TO 0.58% FROM 0.64% ...",
-      "posted_at": "2026-10-26T20:53:43+00:00",
-      "captured_at": "2026-10-26T20:53:46.539959+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149279,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064514,
-      "message_text": "FREDDIE MAC SAYS ITS TOTAL MORTGAGE PORTFOLIO INCREASED AT AN ANNUALIZED RATE OF 1.4% IN SEPTEMBER, WITH SINGLE-FAMILY REFINANCE-LOAN PURCHASE VOLUME OF $5 BLN, REPRESENTING 18% OF TOTAL SINGLE-FAMILY MORTGAGE PURCHASES ...",
-      "posted_at": "2026-10-26T20:53:42+00:00",
-      "captured_at": "2026-10-26T20:53:43.368315+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
