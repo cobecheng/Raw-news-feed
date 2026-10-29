@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T06:27:26.116113+00:00",
+  "generated_at": "2026-10-29T06:32:56.917353+00:00",
   "window_hours": 72,
-  "count": 994,
+  "count": 992,
   "news": [
     {
       "id": 150291,
@@ -12894,32 +12894,6 @@
       "message_text": "RUSSIA THWARTS UKRAINIAN DRONE ATTACKS ON ENERGY FACILITIES - IFX. ...",
       "posted_at": "2026-10-26T06:47:00+00:00",
       "captured_at": "2026-10-26T06:47:03.112539+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148307,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064034,
-      "message_text": "FEDERAL RESERVE TO STICK WITH QUARTERLY RATE INCREASES AFTER REMOVING 2025 INSURANCE CUTS-FT ...",
-      "posted_at": "2026-10-26T06:31:16+00:00",
-      "captured_at": "2026-10-26T06:31:18.723265+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148305,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064033,
-      "message_text": "CRUDE OIL DECLINES AMID QATAR\u2019S MEDIATION EFFORTS-FT ...",
-      "posted_at": "2026-10-26T06:29:45+00:00",
-      "captured_at": "2026-10-26T06:29:46.765821+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
