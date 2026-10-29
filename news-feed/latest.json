@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T09:29:09.189183+00:00",
+  "generated_at": "2026-10-29T09:34:39.526224+00:00",
   "window_hours": 72,
-  "count": 924,
+  "count": 923,
   "news": [
     {
       "id": 150291,
@@ -11997,19 +11997,6 @@
       "message_text": "OCTOBER HOLD PRICED IN. WALL STREET EYES DECEMBER HIKE.\n\nGOLDMAN SACHS EXPECTS THE FED TO HOLD RATES THIS WEEK BEFORE RAISING THEM 25 BASIS POINTS IN DECEMBER.\n\nKALSHI TRADERS PRICE A 93% CHANCE OF AN OCTOBER HOLD, VERSUS JUST 6% FOR A HIKE.\n\nTHE DEBATE HAS SHIFTED FROM OCTOBER TO DECEMBER. ...",
       "posted_at": "2026-10-26T09:35:56+00:00",
       "captured_at": "2026-10-26T09:35:57.921135+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148445,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064103,
-      "message_text": "HSBC CUTS GLOBAL EQUITIES TO NEUTRAL FROM MAX OVERWEIGHT ...",
-      "posted_at": "2026-10-26T09:30:57+00:00",
-      "captured_at": "2026-10-26T09:30:59.152439+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
