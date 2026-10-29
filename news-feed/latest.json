@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T12:25:22.534152+00:00",
+  "generated_at": "2026-10-29T12:30:52.854688+00:00",
   "window_hours": 72,
-  "count": 812,
+  "count": 809,
   "news": [
     {
       "id": 150291,
@@ -10515,45 +10515,6 @@
       "message_text": "U.S. ECONOMIC GROWTH REBOUNDS IN SEPTEMBER\n\nTHE CHICAGO FED NATIONAL ACTIVITY INDEX ROSE TO +0.07 FROM -0.08, SIGNALING GROWTH SLIGHTLY ABOVE ITS HISTORICAL TREND.\n\nPRODUCTION STRENGTHENED, WHILE EMPLOYMENT REMAINED FLAT AND CONSUMER SPENDING AND HOUSING WEAKENED.\n\nTHE KEY TAKEAWAY: U.S. GROWTH REMAINS RESILIENT DESPITE MIXED ECONOMIC SIGNALS. ...",
       "posted_at": "2026-10-26T12:31:37+00:00",
       "captured_at": "2026-10-26T12:31:40.604430+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148673,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064217,
-      "message_text": "US CHICAGO FED NATIONAL ACTIVITY INDEX SEP: 0.07 (EST -0.1; PREV -0.04; PREV R -0.08) ...",
-      "posted_at": "2026-10-26T12:30:47+00:00",
-      "captured_at": "2026-10-26T12:30:49.802750+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148671,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064216,
-      "message_text": "CHICAGO NATIONAL ACTIVITY INDEX ACTUAL 0.07 (FORECAST -0.095, PREVIOUS -0.04) $MACRO ...",
-      "posted_at": "2026-10-26T12:30:32+00:00",
-      "captured_at": "2026-10-26T12:30:33.099478+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148669,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064215,
-      "message_text": "BRAZIL'S REAL SLUMPS MORE THAN 8% IN SPOT TRADING ON LULA WIN ...",
-      "posted_at": "2026-10-26T12:26:32+00:00",
-      "captured_at": "2026-10-26T12:26:33.098426+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
