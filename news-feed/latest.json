@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T11:08:16.895713+00:00",
+  "generated_at": "2026-10-29T11:13:47.363997+00:00",
   "window_hours": 72,
-  "count": 854,
+  "count": 851,
   "news": [
     {
       "id": 150291,
@@ -11061,45 +11061,6 @@
       "message_text": "META SAYS  NVIDIA, ADVANCED MICRO DEVICES, & BROADCOM INDICATED INTEREST IN PURCHASING UP TO AGGREGATE OF $5.0 BLN OF SHARES OF CLASS A COMMON STOCK ...",
       "posted_at": "2026-10-26T11:16:14+00:00",
       "captured_at": "2026-10-26T11:16:14.975182+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148589,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064174,
-      "message_text": "MORGAN STANLEY SEES POST-ELECTION MARKET REBOUND\n\nMORGAN STANLEY'S MICHAEL WILSON EXPECTS THE CURRENT EQUITY CORRECTION TO END AS SEVERAL MAJOR RISKS CLEAR, INCLUDING THE U.S. MIDTERM ELECTIONS.\n\nS&P 500 TARGETS:\n\ud83d\udd38 NEAR-TERM DOWNSIDE: 7,100\u20137,200\n\ud83d\udd38 YEAR-END BASE CASE: 8,000\n\nWILSON IDENTIFIES THREE CATALYSTS: AI FINANCING CONCERNS, MIDTERM ELECTIONS AND TIGHTENING FINANCIAL CONDITIONS.\n\nTHE KEY TAKEAWAY: LIQUIDITY REMAINS THE BIGGEST NEAR-TERM RISK, BUT A POTENTIAL FED PIVOT COULD TRIGGER A MARKET REBOUND. MORGAN STANLEY NOTES THAT MIDTERM ELECTIONS HAVE HISTORICALLY BEEN FOLLOWED BY STRONG 6\u201312-MONTH EQUITY RETURNS.\n\nRELATED TICKERS: $SPY , $QQQ , $IWM , $TLT \n\nSOURCE: MORGAN STANLEY \u2014 MICHAEL WILSON ...",
-      "posted_at": "2026-10-26T11:13:13+00:00",
-      "captured_at": "2026-10-26T11:13:15.594572+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148587,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064173,
-      "message_text": "NORD POOL PUBLISHES WRONG POWER SYSTEM PRICE THURS TO SAT  ...",
-      "posted_at": "2026-10-26T11:12:59+00:00",
-      "captured_at": "2026-10-26T11:13:00.076868+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148585,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064172,
-      "message_text": "$META | META TO OFFER $22.5B CLASS A COMMON STOCK VIA FORWARD SALES\n-META MAY SELL UP TO $60B CLASS C COMMON STOCK ...",
-      "posted_at": "2026-10-26T11:08:58+00:00",
-      "captured_at": "2026-10-26T11:08:59.561062+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
