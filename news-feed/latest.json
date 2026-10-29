@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T19:29:24.252745+00:00",
+  "generated_at": "2026-10-29T19:34:54.651616+00:00",
   "window_hours": 72,
-  "count": 560,
+  "count": 559,
   "news": [
     {
       "id": 150291,
@@ -7265,19 +7265,6 @@
       "message_text": "*TRUMP ON BRAZIL ELECTION: LOOKED LIKE ANOTHER RIGGED ELECTION TO ME ...",
       "posted_at": "2026-10-26T19:35:19+00:00",
       "captured_at": "2026-10-26T19:35:22.497726+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149173,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064461,
-      "message_text": "US AND CANADA NEGOTIATE RELIEF FROM STEEL AND AUTO TARIFFS\n\nTHE US AND CANADA ARE REPORTEDLY NEGOTIATING A DEAL TO EASE TARIFFS ON CANADIAN STEEL AND AUTOMOBILES, POTENTIALLY BEFORE THE NOVEMBER 3 MIDTERM ELECTIONS.\n\nTALKS FOCUS ON REDUCING STEEL TARIFFS OF UP TO 50% AND 25% AUTO TARIFFS, ALTHOUGH WASHINGTON IS REPORTEDLY SEEKING ADDITIONAL CANADIAN CONCESSIONS.\n\nSOURCES SUGGEST A LIMITED AGREEMENT COULD EMERGE QUICKLY, BUT NO DEAL HAS BEEN FINALIZED.\n\nRELATED STOCKS: $GM $F $STLA $CLF ...",
-      "posted_at": "2026-10-26T19:30:33+00:00",
-      "captured_at": "2026-10-26T19:30:35.176886+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
