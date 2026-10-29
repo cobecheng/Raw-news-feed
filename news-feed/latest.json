@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T07:22:30.265385+00:00",
+  "generated_at": "2026-10-29T07:28:00.667532+00:00",
   "window_hours": 72,
-  "count": 976,
+  "count": 975,
   "news": [
     {
       "id": 150291,
@@ -12673,19 +12673,6 @@
       "message_text": "UK'S PM BURNHAM: CHANGES NEEDED TO YOUTH JOB SUPPORT; MONEY CAN BE SAVED ...",
       "posted_at": "2026-10-26T07:30:47+00:00",
       "captured_at": "2026-10-26T07:30:49.502056+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148341,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064051,
-      "message_text": "UK PM SAYS I'D LIKE TO SEE UK REJOIN EU IN MY LIFETIME ...",
-      "posted_at": "2026-10-26T07:26:47+00:00",
-      "captured_at": "2026-10-26T07:26:49.415313+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
