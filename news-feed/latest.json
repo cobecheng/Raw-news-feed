@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T16:22:10.809210+00:00",
+  "generated_at": "2026-10-29T16:27:41.203410+00:00",
   "window_hours": 72,
-  "count": 650,
+  "count": 648,
   "news": [
     {
       "id": 150291,
@@ -8422,32 +8422,6 @@
       "message_text": "KLM FLIGHTS TO RIYADH, DAMMAM HAVE BEEN CANCELLED THROUGH 27TH NOVEMBER ...",
       "posted_at": "2026-10-26T16:30:41+00:00",
       "captured_at": "2026-10-26T16:30:42.810885+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148995,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064372,
-      "message_text": "JUST IN: RIPPLE LAUNCHES 24/7 AI-POWERED MONEY MANAGEMENT FOR BUSINESSES. ...",
-      "posted_at": "2026-10-26T16:27:26+00:00",
-      "captured_at": "2026-10-26T16:27:27.223608+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148993,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064371,
-      "message_text": "GERMAN PRESIDENT ARRIVES IN CHINA'S ANHUI - CCTV ...",
-      "posted_at": "2026-10-26T16:25:12+00:00",
-      "captured_at": "2026-10-26T16:25:15.104493+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
