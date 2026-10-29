@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T11:24:48.141823+00:00",
+  "generated_at": "2026-10-29T11:30:18.561198+00:00",
   "window_hours": 72,
-  "count": 848,
+  "count": 845,
   "news": [
     {
       "id": 150291,
@@ -10983,45 +10983,6 @@
       "message_text": "DEPUTY GOVERNMENT SPOKESPERSON ON AUDI CHIEF\u2019S APPEARANCE: IT IS A BUSINESS DECISION AS TO WHERE THE COMPANY INVESTS, AND WHERE THE CEO OF A COMPANY MAKES AN APPEARANCE, I WILL NOT COMMENT FURTHER ...",
       "posted_at": "2026-10-26T11:33:59+00:00",
       "captured_at": "2026-10-26T11:34:00.354033+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148601,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064180,
-      "message_text": "ANTHROPIC TO RELEASE S-1 AT 9AM EST \u2013 FOX BUSINESS ...",
-      "posted_at": "2026-10-26T11:29:30+00:00",
-      "captured_at": "2026-10-26T11:29:31.226272+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148599,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064179,
-      "message_text": "*ANTHROPIC TO RELEASE S-1 AT 9AM EST: FOX BUSINESS ...",
-      "posted_at": "2026-10-26T11:29:29+00:00",
-      "captured_at": "2026-10-26T11:29:30.502950+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148597,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064178,
-      "message_text": "META SHARES REVERSE COURSE; LAST UP 2.2% PREMARKET ...",
-      "posted_at": "2026-10-26T11:26:44+00:00",
-      "captured_at": "2026-10-26T11:26:45.136259+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
