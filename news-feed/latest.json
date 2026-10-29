@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T13:42:29.205569+00:00",
+  "generated_at": "2026-10-29T13:47:59.551573+00:00",
   "window_hours": 72,
-  "count": 736,
+  "count": 733,
   "news": [
     {
       "id": 150291,
@@ -9527,45 +9527,6 @@
       "message_text": "RUSSIA: IN CONTACT WITH TURKEY ON BLACK SEA SHIPPING - IFX\nCONSIDERING PROPOSALS TO ENSURE THE SECURITY OF GRAIN SUPPLIES THROUGH BLACK SEA ...",
       "posted_at": "2026-10-26T13:48:35+00:00",
       "captured_at": "2026-10-26T13:48:35.781555+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148825,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064293,
-      "message_text": "RUSSIA: IN CONTACT WITH TURKEY ON BLACK SEA SHIPPING - IFX ...",
-      "posted_at": "2026-10-26T13:46:52+00:00",
-      "captured_at": "2026-10-26T13:46:54.443670+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148823,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064292,
-      "message_text": "JUST IN: ANTHROPIC WARNS ITS AI MODELS COULD POSE \"CATASTROPHIC OR EXISTENTIAL RISKS TO HUMANITY\" IN IPO FILING. ...",
-      "posted_at": "2026-10-26T13:45:20+00:00",
-      "captured_at": "2026-10-26T13:45:23.584135+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148821,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064291,
-      "message_text": "TESLA SHARES TOUCH OVER THREE-MONTH HIGH, LAST UP 5.5% ...",
-      "posted_at": "2026-10-26T13:45:19+00:00",
-      "captured_at": "2026-10-26T13:45:20.054309+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
