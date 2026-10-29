@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T16:55:13.411290+00:00",
+  "generated_at": "2026-10-29T17:00:43.772679+00:00",
   "window_hours": 72,
-  "count": 642,
+  "count": 641,
   "news": [
     {
       "id": 150291,
@@ -8331,19 +8331,6 @@
       "message_text": "TREASURY WI 2 YR YIELD 4.705% BEFORE $69 BILLION AUCTION ...",
       "posted_at": "2026-10-26T17:00:57+00:00",
       "captured_at": "2026-10-26T17:00:59.769959+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149009,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064379,
-      "message_text": "JAPAN'S SAKANA AI TO BUILD DOMESTIC MODELS FROM SCRATCH - NIKKEI  ...",
-      "posted_at": "2026-10-26T16:56:12+00:00",
-      "captured_at": "2026-10-26T16:56:15.085224+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
