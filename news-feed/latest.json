@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T08:28:34.903732+00:00",
+  "generated_at": "2026-10-29T08:34:05.288558+00:00",
   "window_hours": 72,
-  "count": 952,
+  "count": 948,
   "news": [
     {
       "id": 150291,
@@ -12322,58 +12322,6 @@
       "message_text": "EU TO PRESENT NEW CURBS ON CHINA TRADE AS EARLY AS Q1 2027 ...",
       "posted_at": "2026-10-26T08:34:08+00:00",
       "captured_at": "2026-10-26T08:34:09.161603+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148395,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064078,
-      "message_text": "EU ALSO CONSIDERING CAPS OR QUOTAS ON CHINESE FURNITURE ...",
-      "posted_at": "2026-10-26T08:33:53+00:00",
-      "captured_at": "2026-10-26T08:33:55.179554+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148393,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064077,
-      "message_text": "EU PLANS TO HIT CHINA WITH IMPORT CURBS ON CHEMICALS, FURNITURE ...",
-      "posted_at": "2026-10-26T08:32:37+00:00",
-      "captured_at": "2026-10-26T08:32:37.581299+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148389,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064075,
-      "message_text": "EU TO PRESENT NEW CURBS ON CHINA TRADE AS EARLY AS Q1 2027. ...",
-      "posted_at": "2026-10-26T08:31:53+00:00",
-      "captured_at": "2026-10-26T08:31:54.405903+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148391,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064076,
-      "message_text": "EU ALSO CONSIDERING CAPS OR QUOTAS ON CHINESE FURNITURE. ...",
-      "posted_at": "2026-10-26T08:31:53+00:00",
-      "captured_at": "2026-10-26T08:31:55.098491+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
