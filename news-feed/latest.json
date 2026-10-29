@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T16:44:12.543179+00:00",
+  "generated_at": "2026-10-29T16:49:43.019958+00:00",
   "window_hours": 72,
-  "count": 647,
+  "count": 644,
   "news": [
     {
       "id": 150291,
@@ -8370,45 +8370,6 @@
       "message_text": "JAPAN'S SAKANA AI TO BUILD DOMESTIC MODELS FROM SCRATCH - NIKKEI ...",
       "posted_at": "2026-10-26T16:54:58+00:00",
       "captured_at": "2026-10-26T16:54:59.584040+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149003,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064376,
-      "message_text": "APPLE IPHONE DUO DRAWS EARLY COMPLAINTS OF THE SCREEN CRACKING. $AAPL ...",
-      "posted_at": "2026-10-26T16:48:57+00:00",
-      "captured_at": "2026-10-26T16:48:59.861667+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149001,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064375,
-      "message_text": "FED BIDS FOR 2-YEAR NOTES TOTAL $7.7 BLN. ...",
-      "posted_at": "2026-10-26T16:46:12+00:00",
-      "captured_at": "2026-10-26T16:46:12.914200+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148999,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064374,
-      "message_text": "US FDA: APPROVES TALAZOPARIB WITH ENZALUTAMIDE FOR METASTATIC HRR-MUTATED PROSTATE CANCER ...",
-      "posted_at": "2026-10-26T16:44:58+00:00",
-      "captured_at": "2026-10-26T16:45:01.125487+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
