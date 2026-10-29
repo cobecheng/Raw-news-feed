@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T17:06:14.203532+00:00",
+  "generated_at": "2026-10-29T17:11:44.531717+00:00",
   "window_hours": 72,
-  "count": 629,
+  "count": 625,
   "news": [
     {
       "id": 150291,
@@ -8123,58 +8123,6 @@
       "message_text": "OPENAI RELEASES CHATGPT WORK ACTIVITY DATA ACROSS 100 COUNTRIES ...",
       "posted_at": "2026-10-26T17:30:13+00:00",
       "captured_at": "2026-10-26T17:30:14.183850+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149041,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064395,
-      "message_text": "ROMANIAN INTELLIGENCE AGENCY: RUSSIA-COORDINATED SABOTAGE NETWORK WAS TARGETING DEFENCE AND INDUSTRIAL TARGETS IN ROMANIA AND BEYOND ...",
-      "posted_at": "2026-10-26T17:09:57+00:00",
-      "captured_at": "2026-10-26T17:09:58.843713+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149039,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064394,
-      "message_text": "APPLE: AWARE OF ISSUE ON SMALL NUMBER OF IPHONE DUOS. ISSUE AFFECTS INNER DISPLAY OF IPHONE DUO. USERS SHOULD CONTACT APPLECARE FOR REPLACEMENT $AAPL ...",
-      "posted_at": "2026-10-26T17:08:43+00:00",
-      "captured_at": "2026-10-26T17:08:50.556774+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149037,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064393,
-      "message_text": "UK CHANCELLOR HEALEY TO INCREASE MINIMUM WAGE BUT SLOW RISE FOR YOUNG PEOPLE -  \n ...",
-      "posted_at": "2026-10-26T17:06:44+00:00",
-      "captured_at": "2026-10-26T17:06:45.911003+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149035,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064392,
-      "message_text": "UK FINANCE MINISTER HEALEY WILL ANNOUNCE PLANS TO INCREASE THE MINIMUM WAGE BY NEARLY 4% BUT SLOW THE RISE FOR YOUNG PEOPLE - TIMES  ...",
-      "posted_at": "2026-10-26T17:06:17+00:00",
-      "captured_at": "2026-10-26T17:06:17.748660+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
