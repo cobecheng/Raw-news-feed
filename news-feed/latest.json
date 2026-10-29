@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T12:47:24.591105+00:00",
+  "generated_at": "2026-10-29T12:52:55.956793+00:00",
   "window_hours": 72,
-  "count": 801,
+  "count": 799,
   "news": [
     {
       "id": 150291,
@@ -10385,32 +10385,6 @@
       "message_text": "\ud83c\uddeb\ud83c\uddf7 FRENCH 10-YEAR YIELDS DROP AS MUCH AS 10.56 BPS ON THE DAY TO 4.9158% ...",
       "posted_at": "2026-10-26T12:53:48+00:00",
       "captured_at": "2026-10-26T12:53:49.363899+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148693,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064227,
-      "message_text": "SPACEX PRICES BONDS AT UP TO 8.75% ON $40B CREDIT DEAL: SEMAFOR ...",
-      "posted_at": "2026-10-26T12:51:03+00:00",
-      "captured_at": "2026-10-26T12:51:04.316575+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148691,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064226,
-      "message_text": "$MSTR  - STRATEGY PAUSES BITCOIN PURCHASES, REPURCHASES $205M IN PREFERRED STOCK\n\nSTRATEGY REPORTED NO BITCOIN PURCHASES OR SALES DURING OCTOBER 19\u201325.\n\nTHE COMPANY CONTINUES TO HOLD 848,517 BTC, ACQUIRED FOR $64.02B AT AN AVERAGE PRICE OF $75,446 PER BITCOIN.\n\nINSTEAD, STRATEGY REPURCHASED $204.9M OF STRC PREFERRED STOCK, WHILE MAINTAINING A $4.83B CASH RESERVE. ...",
-      "posted_at": "2026-10-26T12:50:49+00:00",
-      "captured_at": "2026-10-26T12:50:50.393695+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
