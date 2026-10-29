@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T11:41:19.378889+00:00",
+  "generated_at": "2026-10-29T11:46:49.741308+00:00",
   "window_hours": 72,
-  "count": 843,
+  "count": 842,
   "news": [
     {
       "id": 150291,
@@ -10944,19 +10944,6 @@
       "message_text": "ZELENSKYY ORDERS NEW TALKS WITH US ON AIR DEFENSE MISSILES ...",
       "posted_at": "2026-10-26T11:47:29+00:00",
       "captured_at": "2026-10-26T11:47:31.575754+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148607,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064183,
-      "message_text": "ANTHROPIC TO RELEASE S-1 AT 9AM EST \u2013 FOX BUSINESS ...",
-      "posted_at": "2026-10-26T11:43:30+00:00",
-      "captured_at": "2026-10-26T11:43:31.178800+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
