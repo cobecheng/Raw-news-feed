@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T12:36:23.240190+00:00",
+  "generated_at": "2026-10-29T12:41:54.026030+00:00",
   "window_hours": 72,
-  "count": 804,
+  "count": 803,
   "news": [
     {
       "id": 150291,
@@ -10437,19 +10437,6 @@
       "message_text": "\ud83c\udde7\ud83c\uddf7 BRAZIL'S BENCHMARK STOCK INDEX BOVESPA FUTURES EXTEND LOSSES AFTER LULA WINS, LAST DOWN NEARLY 20% ...",
       "posted_at": "2026-10-26T12:42:03+00:00",
       "captured_at": "2026-10-26T12:42:05.889483+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148685,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064223,
-      "message_text": "DEMOCRATS LAY GROUNDWORK TO PROBE TRUMP'S DIESEL DEAL: AXIOS ...",
-      "posted_at": "2026-10-26T12:40:33+00:00",
-      "captured_at": "2026-10-26T12:40:33.940225+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
