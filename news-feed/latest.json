@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T21:14:02.027880+00:00",
+  "generated_at": "2026-10-29T21:19:32.530130+00:00",
   "window_hours": 72,
-  "count": 497,
+  "count": 496,
   "news": [
     {
       "id": 150291,
@@ -6446,19 +6446,6 @@
       "message_text": "US JUSTICE DEPARTMENT CHARGES FORMER FBI DIRECTOR JAMES COMEY WITH SHARING NATIONAL DEFENSE INFORMATION IN 2016: COURT DOCUMENT ...",
       "posted_at": "2026-10-26T21:20:43+00:00",
       "captured_at": "2026-10-26T21:20:44.926240+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149299,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064524,
-      "message_text": "SOUTHWEST AIRLINES HAS PRICED $600 MLN OF 5.750% NOTES DUE 2029 AND $650 MLN OF 6.000% NOTES DUE 2031 ...",
-      "posted_at": "2026-10-26T21:16:43+00:00",
-      "captured_at": "2026-10-26T21:16:45.695597+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
