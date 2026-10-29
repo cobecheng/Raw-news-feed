@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T19:51:25.800185+00:00",
+  "generated_at": "2026-10-29T19:56:56.137038+00:00",
   "window_hours": 72,
-  "count": 545,
+  "count": 544,
   "news": [
     {
       "id": 150291,
@@ -7070,19 +7070,6 @@
       "message_text": "IRAN SIGNALS FLEXIBILITY ON STRAIT OF HORMUZ DEAL\n\nIRAN SAYS IT COULD REOPEN THE STRAIT OF HORMUZ WITHIN 4\u20135 DAYS, RATHER THAN THE PROPOSED SEVEN, IF ITS CONDITIONS ARE MET.\n\nACCORDING TO IRANIAN STATE TV, TEHRAN IS DISCUSSING A PROPOSAL INVOLVING THE LIFTING OF THE US BLOCKADE WITH OFFICIALS FROM SAUDI ARABIA, TURKEY, AND PAKISTAN.\n\nRELATED ASSETS: $USO $XLE $XOM ...",
       "posted_at": "2026-10-26T19:58:04+00:00",
       "captured_at": "2026-10-26T19:58:07.529235+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149203,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064476,
-      "message_text": "EXPLOSIONS IN KYIV, REUTERS WITNESSES SAY, UKRAINIAN AIR FORCE SAYS KYIV UNDER THREAT OF MISSILE ATTACK ...",
-      "posted_at": "2026-10-26T19:55:33+00:00",
-      "captured_at": "2026-10-26T19:55:35.989896+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
