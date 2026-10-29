@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T14:43:03.425202+00:00",
+  "generated_at": "2026-10-29T14:48:33.840062+00:00",
   "window_hours": 72,
-  "count": 708,
+  "count": 704,
   "news": [
     {
       "id": 150291,
@@ -9150,58 +9150,6 @@
       "message_text": "COINBASE: SOME USERS MAY CURRENTLY BE UNABLE TO CONVERT BRL TO BUY/SELL CRYPTO ON COINBASE.\n\n$COIN \n\n ...",
       "posted_at": "2026-10-26T14:48:38+00:00",
       "captured_at": "2026-10-26T14:48:41.616836+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148883,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064322,
-      "message_text": "US SENATORS WARN BANKS OVER RUSSIAN DIESEL IMPORTS ...",
-      "posted_at": "2026-10-26T14:48:08+00:00",
-      "captured_at": "2026-10-26T14:48:09.440406+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148881,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064321,
-      "message_text": "COINBASE GLOBAL INC: SOME USERS MAY CURRENTLY BE UNABLE TO CONVERT BRL TO BUY/SELL CRYPTO ON COINBASE ...",
-      "posted_at": "2026-10-26T14:48:07+00:00",
-      "captured_at": "2026-10-26T14:48:08.714219+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148879,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064320,
-      "message_text": "NASDAQ 100 RISES 1% TO SESSION HIGH ...",
-      "posted_at": "2026-10-26T14:46:08+00:00",
-      "captured_at": "2026-10-26T14:46:09.612603+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148877,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064319,
-      "message_text": "$ANT - ANTHROPIC PLANS EARLY SHARE SALES AFTER IPO\n\nANTHROPIC IS PREPARING AN UNCONVENTIONAL LOCK-UP STRUCTURE, ALLOWING SOME EARLY INVESTORS AND EMPLOYEES TO SELL SHARES BEFORE THE TRADITIONAL 180-DAY RESTRICTION EXPIRES.\n\nPLANNED RELEASE DATES INCLUDE:\n\n\ud83d\udd38 DAY 1: SOME SHARES ELIGIBLE FOR SALE\n\ud83d\udd38 DAY 27: ADDITIONAL SHARES UNLOCKED\n\ud83d\udd38 DAY 48: FURTHER SHARES RELEASED\n\nTHE NUMBER OF SHARES ELIGIBLE FOR SALE HAS NOT YET BEEN DISCLOSED.\n\nTHE KEY TAKEAWAY: STAGGERED LOCK-UPS COULD CREATE SELLING PRESSURE AND VOLATILITY SHORTLY AFTER ANTHROPIC'S IPO.\n\nSOURCE: ANTHROPIC S-1 FILING ...",
-      "posted_at": "2026-10-26T14:43:23+00:00",
-      "captured_at": "2026-10-26T14:43:24.107445+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
