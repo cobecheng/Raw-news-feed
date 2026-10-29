@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T22:09:06.396108+00:00",
+  "generated_at": "2026-10-29T22:14:36.752973+00:00",
   "window_hours": 72,
-  "count": 479,
+  "count": 478,
   "news": [
     {
       "id": 150291,
@@ -6212,19 +6212,6 @@
       "message_text": "US APPEALS COURT REJECTS TRUMP ADMINISTRATION REQUEST TO HALT CALIFORNIA COUNTING MAIL BALLOTS FROM SUSPECTED NONCITIZENS ...",
       "posted_at": "2026-10-26T22:22:31+00:00",
       "captured_at": "2026-10-26T22:22:33.282686+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149335,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064543,
-      "message_text": "APPLE SAYS IT WILL REPLACE IPHONE DUO UNITS SHOWING SCREEN PROBLEMS \u2013 RTRS\n\n ...",
-      "posted_at": "2026-10-26T22:11:29+00:00",
-      "captured_at": "2026-10-26T22:11:29.717754+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
