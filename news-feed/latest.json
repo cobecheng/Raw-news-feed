@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T08:39:35.662150+00:00",
+  "generated_at": "2026-10-29T08:45:06.012377+00:00",
   "window_hours": 72,
-  "count": 946,
+  "count": 945,
   "news": [
     {
       "id": 150291,
@@ -12283,19 +12283,6 @@
       "message_text": "EASYJET TO ADD STARLINK WIFI ON THEIR FLEETS ...",
       "posted_at": "2026-10-26T08:45:24+00:00",
       "captured_at": "2026-10-26T08:45:25.215655+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148401,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064081,
-      "message_text": "BOJ YEN INDEX OCT-26: 74.11 (PREV 74.13)\n ...",
-      "posted_at": "2026-10-26T08:42:53+00:00",
-      "captured_at": "2026-10-26T08:42:56.506021+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
