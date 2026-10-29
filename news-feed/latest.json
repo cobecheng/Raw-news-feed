@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T14:32:02.731076+00:00",
+  "generated_at": "2026-10-29T14:37:33.081117+00:00",
   "window_hours": 72,
-  "count": 712,
+  "count": 711,
   "news": [
     {
       "id": 150291,
@@ -9241,19 +9241,6 @@
       "message_text": "US INTEREST RATE PREP (26TH OCTOBER)\n  ...",
       "posted_at": "2026-10-26T14:39:21+00:00",
       "captured_at": "2026-10-26T14:39:23.085461+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148869,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064315,
-      "message_text": "DALLAS FED MANUFACTURING BUSINESS INDEX OCTOBER REPORT   ...",
-      "posted_at": "2026-10-26T14:34:06+00:00",
-      "captured_at": "2026-10-26T14:34:08.526603+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
