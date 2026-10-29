@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T20:24:27.944960+00:00",
+  "generated_at": "2026-10-29T20:29:58.279847+00:00",
   "window_hours": 72,
-  "count": 522,
+  "count": 520,
   "news": [
     {
       "id": 150291,
@@ -6758,32 +6758,6 @@
       "message_text": "APPLIED MATERIALS SAYS IT WILL INCREASE ITS STRATEGIC INVESTMENT IN BE SEMICONDUCTOR INDUSTRIES TO ABOUT 20% OF SHARES, ADDING TO ITS EXISTING INVESTMENT IN BESI ...",
       "posted_at": "2026-10-26T20:31:56+00:00",
       "captured_at": "2026-10-26T20:31:57.152518+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149251,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064500,
-      "message_text": "WH SR. ADVISER HASSETT: THE AFFORDABILITY CRISIS IS A MYTH - FOX NEWS. ...",
-      "posted_at": "2026-10-26T20:27:42+00:00",
-      "captured_at": "2026-10-26T20:27:44.902132+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149249,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064499,
-      "message_text": "BROADCOM TO SUPPLY XPU AI ACCELERATORS VIA SPV FROM 2027 AND TO BE LEASED TO ANTHROPIC $AVGO ...",
-      "posted_at": "2026-10-26T20:24:41+00:00",
-      "captured_at": "2026-10-26T20:24:43.488439+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
