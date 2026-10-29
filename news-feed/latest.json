@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T14:21:01.943206+00:00",
+  "generated_at": "2026-10-29T14:26:32.337288+00:00",
   "window_hours": 72,
-  "count": 716,
+  "count": 715,
   "news": [
     {
       "id": 150291,
@@ -9293,19 +9293,6 @@
       "message_text": "DALLAS FED MFG. BUS. INDEX ACTUAL 13.40 (FORECAST 8.8, PREVIOUS 9.80) $MACRO ...",
       "posted_at": "2026-10-26T14:30:51+00:00",
       "captured_at": "2026-10-26T14:30:52.274902+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148861,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064311,
-      "message_text": "CANADA OPENS CONSULTATION ON DRAFT STABLECOIN RULES, MAINTAINS BAN ON YIELDS ...",
-      "posted_at": "2026-10-26T14:25:36+00:00",
-      "captured_at": "2026-10-26T14:25:39.575107+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
