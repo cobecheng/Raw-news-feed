@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T08:01:02.951365+00:00",
+  "generated_at": "2026-10-29T08:06:33.278829+00:00",
   "window_hours": 72,
-  "count": 960,
+  "count": 956,
   "news": [
     {
       "id": 150291,
@@ -12426,58 +12426,6 @@
       "message_text": "CHINA'S COMMERCE MINISTRY SEEKS PUBLIC FEEDBACK ON DRAFT RULE TO PROTECT CHINESE TRADE SECRETS - NOTICE ...",
       "posted_at": "2026-10-26T08:07:19+00:00",
       "captured_at": "2026-10-26T08:07:20.784999+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148379,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064070,
-      "message_text": "GERMANY'S DAX UP 0.15% ...",
-      "posted_at": "2026-10-26T08:04:49+00:00",
-      "captured_at": "2026-10-26T08:04:51.084142+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148375,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064068,
-      "message_text": "SPAIN PPI (M/M) SEP: 4.0% (PREV 2.9%)\n- PPI (Y/Y): 18.3% (PREV 13.2%) ...",
-      "posted_at": "2026-10-26T08:03:20+00:00",
-      "captured_at": "2026-10-26T08:03:21.989140+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148377,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064069,
-      "message_text": "BRITAIN'S FTSE 100 UP 0.23%; FRANCE'S CAC 40 UP 0.46%; SPAIN'S IBEX DOWN 0.85% ...",
-      "posted_at": "2026-10-26T08:03:20+00:00",
-      "captured_at": "2026-10-26T08:03:28.643696+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148373,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064067,
-      "message_text": "SPAIN HOME SALES (Y/Y) AUG: 3.4% (PREV -5.1%)\n- TOTAL MORTGAGE LENDING (Y/Y): 9.6% (PREV 19.0%)\n- HOUSE MORTGAGE APPROVALS (Y/Y): 2.3% (PREV -3.5%) ...",
-      "posted_at": "2026-10-26T08:03:18+00:00",
-      "captured_at": "2026-10-26T08:03:20.996764+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
