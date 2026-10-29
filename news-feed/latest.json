@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T08:50:36.372666+00:00",
+  "generated_at": "2026-10-29T08:56:06.823996+00:00",
   "window_hours": 72,
-  "count": 943,
+  "count": 940,
   "news": [
     {
       "id": 150291,
@@ -12218,45 +12218,6 @@
       "message_text": "UKRAINE'S FIRE POINT: ITS DRONES WERE USED TO ATTACK SYNTHETIC RUBBER PLANT IN RUSSIA'S VORONEZH ...",
       "posted_at": "2026-10-26T08:58:38+00:00",
       "captured_at": "2026-10-26T08:58:41.208093+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148411,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064086,
-      "message_text": "JAPAN'S TOP AUTOMOBILE INDUSTRY UNION GROUP LOOKS BEYOND INFLATION-LINKED PAY HIKES FOR 2027 LABOUR TALKS, CHIEF: ...",
-      "posted_at": "2026-10-26T08:55:23+00:00",
-      "captured_at": "2026-10-26T08:55:25.587586+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148409,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064085,
-      "message_text": "JAPAN'S TOP AUTOMOBILE INDUSTRY UNION GROUP CHIEF: WE LOOK BEYOND INFLATION-LINKED PAY HIKES FOR 2027 LABOUR TALKS. ...",
-      "posted_at": "2026-10-26T08:54:53+00:00",
-      "captured_at": "2026-10-26T08:54:56.610894+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148407,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064084,
-      "message_text": "BRAZIL DOLLAR BONDS DROP, LEAD EM LOSSES ON LULA'S SURPRISE WIN ...",
-      "posted_at": "2026-10-26T08:54:08+00:00",
-      "captured_at": "2026-10-26T08:54:09.117036+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
