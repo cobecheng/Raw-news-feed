@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T08:34:05.288558+00:00",
+  "generated_at": "2026-10-29T08:39:35.662150+00:00",
   "window_hours": 72,
-  "count": 948,
+  "count": 946,
   "news": [
     {
       "id": 150291,
@@ -12296,32 +12296,6 @@
       "message_text": "BOJ YEN INDEX OCT-26: 74.11 (PREV 74.13)\n ...",
       "posted_at": "2026-10-26T08:42:53+00:00",
       "captured_at": "2026-10-26T08:42:56.506021+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148399,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064080,
-      "message_text": "HSBC  ASSET MANAGEMENT BUSINESS TO ABSORB HANG SENG'S INVESTMENT MANAGEMENT UNIT, SOURCES SAY ...",
-      "posted_at": "2026-10-26T08:35:22+00:00",
-      "captured_at": "2026-10-26T08:35:24.575637+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148397,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064079,
-      "message_text": "EU TO PRESENT NEW CURBS ON CHINA TRADE AS EARLY AS Q1 2027 ...",
-      "posted_at": "2026-10-26T08:34:08+00:00",
-      "captured_at": "2026-10-26T08:34:09.161603+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
