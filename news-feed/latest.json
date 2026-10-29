@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T09:01:37.198710+00:00",
+  "generated_at": "2026-10-29T09:07:07.602544+00:00",
   "window_hours": 72,
-  "count": 932,
+  "count": 929,
   "news": [
     {
       "id": 150291,
@@ -12075,45 +12075,6 @@
       "message_text": "ING WARNS EURO COULD FALL FURTHER ON FRENCH DEBT CONCERNS\n\nING SAYS THE EURO REMAINS VULNERABLE DESPITE MOODY'S MAINTAINING FRANCE'S AA3 CREDIT RATING.\n\nWITH LITTLE PROGRESS EXPECTED ON FRANCE'S BUDGET AND ENERGY PRICES ELEVATED, PRESSURE ON THE CURRENCY COULD PERSIST.\n\n\ud83d\udd38 EUR/USD: $1.1206\n\ud83d\udd38 RESISTANCE: $1.1250\u2013$1.1270\n\ud83d\udd38 KEY SUPPORT: $1.1180\n\nTHE KEY TAKEAWAY: ING SEES LIMITED UPSIDE FOR THE EURO AND WARNS OF A POTENTIAL BREAK BELOW $1.1180. ...",
       "posted_at": "2026-10-26T09:17:10+00:00",
       "captured_at": "2026-10-26T09:17:11.086721+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148431,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064096,
-      "message_text": "SWITZERLAND DOMESTIC SIGHT DEPOSITS (CHF) OCT-23: 434.7B (PREV 435.4B)\n- TOTAL SIGHT DEPOSITS: 455.8B (PREV 457.0B) ...",
-      "posted_at": "2026-10-26T09:04:40+00:00",
-      "captured_at": "2026-10-26T09:04:40.943106+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148433,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064097,
-      "message_text": "JAPAN'S TOP AUTOMOBILE INDUSTRY UNION GROUP LOOKS BEYOND INFLATION-LINKED PAY HIKES FOR 2027 LABOUR TALKS SAYS CHIEF ...",
-      "posted_at": "2026-10-26T09:04:40+00:00",
-      "captured_at": "2026-10-26T09:04:46.861263+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148429,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064095,
-      "message_text": "GERMANY OCT. IFO BUSINESS CONFIDENCE INDEX 90.2; EST. 89.9 ...",
-      "posted_at": "2026-10-26T09:02:24+00:00",
-      "captured_at": "2026-10-26T09:02:26.777925+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
