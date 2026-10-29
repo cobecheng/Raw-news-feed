@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T19:40:25.028341+00:00",
+  "generated_at": "2026-10-29T19:45:55.445435+00:00",
   "window_hours": 72,
-  "count": 553,
+  "count": 550,
   "news": [
     {
       "id": 150291,
@@ -7148,45 +7148,6 @@
       "message_text": "THE UK IS HOLDING TALKS WITH THE EU ABOUT RETURNING TO FREE MOVEMENT - TIMES ...",
       "posted_at": "2026-10-26T19:46:48+00:00",
       "captured_at": "2026-10-26T19:46:51.206553+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149191,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064470,
-      "message_text": "BEN & JERRY\u2019S FOUNDERS HAVE BEEN EXPLORING DEAL WITH KKR EXECUTIVE \u2013 WSJ ...",
-      "posted_at": "2026-10-26T19:42:49+00:00",
-      "captured_at": "2026-10-26T19:42:50.372993+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149189,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064469,
-      "message_text": "BEN & JERRY\u2019S FOUNDERS HAVE BEEN EXPLORING DEAL WITH KKR EXECUTIVE \u2013 \n ...",
-      "posted_at": "2026-10-26T19:42:48+00:00",
-      "captured_at": "2026-10-26T19:42:49.628885+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149187,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064468,
-      "message_text": "DOORDASH IS IN ADVANCED TALKS TO ACQUIRE INSTACART - WSJ ...",
-      "posted_at": "2026-10-26T19:40:48+00:00",
-      "captured_at": "2026-10-26T19:40:49.985609+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
