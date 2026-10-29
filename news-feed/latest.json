@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T19:18:23.550477+00:00",
+  "generated_at": "2026-10-29T19:23:53.904589+00:00",
   "window_hours": 72,
-  "count": 570,
+  "count": 567,
   "news": [
     {
       "id": 150291,
@@ -7369,45 +7369,6 @@
       "message_text": "DOORDASH IN ADVANCED TALKS TO BUY INSTACART, SOURCES SAY \n\nDOORDASH DEAL FOR INSTACART COULD BE FINALIZED AS SOON AS THIS WEEK, SOURCES SAY ...",
       "posted_at": "2026-10-26T19:26:02+00:00",
       "captured_at": "2026-10-26T19:26:05.284214+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149157,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064453,
-      "message_text": "TUESDAY FX OPTION EXPIRIES \n ...",
-      "posted_at": "2026-10-26T19:22:32+00:00",
-      "captured_at": "2026-10-26T19:22:34.690305+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149155,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064452,
-      "message_text": "SENIOR U.S. STATE DEPARTMENT OFFICIAL SAYS THE U.S. IS WORKING WITH VENEZUELA\u2019S INTERIM AUTHORITIES AND USING LEVERAGE TO MAKE SURE REFORMS CONTINUE AT A PROPER PACE ...",
-      "posted_at": "2026-10-26T19:21:35+00:00",
-      "captured_at": "2026-10-26T19:21:37.687531+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149153,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064451,
-      "message_text": "SENIOR U.S. STATE DEPARTMENT OFFICIAL SAYS THE U.S. SEES A NEED FOR REVAMPED ELECTORAL INFRASTRUCTURE FOR VENEZUELA BEFORE ELECTIONS CAN BE HELD, AND EXPECTS A NEW SUPREME JUDICIAL COUNCIL BY YEAR-END AND A NEW ELECTORAL COUNCIL SHORTLY THEREAFTER ...",
-      "posted_at": "2026-10-26T19:21:34+00:00",
-      "captured_at": "2026-10-26T19:21:37.012839+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
