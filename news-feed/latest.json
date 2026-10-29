@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T07:44:31.815423+00:00",
+  "generated_at": "2026-10-29T07:50:02.188718+00:00",
   "window_hours": 72,
-  "count": 963,
+  "count": 962,
   "news": [
     {
       "id": 150291,
@@ -12504,19 +12504,6 @@
       "message_text": "IRAN SAYS FORCES WILL DELIVER 'CRUSHING RESPONSE' TO AGGRESSORS ...",
       "posted_at": "2026-10-26T07:56:48+00:00",
       "captured_at": "2026-10-26T07:56:48.969371+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148367,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064064,
-      "message_text": "FRENCH INTERIOR MINISTER NUNEZ SAYS WILL BE AN \"EXTREMELY ROBUST\" DEPLOYMENT OF SECURITY FORCES FOR NEXT WEEKEND ...",
-      "posted_at": "2026-10-26T07:45:02+00:00",
-      "captured_at": "2026-10-26T07:45:02.937481+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
