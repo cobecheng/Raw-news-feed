@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T21:52:35.176332+00:00",
+  "generated_at": "2026-10-29T21:58:05.541480+00:00",
   "window_hours": 72,
-  "count": 481,
+  "count": 479,
   "news": [
     {
       "id": 150291,
@@ -6225,32 +6225,6 @@
       "message_text": "APPLE SAYS IT WILL REPLACE IPHONE DUO UNITS SHOWING SCREEN PROBLEMS \u2013 RTRS\n\n ...",
       "posted_at": "2026-10-26T22:11:29+00:00",
       "captured_at": "2026-10-26T22:11:29.717754+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149331,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064541,
-      "message_text": "TRUMP SAYS THE U.S. SENATE IS LETTING THE DAYLIGHT SAVING BILL DIE WHEN A VAST MAJORITY OF THE COUNTRY WANTS IT, SAYING MOST PEOPLE ARE DEMANDING LIGHT IN THE EVENING BUT ALL WANT TO STOP CHANGING THEIR CLOCKS, AND URGING THE SENATE TO \u201cTAKE A VOTE\u201d - TRUTH SOCIAL ...",
-      "posted_at": "2026-10-26T21:54:29+00:00",
-      "captured_at": "2026-10-26T21:54:30.710436+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149333,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064542,
-      "message_text": "TRUMP, CITING THE NEW YORK POST, NOTES THE HOUSE THIS SUMMER OVERWHELMINGLY PASSED THE SUNSHINE PROTECTION ACT 308-117, WHICH WOULD MAKE DAYLIGHT SAVING TIME PERMANENT YEAR-ROUND, BUT THAT THE BILL REMAINS LOCKED IN THE SENATE, MEANING DAYLIGHT SAVING TIME WILL END AS REGULARLY SCHEDULED - TRUTH SOCIAL ...",
-      "posted_at": "2026-10-26T21:54:29+00:00",
-      "captured_at": "2026-10-26T21:54:31.337115+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
