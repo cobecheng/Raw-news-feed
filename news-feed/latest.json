@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T09:40:10.079850+00:00",
+  "generated_at": "2026-10-29T09:45:40.503049+00:00",
   "window_hours": 72,
-  "count": 921,
+  "count": 918,
   "news": [
     {
       "id": 150291,
@@ -11932,45 +11932,6 @@
       "message_text": "ELON MUSK WARNS OF MASSIVE NEOCLOUD CONSOLIDATION\n\nELON MUSK SAYS DEBT MARKETS HAVE LARGELY SHUT OFF FINANCING FOR COMPANIES WITHOUT SUBSTANTIAL REVENUE OUTSIDE AI DATA CENTERS.\n\nHE WARNS THAT 200+ NEOCLOUD COMPANIES COULD FACE WIDESPREAD FAILURES AND CONSOLIDATION.\n\nMEANWHILE, MUSK SAYS SPACEX HAS SECURED $40 BILLION IN DEBT FINANCING.\n\nKEY RELATED TICKERS: $CRWV, $NBIS, $IREN, $APLD, $CIFR.\n\nTHE KEY TAKEAWAY: FINANCING CONSTRAINTS COULD ACCELERATE CONSOLIDATION ACROSS THE AI INFRASTRUCTURE SECTOR. ...",
       "posted_at": "2026-10-26T09:46:26+00:00",
       "captured_at": "2026-10-26T09:46:28.505994+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148455,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064108,
-      "message_text": "HSBC SAYS WE ALSO CUT OUR OVERWEIGHT IN GOLD, AND INCREASE OIL TO OUTRIGHT OVERWEIGHT ...",
-      "posted_at": "2026-10-26T09:44:10+00:00",
-      "captured_at": "2026-10-26T09:44:13.250297+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148453,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064107,
-      "message_text": "HSBC: WE ALSO CUT OUR OVERWEIGHT IN GOLD, AND INCREASE OIL TO OUTRIGHT OVERWEIGHT ...",
-      "posted_at": "2026-10-26T09:43:11+00:00",
-      "captured_at": "2026-10-26T09:43:13.856027+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148451,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064106,
-      "message_text": "RED SEA SHIPPING RECOVERS, BUT COSTS REMAIN HIGH\n\nBANK OF AMERICA REPORTS RED SEA SHIPPING TRAFFIC HAS RECOVERED TO 65% OF NORMAL LEVELS, UP FROM 50% IN SEPTEMBER.\n\nHOWEVER, OIL TANKER RATES REMAIN ELEVATED AT UP TO $650,000 PER DAY, WHILE DRY BULK RATES ARE UP 31% YEAR-OVER-YEAR.\n\nTHE KEY TAKEAWAY: SHIPPING IS RECOVERING, BUT HIGH FREIGHT COSTS CONTINUE TO THREATEN GLOBAL INFLATION.\n\nSOURCE: BANK OF AMERICA RESEARCH ...",
-      "posted_at": "2026-10-26T09:42:26+00:00",
-      "captured_at": "2026-10-26T09:42:26.983679+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
