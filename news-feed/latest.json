@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T10:29:43.826391+00:00",
+  "generated_at": "2026-10-29T10:35:14.212508+00:00",
   "window_hours": 72,
-  "count": 888,
+  "count": 885,
   "news": [
     {
       "id": 150291,
@@ -11503,45 +11503,6 @@
       "message_text": "$MRNA  - MODERNA SHARES DOWN 9.3% PREMARKET AFTER OVER 18% FALL IN PREVIOUS TWO SESSIONS ...",
       "posted_at": "2026-10-26T10:36:57+00:00",
       "captured_at": "2026-10-26T10:36:59.406862+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148521,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064140,
-      "message_text": "...",
-      "posted_at": "2026-10-26T10:34:40+00:00",
-      "captured_at": "2026-10-26T10:34:43.234772+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148519,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064139,
-      "message_text": "VOLKSWAGEN EXPLORES BUILDING TATRA MILITARY TRUCKS IN HANNOVER - HANDELSBLATT ...",
-      "posted_at": "2026-10-26T10:33:43+00:00",
-      "captured_at": "2026-10-26T10:33:45.006750+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148517,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064138,
-      "message_text": "$SPCX : BERNSTEIN RAISES TARGET PRICE TO $268 FROM $248 ...",
-      "posted_at": "2026-10-26T10:32:28+00:00",
-      "captured_at": "2026-10-26T10:32:30.418910+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
