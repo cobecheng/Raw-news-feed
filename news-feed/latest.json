@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T19:56:56.137038+00:00",
+  "generated_at": "2026-10-29T20:02:26.531143+00:00",
   "window_hours": 72,
-  "count": 544,
+  "count": 541,
   "news": [
     {
       "id": 150291,
@@ -7031,45 +7031,6 @@
       "message_text": "DOW JONES CLOSES 0.28% HIGHER AT 52,362.78, UP 147.62 POINTS ...",
       "posted_at": "2026-10-26T20:03:04+00:00",
       "captured_at": "2026-10-26T20:03:07.664827+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149209,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064479,
-      "message_text": "CISCO SAYS IT IS EXPANDING ITS PARTNER OPPORTUNITY WITH NEW CISCO 360 PROGRAM UPDATES, HIGH-YIELD CUSTOMER EXPERIENCE OFFERINGS AND AI-READY INNOVATIONS ...",
-      "posted_at": "2026-10-26T20:02:03+00:00",
-      "captured_at": "2026-10-26T20:02:04.296967+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149207,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064478,
-      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
-      "posted_at": "2026-10-26T20:00:02+00:00",
-      "captured_at": "2026-10-26T20:00:04.295699+00:00",
-      "has_media": 1,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149205,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064477,
-      "message_text": "IRAN SIGNALS FLEXIBILITY ON STRAIT OF HORMUZ DEAL\n\nIRAN SAYS IT COULD REOPEN THE STRAIT OF HORMUZ WITHIN 4\u20135 DAYS, RATHER THAN THE PROPOSED SEVEN, IF ITS CONDITIONS ARE MET.\n\nACCORDING TO IRANIAN STATE TV, TEHRAN IS DISCUSSING A PROPOSAL INVOLVING THE LIFTING OF THE US BLOCKADE WITH OFFICIALS FROM SAUDI ARABIA, TURKEY, AND PAKISTAN.\n\nRELATED ASSETS: $USO $XLE $XOM ...",
-      "posted_at": "2026-10-26T19:58:04+00:00",
-      "captured_at": "2026-10-26T19:58:07.529235+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
