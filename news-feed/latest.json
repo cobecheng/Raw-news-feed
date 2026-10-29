@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T22:31:07.969710+00:00",
+  "generated_at": "2026-10-29T22:36:38.394859+00:00",
   "window_hours": 72,
-  "count": 477,
+  "count": 475,
   "news": [
     {
       "id": 150291,
@@ -6173,32 +6173,6 @@
       "message_text": "CSL REAFFIRMS ITS FY27 GUIDANCE, SAYING IT EXPECTS PRE-TAX TRANSFORMATION SAVINGS TO RISE TO $400 MLN IN FY27 AND UP TO $550 MLN IN FY28, AND THAT IT WILL PROGRESS AN A$1 BLN BUYBACK IN FY26 AND AN A$1.1 BLN BUYBACK IN FY27 ...",
       "posted_at": "2026-10-26T22:59:46+00:00",
       "captured_at": "2026-10-26T22:59:47.302388+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149339,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064545,
-      "message_text": "US NATURAL GAS FUTURES FELL TO THEIR LOWEST LEVEL SINCE APRIL AS WARMER WEATHER FORECASTS ACROSS THE EASTERN TWO-THIRDS OF THE COUNTRY THROUGH NOVEMBER 9 REDUCED EXPECTATIONS FOR HEATING AND POWER-GENERATION DEMAND. THE NOVEMBER CONTRACT DROPPED AS MUCH AS 5.4% BEFORE SETTLING 1.4% LOWER AT $2.602 PER MILLION BRITISH THERMAL UNITS, WITH FRONT-MONTH FUTURES DOWN NEARLY 15% IN A WEEK. ...",
-      "posted_at": "2026-10-26T22:33:07+00:00",
-      "captured_at": "2026-10-26T22:33:08.762768+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149341,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064546,
-      "message_text": "HEDGE FUNDS HAVE BUILT A RECORD NET SHORT POSITION, BETTING ON A MILD WINTER POTENTIALLY LINKED TO A STRONG EL NI\u00d1O PATTERN. PRICES MAY REMAIN UNDER PRESSURE UNLESS COLDER WEATHER BOOSTS DEMAND, WHILE LOW TRADING VOLUMES AHEAD OF CONTRACT EXPIRATION AND CROWDED SHORT POSITIONS COULD AMPLIFY MARKET VOLATILITY. ...",
-      "posted_at": "2026-10-26T22:33:07+00:00",
-      "captured_at": "2026-10-26T22:33:09.417362+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
