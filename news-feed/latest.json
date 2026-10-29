@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T09:34:39.526224+00:00",
+  "generated_at": "2026-10-29T09:40:10.079850+00:00",
   "window_hours": 72,
-  "count": 923,
+  "count": 921,
   "news": [
     {
       "id": 150291,
@@ -11971,32 +11971,6 @@
       "message_text": "RED SEA SHIPPING RECOVERS, BUT COSTS REMAIN HIGH\n\nBANK OF AMERICA REPORTS RED SEA SHIPPING TRAFFIC HAS RECOVERED TO 65% OF NORMAL LEVELS, UP FROM 50% IN SEPTEMBER.\n\nHOWEVER, OIL TANKER RATES REMAIN ELEVATED AT UP TO $650,000 PER DAY, WHILE DRY BULK RATES ARE UP 31% YEAR-OVER-YEAR.\n\nTHE KEY TAKEAWAY: SHIPPING IS RECOVERING, BUT HIGH FREIGHT COSTS CONTINUE TO THREATEN GLOBAL INFLATION.\n\nSOURCE: BANK OF AMERICA RESEARCH ...",
       "posted_at": "2026-10-26T09:42:26+00:00",
       "captured_at": "2026-10-26T09:42:26.983679+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148449,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064105,
-      "message_text": "JAPAN PM TAKAICHI: JAPAN GOVERNMENT PLANS TO COMPILE EMERGENCY PACKAGE AGAINST CYBERATTACKS NEXT WEEK ...",
-      "posted_at": "2026-10-26T09:36:25+00:00",
-      "captured_at": "2026-10-26T09:36:26.608748+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148447,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064104,
-      "message_text": "OCTOBER HOLD PRICED IN. WALL STREET EYES DECEMBER HIKE.\n\nGOLDMAN SACHS EXPECTS THE FED TO HOLD RATES THIS WEEK BEFORE RAISING THEM 25 BASIS POINTS IN DECEMBER.\n\nKALSHI TRADERS PRICE A 93% CHANCE OF AN OCTOBER HOLD, VERSUS JUST 6% FOR A HIKE.\n\nTHE DEBATE HAS SHIFTED FROM OCTOBER TO DECEMBER. ...",
-      "posted_at": "2026-10-26T09:35:56+00:00",
-      "captured_at": "2026-10-26T09:35:57.921135+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
