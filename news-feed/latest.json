@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T06:05:24.447799+00:00",
+  "generated_at": "2026-10-29T06:10:54.833904+00:00",
   "window_hours": 72,
-  "count": 996,
+  "count": 995,
   "news": [
     {
       "id": 150291,
@@ -12933,19 +12933,6 @@
       "message_text": "GOLD STAYS ABOVE $4,000 AFTER REBOUND AS RATE HIKE BETS WEIGH ON PRICES ...",
       "posted_at": "2026-10-26T06:23:15+00:00",
       "captured_at": "2026-10-26T06:23:14.818598+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148301,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064031,
-      "message_text": "EU LEADERS SEEK TO FINALISE \u20ac45 BILLION UKRAINE LOAN GUARANTEED BY EU BUDGET BEFORE YEAR-END ...",
-      "posted_at": "2026-10-26T06:09:00+00:00",
-      "captured_at": "2026-10-26T06:09:00.987296+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
