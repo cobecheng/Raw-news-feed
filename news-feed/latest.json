@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T11:30:18.561198+00:00",
+  "generated_at": "2026-10-29T11:35:48.912793+00:00",
   "window_hours": 72,
-  "count": 845,
+  "count": 843,
   "news": [
     {
       "id": 150291,
@@ -10957,32 +10957,6 @@
       "message_text": "ANTHROPIC TO RELEASE S-1 AT 9AM EST \u2013 FOX BUSINESS ...",
       "posted_at": "2026-10-26T11:43:30+00:00",
       "captured_at": "2026-10-26T11:43:31.178800+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148605,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064182,
-      "message_text": "MORGAN STANLEY WARNS OF BRAZIL MARKET SELLOFF\n\nMORGAN STANLEY FORECASTS A 20%\u201330% DROP IN BRAZILIAN EQUITIES FOLLOWING LULA'S ELECTION VICTORY.\n\nTHE BANK SEES USD/BRL REACHING 5.60, POTENTIALLY 6.00 IF FISCAL CONCERNS WORSEN, ALONGSIDE 300\u2013400 BPS OF PRESSURE ON INTERBANK RATES.\n\nTHE KEY TAKEAWAY: RISING FISCAL RISKS THREATEN BRAZIL'S CURRENCY, BONDS AND EQUITIES.\n\nRELATED TICKERS: $EWZ, $PBR, $VALE ...",
-      "posted_at": "2026-10-26T11:34:44+00:00",
-      "captured_at": "2026-10-26T11:34:45.348374+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148603,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064181,
-      "message_text": "DEPUTY GOVERNMENT SPOKESPERSON ON AUDI CHIEF\u2019S APPEARANCE: IT IS A BUSINESS DECISION AS TO WHERE THE COMPANY INVESTS, AND WHERE THE CEO OF A COMPANY MAKES AN APPEARANCE, I WILL NOT COMMENT FURTHER ...",
-      "posted_at": "2026-10-26T11:33:59+00:00",
-      "captured_at": "2026-10-26T11:34:00.354033+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
