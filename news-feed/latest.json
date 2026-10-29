@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T20:40:59.029705+00:00",
+  "generated_at": "2026-10-29T20:46:29.398791+00:00",
   "window_hours": 72,
-  "count": 509,
+  "count": 508,
   "news": [
     {
       "id": 150291,
@@ -6602,19 +6602,6 @@
       "message_text": "CANADIAN PM CARNEY SAYS THAT TO THE EXTENT ANY PROGRESS HAS BEEN MADE IN U.S. TRADE TALKS, IT IS BECAUSE THE U.S. IS COMING CLOSER TO CANADA\u2019S POSITION, ADDING THAT THERE HAS BEEN A SLIGHT INTENSIFICATION IN THE TALKS BUT THAT CANADA HAS NOT CHANGED ITS POSITION ...",
       "posted_at": "2026-10-26T20:50:11+00:00",
       "captured_at": "2026-10-26T20:50:13.341725+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149275,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064512,
-      "message_text": "AMAZON BUSINESS ADDS THREE NEW AI-POWERED BUYING INSIGHTS $AMZN ...",
-      "posted_at": "2026-10-26T20:42:27+00:00",
-      "captured_at": "2026-10-26T20:42:29.321388+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
