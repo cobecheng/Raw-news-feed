@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T15:38:07.814360+00:00",
+  "generated_at": "2026-10-29T15:43:38.188369+00:00",
   "window_hours": 72,
-  "count": 667,
+  "count": 666,
   "news": [
     {
       "id": 150291,
@@ -8657,19 +8657,6 @@
       "posted_at": "2026-10-26T15:45:02+00:00",
       "captured_at": "2026-10-26T15:45:07.321997+00:00",
       "has_media": 1,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148959,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064360,
-      "message_text": "$MSFT  - MICROSOFT OFFERS BUYOUTS TO 60,000 WORKERS AMID AI SPENDING BOOM\n\nMICROSOFT IS OFFERING VOLUNTARY BUYOUTS TO APPROXIMATELY 60,000 EMPLOYEES AS IT RESTRUCTURES ITS WORKFORCE AND REDIRECTS SPENDING TOWARD AI.\n\nKEY DETAILS:\n\n\ud83d\udd38 60,000 WORKERS ELIGIBLE ACROSS THE US, CANADA, INDIA, AND UK.\n\ud83d\udd38 223,000 EMPLOYEES GLOBALLY AS OF JUNE.\n\ud83d\udd38 DATA CENTER TEAMS ARE AMONG THOSE EXCLUDED FROM THE OFFER.\n\ud83d\udd38 ELIGIBLE EMPLOYEES WILL RECEIVE SEVERANCE-STYLE BENEFITS.\n\nTHE KEY TAKEAWAY: MICROSOFT IS TIGHTENING LABOR COSTS WHILE PROTECTING CRITICAL AI INFRASTRUCTURE INVESTMENTS, HIGHLIGHTING HOW AI SPENDING IS RESHAPING BIG TECH EMPLOYMENT. ...",
-      "posted_at": "2026-10-26T15:43:10+00:00",
-      "captured_at": "2026-10-26T15:43:11.766831+00:00",
-      "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
       "destination_topic_id": 127
