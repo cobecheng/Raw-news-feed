@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T10:46:15.030602+00:00",
+  "generated_at": "2026-10-29T10:51:45.527326+00:00",
   "window_hours": 72,
-  "count": 879,
+  "count": 876,
   "news": [
     {
       "id": 150291,
@@ -11386,45 +11386,6 @@
       "message_text": "TESLA SHARES GAIN 1.9% PREMARKET AFTER BARCLAYS UPGRADES TO OVERWEIGHT FROM EQUAL-WEIGHT\n\n$TSLA  $SPCX - BARCLAYS UPGRADES TESLA TO OVERWEIGHT, SEES SPACEX MERGER UPSIDE\n\nBARCLAYS UPGRADED $TSLA TO OVERWEIGHT, RAISING ITS PRICE TARGET TO $450 FROM $370.\n\nTHE BANK SEES A POTENTIAL SPACEX MERGER AS A MAJOR BULLISH CATALYST, ALONGSIDE ACCELERATING ROBOTAXI ADOPTION, STRONGER EV DEMAND AND AI-DRIVEN ENERGY GROWTH.\n\nTESLA'S ENERGY BUSINESS IS REPORTEDLY NEARLY SOLD OUT FOR 2027.\n\nTHE KEY TAKEAWAY: BARCLAYS SEES MULTIPLE UPSIDE CATALYSTS, WITH A POTENTIAL SPACEX DEAL CENTRAL TO ITS BULL CASE.\n\nSOURCE: BARCLAYS RESEARCH - *WALTER BLOOMBERG ...",
       "posted_at": "2026-10-26T10:53:12+00:00",
       "captured_at": "2026-10-26T10:53:14.940193+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148539,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064149,
-      "message_text": "BARCLAYS RAISES TARGET PRICE OF TESLA TO $450 FROM $370, RAISES TO OVERWEIGHT FROM EQUAL-WEIGHT $TSLA ...",
-      "posted_at": "2026-10-26T10:50:28+00:00",
-      "captured_at": "2026-10-26T10:50:29.264429+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148537,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064148,
-      "message_text": "$TSLA  $SPCX - BARCLAYS UPGRADES TESLA TO OVERWEIGHT, SEES SPACEX MERGER UPSIDE\n\nBARCLAYS UPGRADED $TSLA TO OVERWEIGHT, RAISING ITS PRICE TARGET TO $450 FROM $370.\n\nTHE BANK SEES A POTENTIAL SPACEX MERGER AS A MAJOR BULLISH CATALYST, ALONGSIDE ACCELERATING ROBOTAXI ADOPTION, STRONGER EV DEMAND AND AI-DRIVEN ENERGY GROWTH.\n\nTESLA'S ENERGY BUSINESS IS REPORTEDLY NEARLY SOLD OUT FOR 2027.\n\nTHE KEY TAKEAWAY: BARCLAYS SEES MULTIPLE UPSIDE CATALYSTS, WITH A POTENTIAL SPACEX DEAL CENTRAL TO ITS BULL CASE.\n\nSOURCE: BARCLAYS RESEARCH ...",
-      "posted_at": "2026-10-26T10:49:43+00:00",
-      "captured_at": "2026-10-26T10:49:45.360139+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148535,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064147,
-      "message_text": "META SHARES EXTEND LOSSES TO HIT SESSION LOW OF 2.3% ...",
-      "posted_at": "2026-10-26T10:47:28+00:00",
-      "captured_at": "2026-10-26T10:47:28.977487+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
