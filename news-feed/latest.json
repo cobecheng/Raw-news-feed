@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T10:35:14.212508+00:00",
+  "generated_at": "2026-10-29T10:40:44.587539+00:00",
   "window_hours": 72,
-  "count": 885,
+  "count": 884,
   "news": [
     {
       "id": 150291,
@@ -11490,19 +11490,6 @@
       "message_text": "META PLATFORMS FILES MIXED SECURITIES SHELF $META ...",
       "posted_at": "2026-10-26T10:43:12+00:00",
       "captured_at": "2026-10-26T10:43:14.897056+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148523,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064141,
-      "message_text": "$MRNA  - MODERNA SHARES DOWN 9.3% PREMARKET AFTER OVER 18% FALL IN PREVIOUS TWO SESSIONS ...",
-      "posted_at": "2026-10-26T10:36:57+00:00",
-      "captured_at": "2026-10-26T10:36:59.406862+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
