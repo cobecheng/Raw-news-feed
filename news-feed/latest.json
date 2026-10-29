@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T09:45:40.503049+00:00",
+  "generated_at": "2026-10-29T09:51:10.888750+00:00",
   "window_hours": 72,
-  "count": 918,
+  "count": 915,
   "news": [
     {
       "id": 150291,
@@ -11893,45 +11893,6 @@
       "message_text": "HING YIP HLDGS &LT;132MAJOR DEAL ENTERING FINANCE LEASES AS LESSOR 26/10/2026 17:50 ...",
       "posted_at": "2026-10-26T09:51:26+00:00",
       "captured_at": "2026-10-26T09:51:28.752652+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148461,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064111,
-      "message_text": "KREMLIN SAYS AGREEMENT TO RESUME 3-WAY TALKS WITH UKRAINE AND US DOES NOT PLACE ANY RESTRICTIONS ON MOSCOW OR KYIV WHEN IT COMES TO CONTINUING MILITARY ACTION ...",
-      "posted_at": "2026-10-26T09:50:26+00:00",
-      "captured_at": "2026-10-26T09:50:33.516779+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148459,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064110,
-      "message_text": "$SPCX - SPACEX SHARES UP 1.2% PREMARKET; MUSK SAYS CO CLOSED $40 BLN IN DEBT FINANCING FOR GPUS ...",
-      "posted_at": "2026-10-26T09:48:26+00:00",
-      "captured_at": "2026-10-26T09:48:27.984574+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148457,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064109,
-      "message_text": "ELON MUSK WARNS OF MASSIVE NEOCLOUD CONSOLIDATION\n\nELON MUSK SAYS DEBT MARKETS HAVE LARGELY SHUT OFF FINANCING FOR COMPANIES WITHOUT SUBSTANTIAL REVENUE OUTSIDE AI DATA CENTERS.\n\nHE WARNS THAT 200+ NEOCLOUD COMPANIES COULD FACE WIDESPREAD FAILURES AND CONSOLIDATION.\n\nMEANWHILE, MUSK SAYS SPACEX HAS SECURED $40 BILLION IN DEBT FINANCING.\n\nKEY RELATED TICKERS: $CRWV, $NBIS, $IREN, $APLD, $CIFR.\n\nTHE KEY TAKEAWAY: FINANCING CONSTRAINTS COULD ACCELERATE CONSOLIDATION ACROSS THE AI INFRASTRUCTURE SECTOR. ...",
-      "posted_at": "2026-10-26T09:46:26+00:00",
-      "captured_at": "2026-10-26T09:46:28.505994+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
