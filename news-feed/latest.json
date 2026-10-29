@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T23:15:11.324893+00:00",
+  "generated_at": "2026-10-29T23:20:41.689982+00:00",
   "window_hours": 72,
-  "count": 464,
+  "count": 461,
   "news": [
     {
       "id": 150291,
@@ -5991,45 +5991,6 @@
       "message_text": "JUST IN: \ud83c\uddfa\ud83c\uddf8 RIPPLE OFFICIALLY RECEIVES FULL US REGULATORY APPROVAL TO OPERATE AS A NATIONAL TRUST BANK. ...",
       "posted_at": "2026-10-26T23:34:03+00:00",
       "captured_at": "2026-10-26T23:34:03.468495+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149369,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064560,
-      "message_text": "USTR GREER SAYS A EUROPEAN INVESTMENT BANK LOAN TO AIRBUS MAY BE A VIOLATION OF THE US-EU TRADE TRUCE, ADDING IT IS IMPORTANT THAT U.S. CONCERNS OVER THE AIRBUS LOAN BE RESOLVED AS SOON AS POSSIBLE TO AVOID A VIOLATION OF THE LARGE CIVIL AIRCRAFT AGREEMENT ...",
-      "posted_at": "2026-10-26T23:18:47+00:00",
-      "captured_at": "2026-10-26T23:18:47.849958+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149367,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064559,
-      "message_text": "THE REPORT SAYS RENEWED FIGHTING COULD POTENTIALLY DELAY THE ELECTION OR OBSTRUCT OPPOSITION EFFORTS TO FORM A GOVERNMENT AFTERWARD, WITH OPPOSITION POLITICIAN AVIGDOR LIBERMAN CALLING FOR A TREASON INVESTIGATION AND ACCUSING NETANYAHU OF RISKING SOLDIERS\u2019 LIVES OUT OF FEAR OF ELECTORAL DEFEAT - NYT ...",
-      "posted_at": "2026-10-26T23:16:02+00:00",
-      "captured_at": "2026-10-26T23:16:04.531828+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149365,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064558,
-      "message_text": "NETANYAHU PUSHED FOR A NEW ATTACK ON IRAN AHEAD OF ISRAEL\u2019S ELECTION BUT FACED RESISTANCE FROM MILITARY LEADERS, ACCORDING TO ISRAELI OFFICIALS, WITH MILITARY CHIEF EYAL ZAMIR SEEING NO URGENT NEED FOR A STRIKE AND FEARING THAT A SEPARATE, LESS OVERT OPERATION COULD PROVOKE IRANIAN RETALIATION - NYT ...",
-      "posted_at": "2026-10-26T23:16:01+00:00",
-      "captured_at": "2026-10-26T23:16:03.776219+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
