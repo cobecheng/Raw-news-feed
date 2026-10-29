@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T11:19:17.770508+00:00",
+  "generated_at": "2026-10-29T11:24:48.141823+00:00",
   "window_hours": 72,
-  "count": 850,
+  "count": 848,
   "news": [
     {
       "id": 150291,
@@ -11022,32 +11022,6 @@
       "message_text": "META SHARES REVERSE COURSE; LAST UP 2.2% PREMARKET ...",
       "posted_at": "2026-10-26T11:26:44+00:00",
       "captured_at": "2026-10-26T11:26:45.136259+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148595,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064177,
-      "message_text": "GOLDMAN SACHS WARNS GLOBAL GROWTH RISKS ARE BUILDING\n\nGOLDMAN SACHS EXPECTS GLOBAL GROWTH TO REMAIN BROADLY STABLE IN 2027 BUT WARNS THAT HIGHER ENERGY PRICES, RISING BOND YIELDS AND SLOWING AI INVESTMENT ARE INCREASING DOWNSIDE RISKS.\n\nWITH AI'S IMPACT ON EMPLOYMENT BECOMING MORE VISIBLE AND INFLATION EXPECTED TO DECLINE, GOLDMAN ANTICIPATES FEWER CENTRAL-BANK RATE HIKES THAN MARKETS CURRENTLY PRICE IN.\n\nTHE KEY TAKEAWAY: SLOWER AI SPENDING AND TIGHTER FINANCIAL CONDITIONS THREATEN GROWTH, BUT LESS AGGRESSIVE MONETARY TIGHTENING COULD PROVIDE RELIEF.\n\nRELATED TICKERS: $SPY, $QQQ, $TLT, $XLE\n\nSOURCE: GOLDMAN SACHS ...",
-      "posted_at": "2026-10-26T11:21:13+00:00",
-      "captured_at": "2026-10-26T11:21:15.514016+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148593,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064176,
-      "message_text": "EU: ACCEPTS TEMU'S ACTION PLAN TO REMEDY BREACH OF DSA ...",
-      "posted_at": "2026-10-26T11:19:43+00:00",
-      "captured_at": "2026-10-26T11:19:45.868164+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
