@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T14:04:30.753357+00:00",
+  "generated_at": "2026-10-29T14:10:01.235878+00:00",
   "window_hours": 72,
-  "count": 726,
+  "count": 724,
   "news": [
     {
       "id": 150291,
@@ -9410,32 +9410,6 @@
       "message_text": "IRAN IS READY TO BACK 'ANY UNDERSTANDING\u2019 FOR REGIONAL UNITY - IRIB. ...",
       "posted_at": "2026-10-26T14:11:05+00:00",
       "captured_at": "2026-10-26T14:11:07.218530+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148843,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064302,
-      "message_text": "GERMAN CHANCELLOR MERZ MEETS KNOT AND HERNANDEZ DE COS; FAVOURITES FOR TOP ECB POST - HANDELSBLATT ...",
-      "posted_at": "2026-10-26T14:07:50+00:00",
-      "captured_at": "2026-10-26T14:07:53.588889+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148841,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064301,
-      "message_text": "META IS REPORTING Q3 EARNINGS A WEEK EARLIER THAN EXPECTED, THE EARLIEST EVER. MIT AND UT RESEARCH SHOWS ADVANCING AN EARNINGS DATE IS HIGHLY CORRELATED WITH GOOD NEWS ON THE CALL. DELAYING SIGNALS THE OPPOSITE. CFO LEE HAS BEEN IN PLACE SINCE 2022, SO IT IS NOT A MANAGEMENT CHANGE. THE ACADEMIC READ INTO THE PRINT IS POSITIVE. ...",
-      "posted_at": "2026-10-26T14:04:52+00:00",
-      "captured_at": "2026-10-26T14:04:53.603239+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
