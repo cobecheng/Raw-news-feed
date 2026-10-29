@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T10:07:42.164813+00:00",
+  "generated_at": "2026-10-29T10:13:12.534162+00:00",
   "window_hours": 72,
-  "count": 896,
+  "count": 894,
   "news": [
     {
       "id": 150291,
@@ -11620,32 +11620,6 @@
       "message_text": "FOXCONN DEPLOYS AI FACTORY ON NVIDIA DGX SUPERPOD ...",
       "posted_at": "2026-10-26T10:18:57+00:00",
       "captured_at": "2026-10-26T10:19:00.742996+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148501,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064130,
-      "message_text": "UK SANCTIONS COMMANDERS LINKED TO SEXUAL ASSAULT IN SUDAN ...",
-      "posted_at": "2026-10-26T10:07:43+00:00",
-      "captured_at": "2026-10-26T10:07:45.427184+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148503,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064131,
-      "message_text": "UK LATEST SANCTIONS TARGET SENIOR COMMANDERS INVOLVED IN SUDAN RAPE CAMPAIGN ...",
-      "posted_at": "2026-10-26T10:07:43+00:00",
-      "captured_at": "2026-10-26T10:07:46.098157+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
