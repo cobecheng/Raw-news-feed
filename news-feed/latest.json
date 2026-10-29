@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T23:42:43.670978+00:00",
+  "generated_at": "2026-10-29T23:48:14.068890+00:00",
   "window_hours": 72,
-  "count": 460,
+  "count": 458,
   "news": [
     {
       "id": 150291,
@@ -5952,32 +5952,6 @@
       "message_text": "UK CHANCELLOR JOHN HEALEY IS EXPECTED TO RAISE THE NATIONAL LIVING WAGE BY AROUND 4% IN WEDNESDAY\u2019S BUDGET, WITH MINIMUM PAY FOR WORKERS AGED 18\u201320 INCREASING AT THE SAME RATE. THE MOVE WOULD PAUSE LABOUR\u2019S PLAN TO NARROW AGE-BASED PAY DIFFERENCES AMID YOUTH UNEMPLOYMENT ABOVE 16% AND CONCERNS OVER RISING RECRUITMENT COSTS. ...",
       "posted_at": "2026-10-26T23:48:18+00:00",
       "captured_at": "2026-10-26T23:48:18.607545+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149375,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064563,
-      "message_text": "JAPAN\u2019S 10-YEAR JGB FUTURES FALL 0.19 POINT IN EARLY TRADE ...",
-      "posted_at": "2026-10-26T23:47:18+00:00",
-      "captured_at": "2026-10-26T23:47:21.761633+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149373,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064562,
-      "message_text": "JAPAN\u2019S NIKKEI FUTURES RISE 1.8% IN EARLY TRADE ...",
-      "posted_at": "2026-10-26T23:47:17+00:00",
-      "captured_at": "2026-10-26T23:47:18.484585+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
