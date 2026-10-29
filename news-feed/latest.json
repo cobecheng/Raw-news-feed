@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T08:45:06.012377+00:00",
+  "generated_at": "2026-10-29T08:50:36.372666+00:00",
   "window_hours": 72,
-  "count": 945,
+  "count": 943,
   "news": [
     {
       "id": 150291,
@@ -12257,32 +12257,6 @@
       "message_text": "BRAZIL DOLLAR BONDS DROP, LEAD EM LOSSES ON LULA'S SURPRISE WIN ...",
       "posted_at": "2026-10-26T08:54:08+00:00",
       "captured_at": "2026-10-26T08:54:09.117036+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148405,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064083,
-      "message_text": "ICYMI | DNI CHIEF WARNS OF HEIGHTENED IRANIAN THREATS IN LETTER TO RUBIO \u2013 POLITICO\n ...",
-      "posted_at": "2026-10-26T08:49:53+00:00",
-      "captured_at": "2026-10-26T08:49:56.386620+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148403,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064082,
-      "message_text": "EASYJET TO ADD STARLINK WIFI ON THEIR FLEETS ...",
-      "posted_at": "2026-10-26T08:45:24+00:00",
-      "captured_at": "2026-10-26T08:45:25.215655+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
