@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T18:56:22.146476+00:00",
+  "generated_at": "2026-10-29T19:01:52.518655+00:00",
   "window_hours": 72,
-  "count": 578,
+  "count": 574,
   "news": [
     {
       "id": 150291,
@@ -7460,58 +7460,6 @@
       "message_text": "CHILE MINING MINISTRY: CAPSTONE COPPER ANNOUNCES $3 BLN INVESTMENT PLAN IN CHILE'S ATACAMA REGION ...",
       "posted_at": "2026-10-26T19:02:16+00:00",
       "captured_at": "2026-10-26T19:02:16.409336+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149143,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064446,
-      "message_text": "POLL: RBNZ CASH RATE TO END YEAR AT 3.00%, 13 OF 23 ECONOMISTS SAY, BUT 9 SEE RISE TO 3.25% IN DECEMBER. ...",
-      "posted_at": "2026-10-26T19:01:15+00:00",
-      "captured_at": "2026-10-26T19:01:17.559264+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149141,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064445,
-      "message_text": "POLL: RBNZ TO HIKE CASH RATE BY 25 BASIS POINTS TO 3.00% ON OCTOBER 28TH, ACCORDING TO 22 OF 27 ECONOMISTS. ...",
-      "posted_at": "2026-10-26T19:01:01+00:00",
-      "captured_at": "2026-10-26T19:01:02.543795+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149139,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064444,
-      "message_text": "SOCGEN SAYS THE ECB HAS SET ITS PILLAR 2 REQUIREMENT AT 2.37%, INCLUDING 1.39% CET1, EFFECTIVE JANUARY 1, 2027, WITH THE MINIMUM CET1 RATIO AT 10.41%, TIER 1 AT 12.33% AND TOTAL CAPITAL AT 14.89% ...",
-      "posted_at": "2026-10-26T18:59:17+00:00",
-      "captured_at": "2026-10-26T18:59:19.077455+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149137,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064443,
-      "message_text": "IRGC\u2019S REZAEI: QUADRILATERAL MEETING SHOWED THAT THE US THREATS HAVE NOT HAD AN IMPACT ON THE WORLD\n ...",
-      "posted_at": "2026-10-26T18:57:30+00:00",
-      "captured_at": "2026-10-26T18:57:32.463673+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
