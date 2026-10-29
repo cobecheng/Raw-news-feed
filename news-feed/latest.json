@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T19:01:52.518655+00:00",
+  "generated_at": "2026-10-29T19:07:22.881682+00:00",
   "window_hours": 72,
-  "count": 574,
+  "count": 572,
   "news": [
     {
       "id": 150291,
@@ -7434,32 +7434,6 @@
       "message_text": "US HIGH-GRADE BOND SALES SET TO HIT A RECORD AT $1.76 TRILLION ...",
       "posted_at": "2026-10-26T19:07:31+00:00",
       "captured_at": "2026-10-26T19:07:31.662217+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149147,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064448,
-      "message_text": "US HIGH-GRADE BOND SALES SET TO HIT RECORD AT $1.76 TRILLION ...",
-      "posted_at": "2026-10-26T19:07:01+00:00",
-      "captured_at": "2026-10-26T19:07:01.608711+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149145,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064447,
-      "message_text": "CHILE MINING MINISTRY: CAPSTONE COPPER ANNOUNCES $3 BLN INVESTMENT PLAN IN CHILE'S ATACAMA REGION ...",
-      "posted_at": "2026-10-26T19:02:16+00:00",
-      "captured_at": "2026-10-26T19:02:16.409336+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
