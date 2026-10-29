@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T21:19:32.530130+00:00",
+  "generated_at": "2026-10-29T21:25:03.344355+00:00",
   "window_hours": 72,
-  "count": 496,
+  "count": 492,
   "news": [
     {
       "id": 150291,
@@ -6394,58 +6394,6 @@
       "message_text": "US JUSTICE DEPARTMENT CHARGES FORMER FBI DIRECTOR JAMES COMEY WITH TRANSMITTING NATIONAL DEFENSE INFORMATION IN 2016 -COURT DOCUMENT ...",
       "posted_at": "2026-10-26T21:27:12+00:00",
       "captured_at": "2026-10-26T21:27:14.003763+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149307,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064528,
-      "message_text": "CODEIFAI LTD: AMAZON FEATURES CDE'S PROTECTCODE ON AWS MARKETPLACE ...",
-      "posted_at": "2026-10-26T21:22:42+00:00",
-      "captured_at": "2026-10-26T21:22:42.858820+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149305,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064527,
-      "message_text": "COMEY SEEKS DISMISSAL OF CASE: COURT FILING ...",
-      "posted_at": "2026-10-26T21:20:58+00:00",
-      "captured_at": "2026-10-26T21:21:01.236215+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149303,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064526,
-      "message_text": "US JUSTICE DEPARTMENT CHARGES FORMER FBI DIRECTOR JAMES COMEY WITH SHARING NATIONAL DEFENSE INFORMATION IN 2016: COURT DOCUMENT ...",
-      "posted_at": "2026-10-26T21:20:57+00:00",
-      "captured_at": "2026-10-26T21:21:00.501630+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149301,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064525,
-      "message_text": "US JUSTICE DEPARTMENT CHARGES FORMER FBI DIRECTOR JAMES COMEY WITH SHARING NATIONAL DEFENSE INFORMATION IN 2016: COURT DOCUMENT ...",
-      "posted_at": "2026-10-26T21:20:43+00:00",
-      "captured_at": "2026-10-26T21:20:44.926240+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
