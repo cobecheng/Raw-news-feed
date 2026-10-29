@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T12:14:21.756310+00:00",
+  "generated_at": "2026-10-29T12:19:52.141315+00:00",
   "window_hours": 72,
-  "count": 814,
+  "count": 812,
   "news": [
     {
       "id": 150291,
@@ -10554,32 +10554,6 @@
       "message_text": "BRAZIL'S REAL SLUMPS MORE THAN 8% IN SPOT TRADING ON LULA WIN ...",
       "posted_at": "2026-10-26T12:26:32+00:00",
       "captured_at": "2026-10-26T12:26:33.098426+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148667,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064214,
-      "message_text": "SPACEX: DEAL TO DELIVER VERA RUBIN CHIPS FOR SPACEX BUILDOUT ...",
-      "posted_at": "2026-10-26T12:17:17+00:00",
-      "captured_at": "2026-10-26T12:17:19.038371+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148665,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064213,
-      "message_text": "BRAZIL'S REAL FUTURES SINK ON LULA WIN, HIT TRADING LIMIT ...",
-      "posted_at": "2026-10-26T12:14:32+00:00",
-      "captured_at": "2026-10-26T12:14:34.280099+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
