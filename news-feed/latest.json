@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T23:48:14.068890+00:00",
+  "generated_at": "2026-10-29T23:53:44.422575+00:00",
   "window_hours": 72,
-  "count": 458,
+  "count": 455,
   "news": [
     {
       "id": 150291,
@@ -5913,45 +5913,6 @@
       "message_text": "SOUTH KOREAN CHIP STOCKS SURGE: SK HYNIX +6%, SAMSUNG ELECTRONICS +4% ...",
       "posted_at": "2026-10-27T00:03:33+00:00",
       "captured_at": "2026-10-27T00:03:34.000165+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149381,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064566,
-      "message_text": "JAPAN PPI SERVICES (Y/Y) SEP: 3.7% (EST 3.7%; PREV 3.7%) ...",
-      "posted_at": "2026-10-26T23:51:48+00:00",
-      "captured_at": "2026-10-26T23:51:50.699254+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149379,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064565,
-      "message_text": "JAPANESE SERVICE PPI ACTUAL 3.7% (FORECAST 3.7%, PREVIOUS 3.7%) $MACRO ...",
-      "posted_at": "2026-10-26T23:50:32+00:00",
-      "captured_at": "2026-10-26T23:50:33.544174+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149377,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064564,
-      "message_text": "UK CHANCELLOR JOHN HEALEY IS EXPECTED TO RAISE THE NATIONAL LIVING WAGE BY AROUND 4% IN WEDNESDAY\u2019S BUDGET, WITH MINIMUM PAY FOR WORKERS AGED 18\u201320 INCREASING AT THE SAME RATE. THE MOVE WOULD PAUSE LABOUR\u2019S PLAN TO NARROW AGE-BASED PAY DIFFERENCES AMID YOUTH UNEMPLOYMENT ABOVE 16% AND CONCERNS OVER RISING RECRUITMENT COSTS. ...",
-      "posted_at": "2026-10-26T23:48:18+00:00",
-      "captured_at": "2026-10-26T23:48:18.607545+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
