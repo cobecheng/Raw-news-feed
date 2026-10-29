@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T16:11:10.145498+00:00",
+  "generated_at": "2026-10-29T16:16:40.475382+00:00",
   "window_hours": 72,
-  "count": 653,
+  "count": 651,
   "news": [
     {
       "id": 150291,
@@ -8461,32 +8461,6 @@
       "message_text": "CONOCOPHILLIPS SAID TO PLAN WORKFORCE CUTS IN CANADA ON TUESDAY ...",
       "posted_at": "2026-10-26T16:19:27+00:00",
       "captured_at": "2026-10-26T16:19:29.838324+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148989,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064369,
-      "message_text": "SEVERSTAL: MINING, PROCESSING PLANT IN BELGOROD REGION PARTIALLY CUT OFF AFTER DRONE ATTACK ...",
-      "posted_at": "2026-10-26T16:14:56+00:00",
-      "captured_at": "2026-10-26T16:14:57.199802+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148987,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064368,
-      "message_text": "FHFA\u2019S PULTE: ABUSIVE MONOPOLIES WILL NOT BE ALLOWED TO TAKE ADVANTAGE OF CONSUMERS ANYWHERE IN THE MORTGAGE MARKET ...",
-      "posted_at": "2026-10-26T16:14:43+00:00",
-      "captured_at": "2026-10-26T16:14:43.578319+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
