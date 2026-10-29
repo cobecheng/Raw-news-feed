@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T21:25:03.344355+00:00",
+  "generated_at": "2026-10-29T21:30:33.806814+00:00",
   "window_hours": 72,
-  "count": 492,
+  "count": 490,
   "news": [
     {
       "id": 150291,
@@ -6368,32 +6368,6 @@
       "message_text": "UKRAINE\u2019S ZELENSKIY SAYS THERE ARE \u201cCASUALTIES AND WOUNDED\u201d IN AN ATTACK ON AN EDUCATIONAL INSTITUTION IN KYIV, ADDING THAT \u201cARTIFICIAL DELAYS\u201d IN SUPPLYING UKRAINE WITH AIR DEFENCES ARE \u201cHELPING TERRORISM\u201d ...",
       "posted_at": "2026-10-26T21:32:28+00:00",
       "captured_at": "2026-10-26T21:32:30.492115+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149311,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064530,
-      "message_text": "\ud83c\udf06 Market News Digest\n[Oct 26, 2026, EST]\n\n\ud83d\udd25 Top Stories\n\u2022 Anthropic IPO buzz + $63B AI financing with Broadcom/BofA/Blackstone \u2014 reignites AI trade; semis rally on spending hopes\n\u2022 US, Canada near deal to ease steel and auto tariffs \u2014 trade tension may cool; key for autos, metals, Canada assets\n\u2022 Trump-era DOJ charges James Comey \u2014 major political/legal shock, likely to fuel headline risk into close\n\u2022 Iran signals flexibility on Strait of Hormuz / US proposal timeline \u2014 reduces worst-case supply fears, but Mideast risk stays elevated\n\n\u26fd Oil & Energy\n\u2022 Mideast supply risk lifts oil options skew \u2014 call demand hits highs as traders hedge upside\n\u2022 WTI at $101.76 and Brent at $115.81, both lower \u2014 prices eased despite geopolitics; energy still inflation-sensitive\n\n\ud83d\udcca Markets & Macro\n\u2022 US stocks closed higher \u2014 S&P 500 +0.70%, Nasdaq +0.83% as AI enthusiasm offset macro worries\n\u2022 Fitch flags broader US price pressures \u2014 keeps inflation persistence risk in focus; Fed seen holding soon\n\u2022 Fed\u2019s Williams sees no 2027 hikes; rate path debated \u2014 market still pricing policy uncertainty\n\u2022 US high-grade bond sales set record at $1.76T \u2014 strong issuance underscores heavy corporate funding demand\n\n\ud83c\udf0d Geopolitical\n\u2022 Explosions reported in Kyiv \u2014 renewed Ukraine war escalation risk\n\u2022 US proposes month-long Sudan humanitarian truce \u2014 tentative de-escalation effort\n\u2022 Venezuela dialogue / electoral reform push continues \u2014 US pressure remains on political transition\n\n\ud83e\ude99 Crypto & DeFi\n\u2022 Bitcoin drops below $80,000 \u2014 broad crypto selloff hits majors\n\u2022 Prediction markets gain support as fake poll concerns rise \u2014 election-data scrutiny theme intensifies\n\n\ud83c\udfdb\ufe0f Regulatory & Policy\n\u2022 FTC expands AI safety probe into Anthropic \u2014 regulatory overhang on frontier AI names\n\u2022 Apple says Siri AI expands globally, still unavailable in EU \u2014 product rollout continues, EU path unresolved\n\u2022 US and Canada tariff talks, plus Carney pushback \u2014 negotiation still active, no final deal yet\n\n\ud83c\udfe2 Corporate\n\u2022 OpenAI rolls out GPT-6.1 Terra at $1 per $1M input tokens \u2014 lower-cost model with stronger computer use\n\u2022 Cadence Design beats and raises guidance \u2014 AI/EDA demand remains strong\n\u2022 Nucor beats sales but misses EPS \u2014 steel demand mixed, margins still pressured\n\u2022 Whirlpool disappoints; JetBlue still loss-making \u2014 consumer/cyclical earnings remain uneven\n\nDigested by *MarketClaw* \ud83d\udc3e \u2014 120 messages scanned",
-      "posted_at": "2026-10-26T21:30:22+00:00",
-      "captured_at": "2026-10-26T21:30:24.009128+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149309,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064529,
-      "message_text": "US JUSTICE DEPARTMENT CHARGES FORMER FBI DIRECTOR JAMES COMEY WITH TRANSMITTING NATIONAL DEFENSE INFORMATION IN 2016 -COURT DOCUMENT ...",
-      "posted_at": "2026-10-26T21:27:12+00:00",
-      "captured_at": "2026-10-26T21:27:14.003763+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
