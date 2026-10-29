@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T12:41:54.026030+00:00",
+  "generated_at": "2026-10-29T12:47:24.591105+00:00",
   "window_hours": 72,
-  "count": 803,
+  "count": 801,
   "news": [
     {
       "id": 150291,
@@ -10411,32 +10411,6 @@
       "message_text": "$MSTR  - STRATEGY PAUSES BITCOIN PURCHASES, REPURCHASES $205M IN PREFERRED STOCK\n\nSTRATEGY REPORTED NO BITCOIN PURCHASES OR SALES DURING OCTOBER 19\u201325.\n\nTHE COMPANY CONTINUES TO HOLD 848,517 BTC, ACQUIRED FOR $64.02B AT AN AVERAGE PRICE OF $75,446 PER BITCOIN.\n\nINSTEAD, STRATEGY REPURCHASED $204.9M OF STRC PREFERRED STOCK, WHILE MAINTAINING A $4.83B CASH RESERVE. ...",
       "posted_at": "2026-10-26T12:50:49+00:00",
       "captured_at": "2026-10-26T12:50:50.393695+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148689,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064225,
-      "message_text": "BITMINE'S ETH HOLDINGS REACHED 6.05 MILLION AFTER ACQUIRING 10,452 TOKENS OVER THE PAST WEEK ...",
-      "posted_at": "2026-10-26T12:43:03+00:00",
-      "captured_at": "2026-10-26T12:43:04.383385+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 148687,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064224,
-      "message_text": "\ud83c\udde7\ud83c\uddf7 BRAZIL'S BENCHMARK STOCK INDEX BOVESPA FUTURES EXTEND LOSSES AFTER LULA WINS, LAST DOWN NEARLY 20% ...",
-      "posted_at": "2026-10-26T12:42:03+00:00",
-      "captured_at": "2026-10-26T12:42:05.889483+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
