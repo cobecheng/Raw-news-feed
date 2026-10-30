@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30T00:21:16.764464+00:00",
+  "generated_at": "2026-10-30T00:26:47.126598+00:00",
   "window_hours": 72,
-  "count": 442,
+  "count": 438,
   "news": [
     {
       "id": 150291,
@@ -5692,58 +5692,6 @@
       "message_text": "US STOCK FUTURES EDGE HIGHER, WITH S&P 500 UP 0.2% AND NASDAQ RISING 0.43% ...",
       "posted_at": "2026-10-27T00:38:18+00:00",
       "captured_at": "2026-10-27T00:38:21.154350+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149415,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064583,
-      "message_text": "SOUTH KOREA\u2019S EXPORTS AND INVESTMENT SEEN HOLDING FIRM IN Q4, WITH ATTENTION TURNING TO CONSUMER SPENDING, BOK OFFICIAL SAYS ...",
-      "posted_at": "2026-10-27T00:26:03+00:00",
-      "captured_at": "2026-10-27T00:26:03.691710+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149413,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064582,
-      "message_text": "BANK OF KOREA OFFICIAL: EXPORTS AND INVESTMENTS STRONG IN Q4, ATTENTION ON PRIVATE CONSUMPTION REBOUND ...",
-      "posted_at": "2026-10-27T00:25:33+00:00",
-      "captured_at": "2026-10-27T00:25:33.672256+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149411,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064581,
-      "message_text": "SOUTH KOREA\u2019S CHIP PRODUCTION SET TO GROW NEXT YEAR ON HBM EFFECTS, WHILE PRICE INCREASES SLOW, BOK OFFICIAL SAYS ...",
-      "posted_at": "2026-10-27T00:23:48+00:00",
-      "captured_at": "2026-10-27T00:23:49.533685+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149409,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064580,
-      "message_text": "BANK OF KOREA OFFICIAL: CHIP OUTPUT TO RISE NEXT YEAR ON HBM PRODUCTION EFFECTS, PRICES TO KEEP CLIMBING BUT AT SLOWER PACE ...",
-      "posted_at": "2026-10-27T00:23:04+00:00",
-      "captured_at": "2026-10-27T00:23:06.659116+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
