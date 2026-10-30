@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30T00:04:45.137507+00:00",
+  "generated_at": "2026-10-30T00:10:15.764740+00:00",
   "window_hours": 72,
-  "count": 454,
+  "count": 451,
   "news": [
     {
       "id": 150291,
@@ -5861,45 +5861,6 @@
       "message_text": "BANK OF KOREA OFFICIAL: PRIVATE SPENDING TO SLOWLY REBOUND FROM Q4 TO Q1 2027 ...",
       "posted_at": "2026-10-27T00:12:19+00:00",
       "captured_at": "2026-10-27T00:12:20.380614+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149389,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064570,
-      "message_text": "SAUDI ARABIA RAISES EARLY ALERT FOR POSSIBLE HOSTILE THREAT IN KHARJ GOVERNORATE: CIVIL DEFENSE ...",
-      "posted_at": "2026-10-27T00:09:34+00:00",
-      "captured_at": "2026-10-27T00:09:34.714463+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149387,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064569,
-      "message_text": "SAUDI ARABIA ISSUES EARLY ALERT FOR POTENTIAL HOSTILE THREAT IN EASTERN REGION: CIVIL DEFENSE ...",
-      "posted_at": "2026-10-27T00:06:17+00:00",
-      "captured_at": "2026-10-27T00:06:18.164888+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149385,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064568,
-      "message_text": "UK BRC SHOP PRICE INDEX (Y/Y) OCT: 2.1% (EST 1.6%; PREV 1.4%) ...",
-      "posted_at": "2026-10-27T00:05:02+00:00",
-      "captured_at": "2026-10-27T00:05:02.932513+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
