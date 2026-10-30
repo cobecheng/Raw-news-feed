@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30T00:59:49.766495+00:00",
+  "generated_at": "2026-10-30T01:05:20.125964+00:00",
   "window_hours": 72,
-  "count": 432,
+  "count": 428,
   "news": [
     {
       "id": 150291,
@@ -5562,58 +5562,6 @@
       "message_text": "RUSSIA SUSPENDS ATTACKS ON KHERSON AS CEASEFIRE BEGINS IN OLESHKY, ACCORDING TO DEFENCE MINISTRY ...",
       "posted_at": "2026-10-27T01:05:34+00:00",
       "captured_at": "2026-10-27T01:05:37.126082+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149435,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064593,
-      "message_text": "TAIWAN\u2019S OVERNIGHT INTERBANK RATE REMAINS STABLE AT 0.805% AT MARKET OPEN ...",
-      "posted_at": "2026-10-27T01:05:05+00:00",
-      "captured_at": "2026-10-27T01:05:07.116832+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149433,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064592,
-      "message_text": "RUSSIA SUSPENDS STRIKES ON UKRAINE'S KHERSON AS CEASEFIRE STARTS IN OLESHKY: RUSSIAN DEFENCE MINISTRY ...",
-      "posted_at": "2026-10-27T01:03:49+00:00",
-      "captured_at": "2026-10-27T01:03:50.459732+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149431,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064591,
-      "message_text": "TAIWAN OVERNIGHT INTERBANK RATE STARTS AT 0.805% VS 0.805% AT PRIOR SESSION OPEN ...",
-      "posted_at": "2026-10-27T01:03:34+00:00",
-      "captured_at": "2026-10-27T01:03:35.081595+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149429,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064590,
-      "message_text": "GOLD RETREATS AS INVESTORS RECONSIDER THE OUTLOOK FOR US INTEREST RATES AND POTENTIAL FED HIKES - WSJ ...",
-      "posted_at": "2026-10-27T01:00:49+00:00",
-      "captured_at": "2026-10-27T01:00:51.135312+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
