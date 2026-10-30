@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30T00:10:15.764740+00:00",
+  "generated_at": "2026-10-30T00:15:46.376366+00:00",
   "window_hours": 72,
-  "count": 451,
+  "count": 448,
   "news": [
     {
       "id": 150291,
@@ -5822,45 +5822,6 @@
       "message_text": "SAUDI CIVIL DEFENSE: THREAT OVER IN EASTERN REGION AND KHARJ GOVERNORATE ...",
       "posted_at": "2026-10-27T00:16:18+00:00",
       "captured_at": "2026-10-27T00:16:20.385999+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149395,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064573,
-      "message_text": "JAPAN\u2019S FINMIN KATAYAMA VOWS TO ADDRESS CYBER ATTACK ON FX WITH URGENCY - BBG\n\n ...",
-      "posted_at": "2026-10-27T00:13:48+00:00",
-      "captured_at": "2026-10-27T00:13:49.688075+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149393,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064572,
-      "message_text": "ASIA-PAC STOCKS BEGIN MIXED WITH NIKKEI 225 AND KOSPI SURGING FOLLOWING THE TECH OUTPERFORMANCE STATESIDE AS THE SECTOR RECOVERS FROM THE RECENT AI-LED SELL-OFF, AND WITH ANTHROPIC FILING FOR AN IPO: ASX 200 (-0.3%), NIKKEI 225 (+1.5%), KOSPI (+3.7%) ...",
-      "posted_at": "2026-10-27T00:13:04+00:00",
-      "captured_at": "2026-10-27T00:13:05.653630+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149391,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064571,
-      "message_text": "BANK OF KOREA OFFICIAL: PRIVATE SPENDING TO SLOWLY REBOUND FROM Q4 TO Q1 2027 ...",
-      "posted_at": "2026-10-27T00:12:19+00:00",
-      "captured_at": "2026-10-27T00:12:20.380614+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
