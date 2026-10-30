@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30T00:37:47.817480+00:00",
+  "generated_at": "2026-10-30T00:43:18.121199+00:00",
   "window_hours": 72,
-  "count": 438,
+  "count": 434,
   "news": [
     {
       "id": 150291,
@@ -5640,58 +5640,6 @@
       "message_text": "ASIA-PACIFIC MARKETS START MIXED, WITH JAPANESE AND SOUTH KOREAN STOCKS RISING ON US TECH GAINS AFTER AI SELL-OFF ...",
       "posted_at": "2026-10-27T00:48:18+00:00",
       "captured_at": "2026-10-27T00:48:20.207432+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149423,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064587,
-      "message_text": "EXPLOSIONS REPORTED AT RUSSIAN AMMUNITION DEPOT IN OCCUPIED LUHANSK FOLLOWING UKRAINIAN STRIKE ...",
-      "posted_at": "2026-10-27T00:40:19+00:00",
-      "captured_at": "2026-10-27T00:40:21.343695+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149421,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064586,
-      "message_text": "SAUDI-LED COALITION REPORTS INTERCEPTION OF THREE HOUTHI BALLISTIC MISSILES AIMED AT EASTERN REGION ...",
-      "posted_at": "2026-10-27T00:40:04+00:00",
-      "captured_at": "2026-10-27T00:40:05.311938+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149419,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064585,
-      "message_text": "SAUDI-LED COALITION: INTERCEPTS AND DESTROYS THREE BALLISTIC MISSILES LAUNCHED BY YEMEN'S HOUTHIS TOWARDS EASTERN REGION ...",
-      "posted_at": "2026-10-27T00:39:33+00:00",
-      "captured_at": "2026-10-27T00:39:34.443686+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149417,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064584,
-      "message_text": "US STOCK FUTURES EDGE HIGHER, WITH S&P 500 UP 0.2% AND NASDAQ RISING 0.43% ...",
-      "posted_at": "2026-10-27T00:38:18+00:00",
-      "captured_at": "2026-10-27T00:38:21.154350+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
