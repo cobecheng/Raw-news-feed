@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T23:59:14.796296+00:00",
+  "generated_at": "2026-10-30T00:04:45.137507+00:00",
   "window_hours": 72,
-  "count": 455,
+  "count": 454,
   "news": [
     {
       "id": 150291,
@@ -5900,19 +5900,6 @@
       "message_text": "UK BRC SHOP PRICE INDEX (Y/Y) OCT: 2.1% (EST 1.6%; PREV 1.4%) ...",
       "posted_at": "2026-10-27T00:05:02+00:00",
       "captured_at": "2026-10-27T00:05:02.932513+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149383,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064567,
-      "message_text": "SOUTH KOREAN CHIP STOCKS SURGE: SK HYNIX +6%, SAMSUNG ELECTRONICS +4% ...",
-      "posted_at": "2026-10-27T00:03:33+00:00",
-      "captured_at": "2026-10-27T00:03:34.000165+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
