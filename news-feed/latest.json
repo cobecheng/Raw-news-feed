@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30T00:48:48.457986+00:00",
+  "generated_at": "2026-10-30T00:54:18.806073+00:00",
   "window_hours": 72,
-  "count": 433,
+  "count": 432,
   "news": [
     {
       "id": 150291,
@@ -5614,19 +5614,6 @@
       "message_text": "GOLD RETREATS AS INVESTORS RECONSIDER THE OUTLOOK FOR US INTEREST RATES AND POTENTIAL FED HIKES - WSJ ...",
       "posted_at": "2026-10-27T01:00:49+00:00",
       "captured_at": "2026-10-27T01:00:51.135312+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149427,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064589,
-      "message_text": "NIKKEI 225 ADVANCES 2% AS JAPANESE STOCKS GAIN ...",
-      "posted_at": "2026-10-27T00:53:18+00:00",
-      "captured_at": "2026-10-27T00:53:20.625042+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
