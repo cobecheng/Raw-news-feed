@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-10-30T01:49:23.388891+00:00",
+  "generated_at": "2026-10-30T01:50:19.830987+00:00",
   "window_hours": 72,
-  "count": 427,
+  "count": 430,
   "news": [
+    {
+      "id": 150337,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1067528,
+      "message_text": "ONSHORE YUAN HITS NEARLY FOUR-YEAR HIGH OF 6.66 AGAINST THE US DOLLAR ...",
+      "posted_at": "2026-10-30T01:45:34+00:00",
+      "captured_at": "2026-10-30T01:50:19.024389+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 150335,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1067527,
+      "message_text": "CHINA'S ONSHORE YUAN STRENGTHENS TO 6.66 PER DOLLAR IN EARLY TRADE, HIGHEST SINCE JUNE 6, 2022 ...",
+      "posted_at": "2026-10-30T01:45:19+00:00",
+      "captured_at": "2026-10-30T01:50:18.300387+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 150333,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1067526,
+      "message_text": "BRENT AND WTI GAIN $2/BBL ON RISING GEOPOLITICAL RISKS BETWEEN US AND IRAN ...",
+      "posted_at": "2026-10-30T01:41:04+00:00",
+      "captured_at": "2026-10-30T01:49:23.827346+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 150331,
       "source_chat_id": -1001263412188,
@@ -12,7 +51,7 @@
       "posted_at": "2026-10-30T01:40:48+00:00",
       "captured_at": "2026-10-30T01:49:23.167292+00:00",
       "has_media": 0,
-      "forwarded_to_telegram": 0,
+      "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
       "destination_topic_id": 127
     },
