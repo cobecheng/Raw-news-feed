@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30T01:10:50.500603+00:00",
+  "generated_at": "2026-10-30T01:16:20.923977+00:00",
   "window_hours": 72,
-  "count": 426,
+  "count": 422,
   "news": [
     {
       "id": 150291,
@@ -5484,58 +5484,6 @@
       "message_text": "CHINA  INJECTS 412 BLN YUAN VIA 7-DAY REVERSE REPOS AT 1.40% VS PRIOR 1.40%: STATEMENT ...",
       "posted_at": "2026-10-27T01:21:22+00:00",
       "captured_at": "2026-10-27T01:21:24.592220+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149447,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064599,
-      "message_text": "CHINA SETS YUAN MIDPOINT AT 6.7171 PER DOLLAR, PBOC ANNOUNCES ...",
-      "posted_at": "2026-10-27T01:16:05+00:00",
-      "captured_at": "2026-10-27T01:16:05.488371+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149445,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064598,
-      "message_text": "BRAZIL\u2019S LIBERAL PARTY ACCEPTS DEFEAT AMID TRUMP\u2019S CLAIMS THAT ELECTION RESULTS WERE \u2018RIGGED\u2019 - FT ...",
-      "posted_at": "2026-10-27T01:13:19+00:00",
-      "captured_at": "2026-10-27T01:13:20.473428+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149443,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064597,
-      "message_text": "*ANTHROPIC CLINCHES RECORD $63 BILLION AI DEBT DEAL AHEAD OF IPO WITH BROADCOM BACKING\n\n$AVGO ...",
-      "posted_at": "2026-10-27T01:12:34+00:00",
-      "captured_at": "2026-10-27T01:12:37.382519+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149441,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064596,
-      "message_text": "RIVAL COHERE SAYS ALIBABA AI MODEL MADE UNDISCLOSED ATTEMPT TO REACH A SERVER IN BEIJING DURING TESTS ...",
-      "posted_at": "2026-10-27T01:11:49+00:00",
-      "captured_at": "2026-10-27T01:11:50.116660+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
