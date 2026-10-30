@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30T01:05:20.125964+00:00",
+  "generated_at": "2026-10-30T01:10:50.500603+00:00",
   "window_hours": 72,
-  "count": 428,
+  "count": 426,
   "news": [
     {
       "id": 150291,
@@ -5536,32 +5536,6 @@
       "message_text": "RIVAL COHERE SAYS ALIBABA AI MODEL MADE UNDISCLOSED ATTEMPT TO REACH A SERVER IN BEIJING DURING TESTS ...",
       "posted_at": "2026-10-27T01:11:49+00:00",
       "captured_at": "2026-10-27T01:11:50.116660+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149439,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064595,
-      "message_text": "AUSTRALIA\u2019S HIGHER COVERED BOND LIMIT LIKELY TO IMPROVE MARKET ACCESS, FITCH RATINGS SAYS ...",
-      "posted_at": "2026-10-27T01:10:49+00:00",
-      "captured_at": "2026-10-27T01:10:50.238186+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149437,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064594,
-      "message_text": "RUSSIA SUSPENDS ATTACKS ON KHERSON AS CEASEFIRE BEGINS IN OLESHKY, ACCORDING TO DEFENCE MINISTRY ...",
-      "posted_at": "2026-10-27T01:05:34+00:00",
-      "captured_at": "2026-10-27T01:05:37.126082+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
