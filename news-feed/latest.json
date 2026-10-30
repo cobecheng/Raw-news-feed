@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30T01:16:20.923977+00:00",
+  "generated_at": "2026-10-30T01:21:51.377506+00:00",
   "window_hours": 72,
-  "count": 422,
+  "count": 420,
   "news": [
     {
       "id": 150291,
@@ -5458,32 +5458,6 @@
       "message_text": "CHINA CBANK INJECTS 1 TRILLION YUAN THROUGH OVERNIGHT REVERSE REPOS: STATEMENT ...",
       "posted_at": "2026-10-27T01:22:05+00:00",
       "captured_at": "2026-10-27T01:22:08.076747+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149451,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064601,
-      "message_text": "PBOC ADDS 412 BILLION YUAN OF LIQUIDITY VIA 7-DAY REVERSE REPOS AT 1.40%, UNCHANGED FROM PREVIOUS ...",
-      "posted_at": "2026-10-27T01:21:37+00:00",
-      "captured_at": "2026-10-27T01:21:37.495455+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 149449,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1064600,
-      "message_text": "CHINA  INJECTS 412 BLN YUAN VIA 7-DAY REVERSE REPOS AT 1.40% VS PRIOR 1.40%: STATEMENT ...",
-      "posted_at": "2026-10-27T01:21:22+00:00",
-      "captured_at": "2026-10-27T01:21:24.592220+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
