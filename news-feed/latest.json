@@ -1,8 +1,60 @@
 {
-  "generated_at": "2026-10-31T07:45:18.021680+00:00",
+  "generated_at": "2026-10-31T09:07:36.740612+00:00",
   "window_hours": 72,
-  "count": 960,
+  "count": 964,
   "news": [
+    {
+      "id": 152219,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1068472,
+      "message_text": "SAUDI CIVIL DEFENSE WARNS OF POTENTIAL HAZARD IN NAJRAN ...",
+      "posted_at": "2026-10-31T09:07:34+00:00",
+      "captured_at": "2026-10-31T09:07:36.028705+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 152217,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1068471,
+      "message_text": "THREE PLANES CARRYING EVACUATED RESIDENTS FROM RUSSIAN-CONTROLLED OLESHKY IN UKRAINE ARRIVE IN BELARUS- BELTA NEWS AGENCY REPORTS ...",
+      "posted_at": "2026-10-31T08:01:45+00:00",
+      "captured_at": "2026-10-31T08:01:46.347865+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 152215,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1068470,
+      "message_text": "THREE PLANES CARRYING EVACUATED RESIDENTS FROM RUSSIAN-CONTROLLED OLESHKY IN UKRAINE REACH BELARUS, BELTA NEWS AGENCY REPORTS ...",
+      "posted_at": "2026-10-31T07:59:47+00:00",
+      "captured_at": "2026-10-31T07:59:48.089382+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 152213,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1068469,
+      "message_text": "MANAMA- EGYPTIAN FOREIGN MINISTER SAYS  EXTREMELY WORRIED THAT A NEW ROUND OF ESCALATION WILL BE MORE DESTRUCTIVE AND HAVE MAJOR IMPACT ...",
+      "posted_at": "2026-10-31T07:46:47+00:00",
+      "captured_at": "2026-10-31T07:46:48.604049+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 152211,
       "source_chat_id": -1001263412188,
