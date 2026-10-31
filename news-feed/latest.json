@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-31T20:00:07.300211+00:00",
+  "generated_at": "2026-10-31T21:29:24.125688+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 152587,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1068656,
+      "message_text": "FBI: NORTH KOREA WAS BEHIND THE THEFT OF OVER $6 BILLION IN VIRTUAL ASSETS FROM CRYPTOCURRENCY EXCHANGE BINANCE ...",
+      "posted_at": "2026-10-31T21:29:23+00:00",
+      "captured_at": "2026-10-31T21:29:23.427519+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 152585,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "SAUDI-LED COALITION REPORTS DESTRUCTION OF DRONE LAUNCHED BY YEMEN\u2019S HOUTHIS OVER MECCA ...",
       "posted_at": "2026-10-30T03:58:08+00:00",
       "captured_at": "2026-10-30T03:58:11.221039+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 150587,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1067653,
-      "message_text": "SAUDI-LED COALITION: DRONE LAUNCHED BY YEMEN'S HOUTHIS OVER MECCA DESTROYED ...",
-      "posted_at": "2026-10-30T03:57:53+00:00",
-      "captured_at": "2026-10-30T03:57:55.734292+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
