@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-31T19:17:36.064470+00:00",
+  "generated_at": "2026-10-31T20:00:07.300211+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 152585,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1068655,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-10-31T20:00:04+00:00",
+      "captured_at": "2026-10-31T20:00:06.343836+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 152583,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "SAUDI-LED COALITION: DRONE LAUNCHED BY YEMEN'S HOUTHIS OVER MECCA DESTROYED ...",
       "posted_at": "2026-10-30T03:57:53+00:00",
       "captured_at": "2026-10-30T03:57:55.734292+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 150585,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1067652,
-      "message_text": "YEN STRENGTHENS AGAINST DOLLAR AFTER BOJ\u2019S HAWKISH PAUSE, FOCUS TURNS TO UEDA  - FX ...",
-      "posted_at": "2026-10-30T03:56:52+00:00",
-      "captured_at": "2026-10-30T03:56:54.705779+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
