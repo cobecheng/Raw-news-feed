@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-10-31T23:00:03.412646+00:00",
+  "generated_at": "2026-11-01T00:00:13.996768+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 152601,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1068664,
+      "message_text": "DAILY MAIL: TRUMP DEPLOYS THIRD AIRCRAFT CARRIER TOWARD IRAN ...",
+      "posted_at": "2026-11-01T00:00:12+00:00",
+      "captured_at": "2026-11-01T00:00:13.066964+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 152599,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "BINANCE EXPECTS WITHDRAWAL OPERATIONS TO RESUME IN THE COMING 48 HOURS, YI HE SAYS ...",
       "posted_at": "2026-10-30T04:21:54+00:00",
       "captured_at": "2026-10-30T04:21:57.577788+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 150601,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1067660,
-      "message_text": "ANZ BANK NEW ZEALAND NAMES MICHAEL BULLOCK TO CHIEF OPERATING OFFICER ROLE ...",
-      "posted_at": "2026-10-30T04:11:22+00:00",
-      "captured_at": "2026-10-30T04:11:25.285160+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
