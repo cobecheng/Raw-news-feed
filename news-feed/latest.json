@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-11-01T09:47:13.824956+00:00",
+  "generated_at": "2026-11-01T10:34:19.598425+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 152767,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1068747,
+      "message_text": "ZELENSKIY: UKRAINE STRIKES KAMENSKY PLANT IN RUSSIA\u2019S ROSTOV REGION ...",
+      "posted_at": "2026-11-01T10:34:16+00:00",
+      "captured_at": "2026-11-01T10:34:18.595897+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 152765,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "BOJ GOVERNOR UEDA SAYS INFLATION EXPECTATIONS ARE STILL WEAKLY ANCHORED AROUND 2% ...",
       "posted_at": "2026-10-30T06:59:48+00:00",
       "captured_at": "2026-10-30T06:59:49.541341+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 150767,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1067743,
-      "message_text": "BOJ GOVERNOR UEDA SAYS HE WON'T DISCUSS WHETHER GOVERNMENT ACCORD NEEDS REVISING ...",
-      "posted_at": "2026-10-30T06:58:02+00:00",
-      "captured_at": "2026-10-30T06:58:05.267924+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
