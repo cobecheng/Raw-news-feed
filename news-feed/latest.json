@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-11-05T23:24:43.988640+00:00",
+  "generated_at": "2026-11-05T23:29:56.999203+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 159459,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1072103,
+      "message_text": "JAPAN GOVERNMENT ALLOCATES 10 BILLION YEN FROM RESERVE FOR CYBERSECURITY EFFORTS ...",
+      "posted_at": "2026-11-05T23:29:55+00:00",
+      "captured_at": "2026-11-05T23:29:56.186645+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 159457,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "TRUMP SAYS IT IS LARGELY TRUE THAT THE ELECTION LOSS WAS THE RESULT OF THE IRAN WAR, BUT THAT \u201cIT WAS WORTH IT\u201d BECAUSE \u201cYOU CAN\u2019T LET IRAN HAVE A NUCLEAR WEAPON\u201d ...",
       "posted_at": "2026-11-04T18:13:16+00:00",
       "captured_at": "2026-11-04T18:13:17.944260+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 157459,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1071100,
-      "message_text": "*TRUMP: WOULD DESTROY THE DEMOCRAT PARTY IF THEY TRY TO IMPEACH ME - FOR 'NO REASON' ...",
-      "posted_at": "2026-11-04T18:13:02+00:00",
-      "captured_at": "2026-11-04T18:13:03.284900+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
