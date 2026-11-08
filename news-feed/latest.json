@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-11-08T17:34:47.577483+00:00",
+  "generated_at": "2026-11-08T18:15:04.961714+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 161907,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1073335,
+      "message_text": "TRUMP ON IRAN: 'HIGHLY UNLIKELY' WILL ORDER US BACK TO WAR WITH IRAN IF TALKS CONTINUE TO PROGRESS ...",
+      "posted_at": "2026-11-08T18:15:03+00:00",
+      "captured_at": "2026-11-08T18:15:04.120923+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 161905,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "SAUDI-LED COALITION SAYS DEBRIS FELL DUE TO INTERCEPTION ...",
       "posted_at": "2026-11-06T07:38:17+00:00",
       "captured_at": "2026-11-06T07:38:18.742401+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 159907,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1072327,
-      "message_text": "SAUDI-LED COALITION SAYS INTERCEPTS 2  MISSILES TARGETING NAJRAN ...",
-      "posted_at": "2026-11-06T07:37:31+00:00",
-      "captured_at": "2026-11-06T07:37:33.907868+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
