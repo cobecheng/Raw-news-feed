@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-11-07T23:00:06.853039+00:00",
+  "generated_at": "2026-11-08T00:04:05.045883+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 161489,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1073122,
+      "message_text": "SAUDI AIRSTRIKES REPORTEDLY KILLED 33 PEOPLE AND WOUNDED 39 OTHERS IN A VILLAGE EAST OF YEMEN\u2019S CAPITAL, SANAA, ON SATURDAY, ACCORDING TO HOUTHI-RUN HEALTH AUTHORITIES, IRAN INTERNATIONAL ENGLISH REPORTS. ...",
+      "posted_at": "2026-11-08T00:04:02+00:00",
+      "captured_at": "2026-11-08T00:04:03.932507+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 161487,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "RUSSIAN PRESIDENT VLADIMIR PUTIN MET IRANIAN SECURITY CHIEF MOHSEN REZAEI IN MOSCOW TO DISCUSS BILATERAL COOPERATION, INCLUDING PROPOSED GAS PIPELINES LINKING THE TWO COUNTRIES. THE PROJECT COULD HELP IRAN ADDRESS DOMESTIC GAS SHORTAGES WHILE ALLOWING RUSSIA TO EXPAND EXPORTS TO NEIGHBOURING MARKETS. ...",
       "posted_at": "2026-11-05T23:46:25+00:00",
       "captured_at": "2026-11-05T23:46:27.765384+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 159489,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1072118,
-      "message_text": "S.KOREA FINANCE MINISTER: TO IMPLEMENT TRADE AGREEMENT WITH US AND INCREASE COMMUNICATION WITH CONGRESS AND STATE GOVERNMENTS ...",
-      "posted_at": "2026-11-05T23:39:11+00:00",
-      "captured_at": "2026-11-05T23:39:12.469868+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
