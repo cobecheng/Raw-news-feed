@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-11-09T07:52:00.824483+00:00",
+  "generated_at": "2026-11-09T07:54:05.791361+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 162541,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1073653,
+      "message_text": "EU'S ECONOMY COMMISSIONER DOMBROVSKIS: ECONOMY FACING UNCERTIANTY, DOWNSIDE RISKS. ...",
+      "posted_at": "2026-11-09T07:54:02+00:00",
+      "captured_at": "2026-11-09T07:54:04.612407+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 162539,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "MUSK: GOVERNMENT REVENUE WILL BE LESS THAN 10% OF SPACEX REVENUE THIS QUARTER $SPCX ...",
       "posted_at": "2026-11-06T16:13:49+00:00",
       "captured_at": "2026-11-06T16:13:51.713584+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 160541,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1072645,
-      "message_text": "FRENCH FIN MIN: DIESEL SALE PART OF 10M BARREL STOCK RELEASE PIAN ...",
-      "posted_at": "2026-11-06T16:12:19+00:00",
-      "captured_at": "2026-11-06T16:12:19.751334+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
