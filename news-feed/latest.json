@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-11-14T19:02:58.362733+00:00",
+  "generated_at": "2026-11-14T20:00:05.379883+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 170547,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1078000,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-11-14T20:00:02+00:00",
+      "captured_at": "2026-11-14T20:00:04.401968+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 170545,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "SOUTH KOREA TO BRING HOME REMAINS OF TWO INDEPENDENCE FIGHTERS FROM THE US AND UZBEKISTAN - YONHAP ...",
       "posted_at": "2026-11-13T03:33:39+00:00",
       "captured_at": "2026-11-13T03:33:41.489700+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 168547,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1076997,
-      "message_text": "JUST IN: $500,000,000 LIQUIDATED FROM THE CRYPTO MARKET IN THE PAST HOUR.\n\n$BTC FALLS UNDER $69,000\n$ETH FALLS UNDER $1,950\n$XRP FALLS UNDER $1.01\n$SOL FALLS UNDER $80  ...",
-      "posted_at": "2026-11-13T03:32:54+00:00",
-      "captured_at": "2026-11-13T03:32:55.434126+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
