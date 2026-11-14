@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-11-14T22:21:04.223422+00:00",
+  "generated_at": "2026-11-14T23:00:06.376259+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 170579,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1078017,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-11-14T23:00:03+00:00",
+      "captured_at": "2026-11-14T23:00:05.254525+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 170577,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1078016,
+      "message_text": "ISRAELI MILITARY: STRUCK SENIOR COMMANDER IN HAMAS MILITARY WING ...",
+      "posted_at": "2026-11-14T22:23:47+00:00",
+      "captured_at": "2026-11-14T22:23:48.981977+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 170575,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "MICROSOFT ON OUTAGE: NOTING PARTIAL RECOVERY IN REGIONS WITH APPLIED ADJUSTMENTS ...",
       "posted_at": "2026-11-13T04:38:41+00:00",
       "captured_at": "2026-11-13T04:38:42.090994+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 168579,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1077013,
-      "message_text": "MICROSOFT ON OUTAGE: NOTICING PARTIAL RESTORATION ACROSS REGIONS ...",
-      "posted_at": "2026-11-13T04:38:11+00:00",
-      "captured_at": "2026-11-13T04:38:11.739913+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 168577,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1077012,
-      "message_text": "SOUTH KOREA RECORDS FIFTH CONSECUTIVE ANNUAL DROP IN RICE PRODUCTION IN 2026 AMID CHANGING CONSUMPTION TRENDS - YONHAP ...",
-      "posted_at": "2026-11-13T04:30:25+00:00",
-      "captured_at": "2026-11-13T04:30:26.996130+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
