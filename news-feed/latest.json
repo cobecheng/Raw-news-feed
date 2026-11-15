@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-11-15T21:30:18.538867+00:00",
+  "generated_at": "2026-11-15T22:05:22.613542+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 171051,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1078255,
+      "message_text": "SAMSUNG TO MAKE SPACEX SATELLITE CHIPS IN US \u2013 SEOUL ECONOMIC DAILY ...",
+      "posted_at": "2026-11-15T22:05:19+00:00",
+      "captured_at": "2026-11-15T22:05:21.549116+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 171049,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1078254,
+      "message_text": "NEW ZEALAND PERFORMANCE SERVICES INDEX OCT: 51.7 (PREV 50.9) ...",
+      "posted_at": "2026-11-15T21:30:50+00:00",
+      "captured_at": "2026-11-15T21:30:51.761463+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 171047,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "LUTNICK TO TESTIFY DECEMBER 10 ABOUT NVIDIA AT SENATE COMMITTEE - FOX ...",
       "posted_at": "2026-11-13T13:17:49+00:00",
       "captured_at": "2026-11-13T13:17:52.976474+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 169051,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1077250,
-      "message_text": "BESSENT: MID-20M BARRELS MADE IT THROUGH THE STRAIT RECENTLY : CNBC ...",
-      "posted_at": "2026-11-13T13:17:48+00:00",
-      "captured_at": "2026-11-13T13:17:49.282215+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 169049,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1077249,
-      "message_text": "POLL: UK GDP TO GROW 1.5% IN 2026, 1.2% IN 2027 (VS 1.3%, 1.2% IN OCTOBER POLL) ...",
-      "posted_at": "2026-11-13T13:16:19+00:00",
-      "captured_at": "2026-11-13T13:16:21.180185+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
