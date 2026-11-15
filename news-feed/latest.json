@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-11-15T03:07:28.840806+00:00",
+  "generated_at": "2026-11-15T04:11:37.970839+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 170667,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1078061,
+      "message_text": "FOX NEWS: NUMBER OF CANCELED FLIGHTS ACROSS THE U.S. CLIMBS TO 7,000 ON SATURDAY ...",
+      "posted_at": "2026-11-15T04:11:35+00:00",
+      "captured_at": "2026-11-15T04:11:36.829010+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 170665,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "USD/JPY HITS 160.08, REACHING ITS STRONGEST LEVEL SINCE EARLY SEPTEMBER ...",
       "posted_at": "2026-11-13T06:09:29+00:00",
       "captured_at": "2026-11-13T06:09:32.031713+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 168667,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1077057,
-      "message_text": "DOLLAR/YEN RISES TO 160.09, HIGHEST LEVEL SINCE EARLY SEPTEMBER ...",
-      "posted_at": "2026-11-13T06:07:44+00:00",
-      "captured_at": "2026-11-13T06:07:46.831510+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
