@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-11-15T09:23:29.983841+00:00",
+  "generated_at": "2026-11-15T09:25:15.550340+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 170779,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1078117,
+      "message_text": "YEMENI FORCES ALIGNED WITH THE INTERNATIONALLY RECOGNIZED GOVERNMENT SAID THEY WERE WITHDRAWING FROM THE BAB EL-MANDEB AREA, LEAVING THE IRAN-BACKED HOUTHIS IN CONTROL OF TERRITORY OVERLOOKING THE STRATEGIC SHIPPING ROUTE ...",
+      "posted_at": "2026-11-15T09:25:13+00:00",
+      "captured_at": "2026-11-15T09:25:14.736358+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 170777,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "IAEA REPORT INDICATES THAT THE AGENCY HAS NOT RECEIVED DETAILS FROM IRAN REGARDING ITS NUCLEAR SITES AND MATERIAL, WITH ACCESS ONLY TO THE BUSHEHR POWER PLANT. ...",
       "posted_at": "2026-11-13T08:18:23+00:00",
       "captured_at": "2026-11-13T08:18:24.532152+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 168779,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1077113,
-      "message_text": "IAEA REPORT SHOWS A SIGNIFICANT LACK OF DATA ON ENRICHED URANIUM AND ACCESS TO FACILITIES SINCE JUNE 2025, RAISING SERIOUS PROLIFERATION CONCERNS THAT MUST BE ADDRESSED IMMEDIATELY. ...",
-      "posted_at": "2026-11-13T08:18:22+00:00",
-      "captured_at": "2026-11-13T08:18:23.856487+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
