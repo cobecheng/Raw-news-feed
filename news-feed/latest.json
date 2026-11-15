@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-11-15T02:04:41.330069+00:00",
+  "generated_at": "2026-11-15T03:07:28.840806+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 170665,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1078060,
+      "message_text": "JUST IN: BITCOIN TURNS GREEN AND RECLAIMS $65,000.\n\n$130 MILLION SHORTS LIQUIDATED.  ...",
+      "posted_at": "2026-11-15T03:07:25+00:00",
+      "captured_at": "2026-11-15T03:07:27.789283+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 170663,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "DOLLAR/YEN RISES TO 160.09, HIGHEST LEVEL SINCE EARLY SEPTEMBER ...",
       "posted_at": "2026-11-13T06:07:44+00:00",
       "captured_at": "2026-11-13T06:07:46.831510+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 168665,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1077056,
-      "message_text": "MICROSOFT SCRAMBLES TO RESTORE SERVICES FOLLOWING WIDESPREAD OUTAGE - WSJ ...",
-      "posted_at": "2026-11-13T06:06:44+00:00",
-      "captured_at": "2026-11-13T06:06:44.495854+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
