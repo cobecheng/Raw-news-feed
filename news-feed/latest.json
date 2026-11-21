@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-11-21T04:14:12.801612+00:00",
+  "generated_at": "2026-11-21T05:31:46.626031+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 180705,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1083092,
+      "message_text": "IRAN WANTS PROOF OF US SINCERITY IN NEGOTIATIONS BEFORE ADVANCING TALKS, FOREIGN MINISTER ARAQCHI SAYS. ...",
+      "posted_at": "2026-11-21T05:31:43+00:00",
+      "captured_at": "2026-11-21T05:31:45.537645+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 180703,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "GOOGLE FACES LAWSUIT OVER  CHATBOTS OF CHILD ACTOR ...",
       "posted_at": "2026-11-19T21:50:35+00:00",
       "captured_at": "2026-11-19T21:50:37.141039+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 178705,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1082090,
-      "message_text": "JUST IN: APPLE $AAPL IS DEVELOPING AI AGENT TO RIVAL OPENAI AND ANTHROPIC THAT CAN CONTROL DEVICES, BROWSE THE WEB, AND WRITE CODE. ...",
-      "posted_at": "2026-11-19T21:46:49+00:00",
-      "captured_at": "2026-11-19T21:46:50.430328+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
