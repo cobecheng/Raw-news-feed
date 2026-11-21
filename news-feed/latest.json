@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-11-21T21:38:02.274142+00:00",
+  "generated_at": "2026-11-21T22:17:32.741033+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 181155,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1083319,
+      "message_text": "UK PM BURNHAM MET ROB JETTEN, PRIME MINISTER OF NETHERLANDS, IN AMSTERDAM: DOWNING STREET SPOKESPERSON ...",
+      "posted_at": "2026-11-21T22:17:31+00:00",
+      "captured_at": "2026-11-21T22:17:31.690410+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 181153,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1083318,
+      "message_text": "CRYPTO UPDATE:   \n#BITCOIN 60304.00 +2.3%   \n#ETHER 1685.10 +4.11%   \n#CARDANO 0.1446 +1.33%   \n#BITCOINCASH 199.11 +3.14%   \n#LITECOIN 39.96 -1.06%   \n#STELLAR 0.1290 +1.02%   \n#DOGECOIN 0.0551 +2.04%   \n#UNISWAP 4.7088 +5.94%   \n#CHAINLINK 8.5979 +1.19%   \n#POLKADOT 0.6433 -4.17%   \n#SOLANA 70.4400 +1.92%   \n#AVALANCHE 6.6200 +0.91% ...",
+      "posted_at": "2026-11-21T21:39:14+00:00",
+      "captured_at": "2026-11-21T21:39:15.570386+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 181151,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "CHINA PREPARES TO RESTART US PRIVATE EQUITY INVESTMENTS AFTER PULLBACK \u2013 FT\n\n ...",
       "posted_at": "2026-11-20T05:02:57+00:00",
       "captured_at": "2026-11-20T05:02:57.926651+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 179155,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1082315,
-      "message_text": "CHINA PREPARES TO RESUME US PRIVATE EQUITY INVESTMENTS AFTER WITHDRAWAL - FT ...",
-      "posted_at": "2026-11-20T05:02:41+00:00",
-      "captured_at": "2026-11-20T05:02:44.529368+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 179153,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1082314,
-      "message_text": "JAPAN RECORDS A 2.3% ANNUAL DROP IN OCTOBER CRUDE STEEL PRODUCTION ...",
-      "posted_at": "2026-11-20T05:02:12+00:00",
-      "captured_at": "2026-11-20T05:02:12.677191+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
