@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-11-22T07:35:29.420309+00:00",
+  "generated_at": "2026-11-22T08:33:00.677944+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 181341,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1083412,
+      "message_text": "PAKISTAN'S CLIMATE CHANGE MINISTER MUSADIK MALIK SWITCHED FROM ENGLISH TO URDU AT THE SCO CIVILISATIONAL DIALOGUE FORUM AT DELHI'S PURANA QILA. \" ...",
+      "posted_at": "2026-11-22T08:32:57+00:00",
+      "captured_at": "2026-11-22T08:32:59.620817+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 181339,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1083411,
+      "message_text": "WEEKEND MARKETS UPDATE:   \n#DAX 24714 +0.41%   \n#DOW 48479 +0.30%   \n#NASDAQ 25419 +0.75%   \n#FTSE 10336 +0.45%   \n#HANGSENG 22105 +0.62%   \n#EURUSD 10968 +0.00%   \n#GOLD 3549 +0.31%   \n#SILVER 4125 +0.04%   \n#USOIL 8401 +0.49%   \n#IGWEEKENDMARKETS ...",
+      "posted_at": "2026-11-22T07:36:10+00:00",
+      "captured_at": "2026-11-22T07:36:11.003790+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 181337,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "UKRAINE'S PM SAYS EIGHT PEOPLE WERE KILLED, 28 WOUNDED IN RUSSIAN ATTACKS ON UKRAINE. ...",
       "posted_at": "2026-11-20T08:34:50+00:00",
       "captured_at": "2026-11-20T08:34:52.033996+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 179341,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1082408,
-      "message_text": "ECB'S LAGARDE SAYS OUR SWAP LINES WILL BE MORE ACCESSIBLE ...",
-      "posted_at": "2026-11-20T08:33:06+00:00",
-      "captured_at": "2026-11-20T08:33:07.681462+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 179339,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1082407,
-      "message_text": "ECB PRES LAGARDE KEYNOTE SPEECH AT FRANKFURT BANKING CONGRESS\n ...",
-      "posted_at": "2026-11-20T08:31:50+00:00",
-      "captured_at": "2026-11-20T08:31:52.251949+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
