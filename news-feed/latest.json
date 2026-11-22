@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-11-22T04:08:58.946945+00:00",
+  "generated_at": "2026-11-22T04:45:23.972680+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 181227,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1083355,
+      "message_text": "KIM JONG UN APPEARS UNINTERESTED IN ENGAGING WITH TRUMP, DESPITE NORTH KOREA\u2019S CONTINUED NUCLEAR EXPANSION AND GROWING CAPABILITY TO STRIKE US CITIES SUCH AS LOS ANGELES AND NEW YORK. TRUMP IS STRUGGLING TO GET A RESPONSE FROM PYONGYANG. - WSJ ...",
+      "posted_at": "2026-11-22T04:45:21+00:00",
+      "captured_at": "2026-11-22T04:45:22.862673+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 181225,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "PRE-MARKET SIGNALS POINT TO 3%-5% DECLINES FOR GERMAN CHIP STOCKS ...",
       "posted_at": "2026-11-20T06:36:45+00:00",
       "captured_at": "2026-11-20T06:36:46.826495+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 179227,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1082351,
-      "message_text": "KOSPI SUFFERS 5.21% DROP, ENDING AT ITS WEAKEST SINCE JANUARY 16 ...",
-      "posted_at": "2026-11-20T06:35:47+00:00",
-      "captured_at": "2026-11-20T06:35:49.485483+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
