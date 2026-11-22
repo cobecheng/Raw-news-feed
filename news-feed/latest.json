@@ -1,8 +1,34 @@
 {
-  "generated_at": "2026-11-22T20:46:56.679300+00:00",
+  "generated_at": "2026-11-22T21:20:56.162230+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 181569,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1083527,
+      "message_text": "KIM JONG UN SAYS NORTH KOREA IS READY TO STRENGTHEN TIES WITH ALL COUNTRIES THAT RESPECT ITS SOVEREIGNTY ...",
+      "posted_at": "2026-11-22T21:20:53+00:00",
+      "captured_at": "2026-11-22T21:20:55.119858+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
+    {
+      "id": 181567,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1083526,
+      "message_text": "TRUMP SIGNALS POSSIBLE NEW STRIKES ON IRAN AFTER NEW YEAR\n\nPRESIDENT DONALD TRUMP SAYS HE IS \u201cINCLINED TO\u201d RESUME MILITARY STRIKES AGAINST IRAN AFTER JANUARY 1 IF ONGOING NEGOTIATIONS FAIL TO PRODUCE AN AGREEMENT.\n\nSPEAKING TO FOX NEWS, TRUMP CONFIRMED THAT INDIRECT TALKS REMAIN UNDERWAY BUT CRITICIZED TEHRAN FOR PROLONGING NEGOTIATIONS WITHOUT RESULTS.\n\nHE ALSO ISSUED A STARK WARNING OVER THE STRAIT OF HORMUZ, THREATENING TO SINK IRANIAN VESSELS IF THEY CHALLENGE THE U.S. NAVAL BLOCKADE.\n\nNO DECISION TO LAUNCH NEW STRIKES HAS BEEN ANNOUNCED. ...",
+      "posted_at": "2026-11-22T20:47:23+00:00",
+      "captured_at": "2026-11-22T20:47:26.033577+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 181565,
       "source_chat_id": -1001263412188,
@@ -12972,32 +12998,6 @@
       "message_text": "UK-EU SUMMIT LIVE: NO EXPLICIT REFERENCE IN SUMMIT COMMUNIQU\u00c9 ABOUT EU WANTING UK TO MIRROR CHINA TARIFFS\u2013 FT\n ...",
       "posted_at": "2026-11-20T13:20:54+00:00",
       "captured_at": "2026-11-20T13:20:56.114960+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 179569,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1082523,
-      "message_text": "EUROPE'S STOXX 600 NOW DOWN 5.58% THIS WEEK, SET FOR BIGGEST WEEKLY FALL SINCE MARCH/APRIL 2025 ...",
-      "posted_at": "2026-11-20T13:19:11+00:00",
-      "captured_at": "2026-11-20T13:19:11.489448+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 179567,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1082522,
-      "message_text": "EU, UK AGREE DEAL TO EASE AGRI-FOOD TRADE TO APPLY FROM MARCH 2028\n\nEU, UK AGREE TO LINK THEIR EMISSIONS TRADING SYSTEMS FROM 2028  \n\nEU, UK AGREE YOUTH MOBILITY SCHEME FOR 100,000 FROM BOTH SIDES, AVAILABLE BY JAN 2030 \n\n EU/UK JOINT SUMMIT STATEMENT SAYS EU AND UK PLAN TO REACH DEAL ON REDUCING UNIVERSITY TUITION FEES IN NEXT SIX MONTHS ...",
-      "posted_at": "2026-11-20T13:16:25+00:00",
-      "captured_at": "2026-11-20T13:16:26.099539+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
