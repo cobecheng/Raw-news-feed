@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-11-22T22:27:12.489716+00:00",
+  "generated_at": "2026-11-22T23:00:07.140613+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 181601,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1083544,
+      "message_text": "Follow us on X for even faster headlines!\n\nhttps://x.com/MarketNews_Feed",
+      "posted_at": "2026-11-22T23:00:04+00:00",
+      "captured_at": "2026-11-22T23:00:05.946007+00:00",
+      "has_media": 1,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 181599,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "CANADA RETAIL SALES (M/M) SEP: 0.8% (EST 0.7%; PREV 1.2%; PREV R 1.4%)\n- RETAIL SALES EX-AUTOS (M/M): 1.0% (EST 0.7%; PREV 1.2%) ...",
       "posted_at": "2026-11-20T13:30:41+00:00",
       "captured_at": "2026-11-20T13:30:44.007325+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 179601,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1082539,
-      "message_text": "\ud83d\udd34 CANADIAN RETAIL SALES MOM ACTUAL 0.8% (FORECAST 0.7%, PREVIOUS 1.2%) $MACRO ...",
-      "posted_at": "2026-11-20T13:30:40+00:00",
-      "captured_at": "2026-11-20T13:30:42.572890+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
