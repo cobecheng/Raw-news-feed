@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-11-22T00:13:07.998189+00:00",
+  "generated_at": "2026-11-22T00:57:58.429971+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 181193,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1083338,
+      "message_text": "COP31 TALKS APPROACH FINAL DEAL AS SUMMIT PRESIDENT SIGNALS PROGRESS IN NEGOTIATIONS ...",
+      "posted_at": "2026-11-22T00:57:54+00:00",
+      "captured_at": "2026-11-22T00:57:57.382430+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 181191,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "TPG, CORPAY JOIN FORCES TO PURCHASE BILL FOR APPROXIMATELY $6 BILLION - RTRS ...",
       "posted_at": "2026-11-20T05:44:13+00:00",
       "captured_at": "2026-11-20T05:44:14.177219+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 179193,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1082334,
-      "message_text": "CHINA STANDS BEHIND THAILAND\u2019S EFFORTS TO SECURE NATIONAL STABILITY, XI SAYS \u2013 POOL REPORT ...",
-      "posted_at": "2026-11-20T05:35:42+00:00",
-      "captured_at": "2026-11-20T05:35:45.401472+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
