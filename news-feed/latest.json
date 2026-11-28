@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-11-28T00:45:56.726993+00:00",
+  "generated_at": "2026-11-28T01:21:41.796773+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 187487,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1086497,
+      "message_text": "MEXICO'S WAGE STRATEGY FACES GROWING QUESTIONS OVER ITS LONG-TERM ECONOMIC IMPACT. ...",
+      "posted_at": "2026-11-28T01:21:40+00:00",
+      "captured_at": "2026-11-28T01:21:40.604398+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 187485,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "THE TECH EUPHORIA THAT FOLLOWED JENSEN HUANG'S REINSTATEMENT AS NVIDIA CEO IS FADING, WITH CONCERNS ABOUT SPENDING AND RISING BORROWING COSTS CONTINUING TO CAST DOUBT ON THE INDUSTRY, WHILE INFLATION HAS STAYED ABOVE THE FED'S 2% TARGET \u2014 THE PCE PRICE INDEX UP 3.8% IN OCTOBER FROM A YEAR EARLIER \u2014 PUTTING OFFICIALS ON TRACK TO RAISE RATES IN DECEMBER ...",
       "posted_at": "2026-11-25T21:25:08+00:00",
       "captured_at": "2026-11-25T21:25:11.258152+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 185487,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1085492,
-      "message_text": "THE NASDAQ 100 PARED MOST OF ITS EARLIER DROP TO 0.6% AS NVIDIA FELL 3.9% AND MOST S&P 500 COMPANIES ROSE ...",
-      "posted_at": "2026-11-25T21:24:53+00:00",
-      "captured_at": "2026-11-25T21:24:55.887724+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
