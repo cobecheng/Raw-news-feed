@@ -1,8 +1,21 @@
 {
-  "generated_at": "2026-11-28T00:11:38.088802+00:00",
+  "generated_at": "2026-11-28T00:45:56.726993+00:00",
   "window_hours": 72,
   "count": 1000,
   "news": [
+    {
+      "id": 187485,
+      "source_chat_id": -1001263412188,
+      "source_title": "Market News Feed",
+      "telegram_message_id": 1086496,
+      "message_text": "$C - CITIGROUP\u2019S $35 BILLION ACCOUNTING ERROR SPARKS SHAKE-UP\n\nCITIGROUP UNDERSTATED RISK-WEIGHTED ASSETS BY $35 BILLION AT ITS LONDON OPERATIONS, ACCORDING TO THE WALL STREET JOURNAL.\n\nTHE BANK REPORTEDLY INJECTED $3 BILLION INTO A MAJOR UK SUBSIDIARY TO ADDRESS THE ERROR.\n\nAT LEAST TWO MANAGING DIRECTORS OVERSEEING REGULATORY REPORTING ARE NO LONGER IN THEIR POSITIONS.\n\nTHE INCIDENT RAISES FRESH CONCERNS ABOUT CITIGROUP\u2019S INTERNAL CONTROLS AND REGULATORY OVERSIGHT. ...",
+      "posted_at": "2026-11-28T00:45:54+00:00",
+      "captured_at": "2026-11-28T00:45:55.645950+00:00",
+      "has_media": 0,
+      "forwarded_to_telegram": 1,
+      "destination_chat_id": -1003951421812,
+      "destination_topic_id": 127
+    },
     {
       "id": 187483,
       "source_chat_id": -1001263412188,
@@ -12985,19 +12998,6 @@
       "message_text": "THE NASDAQ 100 PARED MOST OF ITS EARLIER DROP TO 0.6% AS NVIDIA FELL 3.9% AND MOST S&P 500 COMPANIES ROSE ...",
       "posted_at": "2026-11-25T21:24:53+00:00",
       "captured_at": "2026-11-25T21:24:55.887724+00:00",
-      "has_media": 0,
-      "forwarded_to_telegram": 1,
-      "destination_chat_id": -1003951421812,
-      "destination_topic_id": 127
-    },
-    {
-      "id": 185485,
-      "source_chat_id": -1001263412188,
-      "source_title": "Market News Feed",
-      "telegram_message_id": 1085491,
-      "message_text": "WALL STREET SAW WILD SWINGS AGAIN, WITH DIP BUYERS FADING A SELLOFF THAT HAD BRIEFLY PUSHED THE NASDAQ 100 TO THE VERGE OF A BEAR MARKET ...",
-      "posted_at": "2026-11-25T21:24:38+00:00",
-      "captured_at": "2026-11-25T21:24:40.503775+00:00",
       "has_media": 0,
       "forwarded_to_telegram": 1,
       "destination_chat_id": -1003951421812,
